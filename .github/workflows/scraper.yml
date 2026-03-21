@@ -31,6 +31,6 @@ jobs:
       - name: Shrani v repozitorij brez proženja Firebase deploya
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # [skip ci] je KLJUČEN, da ne sproži tvojega build_and_deploy joba!
-          commit_message: "Posodobitev opozoril [skip ci]"
-          file_pattern: opozorila.json
+          commit_message: "Posodobitev opozoril in slik [skip ci]"
+          # Zvezdica poskrbi, da shrani JSON in vse v mapi slike
+          file_pattern: "opozorila.json slike/*"
