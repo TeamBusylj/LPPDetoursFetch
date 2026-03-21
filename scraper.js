@@ -81,7 +81,7 @@ async function parseDetours(html) {
                 import('fs').then(fsSync => fsSync.writeFileSync(`slike/${filename}`, buffer));
 
                 // 4. ZAMENJAJ TUKAJ: Vstavi svoj pravi GitHub username in ime repozitorija!
-                const githubRawUrl = `https://raw.githubusercontent.com/TVOJ_USERNAME/TVOJ_REPO/main/slike/${filename}`;
+                const githubRawUrl = `https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/${filename}`;
                 
                 // 5. V HTML-ju zamenjamo Base64 pošast s tem lepim, kratkim GitHub URL-jem
                 $(el).attr('src', githubRawUrl);
