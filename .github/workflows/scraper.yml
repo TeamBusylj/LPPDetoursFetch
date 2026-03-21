@@ -1,0 +1,36 @@
+name: Poberi LPP opozorila
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-save:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozitorija
+        uses: actions/checkout@v4
+
+      - name: Nastavitev Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Ker imaš v repozitoriju verjetno že package.json od aplikacije,
+      # poskrbi, da je v njem dodan "cheerio" (npm install cheerio)
+      - name: Namesti odvisnosti
+        run: npm install
+
+      - name: Zaženi skripto za scrapanje
+        run: node scraper.js
+
+      - name: Shrani v repozitorij brez proženja Firebase deploya
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # [skip ci] je KLJUČEN, da ne sproži tvojega build_and_deploy joba!
+          commit_message: "Posodobitev opozoril [skip ci]"
+          file_pattern: opozorila.json
