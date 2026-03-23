@@ -1,14 +1,11 @@
 {
   "detours": [
     {
-      "title": "Linija 18 in 18L imata spremenjeno začasno končno postajališče",
+      "title": "Liniji 18 in 18L imata začasno spremenjeno  končno postajališče",
       "date": "20. 3. 2026",
-      "url": "https://www.lpp.si/obvoz/linija-18-18l-imata-spremenjeno-zacasno-koncno-postajalisce",
-      "lines": [
-        "18",
-        "18L"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p>Spoštovani potniki,</p>\n\n<p>v ponedeljek, 23. 3. 2026, <strong>se za promet začasno zapira severni del Trga OF.</strong> Posledično bo imela linija 18 začasno končno postajališče na Železni cesti.</p>\n\n<p><u>Obvozna trasa linije 18 v smeri Kolodvor</u>: Slovenska cesta, Vilharjeva cesta, Železna cesta (končno postajališče).</p>\n\n<p><u>Obvozna trasa linije 18 v smeri Center Stožice</u>: Železna cesta, Linhartova cesta, Dunajska cesta in nato po redni trasi.</p>\n\n<p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/5e55f7027b1913540c684f7d252ea5b8.png\"></p>\n\n<p>&nbsp;</p>\n\n<p>Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+      "url": "https://www.lpp.si/obvoz/liniji-18-18l-imata-zacasno-spremenjeno-koncno-postajalisce",
+      "lines": [],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p>Spoštovani potniki,</p>\n\n<p>v ponedeljek, 23. 3. 2026, <strong>se za promet začasno zapira severni del Trga OF.</strong> Posledično bo&nbsp;<span style=\"font-size: 13.008px;\">začasno</span> imela linija 18 končno postajališče na Železni cesti.</p>\n\n<p><u>Obvozna trasa linije 18 v smeri Kolodvor</u>: Slovenska cesta, Vilharjeva cesta, Železna cesta (končno postajališče).</p>\n\n<p><u>Obvozna trasa linije 18 v smeri Center Stožice</u>: Železna cesta, Linhartova cesta, Dunajska cesta in nato po redni trasi.</p>\n\n<p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/5e55f7027b1913540c684f7d252ea5b8.png\"></p>\n\n<p>&nbsp;</p>\n\n<p>Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
     },
     {
       "title": "Nova prometna ureditev na AP Ljubljana",
@@ -52,8 +49,6 @@
     "5N",
     "9",
     "15",
-    "18",
-    "18L",
     "60"
   ]
 }
