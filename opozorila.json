@@ -1,6 +1,17 @@
 {
   "detours": [
     {
+      "title": "Linije 5, 5N in 9 vozijo skrajšano",
+      "date": "1. 4. 2026",
+      "url": "https://www.lpp.si/obvoz/linije-5-5n-9-vozijo-skrajsano-0",
+      "lines": [
+        "5",
+        "5N",
+        "9"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p>Spoštovani potniki,</p>\n\n<p data-end=\"267\" data-start=\"111\">obveščamo vas, da linije 5, 5N in 9 zaradi popolne prometne zapore na delu Pasarske ulice od srede, 1. 4. 2026, do zaključka gradbenih del vozijo skrajšano.</p>\n\n<p data-end=\"384\" data-start=\"269\">V času popolne zapore linije 5, 5N in 9 vozijo do začetka zapore, kjer je na cestišču urejeno začasno postajališče.</p>\n\n<p data-end=\"384\" data-start=\"269\">&nbsp;</p>\n\n<p data-end=\"384\" data-start=\"269\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/6264051ebade4d342f1f4a85c505142a.png\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Liniji 18 in 18L imata začasno spremenjeno  končno postajališče",
       "date": "20. 3. 2026",
       "url": "https://www.lpp.si/obvoz/liniji-18-18l-imata-zacasno-spremenjeno-koncno-postajalisce",
@@ -22,17 +33,6 @@
         "60"
       ],
       "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"125\" data-start=\"106\">Spoštovani potniki,</p>\n\n<p data-end=\"347\" data-start=\"127\">zaradi popolne prometne zapore na delu ceste <strong data-end=\"204\" data-start=\"172\">Ljubljana – Šentvid – Vodice</strong> v naselju <strong data-end=\"227\" data-start=\"215\">Skaručna</strong> bo od <strong data-end=\"284\" data-start=\"234\">srede, 28. 1. 2026, do zaključka gradbenih del</strong> avtobusna linija <strong data-end=\"308\" data-start=\"302\">60</strong> vozila po spremenjeni (obvozni) trasi.</p>\n\n<p data-end=\"497\" data-start=\"349\"><strong data-end=\"377\" data-start=\"349\">Obvozna trasa:</strong><br>\n\tPovodje – Vojsko – Polje pri Vodicah – začasno nadomestno postajališče Skaručna – redna trasa in enako v obratni smeri.</p>\n\n<p data-end=\"497\" data-start=\"349\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/5f6fc862d8f83b1881f3683f3b9fa992.png\"></p>\n\n<p data-end=\"571\" data-start=\"499\">Zaradi zapore je <strong data-end=\"570\" data-start=\"516\">postajališče Skaručna začasno ukinjeno v obe smeri</strong>.</p>\n\n<p data-end=\"608\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"573\">Zahvaljujemo se vam za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
-      "title": "Linije 5, 5N, in 9 vozijo skrajšano",
-      "date": "9. 10. 2025",
-      "url": "https://www.lpp.si/obvoz/linije-5-5n-9-vozijo-skrajsano",
-      "lines": [
-        "5",
-        "5N",
-        "9"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"36\" data-start=\"15\">Spoštovani potniki,</p>\n\n<p data-end=\"240\" data-start=\"38\">obveščamo vas, da bodo <strong data-end=\"83\" data-start=\"61\">linije 5, 5N in 9</strong> vozile <strong data-end=\"104\" data-start=\"91\">skrajšano</strong>, zaradi <strong data-end=\"165\" data-is-only-node=\"\" data-start=\"115\">popolne prometne zapore na delu Pasarske ulice</strong>, od <strong data-end=\"205\" data-start=\"172\">petka, 10. 9. 2025, od 9. ure</strong>, do <strong data-end=\"237\" data-start=\"210\">zaključka gradbenih del</strong>.</p>\n\n<p data-end=\"395\" data-start=\"242\">V času zapore bodo avtobusi <strong data-end=\"291\" data-start=\"270\">linij 5, 5N in 9</strong> vozili <strong data-end=\"320\" data-start=\"299\">do začetka zapore</strong>, kjer bo urejeno <strong data-end=\"361\" data-start=\"338\">začasno obračališče</strong> na parkirišču za osebna vozila.</p>\n\n<p data-end=\"395\" data-start=\"242\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/5e2abb877a0331a658cd9629706c4468.png\"></p>\n\n<p data-end=\"418\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"397\">Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
     }
   ],
   "allLines": [
