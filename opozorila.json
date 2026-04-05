@@ -1,6 +1,15 @@
 {
   "detours": [
     {
+      "title": "Linija 16 ima obvoz",
+      "date": "5. 4. 2026",
+      "url": "https://www.lpp.si/obvoz/linija-16-ima-obvoz",
+      "lines": [
+        "16"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"294\" data-start=\"96\">Spoštovani potniki,</p>\n\n<p data-end=\"294\" data-start=\"96\">obveščamo vas, da bo zaradi popolne prometne zapore na delu Tbilisijske ulice linija 16 od torka, 7. 4. 2026, do predvidoma septembra 2026 oziroma do zaključka gradbenih del vozila po obvozni trasi.</p>\n\n<p data-end=\"435\" data-start=\"296\"><strong data-end=\"314\" data-start=\"296\">Obvozna trasa:</strong><br>\n\tTbilisijska ulica, Jamova cesta (dodatno postajališče), Koprska ulica, Cesta v Mestni log in nato naprej po redni trasi.</p>\n\n<p data-end=\"435\" data-start=\"296\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/4ce40590633d9776d14fbc1fb18635a9.png\"></p>\n\n<p data-end=\"435\" data-start=\"296\">Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Linije 5, 5N in 9 vozijo skrajšano",
       "date": "1. 4. 2026",
       "url": "https://www.lpp.si/obvoz/linije-5-5n-9-vozijo-skrajsano-0",
@@ -39,6 +48,7 @@
     "5",
     "5N",
     "9",
+    "16",
     "60"
   ]
 }
