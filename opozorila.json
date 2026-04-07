@@ -1,6 +1,15 @@
 {
   "detours": [
     {
+      "title": "Linija 2 ima obvoz",
+      "date": "7. 4. 2026",
+      "url": "https://www.lpp.si/obvoz/linija-2-ima-obvoz-11",
+      "lines": [
+        "2"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p>Zaradi popolne prometne zapore na delu Pokopališke ulice ima linija 2 od srede, 8. 4. 2026, do predvidoma petka, 10. 4. 2026, oziroma do zaključka gradbenih del obvoz.</p>\n\n<p>Obvozna trasa:</p>\n\n<p><strong><u>Iz smeri Zelene jame:</u></strong> Kavčičeva ulica, Kajuhova ulica, Šmartinska cesta, Pokopališka ulica in naprej po redni trasi.</p>\n\n<p><strong><u>Iz smeri Nove Jarše:</u></strong> Šmartinska cesta, Zvezna ulica, Kavčičeva ulica in naprej po redni trasi.</p>\n\n<p><img alt=\"\" src=\"https://www.lpp.si/sites/www.jhl.si/files/obvoz_linije_2_april_2026_0.jpg\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Linija 16 ima obvoz",
       "date": "5. 4. 2026",
       "url": "https://www.lpp.si/obvoz/linija-16-ima-obvoz",
@@ -45,6 +54,7 @@
     }
   ],
   "allLines": [
+    "2",
     "5",
     "5N",
     "9",
