@@ -1,6 +1,13 @@
 {
   "detours": [
     {
+      "title": "Liniji 24 in 26 imata obvoz",
+      "date": "13. 4. 2026",
+      "url": "https://www.lpp.si/obvoz/liniji-24-26-imata-obvoz",
+      "lines": [],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"111\" data-start=\"88\">Spoštovani potniki,</p>\n\n<p data-end=\"338\" data-start=\"113\">obveščamo vas, da bosta zaradi popolne prometne zapore ulice Pot heroja Trtnika liniji 24 in 26 vozili po obvozni trasi od torka, 14. 4. 2026, od 10.00 do predvidoma 20. 4. 2026 oziroma do zaključka gradbenih del.</p>\n\n<h5 data-end=\"358\" data-start=\"340\"><strong data-end=\"358\" data-start=\"340\">Obvozna trasa:</strong></h5>\n\n<ul data-end=\"760\" data-start=\"374\"><li data-end=\"373\" data-start=\"360\"><strong data-end=\"373\" data-start=\"360\">Linija 24</strong>\n\n\t\t<ul><li data-end=\"582\" data-start=\"374\"><strong data-end=\"401\" data-start=\"376\">v smeri BTC Atlantis:</strong> krožišče Zaloške ceste (obračanje v krožišču), nato vožnja nazaj po Zaloški cesti, uvoz na vzhodno obvoznico, izvoz Ljubljana Bizovik, Litijska cesta in nato naprej po redni trasi.</li>\n\t\t\t<li data-end=\"760\" data-start=\"583\"><strong data-end=\"616\" data-start=\"585\">v smeri Center Stožice P+R:</strong> Litijska cesta, uvoz na vzhodno obvoznico, izvoz Ljubljana vzhod – Fužine, Zaloška cesta, krožišče Zaloške ceste in nato naprej po redni trasi.</li>\n\t\t</ul></li>\n\t<li data-end=\"775\" data-start=\"762\"><strong data-end=\"775\" data-start=\"762\">Linija 26</strong>\n\t\t<ul><li data-end=\"947\" data-start=\"776\"><strong data-end=\"799\" data-start=\"778\">v smeri Tuji Grm:</strong> Litijska cesta, uvoz na vzhodno obvoznico, izvoz Ljubljana vzhod – Fužine, Zaloška cesta, krožišče Zaloške ceste; enako velja tudi v obratni smeri.</li>\n\t\t\t<li data-end=\"1120\" data-start=\"948\"><strong data-end=\"976\" data-start=\"950\">v smeri Mali Lipoglav:</strong> Litijska cesta, uvoz na vzhodno obvoznico, izvoz Ljubljana vzhod – Fužine, Zaloška cesta, krožišče Zaloške ceste in nato naprej po redni trasi.</li>\n\t\t</ul></li>\n</ul><p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/4db2fc5e8fbd11f18cee77aca05b6757.png\"></p>\n\n<p>Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Linija 2 ima obvoz",
       "date": "13. 4. 2026",
       "url": "https://www.lpp.si/obvoz/linija-2-ima-obvoz-12",
@@ -28,17 +35,6 @@
       "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"294\" data-start=\"96\">Spoštovani potniki,</p>\n\n<p data-end=\"294\" data-start=\"96\">obveščamo vas, da bo zaradi popolne prometne zapore na delu Tbilisijske ulice linija 16 od torka, 7. 4. 2026, do predvidoma septembra 2026 oziroma do zaključka gradbenih del vozila po obvozni trasi.</p>\n\n<p data-end=\"435\" data-start=\"296\"><strong data-end=\"314\" data-start=\"296\">Obvozna trasa:</strong><br>\n\tTbilisijska ulica, Jamova cesta (dodatno postajališče), Koprska ulica, Cesta v Mestni log in nato naprej po redni trasi.</p>\n\n<p data-end=\"435\" data-start=\"296\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/4ce40590633d9776d14fbc1fb18635a9.png\"></p>\n\n<p data-end=\"435\" data-start=\"296\">Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
     },
     {
-      "title": "Linije 5, 5N in 9 vozijo skrajšano",
-      "date": "1. 4. 2026",
-      "url": "https://www.lpp.si/obvoz/linije-5-5n-9-vozijo-skrajsano-0",
-      "lines": [
-        "5",
-        "5N",
-        "9"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p>Spoštovani potniki,</p>\n\n<p data-end=\"267\" data-start=\"111\">obveščamo vas, da linije 5, 5N in 9 zaradi popolne prometne zapore na delu Pasarske ulice od srede, 1. 4. 2026, do zaključka gradbenih del vozijo skrajšano.</p>\n\n<p data-end=\"384\" data-start=\"269\">V času popolne zapore linije 5, 5N in 9 vozijo do začetka zapore, kjer je na cestišču urejeno začasno postajališče.</p>\n\n<p data-end=\"384\" data-start=\"269\">&nbsp;</p>\n\n<p data-end=\"384\" data-start=\"269\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/6264051ebade4d342f1f4a85c505142a.png\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Liniji 18 in 18L imata začasno spremenjeno  končno postajališče",
       "date": "20. 3. 2026",
       "url": "https://www.lpp.si/obvoz/liniji-18-18l-imata-zacasno-spremenjeno-koncno-postajalisce",
@@ -64,9 +60,6 @@
   ],
   "allLines": [
     "2",
-    "5",
-    "5N",
-    "9",
     "16",
     "60",
     "71"
