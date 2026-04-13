@@ -1,17 +1,6 @@
 {
   "detours": [
     {
-      "title": "Linije 2, 7 in 24 imajo obvoz",
-      "date": "10. 4. 2026",
-      "url": "https://www.lpp.si/obvoz/linije-2-7-24-imajo-obvoz",
-      "lines": [
-        "2",
-        "7",
-        "24"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"80\" data-start=\"47\"><span style=\"font-size: 13.008px;\">Spoštpvani potniki,</span></p>\n\n<p data-end=\"80\" data-start=\"47\"><span style=\"font-size: 13.008px;\">zaradi popolne prometne zapore na </span><strong data-end=\"137\" data-start=\"116\" style=\"font-size: 13.008px;\">Pokopališki ulici</strong><span style=\"font-size: 13.008px;\"> bodo </span><strong data-end=\"195\" data-start=\"143\" style=\"font-size: 13.008px;\">v soboto, 11. 4. 2026, in v nedeljo, 12. 4. 2026</strong><span style=\"font-size: 13.008px;\">, linije </span><strong data-end=\"218\" data-start=\"204\" style=\"font-size: 13.008px;\">2, 7 in 24</strong><span style=\"font-size: 13.008px;\"> vozile po obvozni trasi.</span></p>\n\n<p data-end=\"263\" data-start=\"245\"><strong data-end=\"263\" data-start=\"245\">Obvozna trasa:</strong></p>\n\n<p data-end=\"416\" data-start=\"265\"><strong data-end=\"277\" data-start=\"265\">Linija 2</strong></p>\n\n<ul><li data-end=\"416\" data-start=\"265\">v smeri <strong data-end=\"302\" data-start=\"288\">Nove Jarše</strong>: Pokopališka ulica, Šmartinska cesta in nato naprej po redni trasi.</li>\n\t<li data-end=\"416\" data-start=\"265\">V obratni smeri linija vozi po redni trasi.</li>\n</ul><p data-end=\"560\" data-start=\"418\"><strong data-end=\"430\" data-start=\"418\">Linija 7</strong></p>\n\n<ul><li data-end=\"560\" data-start=\"418\">Šmartinska cesta, Topniška ulica, Linhartova cesta in nato naprej po redni trasi.</li>\n\t<li data-end=\"560\" data-start=\"418\">V obratni smeri linija vozi po redni trasi.</li>\n</ul><p data-end=\"702\" data-start=\"562\"><strong data-end=\"575\" data-start=\"562\">Linija 24</strong></p>\n\n<ul><li data-end=\"702\" data-start=\"562\">Šmartinska cesta, Savska cesta, Štajerska cesta in nato naprej po redni trasi.</li>\n\t<li data-end=\"702\" data-start=\"562\">V obratni smeri linija vozi po redni trasi.</li>\n</ul><p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/69d640857c80c225ec0765009943ca40.png\"></p>\n\n<p>Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Posebna krožna linija (12. april 2026)",
       "date": "10. 4. 2026",
       "url": "https://www.lpp.si/obvoz/posebna-krozna-linija-12-april-2026",
@@ -75,14 +64,11 @@
     }
   ],
   "allLines": [
-    "2",
     "5",
     "5N",
-    "7",
     "9",
     "12",
     "16",
-    "24",
     "60",
     "71",
     "2026"
