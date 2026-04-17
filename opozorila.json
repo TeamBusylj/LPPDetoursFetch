@@ -1,6 +1,27 @@
 {
   "detours": [
     {
+      "title": "Linija 14 ima obvoz",
+      "date": "17. 4. 2026",
+      "url": "https://www.lpp.si/obvoz/linija-14-ima-obvoz-9",
+      "lines": [
+        "14"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"122\" data-start=\"103\">Spoštovani potniki,</p>\n\n<p data-end=\"233\" data-start=\"124\">obveščamo vas, da bo zaradi popolne prometne zapore Čerinove ulice linija 14 obratovala po spremenjeni trasi.</p>\n\n<p data-end=\"356\" data-start=\"235\">Sprememba velja od petka, 17. 4. 2026 (po prometni konici), do predvidoma 18. 4. 2026 oziroma do zaključka gradbenih del.</p>\n\n<p data-end=\"447\" data-start=\"358\"><strong data-end=\"376\" data-start=\"358\">Obvozna trasa:</strong><br data-end=\"379\" data-start=\"376\">\n\tUlica 7. septembra, Dunajska cesta, Ježica in enako v obratni smeri.</p>\n\n<p data-end=\"447\" data-start=\"358\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/990c9a15c015d3e2a7ad3bfefc434219.png\"></p>\n\n<p data-end=\"447\" data-start=\"358\">Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
+      "title": "Linije 2, 5, 13 in 20Z imajo obvoz",
+      "date": "17. 4. 2026",
+      "url": "https://www.lpp.si/obvoz/linije-2-5-13-20z-imajo-obvoz-2",
+      "lines": [
+        "2",
+        "5",
+        "13",
+        "20Z"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"145\" data-start=\"126\">Spoštovani potniki,</p>\n\n<p data-end=\"359\" data-start=\"147\">obveščamo vas, da bodo zaradi popolne prometne zapore na delu Poljanske ceste in Rozmanove ulice v nedeljo, 19. 4. 2026, od predvidoma 10.30 do 12.00 ure, linije 2, 5, 13 in 20Z obratovale po spremenjenih trasah.</p>\n\n<p data-end=\"379\" data-start=\"361\"><strong data-end=\"379\" data-start=\"361\">Obvozne trase:</strong></p>\n\n<p data-end=\"481\" data-start=\"381\"><strong data-end=\"394\" data-start=\"381\">Linija 2:</strong><br data-end=\"397\" data-start=\"394\">\n\tZoisova cesta, Karlovška cesta, Roška cesta, Zaloška cesta in enako v obratni smeri.</p>\n\n<p data-end=\"714\" data-start=\"483\"><strong data-end=\"496\" data-start=\"483\">Linija 5:</strong><br data-end=\"499\" data-start=\"496\">\n\t– v smeri Štepanjsko naselje: Ilirska ulica, Njegoševa cesta, Roška cesta, Poljanska cesta<br data-end=\"592\" data-start=\"589\">\n\t– v smeri Podutik: Poljanska cesta, Roška cesta, Trubarjeva cesta, Rozmanova ulica, Ilirska ulica in naprej po redni trasi</p>\n\n<p data-end=\"983\" data-start=\"716\"><strong data-end=\"730\" data-start=\"716\">Linija 13:</strong><br data-end=\"733\" data-start=\"730\">\n\t– v smeri Sostro: Komenskega ulica, Ilirska ulica, Njegoševa cesta, Roška cesta, Poljanska cesta<br data-end=\"832\" data-start=\"829\">\n\t– v smeri Center Stožice P+R: Poljanska cesta, Roška cesta, Trubarjeva ulica, Rozmanova ulica, Ilirska ulica, Komenskega ulica in naprej po redni trasi</p>\n\n<p data-end=\"1246\" data-start=\"985\"><strong data-end=\"1000\" data-start=\"985\">Linija 20Z:</strong><br data-end=\"1003\" data-start=\"1000\">\n\t– v smeri Fužine: Komenskega ulica, Ilirska ulica, Njegoševa cesta, Zaloška cesta in naprej po redni trasi<br data-end=\"1112\" data-start=\"1109\">\n\t– v smeri Nove Stožice P+R: Zaloška cesta, Trubarjeva cesta, Rozmanova ulica, Ilirska ulica, Komenskega ulica in naprej po redni trasi</p>\n\n<p data-end=\"1329\" data-start=\"1248\"><strong data-end=\"1276\" data-start=\"1248\">Električni vlakec Urban:</strong><br data-end=\"1279\" data-start=\"1276\">\n\tV času popolne zapore ne vozi na Ljubljanski grad.</p>\n\n<p data-end=\"1404\" data-start=\"1331\">Avtobusi bodo ustavljali na vseh rednih postajališčih na obvoznih trasah.</p>\n\n<p data-end=\"1404\" data-start=\"1331\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/e7d403566b59c6dbeca8324e6f774785.png\"></p>\n\n<p data-end=\"1437\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"1406\">Zahvaljujemo se za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Liniji 24 in 26 imata obvoz",
       "date": "13. 4. 2026",
       "url": "https://www.lpp.si/obvoz/liniji-24-26-imata-obvoz",
@@ -50,7 +71,12 @@
     }
   ],
   "allLines": [
+    "2",
+    "5",
+    "13",
+    "14",
     "16",
+    "20Z",
     "60",
     "71"
   ]
