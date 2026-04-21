@@ -1,6 +1,15 @@
 {
   "detours": [
     {
+      "title": "Začasno spremenjena trasa linije 27",
+      "date": "21. 4. 2026",
+      "url": "https://www.lpp.si/obvoz/zacasno-spremenjena-trasa-linije-27",
+      "lines": [
+        "27"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"39\" data-start=\"0\"><span style=\"font-size: 13.008px;\">Spoštovani potniki,</span></p>\n\n<p data-end=\"156\" data-start=\"62\">obveščamo vas, da bo od srede, 22. aprila 2026, linija 27 začasno vozila po spremenjeni trasi.</p>\n\n<p data-end=\"329\" data-start=\"158\">V času spremembe bo linija 27 preusmerjena po naslednji trasi:</p>\n\n<ul><li data-end=\"329\" data-start=\"158\"><span style=\"font-size: 13.008px;\">Šmartinska cesta, Vilharjeva cesta, Dunajska cesta, nato naprej po redni trasi in enako v obratni smeri.</span></li>\n</ul><p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/836ec43f1d9148ce200c632639c3a57d.png\"></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size: 13.008px;\">Hvala za razumevanje.</span></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Liniji 24 in 26 imata obvoz",
       "date": "13. 4. 2026",
       "url": "https://www.lpp.si/obvoz/liniji-24-26-imata-obvoz",
@@ -51,6 +60,7 @@
   ],
   "allLines": [
     "16",
+    "27",
     "60",
     "71"
   ]
