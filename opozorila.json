@@ -1,13 +1,13 @@
 {
   "detours": [
     {
-      "title": "Linija 18 ima obvoz",
-      "date": "24. 4. 2026",
-      "url": "https://www.lpp.si/obvoz/linija-18-ima-obvoz-8",
+      "title": "Linija 27 ima obvoz",
+      "date": "30. 4. 2026",
+      "url": "https://www.lpp.si/obvoz/linija-27-ima-obvoz-5",
       "lines": [
-        "18"
+        "27"
       ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"44\" data-start=\"25\">Spoštovani potniki,</p>\n\n<p data-end=\"224\" data-start=\"46\">obveščamo vas, da bo od petka, 24. 4. 2026, do predvidoma 30. 4. 2026 zaradi popolne prometne zapore na delu Magistrove in Verovškove ulice linija 18 vozila po spremenjeni trasi.</p>\n\n<p data-end=\"433\" data-start=\"226\">V času zapore bo linija 18 preusmerjena na obvozno traso:</p>\n\n<ul><li data-end=\"433\" data-start=\"226\">Litostrojska cesta, servisna cesta Severne obvoznice, Verovškova cesta, Vodovodna cesta, Slovenčeva ulica (redna trasa) in enako v obratni smeri.</li>\n</ul><p data-end=\"546\" data-start=\"435\">&nbsp;</p>\n\n<p data-end=\"546\" data-start=\"435\">V času obvoza so začasno ukinjena naslednja postajališča v obe smeri:</p>\n\n<ul><li data-end=\"546\" data-start=\"435\">I.C. Šiška, Tiki, Mostovna, Toplarna.</li>\n</ul><p>&nbsp;</p>\n\n<p>Avtobusi ustavljajo na vseh postajališčih obvozne trase.</p>\n\n<p><img alt=\"\" src=\"file:///C:/Users/Dusan.Mohar/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/813XUAXO/Obvoz%20linije%2018_Litostrojska_Verovškova_september%202025.jpg\"><img alt=\"skica obvoza\" src=\"https://www.lpp.si/sites/www.jhl.si/files/18.jpg\"></p>\n\n<p><img alt=\"\" src=\"file:///C:/Users/Dusan.Mohar/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/813XUAXO/Obvoz%20linije%2018_Litostrojska_Verovškova_september%202025.jpg\"></p>\n\n<p><img alt=\"\" src=\"file:///C:/Users/Dusan.Mohar/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/813XUAXO/Obvoz%20linije%2018_Litostrojska_Verovškova_september%202025.jpg\"></p>\n\n<p><img alt=\"\" src=\"file:///C:/Users/Dusan.Mohar/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/813XUAXO/Obvoz%20linije%2018_Litostrojska_Verovškova_september%202025.jpg\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p>Zaradi popolne prometne zapore na delu Ameriške ulice ima linija 27 od ponedeljka, 4. 5. 2026, do predvidoma srede, 6. 5. 2026, oziroma do zaključka gradbenih del obvoz.</p>\n\n<p>Obvozna trasa: Ulica gledališča BTC, Francoska ulica, Argentinska ulica in nato naprej po redni trasi ter enako v obratni smeri.</p>\n\n<p>V času obvoza se ukine postajališče BTC-Kristalna palača v obe smeri.</p>\n\n<p><img alt=\"\" src=\"https://www.lpp.si/sites/www.jhl.si/files/obvoz_linije_27_2.jpg\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
     },
     {
       "title": "Linija 78 ima obvoz",
@@ -71,7 +71,6 @@
   ],
   "allLines": [
     "16",
-    "18",
     "27",
     "60",
     "71",
