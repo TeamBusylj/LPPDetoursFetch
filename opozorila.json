@@ -10,15 +10,6 @@
       "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p>Zaradi popolne prometne zapore na delu Ameriške ulice ima linija 27 od ponedeljka, 4. 5. 2026, do predvidoma srede, 6. 5. 2026, oziroma do zaključka gradbenih del obvoz.</p>\n\n<p>Obvozna trasa: Ulica gledališča BTC, Francoska ulica, Argentinska ulica in nato naprej po redni trasi ter enako v obratni smeri.</p>\n\n<p>V času obvoza se ukine postajališče BTC-Kristalna palača v obe smeri.</p>\n\n<p><img alt=\"\" src=\"https://www.lpp.si/sites/www.jhl.si/files/obvoz_linije_27_2.jpg\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
     },
     {
-      "title": "Linija 78 ima obvoz",
-      "date": "23. 4. 2026",
-      "url": "https://www.lpp.si/obvoz/linija-78-ima-obvoz-1",
-      "lines": [
-        "78"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"52\" data-start=\"33\">Spoštovani potniki,</p>\n\n<p data-end=\"212\" data-start=\"54\">obveščamo vas, da bo od 28. 4. 2026 do 3. 5. 2026 zaradi popolne prometne zapore na cesti Mlačevo – Rašica (v Mlačevem) linija 78 vozila po spremenjeni trasi.</p>\n\n<h5 data-end=\"418\" data-start=\"214\">Potek obvoza:</h5>\n\n<ul><li>\n\t\t<p data-end=\"418\" data-start=\"214\">Videm, Mala Ilova gora, Velika Ilova gora, Plešivica pri Žalni, Lobček, Veliko Mlačevo, nato naprej po redni trasi in enako v obratni smeri.</p>\n\t</li>\n</ul><p data-end=\"533\" data-start=\"420\">V času obvoza se ukinejo naslednja postajališča:</p>\n\n<ul><li data-end=\"533\" data-start=\"420\">Čušperk, Mala Račna, Velika Račna, Predole k., Malo Mlačevo.</li>\n</ul><p data-end=\"533\" data-start=\"420\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/082974faf16ba3f0b0ac5ec8387f27d7.png\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Začasno spremenjena trasa linije 27",
       "date": "21. 4. 2026",
       "url": "https://www.lpp.si/obvoz/zacasno-spremenjena-trasa-linije-27",
@@ -73,7 +64,6 @@
     "16",
     "27",
     "60",
-    "71",
-    "78"
+    "71"
   ]
 }
