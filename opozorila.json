@@ -1,6 +1,24 @@
 {
   "detours": [
     {
+      "title": "Linije 1, 2, 3, 3G, 6, 6B, 9, 19B, 19I, 27 in vlakec Urban imajo obvoz",
+      "date": "6. 5. 2026",
+      "url": "https://www.lpp.si/obvoz/linije-1-2-3-3g-6-6b-9-19b-19i-27-vlakec-urban-imajo-obvoz",
+      "lines": [
+        "1",
+        "2",
+        "3",
+        "3G",
+        "6",
+        "6B",
+        "9",
+        "19B",
+        "19I",
+        "27"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"100\" data-start=\"81\">Spoštovani potniki,</p>\n\n<p data-end=\"304\" data-start=\"102\">obveščamo vas, da bodo v soboto, 9. 5. 2026, od 5.00 do 15.00 zaradi popolne prometne zapore na delu Slovenske ceste (od Šubičeve ulice do Erjavčeve ulice) navedene linije vozile po spremenjenih trasah.</p>\n\n<p data-end=\"778\" data-start=\"306\">V času zapore bodo linije preusmerjene na naslednje obvozne trase:</p>\n\n<ul><li data-end=\"778\" data-start=\"306\"><strong>Linije 1, 6 in 6B:</strong> Slovenska – Šubičeva – Bleiweisova – Tržaška in enako v obratni smeri</li>\n\t<li data-end=\"778\" data-start=\"306\"><strong>Linije 2, 9, 19B in 19I:</strong> Slovenska – Šubičeva – Bleiweisova – Aškerčeva in enako v obratni smeri</li>\n\t<li data-end=\"778\" data-start=\"306\"><strong>Linije 3, 3G in 27:</strong> Slovenska – Šubičeva – Bleiweisova – Aškerčeva – Zoisova in enako v obratni smeri</li>\n\t<li data-end=\"778\" data-start=\"306\"><strong>Turistični vlakec (Urban):</strong> Slovenska – Erjavčeva – Prešernova – Cankarjeva in naprej po redni trasi</li>\n</ul><p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/9c81c006e7d8231a366e388ccf9ab512.png\"></p>\n\n<p>Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Linija 2 ima obvoz",
       "date": "6. 5. 2026",
       "url": "https://www.lpp.si/obvoz/linija-2-ima-obvoz-13",
@@ -86,10 +104,17 @@
     }
   ],
   "allLines": [
+    "1",
     "2",
+    "3",
+    "3G",
+    "6",
+    "6B",
     "8",
     "9",
     "16",
+    "19B",
+    "19I",
     "27",
     "60",
     "71",
