@@ -10,17 +10,6 @@
       "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"133\" data-start=\"114\">Spoštovani potniki,</p>\n\n<p data-end=\"235\" data-start=\"135\">obveščamo vas, da bo od ponedeljka, 18. 5. 2026, linija 12D začasno obratovala po spremenjeni trasi.</p>\n\n<p data-end=\"288\" data-start=\"237\">V času spremembe bo linija preusmerjena, kot sledi:</p>\n\n<ul data-end=\"496\" data-start=\"290\"><li data-end=\"398\" data-start=\"290\"><strong data-end=\"309\" data-start=\"292\">Smer Železna:</strong> Šmartinska cesta – Vilharjeva cesta – Dunajska cesta – Linhartova cesta – Železna cesta.</li>\n\t<li data-end=\"496\" data-start=\"399\"><strong data-end=\"418\" data-start=\"401\">Smer Domžale:</strong> Železna cesta – Vilharjeva cesta – Šmartinska cesta in naprej po redni trasi.</li>\n</ul><p>&nbsp;</p>\n\n<p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/687f93a0af38c50e18f1b60a8cce6fab.png\"></p>\n\n<p>&nbsp;</p>\n\n<p>Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
     },
     {
-      "title": "Linije 14, 18 in 18L imajo obvoz",
-      "date": "15. 5. 2026",
-      "url": "https://www.lpp.si/obvoz/linije-14-18-18l-imajo-obvoz",
-      "lines": [
-        "14",
-        "18",
-        "18L"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"145\" data-start=\"126\">Spoštovani potniki,</p>\n\n<p data-end=\"357\" data-start=\"147\">zaradi popolne prometne zapore na delu Ceste 27. aprila, Erjavčeve ceste in Prešernove ceste bodo v ponedeljek, 18. 5. 2026, predvidoma od 9.45 do 11. ure linije 14, 18 in 18L obratovale po spremenjenih trasah.</p>\n\n<p data-end=\"409\" data-start=\"359\">Obvoz bo potekal:</p>\n\n<ul data-end=\"806\" data-start=\"411\"><li data-end=\"562\" data-start=\"411\"><strong data-end=\"427\" data-start=\"413\">Linija 14:</strong> Rožna Dolina cesta II – Gregorinova ulica – Tržaška cesta – Bleiweisova cesta – Šubičeva ulica (redna trasa) in enako v obratni smeri.</li>\n\t<li data-end=\"806\" data-start=\"563\"><strong data-end=\"586\" data-start=\"565\">Liniji 18 in 18L:</strong> Cesta 27. aprila – Škrabčeva ulica – Rožna Dolina cesta VI – Rožna Dolina cesta XV – Rožna Dolina cesta II – Gregorinova ulica – Tržaška cesta – Bleiweisova cesta – Šubičeva ulica (redna trasa) in enako v obratni smeri.</li>\n</ul><p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/ea91376ce7ec3cbd0524996f6f9aef4b.png\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Obvoz na liniji 30 in 60",
       "date": "6. 5. 2026",
       "url": "https://www.lpp.si/obvoz/obvoz-na-liniji-30-60",
@@ -87,10 +76,7 @@
   ],
   "allLines": [
     "12D",
-    "14",
     "16",
-    "18",
-    "18L",
     "27",
     "60",
     "71"
