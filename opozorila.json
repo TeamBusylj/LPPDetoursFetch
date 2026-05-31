@@ -1,15 +1,6 @@
 {
   "detours": [
     {
-      "title": "Linija 18L ima obvoz",
-      "date": "27. 5. 2026",
-      "url": "https://www.lpp.si/obvoz/linija-18l-ima-obvoz",
-      "lines": [
-        "18L"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"117\" data-start=\"98\">Spoštovani potniki,</p>\n\n<p data-end=\"295\" data-start=\"119\">zaradi popolne prometne zapore na delu Ceste 27. aprila in Večne poti bo v soboto, <strong data-end=\"250\" data-start=\"202\">30. 5. 2026 od 10.00 do predvidoma 11.15 ure</strong>, linija 18L obratovala po spremenjeni trasi.</p>\n\n<p><strong data-end=\"367\" data-start=\"349\">Obvozna trasa:</strong></p>\n\n<ul><li>Erjavčeva cesta – Škrabčeva ulica – Rožna Dolina cesta VI – Rožna Dolina cesta XV – Rožna Dolina cesta II – Cesta na Brdo – Pot za Brdom – Pot Roberta Blinca – Večna pot in enako v obratni smeri.</li>\n\t<li>Avtobusi ustavljajo na vseh obstoječih postajališčih obvozne trase.</li>\n</ul><p><img alt=\"skica obvoza\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/5bcf005515ea61dc88d381bdf3bfb21b.png\"></p>\n\n<p data-end=\"655\" data-start=\"634\">Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Linija 12D ima spremenjeno traso",
       "date": "15. 5. 2026",
       "url": "https://www.lpp.si/obvoz/linija-12d-ima-spremenjeno-traso",
@@ -79,7 +70,6 @@
   "allLines": [
     "12D",
     "16",
-    "18L",
     "27",
     "60",
     "71"
