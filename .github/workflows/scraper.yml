@@ -2,7 +2,7 @@ name: Poberi LPP opozorila
 
 on:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 4,14 * * *"
   workflow_dispatch:
 
 permissions:
