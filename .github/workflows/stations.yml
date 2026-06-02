@@ -1,0 +1,30 @@
+name: Poberi LPP postaje
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # Zažene se vsak dan ob 2:00 zjutraj (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-save:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozitorija
+        uses: actions/checkout@v4
+
+      - name: Nastavitev Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Zaženi skripto za postaje
+        run: node fetchStations.js
+
+      - name: Shrani v repozitorij brez proženja Firebase deploya
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Posodobitev postaj [skip ci]"
+          file_pattern: "lppStations.json"
