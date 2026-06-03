@@ -1,6 +1,13 @@
 {
   "detours": [
     {
+      "title": "Liniji 5 in 13 imata obvoz",
+      "date": "3. 6. 2026",
+      "url": "https://www.lpp.si/obvoz/liniji-5-13-imata-obvoz-2",
+      "lines": [],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"51\" data-start=\"32\">Spoštovani potniki,</p>\n\n<p data-end=\"307\" data-start=\"53\">obveščamo vas, da bosta v nedeljo, 7. 6. 2026, od 9.30 do predvidoma 18.00 zaradi popolne prometne zapore na delu Litijske ceste, Glonarjeve ulice, Povšetove ulice in Poljanske ceste (do križišča z Roško cesto) liniji 5 in 13 vozili po spremenjeni trasi.</p>\n\n<p data-end=\"508\" data-start=\"309\">V času zapore bosta liniji preusmerjeni na obvozno traso:</p>\n\n<ul><li data-end=\"508\" data-start=\"309\">Poljanska cesta (redna trasa) – Fabianijev most – Zaloška cesta – Kajuhova ulica – Litijska cesta (redna trasa) in enako v obratni smeri.</li>\n\t<li data-end=\"508\" data-start=\"309\">Avtobusi ustavljajo na vseh rednih postajališčih, ki so na obvozni trasi.</li>\n</ul><p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/abf0fb2bca04f96cce52f6e2f939f6ac.png\"></p>\n\n<p data-end=\"612\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"585\">Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Posebna krožna linija (4. junij 2026)",
       "date": "2. 6. 2026",
       "url": "https://www.lpp.si/obvoz/posebna-krozna-linija-4-junij-2026",
