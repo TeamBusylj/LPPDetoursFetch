@@ -4,8 +4,10 @@ on:
   # Sproži se ročno preko GitHub vmesnika
   workflow_dispatch: 
   # Odkomentiraj spodnje vrstice za avtomatsko osveževanje (npr. vsak dan ob 3:00 zjutraj)
-   schedule:
-     - cron: '0 3 * * *'
+  schedule:
+    - cron: '0 3 * * *'
+permissions:
+  contents: write
 
 jobs:
   build:
