@@ -3,7 +3,7 @@ name: Shrani GTFS JSON
 on:
   # Sproži se ročno preko GitHub vmesnika
   workflow_dispatch: 
-  # Lahko omogočiš tudi avtomatsko (npr. vsak dan ob 3:00 zjutraj)
+  # Odkomentiraj spodnje vrstice za avtomatsko osveževanje (npr. vsak dan ob 3:00 zjutraj)
    schedule:
      - cron: '0 3 * * *'
 
@@ -23,11 +23,11 @@ jobs:
       - name: Prenos in razširitev GTFS ZIP datoteke
         run: |
           mkdir -p gtfs
-          # TUKAJ ZAMENJAJ URL S PRAVIM POVEZAVO DO GTFS ZIP-A:
-          curl -L -o gtfs/data.zip "https://tvoj-vir.si/podatki/gtfs.zip"
+          # Uporabljen je tvoj pravi vir za IJPP GTFS
+          curl -L -o gtfs/data.zip "http://gtfs.derp.si/ijpp_gtfs.zip"
           cd gtfs
           unzip data.zip
-          # Pobrišemo zip, da ne dela gneče
+          # Pobrišemo zip, da sprostimo prostor
           rm data.zip 
 
       - name: Poženi JS skripto
@@ -39,5 +39,5 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add stop_to_routes.json
           
-          # Če je prišlo do sprememb, naredi commit
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Posodobitev stop_to_routes.json" && git push)
+          # Če je prišlo do sprememb v podatkih, naredi commit
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Posodobitev stop_to_routes.json iz IJPP" && git push)
