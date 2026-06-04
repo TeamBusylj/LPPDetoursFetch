@@ -1,5 +1,5 @@
-const fs = require('fs');
-const readline = require('readline');
+import fs from 'fs';
+import readline from 'readline';
 
 async function processGTFS() {
     const tripToRoute = {};
@@ -64,7 +64,14 @@ async function processGTFS() {
     }
 
     fs.writeFileSync('stop_to_routes.json', JSON.stringify(output, null, 2));
-    console.log("Končano! Podatki so shranjeni v stop_to_routes.json");
+    
+    // Ustvarimo še version.json, če ga boš želel uporabiti na klientu za preverjanje
+    const versionData = { 
+        updatedAt: new Date().toISOString() 
+    };
+    fs.writeFileSync('version.json', JSON.stringify(versionData, null, 2));
+    
+    console.log("Končano! Podatki so shranjeni v stop_to_routes.json in version.json");
 }
 
 processGTFS().catch(console.error);
