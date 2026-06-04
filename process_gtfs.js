@@ -63,7 +63,7 @@ async function processGTFS() {
         output[stopId] = Array.from(stopToRoutes[stopId]);
     }
 
-    fs.writeFileSync('stop_to_routes.json', JSON.stringify(output, null, 2));
+    fs.writeFileSync('stop_to_routes.json', JSON.stringify(output));
     
     // Ustvarimo še version.json, če ga boš želel uporabiti na klientu za preverjanje
     const versionData = { 
