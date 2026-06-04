@@ -5,7 +5,7 @@ on:
   workflow_dispatch: 
   # Odkomentiraj spodnje vrstice za avtomatsko osveževanje (npr. vsak dan ob 3:00 zjutraj)
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 * * 0'
 permissions:
   contents: write
 
