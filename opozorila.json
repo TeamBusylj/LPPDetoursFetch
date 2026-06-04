@@ -1,6 +1,13 @@
 {
   "detours": [
     {
+      "title": "Liniji 9 in 16 imata obvoz",
+      "date": "4. 6. 2026",
+      "url": "https://www.lpp.si/obvoz/liniji-9-16-imata-obvoz",
+      "lines": [],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"51\" data-start=\"32\">Spoštovani potniki,</p>\n\n<p data-end=\"290\" data-start=\"53\">obveščamo vas, da bosta od petka, 5. 6. 2026, od 9.00 do predvidoma nedelje, 7. 6. 2026, do 24.00 zaradi popolne zapore prometa na delu Opekarske ceste (med Stransko potjo in Cesto na Mesarico) liniji 9 in 16 vozili po spremenjeni trasi.</p>\n\n<p data-end=\"605\" data-start=\"292\">V času zapore bosta liniji preusmerjeni na naslednji obvozni trasi:</p>\n\n<ul><li data-end=\"605\" data-start=\"292\">Linija 9: vozi po Barjanski cesti in izpusti postajališča Pot na Rakovo jelšo, Opekarska in Murgle (v smeri Barje)</li>\n\t<li data-end=\"605\" data-start=\"292\">Linija 16: vozi po Cesti dveh cesarjev, Barjanski cesti, Kopačevi cesti in nato po Opekarski cesti naprej po redni trasi</li>\n</ul><p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/d1057997e4438c28f8763d7bb971bf65.png\"></p>\n\n<p data-end=\"634\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"607\">Prosimo vas za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Liniji 5 in 13 imata obvoz",
       "date": "3. 6. 2026",
       "url": "https://www.lpp.si/obvoz/liniji-5-13-imata-obvoz-2",
