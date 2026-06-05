@@ -1,6 +1,22 @@
 {
   "detours": [
     {
+      "title": "Linije 2, 3, 3B, 3G, 11, 19B, 19I in 27 imajo obvoz",
+      "date": "5. 6. 2026",
+      "url": "https://www.lpp.si/obvoz/linije-2-3-3b-3g-11-19b-19i-27-imajo-obvoz-4",
+      "lines": [
+        "2",
+        "3",
+        "3B",
+        "3G",
+        "11",
+        "19B",
+        "19I",
+        "27"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"76\" data-start=\"57\">Spoštovani potniki,</p>\n\n<p data-end=\"410\" data-start=\"78\">obveščamo vas, da bodo zaradi popolne prometne zapore Zoisove ceste (prireditev v Križankah) navedene linije vozile po spremenjenih trasah v naslednjih terminih:</p>\n\n<ul><li data-end=\"410\" data-start=\"78\"><strong>torek, 9. 6. 2026, od 21.00 do predvidoma 23.30</strong></li>\n\t<li data-end=\"410\" data-start=\"78\"><strong>sreda, 10. 6. 2026, od 21.00 do predvidoma 23.59</strong></li>\n\t<li data-end=\"410\" data-start=\"78\"><strong>četrtek, 11. 6. 2026, od 21.00 do predvidoma nedelje, 23.30</strong></li>\n</ul><p data-end=\"757\" data-start=\"412\">V času zapore bodo linije preusmerjene na naslednje obvozne trase:</p>\n\n<ul><li data-end=\"757\" data-start=\"412\"><strong>linije 2, 3, 3B, 3G, 11, 11B in 27:</strong> Slovenska – Barjanska – Kopačeva – Opekarska – Janežičeva – Karlovška (redna trasa) in enako v obratni smeri</li>\n\t<li data-end=\"757\" data-start=\"412\"><strong>liniji 19B in 19I: </strong>Slovenska – Barjanska – Kopačeva – Opekarska (obračališče Trnovo) – Opekarska – Hladnikova (redna trasa)</li>\n</ul><p data-end=\"856\" data-start=\"759\">Avtobusi bodo ustavljali na vseh obstoječih postajališčih obvozne trase in enako v obratni smeri.</p>\n\n<p data-end=\"856\" data-start=\"759\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/af134d1fa07a70174a15431a8ee2ae16.png\"></p>\n\n<p data-end=\"885\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"858\">Prosimo vas za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Liniji 9 in 16 imata obvoz",
       "date": "4. 6. 2026",
       "url": "https://www.lpp.si/obvoz/liniji-9-16-imata-obvoz",
@@ -82,8 +98,15 @@
     }
   ],
   "allLines": [
+    "2",
+    "3",
+    "3B",
+    "3G",
+    "11",
     "12D",
     "16",
+    "19B",
+    "19I",
     "27",
     "60",
     "71"
