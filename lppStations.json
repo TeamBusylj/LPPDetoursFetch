@@ -6751,11 +6751,41 @@
     ]
   },
   {
+    "int_id": 4251,
+    "latitude": 45.91873902981213,
+    "longitude": 14.588691580838969,
+    "name": "Gradišče 3",
+    "ref_id": "515122",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
+    "int_id": 4280,
+    "latitude": 45.971468453992486,
+    "longitude": 14.576797943085204,
+    "name": "Glinek Gumnišče",
+    "ref_id": "515131",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
     "int_id": 4613,
     "latitude": 45.97142830289433,
     "longitude": 14.576416700799921,
     "name": "Glinek Gumnišče",
     "ref_id": "515132",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
+    "int_id": 4278,
+    "latitude": 45.96659504170537,
+    "longitude": 14.574677919431664,
+    "name": "Gumnišče center",
+    "ref_id": "515141",
     "route_groups_on_station": [
       "85"
     ]
@@ -6771,11 +6801,31 @@
     ]
   },
   {
+    "int_id": 4276,
+    "latitude": 45.963512812267425,
+    "longitude": 14.57755254417614,
+    "name": "Gumnišče 1",
+    "ref_id": "515151",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
     "int_id": 4277,
     "latitude": 45.96327475951643,
     "longitude": 14.577265083114703,
     "name": "Gumnišče 1",
     "ref_id": "515152",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
+    "int_id": 4274,
+    "latitude": 45.960380158638294,
+    "longitude": 14.58574521680999,
+    "name": "Gornje Blato Center",
+    "ref_id": "515161",
     "route_groups_on_station": [
       "85"
     ]
@@ -6791,11 +6841,31 @@
     ]
   },
   {
+    "int_id": 4272,
+    "latitude": 45.957823913594865,
+    "longitude": 14.587110666239266,
+    "name": "Gornje Blato 1",
+    "ref_id": "515171",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
     "int_id": 4273,
     "latitude": 45.957623431560684,
     "longitude": 14.586679474182091,
     "name": "Gornje Blato 1",
     "ref_id": "515172",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
+    "int_id": 4270,
+    "latitude": 45.95233516866087,
+    "longitude": 14.587398138708707,
+    "name": "Gornje Blato 2",
+    "ref_id": "515181",
     "route_groups_on_station": [
       "85"
     ]
@@ -6811,6 +6881,16 @@
     ]
   },
   {
+    "int_id": 4266,
+    "latitude": 45.94809923801249,
+    "longitude": 14.585601508774916,
+    "name": "Cesta na Drenik",
+    "ref_id": "515191",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
     "int_id": 4267,
     "latitude": 45.94837496501317,
     "longitude": 14.585493710940582,
@@ -6821,11 +6901,31 @@
     ]
   },
   {
+    "int_id": 4268,
+    "latitude": 45.95142050206773,
+    "longitude": 14.580319389286867,
+    "name": "Cesta na Drenik 1",
+    "ref_id": "515201",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
     "int_id": 4269,
     "latitude": 45.95167114236268,
     "longitude": 14.580463119001378,
     "name": "Cesta na Drenik 1",
     "ref_id": "515202",
+    "route_groups_on_station": [
+      "85"
+    ]
+  },
+  {
+    "int_id": 4264,
+    "latitude": 45.9527239683525,
+    "longitude": 14.574965407530954,
+    "name": "Cesta na Drenik 2",
+    "ref_id": "515211",
     "route_groups_on_station": [
       "85"
     ]
