@@ -1,17 +1,6 @@
 {
   "detours": [
     {
-      "title": "Linije 14, 18 in 18L imajo obvoz",
-      "date": "24. 6. 2026",
-      "url": "https://www.lpp.si/obvoz/linije-14-18-18l-imajo-obvoz-0",
-      "lines": [
-        "14",
-        "18",
-        "18L"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"57\" data-start=\"38\">Spoštovani potniki,</p>\n\n<p data-end=\"236\" data-start=\"59\">obveščamo vas, da bodo v sredo, 24. 6. 2026, od 18.00 do predvidoma 24.00 zaradi popolne prometne zapore na delu Šubičeve ulice linije 14, 18 in 18L vozile po spremenjeni trasi.</p>\n\n<p data-end=\"385\" data-start=\"238\">V času zapore bodo linije preusmerjene na naslednjo obvozno traso:</p>\n\n<ul><li data-end=\"385\" data-start=\"238\">Šubičeva – Bleiweisova – Gosposvetska – Slovenska in enako v obratni smeri</li>\n</ul><p data-end=\"514\" data-start=\"387\">Nadomestno postajališče na Gosposvetski cesti v smeri proti Bleiweisovi cesti bo postavljeno pred križiščem z Vošnjakovo ulico.</p>\n\n<p data-end=\"514\" data-start=\"387\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/c141d191aca07bc53051acb4fc407e5e.png\"></p>\n\n<p data-end=\"543\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"516\">Prosimo vas za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Linija 16 ima obvoz",
       "date": "23. 6. 2026",
       "url": "https://www.lpp.si/obvoz/linija-16-ima-obvoz-0",
@@ -101,7 +90,6 @@
     "6B",
     "11B",
     "12D",
-    "14",
     "16",
     "18",
     "18L",
