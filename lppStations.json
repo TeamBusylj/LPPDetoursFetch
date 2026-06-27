@@ -14643,16 +14643,5 @@
     "route_groups_on_station": [
       "30"
     ]
-  },
-  {
-    "int_id": 4348,
-    "latitude": 45.973854675338416,
-    "longitude": 14.294918394661572,
-    "name": "Vrhnika OŠ AM Slomška",
-    "ref_id": "999091",
-    "route_groups_on_station": [
-      "46",
-      "47"
-    ]
   }
 ]
