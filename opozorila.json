@@ -1,6 +1,15 @@
 {
   "detours": [
     {
+      "title": "Linija 9 ima obvoz",
+      "date": "28. 6. 2026",
+      "url": "https://www.lpp.si/obvoz/linija-9-ima-obvoz-0",
+      "lines": [
+        "9"
+      ],
+      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"43\" data-start=\"24\">Spoštovani potniki,</p>\n\n<p data-end=\"211\" data-start=\"45\">obveščamo vas, da bo od ponedeljka, 29. 6. 2026, do zaključka gradbenih del zaradi popolne zapore prometa na delu Kopačeve ceste linija 9 vozila po spremenjeni trasi.</p>\n\n<p data-end=\"364\" data-start=\"213\">V času zapore bo linija 9 preusmerjena na obvozno traso:<br data-end=\"272\" data-start=\"269\">\n\t• vozi po Barjanski cesti in izpusti postajališča: Pot na Rakovo jelšo, Opekarska in Murgle.</p>\n\n<p data-end=\"364\" data-start=\"213\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/435b574f4b5bc76df8f2b6be5cfdc2eb.png\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
+    },
+    {
       "title": "Linija 16 ima obvoz",
       "date": "23. 6. 2026",
       "url": "https://www.lpp.si/obvoz/linija-16-ima-obvoz-0",
@@ -8,15 +17,6 @@
         "16"
       ],
       "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"44\" data-start=\"25\">Spoštovani potniki,</p>\n\n<p data-end=\"239\" data-start=\"46\">obveščamo vas, da bo od četrtka, 25. 6. 2026, do zaključka gradbenih del zaradi popolne prometne zapore Tbilisijske ulice linija 16 vozila po spremenjeni trasi.</p>\n\n<p data-end=\"386\" data-start=\"241\">V času zapore bo linija 16 preusmerjena na obvozno traso:</p>\n\n<ul><li data-end=\"386\" data-start=\"241\">Tržaška cesta – Jadranska ulica – Cesta v Mestni log in nat<span style=\"font-size: 13.008px;\">o naprej po redni trasi.</span></li>\n</ul><p><span style=\"font-size: 13.008px;\">​</span></p>\n\n<p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/63a50ae35440ac528c715433bdd8bf08.png\"></p>\n\n<p>&nbsp;</p>\n\n<p data-end=\"415\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"388\">Prosimo vas za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
-      "title": "Linija 6B ima obvoz",
-      "date": "23. 6. 2026",
-      "url": "https://www.lpp.si/obvoz/linija-6b-ima-obvoz",
-      "lines": [
-        "6B"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"49\" data-start=\"30\">Spoštovani potniki,</p>\n\n<p data-end=\"275\" data-start=\"51\">obveščamo vas, da bo v sredo, 24. 6. 2026, od 22.00 do predvidoma nedelje, 28. 6. 2026, do 5.00 zaradi popolne prometne zapore Podpeške ceste v Vnanjih Goricah linija 6B vozila skrajšano do postajališča Japelj (obračališče).</p>\n\n<p data-end=\"456\" data-start=\"277\">Od nadomestnega postajališča »Japelj« v smeri Notranje Gorice do postajališča »Podpeč« in nazaj bo vozil dodatni avtobus po prilagojenem voznem redu, ki se navezuje na linijo 19B.</p>\n\n<p data-end=\"456\" data-start=\"277\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/0b610bd2cc150b1a38b5876e78cfb695.png\"></p>\n\n<p data-end=\"456\" data-start=\"277\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/cbc8e161ab8542b3c7e490ebf26947be.png\"></p>\n\n<p data-end=\"485\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"458\">Prosimo vas za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
     },
     {
       "title": "Linije 3G, 6B, 11B, 12D, 18, 18L, 27 in 60 imajo obvoz",
@@ -53,15 +53,6 @@
       "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"104\" data-start=\"81\">Spoštovani potniki,</p>\n\n<p data-end=\"327\" data-start=\"106\">obveščamo vas, da bo zaradi popolne prometne zapore na delu lokalne ceste od Velike Loke do Žalne od 13. 4. 2026 do zaključka gradbenih del, predvidoma do konca oktobra 2026, linija 71 vozila po spremenjeni trasi.</p>\n\n<p data-end=\"716\" data-start=\"329\">Spremenjena trasa linije 71:</p>\n\n<ul><li data-end=\"716\" data-start=\"329\">A. P. Grosuplje – Pri KGZ – Veliko Mlačevo – Lobček/Zagradec – Plešivica – Plešivica/Kote – Smrečje – Luče na šoli – Luče – Luče na šoli – Velika Loka in nazaj:</li>\n\t<li data-end=\"716\" data-start=\"329\">Velika Loka – Luče na šoli – Smrečje – Plešivica/Kote – Plešivica – Lobček/Zagradec – Mlačevo ŽP – PŠ Žalna – Žalna – PŠ Žalna – Mlačevo ŽP – Veliko Mlačevo – Pri KGZ – A. P. Grosuplje.</li>\n</ul><p data-end=\"769\" data-start=\"718\">&nbsp;</p>\n\n<p data-end=\"769\" data-start=\"718\">V bližini Žalne je urejeno nadomestno postajališče.</p>\n\n<p data-end=\"769\" data-start=\"718\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/cf0e0996ae7bd2eeca082fb6c4f5a6c8.png\"></p>\n\n<p data-end=\"769\" data-start=\"718\">&nbsp;</p>\n\n<p data-end=\"769\" data-start=\"718\">Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
     },
     {
-      "title": "Linija 16 ima obvoz",
-      "date": "5. 4. 2026",
-      "url": "https://www.lpp.si/obvoz/linija-16-ima-obvoz",
-      "lines": [
-        "16"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p data-end=\"294\" data-start=\"96\">Spoštovani potniki,</p>\n\n<p data-end=\"294\" data-start=\"96\">obveščamo vas, da bo zaradi popolne prometne zapore na delu Tbilisijske ulice linija 16 od torka, 7. 4. 2026, do predvidoma septembra 2026 oziroma do zaključka gradbenih del vozila po obvozni trasi.</p>\n\n<p data-end=\"435\" data-start=\"296\"><strong data-end=\"314\" data-start=\"296\">Obvozna trasa:</strong><br>\n\tTbilisijska ulica, Jamova cesta (dodatno postajališče), Koprska ulica, Cesta v Mestni log in nato naprej po redni trasi.</p>\n\n<p data-end=\"435\" data-start=\"296\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/4ce40590633d9776d14fbc1fb18635a9.png\"></p>\n\n<p data-end=\"435\" data-start=\"296\">Hvala za razumevanje.</p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Liniji 18 in 18L imata začasno spremenjeno  končno postajališče",
       "date": "20. 3. 2026",
       "url": "https://www.lpp.si/obvoz/liniji-18-18l-imata-zacasno-spremenjeno-koncno-postajalisce",
@@ -88,6 +79,7 @@
   "allLines": [
     "3G",
     "6B",
+    "9",
     "11B",
     "12D",
     "16",
