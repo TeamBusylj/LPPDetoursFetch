@@ -1,26 +1,6 @@
 {
   "detours": [
     {
-      "title": "Linije 1, 2, 3, 3B, 3G, 6, 6B, 9, 11, 19B, 19I in 27 imajo obvoz",
-      "date": "29. 6. 2026",
-      "url": "https://www.lpp.si/obvoz/linije-1-2-3-3b-3g-6-6b-9-11-19b-19i-27-imajo-obvoz-1",
-      "lines": [
-        "1",
-        "2",
-        "3",
-        "3B",
-        "3G",
-        "6",
-        "6B",
-        "9",
-        "11",
-        "19B",
-        "19I",
-        "27"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <div class=\"relative basis-auto flex-col -mb-(--composer-overlap-px) pb-(--composer-overlap-px) [--composer-overlap-px:28px] grow flex\" data-voice-floating-orb-focus-background=\"\" style=\"font-size: medium;\">\n\t<div class=\"flex flex-col text-sm\">\n\t\t<div class=\"qMYqUG_convSearchResultHighlightRoot\">\n\t\t\t<div data-is-intersecting=\"true\" data-turn-id-container=\"request-69e76e18-d3e8-8393-b33a-05bbbc10c2cf-2\">\n\t\t\t\t<section class=\"text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-testid=\"conversation-turn-160\" data-turn=\"assistant\" data-turn-id=\"request-69e76e18-d3e8-8393-b33a-05bbbc10c2cf-2\" data-turn-id-container=\"request-69e76e18-d3e8-8393-b33a-05bbbc10c2cf-2\" dir=\"auto\"><div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\">\n\t\t\t\t\t\t<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" data-conversation-screenshot-content=\"\">\n\t\t\t\t\t\t\t<div class=\"flex max-w-full flex-col gap-4 grow\">\n\t\t\t\t\t\t\t\t<div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\" data-message-author-role=\"assistant\" data-message-id=\"ccf6af96-ccf5-47be-8145-97714d240f20\" data-message-model-slug=\"gpt-5-3-instant\" data-turn-start-message=\"true\" dir=\"auto\" tabindex=\"0\">\n\t\t\t\t\t\t\t\t\t<div class=\"flex w-full flex-col gap-1 empty:hidden\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling\">\n\t\t\t\t\t\t\t\t\t\t\t<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"89\" data-start=\"70\">Spoštovani potniki,</p>\n\n\t\t\t\t\t\t\t\t\t\t\t<p data-end=\"326\" data-start=\"91\">obveščamo vas, da bodo v torek, 30. 6. 2026, od 19.30 do predvidoma srede, 1. 7. 2026, do 0.30 zaradi popolne prometne zapore na delu Slovenske ceste (od Šubičeve ulice do Erjavčeve ulice) navedene linije vozile po spremenjenih trasah.</p>\n\n\t\t\t\t\t\t\t\t\t\t\t<p data-end=\"394\" data-start=\"328\">V času zapore bodo linije preusmerjene na naslednje obvozne trase:</p>\n\n\t\t\t\t\t\t\t\t\t\t\t<ul><li data-end=\"713\" data-start=\"396\">linije 1, 6 in 6B: Slovenska – Šubičeva – Bleiweisova – Tržaška in enako v obratni smeri</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li data-end=\"713\" data-start=\"396\">linija 9: Slovenska – Šubičeva – Bleiweisova – Aškerčeva – Barjanska in enako v obratni smeri</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li data-end=\"713\" data-start=\"396\">linije 2, 3, 3B, 3G, 11, 19B, 19I in 27: Slovenska – Šubičeva – Bleiweisova – Aškerčeva – Zoisova in enako v obratni smeri.</li>\n\t\t\t\t\t\t\t\t\t\t\t</ul><p><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/64f946daf972ce1f7dc86052ef23868d.png\"></p>\n\n\t\t\t\t\t\t\t\t\t\t\t<p data-end=\"742\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"715\">Prosimo vas za razumevanje.</p>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t<div class=\"z-0 flex min-h-[46px] justify-start\">&nbsp;</div>\n\n\t\t\t\t\t\t\t<div class=\"mt-3 w-full empty:hidden\">\n\t\t\t\t\t\t\t\t<div class=\"text-center\">&nbsp;</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</section></div>\n\t\t</div>\n\n\t\t<div aria-hidden=\"true\" class=\"pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]\">&nbsp;</div>\n\n\t\t<div class=\"pointer-events-none translate-y-(--scroll-root-safe-area-inset-bottom) R6Vx5W_threadScrollVars min-h-(--gutter-remaining-height,0px) group-data-stream-active/scroll-root:h-[calc(var(--thread-response-height)-16*var(--spacing))]\">&nbsp;</div>\n\t</div>\n</div>\n\n<div class=\"sticky bottom-0 z-10 group/thread-bottom-container relative isolate w-full basis-auto has-data-has-thread-error:pt-2 has-data-has-thread-error:[box-shadow:var(--sharp-edge-bottom-shadow)] md:border-transparent md:pt-0 dark:border-white/20 md:dark:border-transparent print:hidden content-fade single-line\" id=\"thread-bottom-container\" style=\"font-size: medium;\">\n\t<div aria-hidden=\"true\" class=\"pointer-events-none\" data-testid=\"thread-footer-overflow-spacer\" data-thread-footer-overflow-spacer=\"\">&nbsp;</div>\n\n\t<div class=\"relative mx-auto h-0\">\n\t\t<div class=\"flex h-0 items-end justify-center motion-safe:transition-all motion-safe:delay-300 motion-safe:duration-300 group-[:not([data-scroll-from-end])]/scroll-root:scale-50 group-[:not([data-scroll-from-end])]/scroll-root:translate-y-2 group-[:not([data-scroll-from-end])]/scroll-root:opacity-0 group-[:not([data-scroll-from-end])]/scroll-root:pointer-events-none group-[:not([data-scroll-from-end])]/scroll-root:duration-100 group-[:not([data-scroll-from-end])]/scroll-root:delay-0 absolute start-1/2 z-10 -translate-x-1/2 bottom-[calc(100%+3*var(--spacing)+var(--thread-scroll-to-bottom-banner-offset,0px))]\">&nbsp;</div>\n\t</div>\n\n\t<div>\n\t\t<div class=\"text-base mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\">\n\t\t\t<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 mb-[var(--thread-component-gap,1rem)]\">\n\t\t\t\t<div class=\"w-full\">\n\t\t\t\t\t<div class=\"flex justify-center empty:hidden\">&nbsp;</div>\n\n\t\t\t\t\t<div class=\"pointer-events-auto relative z-1 flex h-(--composer-container-height,100%) max-w-full flex-(--composer-container-flex,1) flex-col\">\n\t\t\t\t\t\t<div class=\"absolute start-0 end-0 bottom-full z-20\" data-prompt-textarea-header=\"\">&nbsp;</div>\n\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Linija 9 ima obvoz",
       "date": "28. 6. 2026",
       "url": "https://www.lpp.si/obvoz/linija-9-ima-obvoz-0",
@@ -83,22 +63,14 @@
     }
   ],
   "allLines": [
-    "1",
-    "2",
-    "3",
-    "3B",
     "3G",
-    "6",
     "6B",
     "9",
-    "11",
     "11B",
     "12D",
     "16",
     "18",
     "18L",
-    "19B",
-    "19I",
     "27",
     "60",
     "71"
