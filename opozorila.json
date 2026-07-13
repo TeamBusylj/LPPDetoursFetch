@@ -1,15 +1,6 @@
 {
   "detours": [
     {
-      "title": "Linija 9 ima obvoz",
-      "date": "28. 6. 2026",
-      "url": "https://www.lpp.si/obvoz/linija-9-ima-obvoz-0",
-      "lines": [
-        "9"
-      ],
-      "contentHtml": "\n\n                            <div class=\"content--wrapper\">\n\n                                \n\n                                <div class=\"content--top\">\n                                   \n                                  \n  <div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n    <p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"43\" data-start=\"24\">Spoštovani potniki,</p>\n\n<p data-end=\"211\" data-start=\"45\">obveščamo vas, da bo od ponedeljka, 29. 6. 2026, do zaključka gradbenih del zaradi popolne zapore prometa na delu Kopačeve ceste linija 9 vozila po spremenjeni trasi.</p>\n\n<p data-end=\"364\" data-start=\"213\">V času zapore bo linija 9 preusmerjena na obvozno traso:<br data-end=\"272\" data-start=\"269\">\n\t• vozi po Barjanski cesti in izpusti postajališča: Pot na Rakovo jelšo, Opekarska in Murgle.</p>\n\n<p data-end=\"364\" data-start=\"213\"><img alt=\"\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/435b574f4b5bc76df8f2b6be5cfdc2eb.png\"></p>\n  </div>\n    \n                                    \n                                </div>\n                                \n                                <div class=\"content--bottom\">\n                                \n                                \n                                </div>\n\n                               \n                                \n                                <div id=\"content__share\">\n                                    \n                                    \n                                    \n                                </div>\n\n                            </div>\n\n                        "
-    },
-    {
       "title": "Linija 16 ima obvoz",
       "date": "23. 6. 2026",
       "url": "https://www.lpp.si/obvoz/linija-16-ima-obvoz-0",
@@ -65,7 +56,6 @@
   "allLines": [
     "3G",
     "6B",
-    "9",
     "11B",
     "12D",
     "16",
