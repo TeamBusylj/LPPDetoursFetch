@@ -9,7 +9,7 @@
     "name": "Čerinova",
     "lat": 46.09029,
     "lon": 14.512338,
-    "opposite": null,
+    "opposite": "103121",
     "routes": [
       {
         "name": "14",
@@ -27,7 +27,7 @@
     "name": "Večna pot",
     "lat": 46.050888,
     "lon": 14.478593,
-    "opposite": "803042",
+    "opposite": "703181",
     "routes": [
       {
         "name": "18",
@@ -45,7 +45,7 @@
     "name": "Tomažičeva",
     "lat": 46.038288,
     "lon": 14.475569,
-    "opposite": "404082",
+    "opposite": "603211",
     "routes": [
       {
         "name": "16",
@@ -63,7 +63,7 @@
     "name": "Ambrožev trg",
     "lat": 46.049782,
     "lon": 14.516542,
-    "opposite": "502014",
+    "opposite": "502013",
     "routes": [
       {
         "name": "2",
@@ -93,7 +93,7 @@
     "name": "Leskoškova",
     "lat": 46.061951,
     "lon": 14.55844,
-    "opposite": "702022",
+    "opposite": "204011",
     "routes": [
       {
         "name": "7",
@@ -115,7 +115,7 @@
     "name": "Lanišče",
     "lat": 46.045288,
     "lon": 14.709576,
-    "opposite": null,
+    "opposite": "406072",
     "routes": [
       {
         "name": "10",
@@ -137,7 +137,7 @@
     "name": "Kardeljeva ploščad",
     "lat": 46.072613,
     "lon": 14.51933,
-    "opposite": "102092",
+    "opposite": "102091",
     "routes": [
       {
         "name": "13",
@@ -159,7 +159,7 @@
     "name": "Tabor",
     "lat": 46.108498,
     "lon": 14.461687,
-    "opposite": null,
+    "opposite": "804102",
     "routes": [
       {
         "name": "1",
@@ -185,7 +185,7 @@
     "name": "Plečnikova cerkev",
     "lat": 46.012211,
     "lon": 14.506648,
-    "opposite": "614092",
+    "opposite": "614011",
     "routes": [
       {
         "name": "19",
@@ -203,7 +203,7 @@
     "name": "I.C. Šiška",
     "lat": 46.078609,
     "lon": 14.497428,
-    "opposite": "614092",
+    "opposite": "103231",
     "routes": [
       {
         "name": "18",
@@ -221,7 +221,7 @@
     "name": "Gornje Poljane",
     "lat": 46.048725,
     "lon": 14.524468,
-    "opposite": null,
+    "opposite": "402061",
     "routes": [
       {
         "name": "5",
@@ -243,7 +243,7 @@
     "name": "Andreja Bitenca",
     "lat": 46.086235,
     "lon": 14.464992,
-    "opposite": null,
+    "opposite": "804171",
     "routes": [
       {
         "name": "7",
@@ -261,7 +261,7 @@
     "name": "Elma",
     "lat": 46.098354,
     "lon": 14.527402,
-    "opposite": "104062",
+    "opposite": "104061",
     "routes": [
       {
         "name": "8",
@@ -279,7 +279,7 @@
     "name": "Mercator",
     "lat": 46.074581,
     "lon": 14.511622,
-    "opposite": null,
+    "opposite": "102081",
     "routes": [
       {
         "name": "6",
@@ -305,7 +305,7 @@
     "name": "Cesta XV",
     "lat": 46.045631,
     "lon": 14.480826,
-    "opposite": "103102",
+    "opposite": "703021",
     "routes": [
       {
         "name": "14",
@@ -323,7 +323,7 @@
     "name": "Prekmurska",
     "lat": 46.06488,
     "lon": 14.517277,
-    "opposite": "103102",
+    "opposite": "202022",
     "routes": [
       {
         "name": "7",
@@ -349,7 +349,7 @@
     "name": "Kolodvor Črnuče",
     "lat": 46.101528,
     "lon": 14.526121,
-    "opposite": "104101",
+    "opposite": "104102",
     "routes": [
       {
         "name": "6",
@@ -375,7 +375,7 @@
     "name": "Draveljska gmajna",
     "lat": 46.073818,
     "lon": 14.461228,
-    "opposite": null,
+    "opposite": "803152",
     "routes": [
       {
         "name": "5",
@@ -393,7 +393,7 @@
     "name": "Aškerčeva",
     "lat": 46.046673,
     "lon": 14.499275,
-    "opposite": "602052",
+    "opposite": "602051",
     "routes": [
       {
         "name": "1",
@@ -415,7 +415,7 @@
     "name": "Koseze",
     "lat": 46.072159,
     "lon": 14.467331,
-    "opposite": "803141",
+    "opposite": "803142",
     "routes": [
       {
         "name": "5",
@@ -437,7 +437,7 @@
     "name": "Draga",
     "lat": 46.068005,
     "lon": 14.476573,
-    "opposite": null,
+    "opposite": "803222",
     "routes": [
       {
         "name": "18",
@@ -455,7 +455,7 @@
     "name": "Pot Rdečega križa",
     "lat": 46.047157,
     "lon": 14.461756,
-    "opposite": "415031",
+    "opposite": "703192",
     "routes": [
       {
         "name": "14",
@@ -473,7 +473,7 @@
     "name": "Tivoli",
     "lat": 46.060333,
     "lon": 14.497625,
-    "opposite": "415031",
+    "opposite": "801011",
     "routes": [
       {
         "name": "1",
@@ -515,7 +515,7 @@
     "name": "Hrastje",
     "lat": 46.074799,
     "lon": 14.563823,
-    "opposite": "415031",
+    "opposite": "204061",
     "routes": [
       {
         "name": "12",
@@ -537,7 +537,7 @@
     "name": "Podgrad",
     "lat": 46.06855,
     "lon": 14.638023,
-    "opposite": "415031",
+    "opposite": "204262",
     "routes": [
       {
         "name": "10",
@@ -555,7 +555,7 @@
     "name": "Cesta na Vevče",
     "lat": 46.053875,
     "lon": 14.58887,
-    "opposite": "415031",
+    "opposite": "304091",
     "routes": [
       {
         "name": "11",
@@ -585,7 +585,7 @@
     "name": "Cankarjev dom",
     "lat": 46.050785,
     "lon": 14.498333,
-    "opposite": "415031",
+    "opposite": "602012",
     "routes": [
       {
         "name": "14",
@@ -607,7 +607,7 @@
     "name": "Tovarna Lek",
     "lat": 46.0793,
     "lon": 14.501104,
-    "opposite": "415031",
+    "opposite": "103052",
     "routes": [
       {
         "name": "18",
@@ -625,7 +625,7 @@
     "name": "Ob daljnovodu",
     "lat": 46.113113,
     "lon": 14.461656,
-    "opposite": "415031",
+    "opposite": "804112",
     "routes": [
       {
         "name": "1",
@@ -647,7 +647,7 @@
     "name": "Spodnji Rudnik",
     "lat": 46.022934,
     "lon": 14.540344,
-    "opposite": "415031",
+    "opposite": "504021",
     "routes": [
       {
         "name": "3",
@@ -681,7 +681,7 @@
     "name": "Vič Glince",
     "lat": 46.043812,
     "lon": 14.483852,
-    "opposite": "415031",
+    "opposite": "703082",
     "routes": [
       {
         "name": "6",
@@ -723,7 +723,7 @@
     "name": "BTC-Merkur",
     "lat": 46.063522,
     "lon": 14.547042,
-    "opposite": "415031",
+    "opposite": "203242",
     "routes": [
       {
         "name": "24",
@@ -741,7 +741,7 @@
     "name": "Besnica kamnolom",
     "lat": 46.02047,
     "lon": 14.710193,
-    "opposite": "415031",
+    "opposite": "405062",
     "routes": [
       {
         "name": "10",
@@ -763,7 +763,7 @@
     "name": "Hrušica",
     "lat": 46.045238,
     "lon": 14.560275,
-    "opposite": "415031",
+    "opposite": "404011",
     "routes": [
       {
         "name": "13",
@@ -781,7 +781,7 @@
     "name": "Rast",
     "lat": 46.046795,
     "lon": 14.551751,
-    "opposite": null,
+    "opposite": "403061",
     "routes": [
       {
         "name": "13",
@@ -799,7 +799,7 @@
     "name": "OŠ Sostro",
     "lat": 46.035091,
     "lon": 14.599316,
-    "opposite": "404162",
+    "opposite": "404161",
     "routes": [
       {
         "name": "24",
@@ -821,7 +821,7 @@
     "name": "Brodarjev trg",
     "lat": 46.054253,
     "lon": 14.553328,
-    "opposite": "303072",
+    "opposite": "303071",
     "routes": [
       {
         "name": "20",
@@ -847,7 +847,7 @@
     "name": "Kališnikov trg",
     "lat": 46.093739,
     "lon": 14.510587,
-    "opposite": "104021",
+    "opposite": "104022",
     "routes": [
       {
         "name": "14",
@@ -865,7 +865,7 @@
     "name": "Parmova",
     "lat": 46.063877,
     "lon": 14.504646,
-    "opposite": null,
+    "opposite": "101021",
     "routes": [
       {
         "name": "14",
@@ -883,7 +883,7 @@
     "name": "Rutar",
     "lat": 46.000443,
     "lon": 14.476995,
-    "opposite": "614061",
+    "opposite": "614062",
     "routes": [
       {
         "name": "19",
@@ -901,7 +901,7 @@
     "name": "Aleja",
     "lat": 46.076855,
     "lon": 14.482358,
-    "opposite": "803021",
+    "opposite": "803022",
     "routes": [
       {
         "name": "1",
@@ -923,7 +923,7 @@
     "name": "Besnica šola",
     "lat": 46.035179,
     "lon": 14.658356,
-    "opposite": null,
+    "opposite": "405031",
     "routes": [
       {
         "name": "10",
@@ -945,7 +945,7 @@
     "name": "Mirje",
     "lat": 46.04586,
     "lon": 14.500716,
-    "opposite": "602072",
+    "opposite": "602071",
     "routes": [
       {
         "name": "9",
@@ -963,7 +963,7 @@
     "name": "Murkova",
     "lat": 46.07428,
     "lon": 14.448434,
-    "opposite": "804221",
+    "opposite": "804211",
     "routes": [
       {
         "name": "5",
@@ -981,7 +981,7 @@
     "name": "PODUTIK",
     "lat": 46.074604,
     "lon": 14.443898,
-    "opposite": "804221",
+    "opposite": null,
     "routes": [
       {
         "name": "5",
@@ -999,7 +999,7 @@
     "name": "Pot na Rakovo jelšo",
     "lat": 46.032867,
     "lon": 14.501381,
-    "opposite": "603071",
+    "opposite": "603072",
     "routes": [
       {
         "name": "9",
@@ -1021,7 +1021,7 @@
     "name": "Bratov Babnik",
     "lat": 46.074638,
     "lon": 14.462795,
-    "opposite": null,
+    "opposite": "803162",
     "routes": [
       {
         "name": "22",
@@ -1039,7 +1039,7 @@
     "name": "Stadion",
     "lat": 46.069427,
     "lon": 14.510455,
-    "opposite": "204213",
+    "opposite": "102041",
     "routes": [
       {
         "name": "6",
@@ -1065,7 +1065,7 @@
     "name": "Agrokombinatska",
     "lat": 46.069786,
     "lon": 14.603301,
-    "opposite": null,
+    "opposite": "204214",
     "routes": [
       {
         "name": "10",
@@ -1083,7 +1083,7 @@
     "name": "Zidarjevec",
     "lat": 46.002617,
     "lon": 14.481927,
-    "opposite": "404132",
+    "opposite": "614051",
     "routes": [
       {
         "name": "19",
@@ -1101,7 +1101,7 @@
     "name": "Ostrovrhar",
     "lat": 46.066586,
     "lon": 14.636956,
-    "opposite": "404132",
+    "opposite": "204362",
     "routes": [
       {
         "name": "10",
@@ -1119,7 +1119,7 @@
     "name": "Kristalna palača",
     "lat": 46.066956,
     "lon": 14.542056,
-    "opposite": "404132",
+    "opposite": "203112",
     "routes": [
       {
         "name": "27",
@@ -1137,7 +1137,7 @@
     "name": "Dobrunje-2",
     "lat": 46.038139,
     "lon": 14.58295,
-    "opposite": "404132",
+    "opposite": "404131",
     "routes": [
       {
         "name": "24",
@@ -1155,7 +1155,7 @@
     "name": "Tržnica Koseze",
     "lat": 46.074005,
     "lon": 14.475859,
-    "opposite": null,
+    "opposite": "803102",
     "routes": [
       {
         "name": "7",
@@ -1173,7 +1173,7 @@
     "name": "Golouhova",
     "lat": 46.031422,
     "lon": 14.517055,
-    "opposite": "603151",
+    "opposite": "603152",
     "routes": [
       {
         "name": "27",
@@ -1191,7 +1191,7 @@
     "name": "Gosposvetska",
     "lat": 46.054905,
     "lon": 14.503717,
-    "opposite": null,
+    "opposite": "700012",
     "routes": [
       {
         "name": "1",
@@ -1237,7 +1237,7 @@
     "name": "Hrastje",
     "lat": 46.075058,
     "lon": 14.563962,
-    "opposite": "204061",
+    "opposite": "204062",
     "routes": [
       {
         "name": "12",
@@ -1259,7 +1259,7 @@
     "name": "Chengdujska",
     "lat": 46.055176,
     "lon": 14.565897,
-    "opposite": null,
+    "opposite": "304042",
     "routes": [
       {
         "name": "11",
@@ -1277,7 +1277,7 @@
     "name": "Nusdorferjeva",
     "lat": 46.049553,
     "lon": 14.547837,
-    "opposite": "303082",
+    "opposite": "303081",
     "routes": [
       {
         "name": "5",
@@ -1299,7 +1299,7 @@
     "name": "Podpeč",
     "lat": 45.973492,
     "lon": 14.421047,
-    "opposite": "745051",
+    "opposite": "745052",
     "routes": [
       {
         "name": "19",
@@ -1317,7 +1317,7 @@
     "name": "Rudnik",
     "lat": 46.018452,
     "lon": 14.543306,
-    "opposite": "504033",
+    "opposite": null,
     "routes": [
       {
         "name": "3",
@@ -1335,7 +1335,7 @@
     "name": "Letališka",
     "lat": 46.062237,
     "lon": 14.569026,
-    "opposite": null,
+    "opposite": "204042",
     "routes": [
       {
         "name": "27",
@@ -1353,7 +1353,7 @@
     "name": "Saturnus",
     "lat": 46.067265,
     "lon": 14.608861,
-    "opposite": "803042",
+    "opposite": null,
     "routes": [
       {
         "name": "11",
@@ -1375,7 +1375,7 @@
     "name": "Archinetova",
     "lat": 46.056038,
     "lon": 14.556876,
-    "opposite": "803042",
+    "opposite": "303061",
     "routes": [
       {
         "name": "11",
@@ -1393,7 +1393,7 @@
     "name": "Pod Kamno gorico",
     "lat": 46.0737,
     "lon": 14.456132,
-    "opposite": "803042",
+    "opposite": null,
     "routes": [
       {
         "name": "5",
@@ -1411,7 +1411,7 @@
     "name": "Besnica ambulanta",
     "lat": 46.033226,
     "lon": 14.687512,
-    "opposite": "803042",
+    "opposite": "405051",
     "routes": [
       {
         "name": "10",
@@ -1433,7 +1433,7 @@
     "name": "Nove Žale",
     "lat": 46.074604,
     "lon": 14.531805,
-    "opposite": "803042",
+    "opposite": "203072",
     "routes": [
       {
         "name": "19",
@@ -1451,7 +1451,7 @@
     "name": "Žale",
     "lat": 46.065865,
     "lon": 14.527225,
-    "opposite": "803042",
+    "opposite": "202061",
     "routes": [
       {
         "name": "2",
@@ -1481,7 +1481,7 @@
     "name": "Remiza",
     "lat": 46.074207,
     "lon": 14.485511,
-    "opposite": "803042",
+    "opposite": null,
     "routes": [
       {
         "name": "1",
@@ -1507,7 +1507,7 @@
     "name": "Dobrunjska c.",
     "lat": 46.038628,
     "lon": 14.578162,
-    "opposite": "803042",
+    "opposite": "404182",
     "routes": [
       {
         "name": "24",
@@ -1525,7 +1525,7 @@
     "name": "Astra",
     "lat": 46.065002,
     "lon": 14.509102,
-    "opposite": "803042",
+    "opposite": "101051",
     "routes": [
       {
         "name": "6",
@@ -1559,7 +1559,7 @@
     "name": "Iški most",
     "lat": 46.019913,
     "lon": 14.510347,
-    "opposite": "803042",
+    "opposite": "604011",
     "routes": [
       {
         "name": "19",
@@ -1577,7 +1577,7 @@
     "name": "Pot v Hrastovec",
     "lat": 46.107491,
     "lon": 14.532883,
-    "opposite": "803042",
+    "opposite": "104141",
     "routes": [
       {
         "name": "28",
@@ -1595,7 +1595,7 @@
     "name": "Center Zalog",
     "lat": 46.060871,
     "lon": 14.613598,
-    "opposite": "803042",
+    "opposite": "204182",
     "routes": [
       {
         "name": "10",
@@ -1621,7 +1621,7 @@
     "name": "Kardeljeva ploščad",
     "lat": 46.071896,
     "lon": 14.519063,
-    "opposite": "803042",
+    "opposite": "102092",
     "routes": [
       {
         "name": "13",
@@ -1643,7 +1643,7 @@
     "name": "IMP",
     "lat": 46.088715,
     "lon": 14.477612,
-    "opposite": "803042",
+    "opposite": "804162",
     "routes": [
       {
         "name": "8",
@@ -1661,7 +1661,7 @@
     "name": "Polje",
     "lat": 46.053757,
     "lon": 14.583648,
-    "opposite": "803042",
+    "opposite": "304071",
     "routes": [
       {
         "name": "11",
@@ -1691,7 +1691,7 @@
     "name": "Andreja Bitenca",
     "lat": 46.085831,
     "lon": 14.464863,
-    "opposite": "803042",
+    "opposite": "804172",
     "routes": [
       {
         "name": "7",
@@ -1709,7 +1709,7 @@
     "name": "Sneberska",
     "lat": 46.070339,
     "lon": 14.596972,
-    "opposite": "803042",
+    "opposite": "204322",
     "routes": [
       {
         "name": "10",
@@ -1727,7 +1727,7 @@
     "name": "Kodrova",
     "lat": 46.069187,
     "lon": 14.541571,
-    "opposite": "803042",
+    "opposite": "203101",
     "routes": [
       {
         "name": "2",
@@ -1757,7 +1757,7 @@
     "name": "Dravlje",
     "lat": 46.083649,
     "lon": 14.477962,
-    "opposite": "803042",
+    "opposite": "803041",
     "routes": [
       {
         "name": "1",
@@ -1779,7 +1779,7 @@
     "name": "Mostovna",
     "lat": 46.074238,
     "lon": 14.499622,
-    "opposite": "102062",
+    "opposite": "102061",
     "routes": [
       {
         "name": "18",
@@ -1797,7 +1797,7 @@
     "name": "Cesta v Gorice",
     "lat": 46.032284,
     "lon": 14.464581,
-    "opposite": null,
+    "opposite": "704152",
     "routes": [
       {
         "name": "1",
@@ -1819,7 +1819,7 @@
     "name": "Ježica",
     "lat": 46.09745,
     "lon": 14.516942,
-    "opposite": null,
+    "opposite": "104032",
     "routes": [
       {
         "name": "6",
@@ -1845,7 +1845,7 @@
     "name": "Zadvor-2",
     "lat": 46.035881,
     "lon": 14.596593,
-    "opposite": null,
+    "opposite": "404151",
     "routes": [
       {
         "name": "24",
@@ -1863,7 +1863,7 @@
     "name": "Mestni log",
     "lat": 46.030689,
     "lon": 14.471709,
-    "opposite": "614101",
+    "opposite": "604031",
     "routes": [
       {
         "name": "1",
@@ -1881,7 +1881,7 @@
     "name": "Zidarjevec 2",
     "lat": 46.004047,
     "lon": 14.485861,
-    "opposite": "614101",
+    "opposite": "614102",
     "routes": [
       {
         "name": "19",
@@ -1899,7 +1899,7 @@
     "name": "Tovorni kolodvor",
     "lat": 46.060337,
     "lon": 14.539637,
-    "opposite": "203062",
+    "opposite": "203061",
     "routes": [
       {
         "name": "2",
@@ -1925,7 +1925,7 @@
     "name": "Sostro",
     "lat": 46.031719,
     "lon": 14.604608,
-    "opposite": "404093",
+    "opposite": null,
     "routes": [
       {
         "name": "26",
@@ -1943,7 +1943,7 @@
     "name": "Ilirska",
     "lat": 46.053055,
     "lon": 14.513493,
-    "opposite": "404082",
+    "opposite": "501012",
     "routes": [
       {
         "name": "5",
@@ -1961,7 +1961,7 @@
     "name": "Vnajnarje",
     "lat": 46.04208,
     "lon": 14.64573,
-    "opposite": "405092",
+    "opposite": "405091",
     "routes": [
       {
         "name": "10",
@@ -1979,7 +1979,7 @@
     "name": "Svetčeva",
     "lat": 46.052612,
     "lon": 14.488079,
-    "opposite": "702031",
+    "opposite": "702032",
     "routes": [
       {
         "name": "18",
@@ -1997,7 +1997,7 @@
     "name": "Rutar",
     "lat": 45.99992,
     "lon": 14.475585,
-    "opposite": "614062",
+    "opposite": "614061",
     "routes": [
       {
         "name": "19",
@@ -2015,7 +2015,7 @@
     "name": "Agrokombinatska",
     "lat": 46.069065,
     "lon": 14.605742,
-    "opposite": "415091",
+    "opposite": "204211",
     "routes": [
       {
         "name": "11",
@@ -2037,7 +2037,7 @@
     "name": "Križišče Sostro",
     "lat": 46.037113,
     "lon": 14.6078,
-    "opposite": "415091",
+    "opposite": "404081",
     "routes": [
       {
         "name": "13",
@@ -2063,7 +2063,7 @@
     "name": "Primožičeva",
     "lat": 46.102913,
     "lon": 14.530358,
-    "opposite": "104113",
+    "opposite": null,
     "routes": [
       {
         "name": "28",
@@ -2081,7 +2081,7 @@
     "name": "Križanke",
     "lat": 46.046207,
     "lon": 14.501891,
-    "opposite": "304042",
+    "opposite": "602062",
     "routes": [
       {
         "name": "2",
@@ -2115,7 +2115,7 @@
     "name": "Vič",
     "lat": 46.042103,
     "lon": 14.477929,
-    "opposite": "304042",
+    "opposite": "703092",
     "routes": [
       {
         "name": "6",
@@ -2161,7 +2161,7 @@
     "name": "Chengdujska",
     "lat": 46.054874,
     "lon": 14.56765,
-    "opposite": "304042",
+    "opposite": "304041",
     "routes": [
       {
         "name": "11",
@@ -2187,7 +2187,7 @@
     "name": "Na Žalah",
     "lat": 46.071674,
     "lon": 14.52962,
-    "opposite": null,
+    "opposite": "203231",
     "routes": [
       {
         "name": "19",
@@ -2205,7 +2205,7 @@
     "name": "Besnica šola",
     "lat": 46.035515,
     "lon": 14.65753,
-    "opposite": null,
+    "opposite": "405032",
     "routes": [
       {
         "name": "10",
@@ -2227,7 +2227,7 @@
     "name": "Draveljska gmajna",
     "lat": 46.073975,
     "lon": 14.46131,
-    "opposite": null,
+    "opposite": "803151",
     "routes": [
       {
         "name": "5",
@@ -2245,7 +2245,7 @@
     "name": "Pri Dolencu",
     "lat": 46.017799,
     "lon": 14.640197,
-    "opposite": null,
+    "opposite": "415092",
     "routes": [
       {
         "name": "26",
@@ -2263,7 +2263,7 @@
     "name": "Besnica",
     "lat": 46.036812,
     "lon": 14.650412,
-    "opposite": "405022",
+    "opposite": "405021",
     "routes": [
       {
         "name": "10",
@@ -2285,7 +2285,7 @@
     "name": "Pot heroja Trtnika",
     "lat": 46.043736,
     "lon": 14.595042,
-    "opposite": null,
+    "opposite": "404192",
     "routes": [
       {
         "name": "24",
@@ -2307,7 +2307,7 @@
     "name": "Center Zalog",
     "lat": 46.061085,
     "lon": 14.613663,
-    "opposite": "204182",
+    "opposite": "204181",
     "routes": [
       {
         "name": "10",
@@ -2333,7 +2333,7 @@
     "name": "Sadinja vas",
     "lat": 46.021717,
     "lon": 14.612183,
-    "opposite": null,
+    "opposite": "415012",
     "routes": [
       {
         "name": "26",
@@ -2351,7 +2351,7 @@
     "name": "Podmornica",
     "lat": 46.047398,
     "lon": 14.464309,
-    "opposite": null,
+    "opposite": "703051",
     "routes": [
       {
         "name": "14",
@@ -2387,7 +2387,7 @@
     "name": "Pot v Hrastovec",
     "lat": 46.108341,
     "lon": 14.532182,
-    "opposite": null,
+    "opposite": "104142",
     "routes": [
       {
         "name": "28",
@@ -2405,7 +2405,7 @@
     "name": "Veliki štradon",
     "lat": 46.037743,
     "lon": 14.505013,
-    "opposite": null,
+    "opposite": "603082",
     "routes": [
       {
         "name": "16",
@@ -2427,7 +2427,7 @@
     "name": "Bavarski dvor",
     "lat": 46.05621,
     "lon": 14.505406,
-    "opposite": null,
+    "opposite": "600012",
     "routes": [
       {
         "name": "2",
@@ -2517,7 +2517,7 @@
     "name": "Škofljica špica",
     "lat": 45.984352,
     "lon": 14.574566,
-    "opposite": "702022",
+    "opposite": null,
     "routes": [
       {
         "name": "3",
@@ -2535,7 +2535,7 @@
     "name": "Na klancu",
     "lat": 46.104271,
     "lon": 14.462786,
-    "opposite": "702022",
+    "opposite": "804092",
     "routes": [
       {
         "name": "1",
@@ -2561,7 +2561,7 @@
     "name": "Tovorni kolodvor",
     "lat": 46.061638,
     "lon": 14.538949,
-    "opposite": "702022",
+    "opposite": "203062",
     "routes": [
       {
         "name": "2",
@@ -2583,7 +2583,7 @@
     "name": "Trebeljevo",
     "lat": 46.013218,
     "lon": 14.7383,
-    "opposite": "702022",
+    "opposite": "406022",
     "routes": [
       {
         "name": "10",
@@ -2605,7 +2605,7 @@
     "name": "Tbilisijska",
     "lat": 46.034084,
     "lon": 14.477067,
-    "opposite": "702022",
+    "opposite": "603143",
     "routes": [
       {
         "name": "16",
@@ -2623,7 +2623,7 @@
     "name": "Kristalna palača",
     "lat": 46.066818,
     "lon": 14.541902,
-    "opposite": "702022",
+    "opposite": "203111",
     "routes": [
       {
         "name": "27",
@@ -2641,7 +2641,7 @@
     "name": "Zidarjevec",
     "lat": 46.002819,
     "lon": 14.482655,
-    "opposite": "702022",
+    "opposite": "614052",
     "routes": [
       {
         "name": "19",
@@ -2659,7 +2659,7 @@
     "name": "Štepanja vas",
     "lat": 46.048023,
     "lon": 14.537374,
-    "opposite": "702022",
+    "opposite": "403042",
     "routes": [
       {
         "name": "13",
@@ -2677,7 +2677,7 @@
     "name": "Stožice",
     "lat": 46.08596,
     "lon": 14.513835,
-    "opposite": "702022",
+    "opposite": "103102",
     "routes": [
       {
         "name": "6",
@@ -2707,7 +2707,7 @@
     "name": "Bratov Židan",
     "lat": 46.065392,
     "lon": 14.503077,
-    "opposite": "702022",
+    "opposite": "101061",
     "routes": [
       {
         "name": "14",
@@ -2725,7 +2725,7 @@
     "name": "Besnica",
     "lat": 46.036663,
     "lon": 14.650791,
-    "opposite": "702022",
+    "opposite": "405022",
     "routes": [
       {
         "name": "10",
@@ -2747,7 +2747,7 @@
     "name": "Savske stolpnice",
     "lat": 46.065926,
     "lon": 14.523151,
-    "opposite": "702022",
+    "opposite": "202031",
     "routes": [
       {
         "name": "7",
@@ -2777,7 +2777,7 @@
     "name": "Veliki Lipoglav",
     "lat": 46.00536,
     "lon": 14.65318,
-    "opposite": "702022",
+    "opposite": "415032",
     "routes": [
       {
         "name": "26",
@@ -2813,7 +2813,7 @@
     "name": "Kolodvor",
     "lat": 46.057659,
     "lon": 14.509347,
-    "opposite": null,
+    "opposite": "300012",
     "routes": [
       {
         "name": "2",
@@ -2847,7 +2847,7 @@
     "name": "Ostrovrhar",
     "lat": 46.066273,
     "lon": 14.636827,
-    "opposite": "204252",
+    "opposite": "204361",
     "routes": [
       {
         "name": "10",
@@ -2865,7 +2865,7 @@
     "name": "Polanškova",
     "lat": 46.105934,
     "lon": 14.525826,
-    "opposite": "104121",
+    "opposite": "104122",
     "routes": [
       {
         "name": "28",
@@ -2883,7 +2883,7 @@
     "name": "Razstavišče",
     "lat": 46.061157,
     "lon": 14.507648,
-    "opposite": null,
+    "opposite": "100021",
     "routes": [
       {
         "name": "6",
@@ -2933,7 +2933,7 @@
     "name": "Novo Polje",
     "lat": 46.063282,
     "lon": 14.583388,
-    "opposite": "204102",
+    "opposite": "204101",
     "routes": [
       {
         "name": "24",
@@ -2955,7 +2955,7 @@
     "name": "Podpeč 1",
     "lat": 45.976238,
     "lon": 14.423148,
-    "opposite": "104341",
+    "opposite": "745112",
     "routes": [
       {
         "name": "19",
@@ -2973,7 +2973,7 @@
     "name": "Trbeže",
     "lat": 46.076588,
     "lon": 14.57598,
-    "opposite": "104341",
+    "opposite": "204251",
     "routes": [
       {
         "name": "24",
@@ -2991,7 +2991,7 @@
     "name": "Podlipoglav",
     "lat": 46.017006,
     "lon": 14.62332,
-    "opposite": "406071",
+    "opposite": "415022",
     "routes": [
       {
         "name": "26",
@@ -3009,7 +3009,7 @@
     "name": "Iški most",
     "lat": 46.02002,
     "lon": 14.510541,
-    "opposite": "604011",
+    "opposite": "604012",
     "routes": [
       {
         "name": "19",
@@ -3027,7 +3027,7 @@
     "name": "Krimska",
     "lat": 46.036613,
     "lon": 14.488987,
-    "opposite": "603032",
+    "opposite": "603031",
     "routes": [
       {
         "name": "1",
@@ -3045,7 +3045,7 @@
     "name": "Klinični center",
     "lat": 46.052433,
     "lon": 14.520597,
-    "opposite": "402031",
+    "opposite": "402032",
     "routes": [
       {
         "name": "2",
@@ -3079,7 +3079,7 @@
     "name": "Brglezov štradon",
     "lat": 46.009579,
     "lon": 14.500181,
-    "opposite": "403052",
+    "opposite": "614021",
     "routes": [
       {
         "name": "19",
@@ -3097,7 +3097,7 @@
     "name": "Sp. Gameljne 2",
     "lat": 46.120613,
     "lon": 14.503759,
-    "opposite": "403052",
+    "opposite": "104342",
     "routes": [
       {
         "name": "28",
@@ -3115,7 +3115,7 @@
     "name": "Tbilisijska",
     "lat": 46.033871,
     "lon": 14.477944,
-    "opposite": "603142",
+    "opposite": "603141",
     "routes": [
       {
         "name": "1",
@@ -3133,7 +3133,7 @@
     "name": "Obrtna cona",
     "lat": 46.097794,
     "lon": 14.542193,
-    "opposite": "104081",
+    "opposite": "104082",
     "routes": [
       {
         "name": "8",
@@ -3151,7 +3151,7 @@
     "name": "Cesta v Kresnice",
     "lat": 46.071465,
     "lon": 14.636081,
-    "opposite": "600032",
+    "opposite": "204272",
     "routes": [
       {
         "name": "10",
@@ -3169,7 +3169,7 @@
     "name": "Emona",
     "lat": 46.0476,
     "lon": 14.545068,
-    "opposite": "600032",
+    "opposite": "403051",
     "routes": [
       {
         "name": "5",
@@ -3195,7 +3195,7 @@
     "name": "Pot na Fužine",
     "lat": 46.05624,
     "lon": 14.549652,
-    "opposite": "303051",
+    "opposite": "303052",
     "routes": [
       {
         "name": "11",
@@ -3225,7 +3225,7 @@
     "name": "Zgornja Šiška",
     "lat": 46.07011,
     "lon": 14.480242,
-    "opposite": "803091",
+    "opposite": "803092",
     "routes": [
       {
         "name": "7",
@@ -3243,7 +3243,7 @@
     "name": "Samova",
     "lat": 46.067104,
     "lon": 14.505334,
-    "opposite": null,
+    "opposite": "102012",
     "routes": [
       {
         "name": "22",
@@ -3261,7 +3261,7 @@
     "name": "Dalmatinova",
     "lat": 46.053883,
     "lon": 14.506376,
-    "opposite": "104372",
+    "opposite": null,
     "routes": [
       {
         "name": "5",
@@ -3287,7 +3287,7 @@
     "name": "Kamna Gorica",
     "lat": 46.078941,
     "lon": 14.46657,
-    "opposite": "803183",
+    "opposite": null,
     "routes": [
       {
         "name": "22",
@@ -3305,7 +3305,7 @@
     "name": "Bratislavska",
     "lat": 46.066135,
     "lon": 14.551472,
-    "opposite": "203181",
+    "opposite": "203182",
     "routes": [
       {
         "name": "7",
@@ -3323,7 +3323,7 @@
     "name": "Obrtna cona",
     "lat": 46.097305,
     "lon": 14.54327,
-    "opposite": null,
+    "opposite": "104081",
     "routes": [
       {
         "name": "8",
@@ -3341,7 +3341,7 @@
     "name": "Akademija",
     "lat": 46.032204,
     "lon": 14.52926,
-    "opposite": null,
+    "opposite": "503032",
     "routes": [
       {
         "name": "3",
@@ -3359,7 +3359,7 @@
     "name": "Toplarna",
     "lat": 46.075718,
     "lon": 14.499967,
-    "opposite": "103011",
+    "opposite": "103012",
     "routes": [
       {
         "name": "18",
@@ -3377,7 +3377,7 @@
     "name": "Dobrunje",
     "lat": 46.042938,
     "lon": 14.580504,
-    "opposite": "104362",
+    "opposite": "404031",
     "routes": [
       {
         "name": "13",
@@ -3395,7 +3395,7 @@
     "name": "Štajerska",
     "lat": 46.076302,
     "lon": 14.525114,
-    "opposite": "104362",
+    "opposite": "103181",
     "routes": [
       {
         "name": "13",
@@ -3421,7 +3421,7 @@
     "name": "Streliška",
     "lat": 46.044979,
     "lon": 14.518373,
-    "opposite": "104362",
+    "opposite": "502031",
     "routes": [
       {
         "name": "11",
@@ -3439,7 +3439,7 @@
     "name": "Ježkova",
     "lat": 46.044769,
     "lon": 14.46225,
-    "opposite": "104362",
+    "opposite": "703201",
     "routes": [
       {
         "name": "14",
@@ -3457,7 +3457,7 @@
     "name": "Pod Rožnikom",
     "lat": 46.051105,
     "lon": 14.491842,
-    "opposite": "104362",
+    "opposite": "702011",
     "routes": [
       {
         "name": "14",
@@ -3475,7 +3475,7 @@
     "name": "Navje",
     "lat": 46.059872,
     "lon": 14.512282,
-    "opposite": "104362",
+    "opposite": "100012",
     "routes": [
       {
         "name": "12",
@@ -3497,7 +3497,7 @@
     "name": "Zadobrova",
     "lat": 46.072594,
     "lon": 14.5804,
-    "opposite": "104362",
+    "opposite": null,
     "routes": [
       {
         "name": "10",
@@ -3519,7 +3519,7 @@
     "name": "Kozler",
     "lat": 45.995094,
     "lon": 14.465093,
-    "opposite": "104362",
+    "opposite": "614081",
     "routes": [
       {
         "name": "19",
@@ -3537,7 +3537,7 @@
     "name": "Cesta na Brod",
     "lat": 46.096611,
     "lon": 14.546191,
-    "opposite": "104362",
+    "opposite": "104092",
     "routes": [
       {
         "name": "8",
@@ -3555,7 +3555,7 @@
     "name": "TOMAČEVO",
     "lat": 46.079483,
     "lon": 14.536586,
-    "opposite": "104362",
+    "opposite": null,
     "routes": [
       {
         "name": "19",
@@ -3573,7 +3573,7 @@
     "name": "Tacenski most",
     "lat": 46.117733,
     "lon": 14.461617,
-    "opposite": "104362",
+    "opposite": "804142",
     "routes": [
       {
         "name": "1",
@@ -3599,7 +3599,7 @@
     "name": "GD Gameljne",
     "lat": 46.126118,
     "lon": 14.499509,
-    "opposite": "104362",
+    "opposite": "104361",
     "routes": [
       {
         "name": "28",
@@ -3617,7 +3617,7 @@
     "name": "Kneza Koclja",
     "lat": 46.071255,
     "lon": 14.480691,
-    "opposite": null,
+    "opposite": "803082",
     "routes": [
       {
         "name": "5",
@@ -3643,7 +3643,7 @@
     "name": "Viško polje",
     "lat": 46.045956,
     "lon": 14.469599,
-    "opposite": "415051",
+    "opposite": "703042",
     "routes": [
       {
         "name": "14",
@@ -3661,7 +3661,7 @@
     "name": "Drama",
     "lat": 46.048771,
     "lon": 14.501769,
-    "opposite": null,
+    "opposite": "602021",
     "routes": [
       {
         "name": "1",
@@ -3707,7 +3707,7 @@
     "name": "Pance",
     "lat": 45.988564,
     "lon": 14.664058,
-    "opposite": null,
+    "opposite": "415052",
     "routes": [
       {
         "name": "26",
@@ -3725,7 +3725,7 @@
     "name": "Stara Ježica",
     "lat": 46.093525,
     "lon": 14.51538,
-    "opposite": null,
+    "opposite": "104371",
     "routes": [
       {
         "name": "6",
@@ -3751,7 +3751,7 @@
     "name": "Orlova",
     "lat": 46.038559,
     "lon": 14.516653,
-    "opposite": "503014",
+    "opposite": null,
     "routes": [
       {
         "name": "27",
@@ -3769,7 +3769,7 @@
     "name": "Tbilisijska",
     "lat": 46.034046,
     "lon": 14.477324,
-    "opposite": "603143",
+    "opposite": "603144",
     "routes": [
       {
         "name": "16",
@@ -3787,7 +3787,7 @@
     "name": "Ruski car",
     "lat": 46.090206,
     "lon": 14.513775,
-    "opposite": "703032",
+    "opposite": "103132",
     "routes": [
       {
         "name": "6",
@@ -3813,7 +3813,7 @@
     "name": "Jamnikarjeva",
     "lat": 46.045223,
     "lon": 14.473973,
-    "opposite": "703032",
+    "opposite": "703031",
     "routes": [
       {
         "name": "14",
@@ -3831,7 +3831,7 @@
     "name": "Puhova",
     "lat": 46.077114,
     "lon": 14.519713,
-    "opposite": "103042",
+    "opposite": "103041",
     "routes": [
       {
         "name": "20",
@@ -3849,7 +3849,7 @@
     "name": "Jurečič",
     "lat": 45.989647,
     "lon": 14.452224,
-    "opposite": "614112",
+    "opposite": "614111",
     "routes": [
       {
         "name": "19",
@@ -3867,7 +3867,7 @@
     "name": "Kodeljevo",
     "lat": 46.052147,
     "lon": 14.539114,
-    "opposite": null,
+    "opposite": "403022",
     "routes": [
       {
         "name": "9",
@@ -3889,7 +3889,7 @@
     "name": "Žale",
     "lat": 46.066586,
     "lon": 14.528299,
-    "opposite": "202061",
+    "opposite": "202062",
     "routes": [
       {
         "name": "2",
@@ -3919,7 +3919,7 @@
     "name": "Ledena dvorana Zalog",
     "lat": 46.062355,
     "lon": 14.606994,
-    "opposite": null,
+    "opposite": "204302",
     "routes": [
       {
         "name": "10",
@@ -3937,7 +3937,7 @@
     "name": "Smelt",
     "lat": 46.082478,
     "lon": 14.513068,
-    "opposite": "103071",
+    "opposite": "103072",
     "routes": [
       {
         "name": "6",
@@ -3967,7 +3967,7 @@
     "name": "Podlipoglav",
     "lat": 46.01696,
     "lon": 14.623319,
-    "opposite": "406011",
+    "opposite": "415021",
     "routes": [
       {
         "name": "26",
@@ -3985,7 +3985,7 @@
     "name": "Šemnikar",
     "lat": 46.019505,
     "lon": 14.717798,
-    "opposite": "406011",
+    "opposite": "406012",
     "routes": [
       {
         "name": "10",
@@ -4007,7 +4007,7 @@
     "name": "Baragova",
     "lat": 46.076294,
     "lon": 14.515507,
-    "opposite": null,
+    "opposite": "103212",
     "routes": [
       {
         "name": "18",
@@ -4025,7 +4025,7 @@
     "name": "Brglezov štradon",
     "lat": 46.01004,
     "lon": 14.501587,
-    "opposite": "614021",
+    "opposite": "614022",
     "routes": [
       {
         "name": "19",
@@ -4043,7 +4043,7 @@
     "name": "Ježkova",
     "lat": 46.045315,
     "lon": 14.462172,
-    "opposite": "502011",
+    "opposite": "703202",
     "routes": [
       {
         "name": "14",
@@ -4061,7 +4061,7 @@
     "name": "Pod Golovcem",
     "lat": 46.048416,
     "lon": 14.529776,
-    "opposite": null,
+    "opposite": "403031",
     "routes": [
       {
         "name": "13",
@@ -4079,7 +4079,7 @@
     "name": "Zgornji log",
     "lat": 46.032745,
     "lon": 14.462317,
-    "opposite": "704142",
+    "opposite": "704141",
     "routes": [
       {
         "name": "1",
@@ -4101,7 +4101,7 @@
     "name": "Barje",
     "lat": 46.016033,
     "lon": 14.511757,
-    "opposite": "604023",
+    "opposite": null,
     "routes": [
       {
         "name": "19",
@@ -4119,7 +4119,7 @@
     "name": "Čebelarska",
     "lat": 46.079052,
     "lon": 14.471246,
-    "opposite": null,
+    "opposite": "803112",
     "routes": [
       {
         "name": "7",
@@ -4137,7 +4137,7 @@
     "name": "Ob sotočju",
     "lat": 46.054035,
     "lon": 14.539985,
-    "opposite": "303032",
+    "opposite": null,
     "routes": [
       {
         "name": "9",
@@ -4159,7 +4159,7 @@
     "name": "Slovenija avto",
     "lat": 46.073196,
     "lon": 14.48622,
-    "opposite": null,
+    "opposite": "803012",
     "routes": [
       {
         "name": "1",
@@ -4201,7 +4201,7 @@
     "name": "Cesta na Vevče",
     "lat": 46.054001,
     "lon": 14.588969,
-    "opposite": "304091",
+    "opposite": "304092",
     "routes": [
       {
         "name": "11",
@@ -4231,7 +4231,7 @@
     "name": "Šentvid",
     "lat": 46.095272,
     "lon": 14.466693,
-    "opposite": null,
+    "opposite": "804042",
     "routes": [
       {
         "name": "1",
@@ -4261,7 +4261,7 @@
     "name": "Poljanska",
     "lat": 46.050415,
     "lon": 14.514441,
-    "opposite": null,
+    "opposite": "502012",
     "routes": [
       {
         "name": "2",
@@ -4287,7 +4287,7 @@
     "name": "Pod Hribom",
     "lat": 46.006317,
     "lon": 14.549175,
-    "opposite": "600021",
+    "opposite": "504072",
     "routes": [
       {
         "name": "3",
@@ -4309,7 +4309,7 @@
     "name": "Mihov štradon",
     "lat": 46.029583,
     "lon": 14.52111,
-    "opposite": "600021",
+    "opposite": "503052",
     "routes": [
       {
         "name": "27",
@@ -4327,7 +4327,7 @@
     "name": "Štajerska",
     "lat": 46.074558,
     "lon": 14.524525,
-    "opposite": "600021",
+    "opposite": "103182",
     "routes": [
       {
         "name": "24",
@@ -4345,7 +4345,7 @@
     "name": "Tacen",
     "lat": 46.120239,
     "lon": 14.466937,
-    "opposite": "600021",
+    "opposite": "804152",
     "routes": [
       {
         "name": "1",
@@ -4367,7 +4367,7 @@
     "name": "Lavrica pri Malči",
     "lat": 46.001583,
     "lon": 14.554269,
-    "opposite": "600021",
+    "opposite": "504081",
     "routes": [
       {
         "name": "3",
@@ -4397,7 +4397,7 @@
     "name": "KPL",
     "lat": 46.041267,
     "lon": 14.592929,
-    "opposite": "600021",
+    "opposite": "404051",
     "routes": [
       {
         "name": "13",
@@ -4415,7 +4415,7 @@
     "name": "Jarše",
     "lat": 46.068726,
     "lon": 14.538576,
-    "opposite": "600021",
+    "opposite": "203091",
     "routes": [
       {
         "name": "2",
@@ -4449,7 +4449,7 @@
     "name": "Tehnounion",
     "lat": 46.086704,
     "lon": 14.47993,
-    "opposite": "600021",
+    "opposite": "803071",
     "routes": [
       {
         "name": "8",
@@ -4467,7 +4467,7 @@
     "name": "Yulon",
     "lat": 46.061871,
     "lon": 14.550273,
-    "opposite": "600021",
+    "opposite": "203191",
     "routes": [
       {
         "name": "7",
@@ -4489,7 +4489,7 @@
     "name": "Gorjančeva",
     "lat": 46.085064,
     "lon": 14.50756,
-    "opposite": "600021",
+    "opposite": "103092",
     "routes": [
       {
         "name": "14",
@@ -4511,7 +4511,7 @@
     "name": "Sava",
     "lat": 46.100777,
     "lon": 14.52176,
-    "opposite": "600021",
+    "opposite": "104051",
     "routes": [
       {
         "name": "6",
@@ -4537,7 +4537,7 @@
     "name": "Sava",
     "lat": 46.100613,
     "lon": 14.521277,
-    "opposite": "600021",
+    "opposite": null,
     "routes": [
       {
         "name": "8",
@@ -4555,7 +4555,7 @@
     "name": "TUJI GRM",
     "lat": 46.051102,
     "lon": 14.720887,
-    "opposite": "600021",
+    "opposite": null,
     "routes": [
       {
         "name": "10",
@@ -4577,7 +4577,7 @@
     "name": "Sostro - 2",
     "lat": 46.0331,
     "lon": 14.604354,
-    "opposite": "600021",
+    "opposite": "404202",
     "routes": [
       {
         "name": "13",
@@ -4603,7 +4603,7 @@
     "name": "JEZERO",
     "lat": 45.970776,
     "lon": 14.434675,
-    "opposite": "600021",
+    "opposite": null,
     "routes": [
       {
         "name": "19",
@@ -4621,7 +4621,7 @@
     "name": "Livada",
     "lat": 46.034203,
     "lon": 14.511116,
-    "opposite": "600021",
+    "opposite": "603092",
     "routes": [
       {
         "name": "19",
@@ -4639,7 +4639,7 @@
     "name": "Bratov Učakar",
     "lat": 46.069691,
     "lon": 14.473123,
-    "opposite": "600021",
+    "opposite": "803132",
     "routes": [
       {
         "name": "5",
@@ -4661,7 +4661,7 @@
     "name": "Študentsko naselje",
     "lat": 46.049355,
     "lon": 14.487494,
-    "opposite": "600021",
+    "opposite": "702021",
     "routes": [
       {
         "name": "14",
@@ -4679,7 +4679,7 @@
     "name": "ŠTEPANJSKO NAS.",
     "lat": 46.053513,
     "lon": 14.548128,
-    "opposite": "303041",
+    "opposite": null,
     "routes": [
       {
         "name": "5",
@@ -4701,7 +4701,7 @@
     "name": "Silos",
     "lat": 46.057819,
     "lon": 14.606205,
-    "opposite": "406022",
+    "opposite": "304132",
     "routes": [
       {
         "name": "11",
@@ -4723,7 +4723,7 @@
     "name": "Trebeljevo",
     "lat": 46.013554,
     "lon": 14.738499,
-    "opposite": "406022",
+    "opposite": "406021",
     "routes": [
       {
         "name": "10",
@@ -4745,7 +4745,7 @@
     "name": "Gasilska brigada",
     "lat": 46.068508,
     "lon": 14.516695,
-    "opposite": "102031",
+    "opposite": "102032",
     "routes": [
       {
         "name": "13",
@@ -4785,7 +4785,7 @@
     "name": "Agrokombinatska",
     "lat": 46.069695,
     "lon": 14.603236,
-    "opposite": "204214",
+    "opposite": "204213",
     "routes": [
       {
         "name": "10",
@@ -4803,7 +4803,7 @@
     "name": "Kovinarska",
     "lat": 46.080406,
     "lon": 14.491417,
-    "opposite": "802012",
+    "opposite": "803212",
     "routes": [
       {
         "name": "3",
@@ -4825,7 +4825,7 @@
     "name": "Cesta v Bizovik",
     "lat": 46.04435,
     "lon": 14.570937,
-    "opposite": "802012",
+    "opposite": "404021",
     "routes": [
       {
         "name": "13",
@@ -4843,7 +4843,7 @@
     "name": "Zeleni gaj",
     "lat": 46.066391,
     "lon": 14.612833,
-    "opposite": null,
+    "opposite": "204192",
     "routes": [
       {
         "name": "11",
@@ -4865,7 +4865,7 @@
     "name": "Plečnikova cerkev",
     "lat": 46.01247,
     "lon": 14.507524,
-    "opposite": "804162",
+    "opposite": "614012",
     "routes": [
       {
         "name": "19",
@@ -4883,7 +4883,7 @@
     "name": "IMP",
     "lat": 46.089302,
     "lon": 14.477258,
-    "opposite": "804162",
+    "opposite": "804161",
     "routes": [
       {
         "name": "8",
@@ -4901,7 +4901,7 @@
     "name": "Bratov Židan",
     "lat": 46.0653,
     "lon": 14.502942,
-    "opposite": null,
+    "opposite": "101062",
     "routes": [
       {
         "name": "14",
@@ -4919,7 +4919,7 @@
     "name": "Hladilniška",
     "lat": 46.062271,
     "lon": 14.604209,
-    "opposite": null,
+    "opposite": "204311",
     "routes": [
       {
         "name": "10",
@@ -4937,7 +4937,7 @@
     "name": "Stara cerkev",
     "lat": 46.064987,
     "lon": 14.494161,
-    "opposite": null,
+    "opposite": "802011",
     "routes": [
       {
         "name": "1",
@@ -4975,7 +4975,7 @@
     "name": "Cesta v Zajčjo Dobravo",
     "lat": 46.072639,
     "lon": 14.591218,
-    "opposite": null,
+    "opposite": "204342",
     "routes": [
       {
         "name": "10",
@@ -4993,7 +4993,7 @@
     "name": "Hrvatski trg",
     "lat": 46.052223,
     "lon": 14.518057,
-    "opposite": "402012",
+    "opposite": "402011",
     "routes": [
       {
         "name": "5",
@@ -5011,7 +5011,7 @@
     "name": "Pri Dogonivar",
     "lat": 45.989468,
     "lon": 14.657285,
-    "opposite": "403023",
+    "opposite": "415071",
     "routes": [
       {
         "name": "26",
@@ -5029,7 +5029,7 @@
     "name": "Kodeljevo",
     "lat": 46.051567,
     "lon": 14.539461,
-    "opposite": "403023",
+    "opposite": null,
     "routes": [
       {
         "name": "5",
@@ -5047,7 +5047,7 @@
     "name": "Tiki",
     "lat": 46.072544,
     "lon": 14.498788,
-    "opposite": null,
+    "opposite": "802061",
     "routes": [
       {
         "name": "18",
@@ -5065,7 +5065,7 @@
     "name": "Avtomontaža",
     "lat": 46.077312,
     "lon": 14.4824,
-    "opposite": null,
+    "opposite": "803021",
     "routes": [
       {
         "name": "1",
@@ -5087,7 +5087,7 @@
     "name": "RUDNIK",
     "lat": 46.017994,
     "lon": 14.544024,
-    "opposite": null,
+    "opposite": "504032",
     "routes": [
       {
         "name": "3",
@@ -5105,7 +5105,7 @@
     "name": "Sp. Gameljne 1",
     "lat": 46.118088,
     "lon": 14.505476,
-    "opposite": "104332",
+    "opposite": "104331",
     "routes": [
       {
         "name": "28",
@@ -5123,7 +5123,7 @@
     "name": "Kašeljska",
     "lat": 46.054638,
     "lon": 14.592861,
-    "opposite": "204311",
+    "opposite": "304162",
     "routes": [
       {
         "name": "11",
@@ -5145,7 +5145,7 @@
     "name": "SŽ ŠIŠKA",
     "lat": 46.061039,
     "lon": 14.500232,
-    "opposite": "204311",
+    "opposite": null,
     "routes": [
       {
         "name": "Ž",
@@ -5163,7 +5163,7 @@
     "name": "Rogovilc",
     "lat": 46.102283,
     "lon": 14.529674,
-    "opposite": null,
+    "opposite": "104112",
     "routes": [
       {
         "name": "6",
@@ -5189,7 +5189,7 @@
     "name": "Osenjakova",
     "lat": 46.056145,
     "lon": 14.560692,
-    "opposite": "203151",
+    "opposite": "304022",
     "routes": [
       {
         "name": "11",
@@ -5207,7 +5207,7 @@
     "name": "Kranjčeva",
     "lat": 46.070721,
     "lon": 14.525866,
-    "opposite": "203151",
+    "opposite": "203211",
     "routes": [
       {
         "name": "24",
@@ -5225,7 +5225,7 @@
     "name": "Žito",
     "lat": 46.069901,
     "lon": 14.545039,
-    "opposite": "203151",
+    "opposite": "203152",
     "routes": [
       {
         "name": "2",
@@ -5255,7 +5255,7 @@
     "name": "Koseze",
     "lat": 46.07222,
     "lon": 14.467561,
-    "opposite": "614092",
+    "opposite": "803141",
     "routes": [
       {
         "name": "5",
@@ -5277,7 +5277,7 @@
     "name": "Pot v mejah",
     "lat": 46.061092,
     "lon": 14.617497,
-    "opposite": "614092",
+    "opposite": "204291",
     "routes": [
       {
         "name": "10",
@@ -5295,7 +5295,7 @@
     "name": "Dobrunjska c.",
     "lat": 46.038548,
     "lon": 14.57834,
-    "opposite": "614092",
+    "opposite": "404181",
     "routes": [
       {
         "name": "24",
@@ -5313,7 +5313,7 @@
     "name": "Bolnica P. Držaja",
     "lat": 46.06744,
     "lon": 14.485905,
-    "opposite": "614092",
+    "opposite": "802042",
     "routes": [
       {
         "name": "7",
@@ -5349,7 +5349,7 @@
     "name": "BOKALCE",
     "lat": 46.052052,
     "lon": 14.448149,
-    "opposite": "614092",
+    "opposite": null,
     "routes": [
       {
         "name": "14",
@@ -5367,7 +5367,7 @@
     "name": "Gorjančeva",
     "lat": 46.086082,
     "lon": 14.507829,
-    "opposite": "614092",
+    "opposite": "103091",
     "routes": [
       {
         "name": "14",
@@ -5389,7 +5389,7 @@
     "name": "7. septembra",
     "lat": 46.089836,
     "lon": 14.508823,
-    "opposite": "614092",
+    "opposite": "103111",
     "routes": [
       {
         "name": "14",
@@ -5411,7 +5411,7 @@
     "name": "Škofljica Petkovšek",
     "lat": 45.989532,
     "lon": 14.566341,
-    "opposite": "614092",
+    "opposite": "504101",
     "routes": [
       {
         "name": "3",
@@ -5433,7 +5433,7 @@
     "name": "BTC-Emporium",
     "lat": 46.062088,
     "lon": 14.544991,
-    "opposite": "614092",
+    "opposite": "203142",
     "routes": [
       {
         "name": "24",
@@ -5455,7 +5455,7 @@
     "name": "Topniška",
     "lat": 46.067154,
     "lon": 14.515008,
-    "opposite": "614092",
+    "opposite": "102022",
     "routes": [
       {
         "name": "19",
@@ -5473,7 +5473,7 @@
     "name": "Pošta",
     "lat": 46.051941,
     "lon": 14.50335,
-    "opposite": "614092",
+    "opposite": "601012",
     "routes": [
       {
         "name": "1",
@@ -5527,7 +5527,7 @@
     "name": "Sneberska",
     "lat": 46.070267,
     "lon": 14.596983,
-    "opposite": "614092",
+    "opposite": "204321",
     "routes": [
       {
         "name": "10",
@@ -5545,7 +5545,7 @@
     "name": "Peruzzijeva",
     "lat": 46.02993,
     "lon": 14.532611,
-    "opposite": "614092",
+    "opposite": "503042",
     "routes": [
       {
         "name": "3",
@@ -5563,7 +5563,7 @@
     "name": "Podgora",
     "lat": 46.092598,
     "lon": 14.469315,
-    "opposite": "614092",
+    "opposite": "804032",
     "routes": [
       {
         "name": "1",
@@ -5589,7 +5589,7 @@
     "name": "Pot na Rakovo jelšo",
     "lat": 46.033329,
     "lon": 14.501924,
-    "opposite": "614092",
+    "opposite": "603071",
     "routes": [
       {
         "name": "9",
@@ -5611,7 +5611,7 @@
     "name": "Podvozna pot",
     "lat": 46.035645,
     "lon": 14.462325,
-    "opposite": "614092",
+    "opposite": null,
     "routes": [
       {
         "name": "6",
@@ -5633,7 +5633,7 @@
     "name": "Ižanska",
     "lat": 46.035587,
     "lon": 14.512926,
-    "opposite": "614092",
+    "opposite": "603121",
     "routes": [
       {
         "name": "27",
@@ -5651,7 +5651,7 @@
     "name": "Pance",
     "lat": 45.988628,
     "lon": 14.66366,
-    "opposite": "614092",
+    "opposite": "415051",
     "routes": [
       {
         "name": "26",
@@ -5669,7 +5669,7 @@
     "name": "Preglov trg",
     "lat": 46.05471,
     "lon": 14.559114,
-    "opposite": "614092",
+    "opposite": "304012",
     "routes": [
       {
         "name": "20",
@@ -5695,7 +5695,7 @@
     "name": "Snoj",
     "lat": 45.990974,
     "lon": 14.456561,
-    "opposite": "614092",
+    "opposite": "614091",
     "routes": [
       {
         "name": "19",
@@ -5713,7 +5713,7 @@
     "name": "Savske stolpnice",
     "lat": 46.065769,
     "lon": 14.52166,
-    "opposite": "202031",
+    "opposite": "202032",
     "routes": [
       {
         "name": "7",
@@ -5743,7 +5743,7 @@
     "name": "Tržnica Moste",
     "lat": 46.055534,
     "lon": 14.533978,
-    "opposite": "504112",
+    "opposite": "303011",
     "routes": [
       {
         "name": "2",
@@ -5777,7 +5777,7 @@
     "name": "Bobrova",
     "lat": 46.024082,
     "lon": 14.532359,
-    "opposite": "504112",
+    "opposite": "504122",
     "routes": [
       {
         "name": "27",
@@ -5795,7 +5795,7 @@
     "name": "Hladilniška",
     "lat": 46.062321,
     "lon": 14.604221,
-    "opposite": "504112",
+    "opposite": "204312",
     "routes": [
       {
         "name": "10",
@@ -5813,7 +5813,7 @@
     "name": "Slovenijales",
     "lat": 46.093906,
     "lon": 14.552617,
-    "opposite": "204111",
+    "opposite": "204112",
     "routes": [
       {
         "name": "8",
@@ -5831,7 +5831,7 @@
     "name": "Gornji trg",
     "lat": 46.045937,
     "lon": 14.506128,
-    "opposite": null,
+    "opposite": "602102",
     "routes": [
       {
         "name": "2",
@@ -5865,7 +5865,7 @@
     "name": "Tržnica Koseze",
     "lat": 46.074387,
     "lon": 14.475812,
-    "opposite": null,
+    "opposite": "803101",
     "routes": [
       {
         "name": "7",
@@ -5883,7 +5883,7 @@
     "name": "Spar",
     "lat": 46.076916,
     "lon": 14.467461,
-    "opposite": "803172",
+    "opposite": "803171",
     "routes": [
       {
         "name": "22",
@@ -5901,7 +5901,7 @@
     "name": "Škofljica žaga",
     "lat": 45.985836,
     "lon": 14.571655,
-    "opposite": "603031",
+    "opposite": "504111",
     "routes": [
       {
         "name": "3",
@@ -5931,7 +5931,7 @@
     "name": "Tehnounion",
     "lat": 46.085869,
     "lon": 14.480589,
-    "opposite": null,
+    "opposite": "803072",
     "routes": [
       {
         "name": "8",
@@ -5949,7 +5949,7 @@
     "name": "Zmajski most",
     "lat": 46.052326,
     "lon": 14.510248,
-    "opposite": "501022",
+    "opposite": "501021",
     "routes": [
       {
         "name": "13",
@@ -5987,7 +5987,7 @@
     "name": "7. septembra",
     "lat": 46.089993,
     "lon": 14.508611,
-    "opposite": "103111",
+    "opposite": "103112",
     "routes": [
       {
         "name": "14",
@@ -6009,7 +6009,7 @@
     "name": "Krimska",
     "lat": 46.03661,
     "lon": 14.489424,
-    "opposite": "603252",
+    "opposite": "603032",
     "routes": [
       {
         "name": "1",
@@ -6027,7 +6027,7 @@
     "name": "ZD POLJE",
     "lat": 46.053219,
     "lon": 14.590179,
-    "opposite": "304142",
+    "opposite": "304141",
     "routes": [
       {
         "name": "24",
@@ -6053,7 +6053,7 @@
     "name": "Vič Glince",
     "lat": 46.043976,
     "lon": 14.483762,
-    "opposite": "703082",
+    "opposite": "703081",
     "routes": [
       {
         "name": "6",
@@ -6095,7 +6095,7 @@
     "name": "Besnica kamnolom",
     "lat": 46.020279,
     "lon": 14.710426,
-    "opposite": "404151",
+    "opposite": "405061",
     "routes": [
       {
         "name": "10",
@@ -6117,7 +6117,7 @@
     "name": "Zadvor-2",
     "lat": 46.036057,
     "lon": 14.596165,
-    "opposite": "404151",
+    "opposite": "404152",
     "routes": [
       {
         "name": "24",
@@ -6135,7 +6135,7 @@
     "name": "Pod Debnim vrhom",
     "lat": 46.063335,
     "lon": 14.624534,
-    "opposite": null,
+    "opposite": "204281",
     "routes": [
       {
         "name": "10",
@@ -6153,7 +6153,7 @@
     "name": "OŠ Maksa Pečarja",
     "lat": 46.10548,
     "lon": 14.534547,
-    "opposite": null,
+    "opposite": "104152",
     "routes": [
       {
         "name": "28",
@@ -6171,7 +6171,7 @@
     "name": "Kolodvor Črnuče",
     "lat": 46.10117,
     "lon": 14.524993,
-    "opposite": null,
+    "opposite": "104101",
     "routes": [
       {
         "name": "6",
@@ -6197,7 +6197,7 @@
     "name": "Studenec",
     "lat": 46.054569,
     "lon": 14.57584,
-    "opposite": null,
+    "opposite": "304062",
     "routes": [
       {
         "name": "11",
@@ -6227,7 +6227,7 @@
     "name": "Log",
     "lat": 46.027409,
     "lon": 14.46574,
-    "opposite": null,
+    "opposite": "603251",
     "routes": [
       {
         "name": "16",
@@ -6245,7 +6245,7 @@
     "name": "Lavrica",
     "lat": 45.997139,
     "lon": 14.557926,
-    "opposite": null,
+    "opposite": "504092",
     "routes": [
       {
         "name": "3",
@@ -6267,7 +6267,7 @@
     "name": "Poliklinika",
     "lat": 46.05365,
     "lon": 14.519174,
-    "opposite": "603012",
+    "opposite": "402022",
     "routes": [
       {
         "name": "9",
@@ -6289,7 +6289,7 @@
     "name": "Jadranska",
     "lat": 46.042068,
     "lon": 14.489383,
-    "opposite": "603012",
+    "opposite": "603011",
     "routes": [
       {
         "name": "1",
@@ -6307,7 +6307,7 @@
     "name": "ZALOG",
     "lat": 46.06287,
     "lon": 14.603294,
-    "opposite": "204313",
+    "opposite": null,
     "routes": [
       {
         "name": "10",
@@ -6333,7 +6333,7 @@
     "name": "Cesta XV",
     "lat": 46.045948,
     "lon": 14.480814,
-    "opposite": null,
+    "opposite": "703022",
     "routes": [
       {
         "name": "14",
@@ -6351,7 +6351,7 @@
     "name": "Ilovica",
     "lat": 46.027355,
     "lon": 14.511669,
-    "opposite": "203242",
+    "opposite": "603102",
     "routes": [
       {
         "name": "19",
@@ -6369,7 +6369,7 @@
     "name": "BTC-Merkur",
     "lat": 46.063812,
     "lon": 14.547686,
-    "opposite": "203242",
+    "opposite": "203241",
     "routes": [
       {
         "name": "24",
@@ -6387,7 +6387,7 @@
     "name": "Ziherlova",
     "lat": 46.040382,
     "lon": 14.499701,
-    "opposite": "504061",
+    "opposite": null,
     "routes": [
       {
         "name": "9",
@@ -6405,7 +6405,7 @@
     "name": "Gornji Rudnik",
     "lat": 46.028004,
     "lon": 14.535614,
-    "opposite": "504061",
+    "opposite": "504011",
     "routes": [
       {
         "name": "3",
@@ -6423,7 +6423,7 @@
     "name": "Dolnice",
     "lat": 46.082081,
     "lon": 14.45029,
-    "opposite": "504061",
+    "opposite": "804401",
     "routes": [
       {
         "name": "22",
@@ -6441,7 +6441,7 @@
     "name": "Šola Jarše",
     "lat": 46.067261,
     "lon": 14.534705,
-    "opposite": "504061",
+    "opposite": "203041",
     "routes": [
       {
         "name": "2",
@@ -6475,7 +6475,7 @@
     "name": "KPL",
     "lat": 46.041492,
     "lon": 14.592139,
-    "opposite": "504061",
+    "opposite": "404052",
     "routes": [
       {
         "name": "13",
@@ -6493,7 +6493,7 @@
     "name": "Jana Husa",
     "lat": 46.053238,
     "lon": 14.532815,
-    "opposite": "504061",
+    "opposite": "403012",
     "routes": [
       {
         "name": "5",
@@ -6511,7 +6511,7 @@
     "name": "Sava",
     "lat": 46.100925,
     "lon": 14.521701,
-    "opposite": "504061",
+    "opposite": "104052",
     "routes": [
       {
         "name": "6",
@@ -6541,7 +6541,7 @@
     "name": "Zgornji log",
     "lat": 46.032787,
     "lon": 14.462171,
-    "opposite": "504061",
+    "opposite": "704142",
     "routes": [
       {
         "name": "1",
@@ -6563,7 +6563,7 @@
     "name": "Cesta na Kope",
     "lat": 46.074371,
     "lon": 14.5832,
-    "opposite": "504061",
+    "opposite": "204352",
     "routes": [
       {
         "name": "10",
@@ -6581,7 +6581,7 @@
     "name": "Prežganje",
     "lat": 46.020115,
     "lon": 14.741287,
-    "opposite": "504061",
+    "opposite": "406031",
     "routes": [
       {
         "name": "10",
@@ -6603,7 +6603,7 @@
     "name": "Hruševska",
     "lat": 46.038902,
     "lon": 14.569809,
-    "opposite": "504061",
+    "opposite": "404112",
     "routes": [
       {
         "name": "24",
@@ -6621,7 +6621,7 @@
     "name": "Zadvor",
     "lat": 46.040119,
     "lon": 14.597842,
-    "opposite": "504061",
+    "opposite": "404061",
     "routes": [
       {
         "name": "13",
@@ -6647,7 +6647,7 @@
     "name": "Ajdovščina",
     "lat": 46.053623,
     "lon": 14.504162,
-    "opposite": "504061",
+    "opposite": "600022",
     "routes": [
       {
         "name": "1",
@@ -6701,7 +6701,7 @@
     "name": "Lavrica pri Malči",
     "lat": 46.000313,
     "lon": 14.555258,
-    "opposite": "504081",
+    "opposite": "504082",
     "routes": [
       {
         "name": "3",
@@ -6731,7 +6731,7 @@
     "name": "Volavlje",
     "lat": 46.032074,
     "lon": 14.717381,
-    "opposite": "603211",
+    "opposite": "406062",
     "routes": [
       {
         "name": "10",
@@ -6753,7 +6753,7 @@
     "name": "Bilečanska",
     "lat": 46.046032,
     "lon": 14.543988,
-    "opposite": "603211",
+    "opposite": "403072",
     "routes": [
       {
         "name": "24",
@@ -6771,7 +6771,7 @@
     "name": "Viadukt",
     "lat": 46.059574,
     "lon": 14.520962,
-    "opposite": null,
+    "opposite": "202011",
     "routes": [
       {
         "name": "2",
@@ -6797,7 +6797,7 @@
     "name": "Polje-kolodvor",
     "lat": 46.057392,
     "lon": 14.583509,
-    "opposite": "304081",
+    "opposite": "304082",
     "routes": [
       {
         "name": "24",
@@ -6819,7 +6819,7 @@
     "name": "Cesta v Gorice",
     "lat": 46.032341,
     "lon": 14.464224,
-    "opposite": "700012",
+    "opposite": "704151",
     "routes": [
       {
         "name": "1",
@@ -6841,7 +6841,7 @@
     "name": "Gosposvetska",
     "lat": 46.056129,
     "lon": 14.502123,
-    "opposite": "700012",
+    "opposite": "700011",
     "routes": [
       {
         "name": "1",
@@ -6887,7 +6887,7 @@
     "name": "Prežganje šola",
     "lat": 46.023411,
     "lon": 14.73045,
-    "opposite": null,
+    "opposite": "406041",
     "routes": [
       {
         "name": "10",
@@ -6909,7 +6909,7 @@
     "name": "STANEŽIČE P+R",
     "lat": 46.106018,
     "lon": 14.448266,
-    "opposite": "804241",
+    "opposite": null,
     "routes": [
       {
         "name": "1",
@@ -6927,7 +6927,7 @@
     "name": "Vič",
     "lat": 46.042297,
     "lon": 14.477842,
-    "opposite": "703092",
+    "opposite": "703091",
     "routes": [
       {
         "name": "6",
@@ -6969,7 +6969,7 @@
     "name": "Tomažičeva",
     "lat": 46.038792,
     "lon": 14.475564,
-    "opposite": null,
+    "opposite": "603212",
     "routes": [
       {
         "name": "16",
@@ -6987,7 +6987,7 @@
     "name": "Polje",
     "lat": 46.054028,
     "lon": 14.582697,
-    "opposite": null,
+    "opposite": "304072",
     "routes": [
       {
         "name": "11",
@@ -7017,7 +7017,7 @@
     "name": "Tivoli",
     "lat": 46.060444,
     "lon": 14.497163,
-    "opposite": "801011",
+    "opposite": "801012",
     "routes": [
       {
         "name": "1",
@@ -7063,7 +7063,7 @@
     "name": "Cesta v Zajčjo Dobravo",
     "lat": 46.072155,
     "lon": 14.591822,
-    "opposite": null,
+    "opposite": "204341",
     "routes": [
       {
         "name": "10",
@@ -7081,7 +7081,7 @@
     "name": "Cesta v Bizovik",
     "lat": 46.044617,
     "lon": 14.57023,
-    "opposite": "404021",
+    "opposite": "404022",
     "routes": [
       {
         "name": "13",
@@ -7099,7 +7099,7 @@
     "name": "D. MOST P+R",
     "lat": 46.036953,
     "lon": 14.46368,
-    "opposite": "704011",
+    "opposite": null,
     "routes": [
       {
         "name": "1",
@@ -7129,7 +7129,7 @@
     "name": "C. STOŽICE P+R",
     "lat": 46.080441,
     "lon": 14.52436,
-    "opposite": "406041",
+    "opposite": null,
     "routes": [
       {
         "name": "13",
@@ -7155,7 +7155,7 @@
     "name": "Dravlje",
     "lat": 46.083961,
     "lon": 14.477338,
-    "opposite": "803016",
+    "opposite": "803042",
     "routes": [
       {
         "name": "1",
@@ -7177,7 +7177,7 @@
     "name": "Šišenska",
     "lat": 46.073738,
     "lon": 14.485094,
-    "opposite": "803016",
+    "opposite": null,
     "routes": [
       {
         "name": "5",
@@ -7203,7 +7203,7 @@
     "name": "Božičeva",
     "lat": 46.075722,
     "lon": 14.520837,
-    "opposite": null,
+    "opposite": "103192",
     "routes": [
       {
         "name": "13",
@@ -7225,7 +7225,7 @@
     "name": "Dornig",
     "lat": 46.008141,
     "lon": 14.496644,
-    "opposite": "804201",
+    "opposite": "614031",
     "routes": [
       {
         "name": "19",
@@ -7243,7 +7243,7 @@
     "name": "Barje",
     "lat": 46.015114,
     "lon": 14.511875,
-    "opposite": "604022",
+    "opposite": null,
     "routes": [
       {
         "name": "19",
@@ -7261,7 +7261,7 @@
     "name": "Omersova",
     "lat": 46.074135,
     "lon": 14.453938,
-    "opposite": null,
+    "opposite": "804202",
     "routes": [
       {
         "name": "5",
@@ -7279,7 +7279,7 @@
     "name": "Prežganje šola",
     "lat": 46.023342,
     "lon": 14.730353,
-    "opposite": "404161",
+    "opposite": "406042",
     "routes": [
       {
         "name": "10",
@@ -7301,7 +7301,7 @@
     "name": "Podgora",
     "lat": 46.093685,
     "lon": 14.468711,
-    "opposite": null,
+    "opposite": "804031",
     "routes": [
       {
         "name": "1",
@@ -7345,7 +7345,7 @@
     "name": "Osenjakova",
     "lat": 46.055653,
     "lon": 14.562208,
-    "opposite": "803032",
+    "opposite": "304021",
     "routes": [
       {
         "name": "11",
@@ -7363,7 +7363,7 @@
     "name": "Kompas",
     "lat": 46.080235,
     "lon": 14.480376,
-    "opposite": "803032",
+    "opposite": "803031",
     "routes": [
       {
         "name": "1",
@@ -7385,7 +7385,7 @@
     "name": "Večna pot",
     "lat": 46.051319,
     "lon": 14.479674,
-    "opposite": "103102",
+    "opposite": "703182",
     "routes": [
       {
         "name": "18",
@@ -7403,7 +7403,7 @@
     "name": "Tržnica Moste",
     "lat": 46.05582,
     "lon": 14.534533,
-    "opposite": "103102",
+    "opposite": "303012",
     "routes": [
       {
         "name": "2",
@@ -7437,7 +7437,7 @@
     "name": "NS Rudnik",
     "lat": 46.020256,
     "lon": 14.535109,
-    "opposite": "103102",
+    "opposite": "504052",
     "routes": [
       {
         "name": "27",
@@ -7455,7 +7455,7 @@
     "name": "Jarše",
     "lat": 46.068439,
     "lon": 14.536695,
-    "opposite": "103102",
+    "opposite": "203092",
     "routes": [
       {
         "name": "2",
@@ -7489,7 +7489,7 @@
     "name": "Javor-2",
     "lat": 46.012527,
     "lon": 14.652871,
-    "opposite": "103102",
+    "opposite": "425012",
     "routes": [
       {
         "name": "26",
@@ -7507,7 +7507,7 @@
     "name": "Pošta Dobrunje",
     "lat": 46.041897,
     "lon": 14.586592,
-    "opposite": "103102",
+    "opposite": "404041",
     "routes": [
       {
         "name": "13",
@@ -7525,7 +7525,7 @@
     "name": "Puhova",
     "lat": 46.076454,
     "lon": 14.519484,
-    "opposite": "103102",
+    "opposite": "103042",
     "routes": [
       {
         "name": "20",
@@ -7543,7 +7543,7 @@
     "name": "Zaloška",
     "lat": 46.055855,
     "lon": 14.54243,
-    "opposite": "103102",
+    "opposite": null,
     "routes": [
       {
         "name": "11",
@@ -7573,7 +7573,7 @@
     "name": "Rusjanov trg",
     "lat": 46.054707,
     "lon": 14.564023,
-    "opposite": "103102",
+    "opposite": "304032",
     "routes": [
       {
         "name": "20",
@@ -7599,7 +7599,7 @@
     "name": "Petrol",
     "lat": 46.056824,
     "lon": 14.601487,
-    "opposite": "103102",
+    "opposite": "304112",
     "routes": [
       {
         "name": "11",
@@ -7621,7 +7621,7 @@
     "name": "Bizovik",
     "lat": 46.037502,
     "lon": 14.57114,
-    "opposite": "103102",
+    "opposite": "404122",
     "routes": [
       {
         "name": "24",
@@ -7639,7 +7639,7 @@
     "name": "Tacenski most",
     "lat": 46.118279,
     "lon": 14.461996,
-    "opposite": "103102",
+    "opposite": "804141",
     "routes": [
       {
         "name": "1",
@@ -7661,7 +7661,7 @@
     "name": "Javor-2",
     "lat": 46.012497,
     "lon": 14.652763,
-    "opposite": "103102",
+    "opposite": "425011",
     "routes": [
       {
         "name": "26",
@@ -7679,7 +7679,7 @@
     "name": "Rožičeva",
     "lat": 46.063412,
     "lon": 14.532359,
-    "opposite": "103102",
+    "opposite": "203021",
     "routes": [
       {
         "name": "2",
@@ -7697,7 +7697,7 @@
     "name": "Kolodvor",
     "lat": 46.057571,
     "lon": 14.511196,
-    "opposite": "103102",
+    "opposite": "300011",
     "routes": [
       {
         "name": "2",
@@ -7735,7 +7735,7 @@
     "name": "Zg. Gameljne",
     "lat": 46.125935,
     "lon": 14.486848,
-    "opposite": "103102",
+    "opposite": "104202",
     "routes": [
       {
         "name": "1",
@@ -7757,7 +7757,7 @@
     "name": "Zaloška",
     "lat": 46.056095,
     "lon": 14.539826,
-    "opposite": "103102",
+    "opposite": "303022",
     "routes": [
       {
         "name": "2",
@@ -7791,7 +7791,7 @@
     "name": "Nove Jarše",
     "lat": 46.070415,
     "lon": 14.548994,
-    "opposite": "103102",
+    "opposite": null,
     "routes": [
       {
         "name": "2",
@@ -7821,7 +7821,7 @@
     "name": "BARJE P+R",
     "lat": 46.026978,
     "lon": 14.499829,
-    "opposite": "103102",
+    "opposite": null,
     "routes": [
       {
         "name": "9",
@@ -7839,7 +7839,7 @@
     "name": "Stožice",
     "lat": 46.08601,
     "lon": 14.514098,
-    "opposite": "103102",
+    "opposite": "103101",
     "routes": [
       {
         "name": "6",
@@ -7869,7 +7869,7 @@
     "name": "Pot na Fužine",
     "lat": 46.056011,
     "lon": 14.551225,
-    "opposite": "303052",
+    "opposite": "303051",
     "routes": [
       {
         "name": "11",
@@ -7887,7 +7887,7 @@
     "name": "OŠ Sostro",
     "lat": 46.035236,
     "lon": 14.599229,
-    "opposite": null,
+    "opposite": "404162",
     "routes": [
       {
         "name": "24",
@@ -7909,7 +7909,7 @@
     "name": "Kavčičeva",
     "lat": 46.064014,
     "lon": 14.536492,
-    "opposite": "203052",
+    "opposite": "203051",
     "routes": [
       {
         "name": "2",
@@ -7927,7 +7927,7 @@
     "name": "Šlandrova",
     "lat": 46.097786,
     "lon": 14.535887,
-    "opposite": "403043",
+    "opposite": "104071",
     "routes": [
       {
         "name": "8",
@@ -7945,7 +7945,7 @@
     "name": "Štepanja vas",
     "lat": 46.048428,
     "lon": 14.538531,
-    "opposite": "403043",
+    "opposite": null,
     "routes": [
       {
         "name": "5",
@@ -7971,7 +7971,7 @@
     "name": "Pohorskega bataljona",
     "lat": 46.082241,
     "lon": 14.507273,
-    "opposite": "103061",
+    "opposite": "103062",
     "routes": [
       {
         "name": "14",
@@ -7989,7 +7989,7 @@
     "name": "Bonifacija",
     "lat": 46.039669,
     "lon": 14.472675,
-    "opposite": "703101",
+    "opposite": "703102",
     "routes": [
       {
         "name": "6",
@@ -8011,7 +8011,7 @@
     "name": "Šmartno",
     "lat": 46.123852,
     "lon": 14.478627,
-    "opposite": "104191",
+    "opposite": "104192",
     "routes": [
       {
         "name": "1",
@@ -8033,7 +8033,7 @@
     "name": "Navje",
     "lat": 46.059723,
     "lon": 14.509243,
-    "opposite": null,
+    "opposite": "100011",
     "routes": [
       {
         "name": "3",
@@ -8075,7 +8075,7 @@
     "name": "Drenikova",
     "lat": 46.066925,
     "lon": 14.49586,
-    "opposite": "802052",
+    "opposite": "802051",
     "routes": [
       {
         "name": "22",
@@ -8093,7 +8093,7 @@
     "name": "Vižmarje",
     "lat": 46.10054,
     "lon": 14.459461,
-    "opposite": "804252",
+    "opposite": "804251",
     "routes": [
       {
         "name": "1",
@@ -8119,7 +8119,7 @@
     "name": "Štepanja vas",
     "lat": 46.047943,
     "lon": 14.539081,
-    "opposite": null,
+    "opposite": "403041",
     "routes": [
       {
         "name": "5",
@@ -8149,7 +8149,7 @@
     "name": "Elma",
     "lat": 46.09882,
     "lon": 14.526475,
-    "opposite": null,
+    "opposite": "104062",
     "routes": [
       {
         "name": "8",
@@ -8167,7 +8167,7 @@
     "name": "Glonarjeva",
     "lat": 46.050571,
     "lon": 14.527081,
-    "opposite": "402052",
+    "opposite": "402051",
     "routes": [
       {
         "name": "5",
@@ -8185,7 +8185,7 @@
     "name": "Podgrad",
     "lat": 46.068665,
     "lon": 14.637957,
-    "opposite": null,
+    "opposite": "204261",
     "routes": [
       {
         "name": "10",
@@ -8203,7 +8203,7 @@
     "name": "Vrhovci",
     "lat": 46.044033,
     "lon": 14.455329,
-    "opposite": null,
+    "opposite": "704032",
     "routes": [
       {
         "name": "14",
@@ -8221,7 +8221,7 @@
     "name": "Studenec",
     "lat": 46.054173,
     "lon": 14.577335,
-    "opposite": "303022",
+    "opposite": "304061",
     "routes": [
       {
         "name": "11",
@@ -8251,7 +8251,7 @@
     "name": "MALI LIPOGLAV",
     "lat": 45.992233,
     "lon": 14.64786,
-    "opposite": "415061",
+    "opposite": null,
     "routes": [
       {
         "name": "26",
@@ -8269,7 +8269,7 @@
     "name": "Spodnji Rudnik",
     "lat": 46.023838,
     "lon": 14.540038,
-    "opposite": "504021",
+    "opposite": "504022",
     "routes": [
       {
         "name": "3",
@@ -8303,7 +8303,7 @@
     "name": "Jadranska",
     "lat": 46.043617,
     "lon": 14.488518,
-    "opposite": "603011",
+    "opposite": "603012",
     "routes": [
       {
         "name": "1",
@@ -8321,7 +8321,7 @@
     "name": "Kajuhova",
     "lat": 46.05648,
     "lon": 14.540824,
-    "opposite": null,
+    "opposite": "303021",
     "routes": [
       {
         "name": "2",
@@ -8347,7 +8347,7 @@
     "name": "Viško polje",
     "lat": 46.046375,
     "lon": 14.469007,
-    "opposite": null,
+    "opposite": "703041",
     "routes": [
       {
         "name": "14",
@@ -8365,7 +8365,7 @@
     "name": "Hlebš",
     "lat": 46.045227,
     "lon": 14.645023,
-    "opposite": "103122",
+    "opposite": "405082",
     "routes": [
       {
         "name": "10",
@@ -8383,7 +8383,7 @@
     "name": "Zakrajškova",
     "lat": 46.082233,
     "lon": 14.443847,
-    "opposite": "103122",
+    "opposite": "804501",
     "routes": [
       {
         "name": "22",
@@ -8401,7 +8401,7 @@
     "name": "Sp. Gameljne 1",
     "lat": 46.116585,
     "lon": 14.506045,
-    "opposite": "103122",
+    "opposite": "104332",
     "routes": [
       {
         "name": "28",
@@ -8419,7 +8419,7 @@
     "name": "Poljanska",
     "lat": 46.050323,
     "lon": 14.514113,
-    "opposite": "103122",
+    "opposite": "502011",
     "routes": [
       {
         "name": "2",
@@ -8445,7 +8445,7 @@
     "name": "Primožev ovinek",
     "lat": 45.991966,
     "lon": 14.658541,
-    "opposite": "103122",
+    "opposite": "415081",
     "routes": [
       {
         "name": "26",
@@ -8463,7 +8463,7 @@
     "name": "Drenikova",
     "lat": 46.067066,
     "lon": 14.496106,
-    "opposite": "103122",
+    "opposite": "802052",
     "routes": [
       {
         "name": "22",
@@ -8481,7 +8481,7 @@
     "name": "MESTNI LOG",
     "lat": 46.030067,
     "lon": 14.472399,
-    "opposite": "103122",
+    "opposite": "604032",
     "routes": [
       {
         "name": "1",
@@ -8499,7 +8499,7 @@
     "name": "Capuder",
     "lat": 46.005997,
     "lon": 14.491248,
-    "opposite": "103122",
+    "opposite": "614042",
     "routes": [
       {
         "name": "19",
@@ -8517,7 +8517,7 @@
     "name": "Zapuže",
     "lat": 46.083443,
     "lon": 14.458579,
-    "opposite": "103122",
+    "opposite": "804381",
     "routes": [
       {
         "name": "22",
@@ -8535,7 +8535,7 @@
     "name": "Privoz",
     "lat": 46.044075,
     "lon": 14.510882,
-    "opposite": "103122",
+    "opposite": "602111",
     "routes": [
       {
         "name": "3",
@@ -8565,7 +8565,7 @@
     "name": "Samova",
     "lat": 46.066757,
     "lon": 14.504848,
-    "opposite": "103122",
+    "opposite": "102011",
     "routes": [
       {
         "name": "22",
@@ -8583,7 +8583,7 @@
     "name": "Kovinarska",
     "lat": 46.080875,
     "lon": 14.492028,
-    "opposite": "103122",
+    "opposite": "803211",
     "routes": [
       {
         "name": "3",
@@ -8605,7 +8605,7 @@
     "name": "NS RUDNIK",
     "lat": 46.018353,
     "lon": 14.535336,
-    "opposite": "103122",
+    "opposite": null,
     "routes": [
       {
         "name": "27",
@@ -8623,7 +8623,7 @@
     "name": "Mostovna",
     "lat": 46.073624,
     "lon": 14.499306,
-    "opposite": null,
+    "opposite": "102062",
     "routes": [
       {
         "name": "18",
@@ -8641,7 +8641,7 @@
     "name": "Zidarjevec 2",
     "lat": 46.003738,
     "lon": 14.484721,
-    "opposite": "614102",
+    "opposite": "614101",
     "routes": [
       {
         "name": "19",
@@ -8659,7 +8659,7 @@
     "name": "Tomačevska",
     "lat": 46.06926,
     "lon": 14.527694,
-    "opposite": "404092",
+    "opposite": "203031",
     "routes": [
       {
         "name": "19",
@@ -8677,7 +8677,7 @@
     "name": "Sostro",
     "lat": 46.031799,
     "lon": 14.604475,
-    "opposite": "404092",
+    "opposite": "404091",
     "routes": [
       {
         "name": "26",
@@ -8695,7 +8695,7 @@
     "name": "Gornje Poljane",
     "lat": 46.048935,
     "lon": 14.522733,
-    "opposite": "402061",
+    "opposite": "402062",
     "routes": [
       {
         "name": "5",
@@ -8717,7 +8717,7 @@
     "name": "Topniška",
     "lat": 46.06707,
     "lon": 14.514739,
-    "opposite": null,
+    "opposite": "102021",
     "routes": [
       {
         "name": "19",
@@ -8735,7 +8735,7 @@
     "name": "Zeleni gaj",
     "lat": 46.066555,
     "lon": 14.612916,
-    "opposite": "204192",
+    "opposite": "204191",
     "routes": [
       {
         "name": "11",
@@ -8757,7 +8757,7 @@
     "name": "Rast",
     "lat": 46.046982,
     "lon": 14.551457,
-    "opposite": null,
+    "opposite": "403062",
     "routes": [
       {
         "name": "13",
@@ -8775,7 +8775,7 @@
     "name": "Na jami",
     "lat": 46.06662,
     "lon": 14.48971,
-    "opposite": null,
+    "opposite": "802031",
     "routes": [
       {
         "name": "7",
@@ -8793,7 +8793,7 @@
     "name": "Kališnikov trg",
     "lat": 46.093483,
     "lon": 14.511303,
-    "opposite": null,
+    "opposite": "104021",
     "routes": [
       {
         "name": "14",
@@ -8811,7 +8811,7 @@
     "name": "Vodovodna",
     "lat": 46.074688,
     "lon": 14.504491,
-    "opposite": null,
+    "opposite": "102072",
     "routes": [
       {
         "name": "14",
@@ -8829,7 +8829,7 @@
     "name": "Gerbičeva",
     "lat": 46.040836,
     "lon": 14.489918,
-    "opposite": "603082",
+    "opposite": "603022",
     "routes": [
       {
         "name": "1",
@@ -8847,7 +8847,7 @@
     "name": "Zapuže",
     "lat": 46.083363,
     "lon": 14.458467,
-    "opposite": null,
+    "opposite": "804382",
     "routes": [
       {
         "name": "22",
@@ -8865,7 +8865,7 @@
     "name": "Stara Ježica",
     "lat": 46.094559,
     "lon": 14.515757,
-    "opposite": "104371",
+    "opposite": "104372",
     "routes": [
       {
         "name": "6",
@@ -8891,7 +8891,7 @@
     "name": "Cukrarna",
     "lat": 46.048363,
     "lon": 14.519495,
-    "opposite": "502021",
+    "opposite": "502022",
     "routes": [
       {
         "name": "11",
@@ -8909,7 +8909,7 @@
     "name": "Veliki štradon",
     "lat": 46.037907,
     "lon": 14.505477,
-    "opposite": "802011",
+    "opposite": "603081",
     "routes": [
       {
         "name": "16",
@@ -8931,7 +8931,7 @@
     "name": "Rakovnik",
     "lat": 46.03548,
     "lon": 14.524031,
-    "opposite": null,
+    "opposite": "503021",
     "routes": [
       {
         "name": "3",
@@ -8953,7 +8953,7 @@
     "name": "Pot Rdečega križa",
     "lat": 46.046894,
     "lon": 14.461292,
-    "opposite": "703192",
+    "opposite": "703191",
     "routes": [
       {
         "name": "14",
@@ -8971,7 +8971,7 @@
     "name": "TRNOVO",
     "lat": 46.040989,
     "lon": 14.509181,
-    "opposite": null,
+    "opposite": "602122",
     "routes": [
       {
         "name": "16",
@@ -8993,7 +8993,7 @@
     "name": "Besnica ambulanta",
     "lat": 46.033279,
     "lon": 14.687283,
-    "opposite": "405051",
+    "opposite": "405052",
     "routes": [
       {
         "name": "10",
@@ -9015,7 +9015,7 @@
     "name": "Trata",
     "lat": 46.087219,
     "lon": 14.474073,
-    "opposite": "804011",
+    "opposite": "804012",
     "routes": [
       {
         "name": "1",
@@ -9041,7 +9041,7 @@
     "name": "Tomačevska",
     "lat": 46.069485,
     "lon": 14.527669,
-    "opposite": "203031",
+    "opposite": "203032",
     "routes": [
       {
         "name": "19",
@@ -9059,7 +9059,7 @@
     "name": "Litostroj",
     "lat": 46.082378,
     "lon": 14.496448,
-    "opposite": "403062",
+    "opposite": null,
     "routes": [
       {
         "name": "18",
@@ -9077,7 +9077,7 @@
     "name": "Dolnice",
     "lat": 46.082066,
     "lon": 14.450661,
-    "opposite": "403062",
+    "opposite": "804402",
     "routes": [
       {
         "name": "22",
@@ -9095,7 +9095,7 @@
     "name": "Lavrica",
     "lat": 45.996948,
     "lon": 14.558049,
-    "opposite": "403062",
+    "opposite": "504091",
     "routes": [
       {
         "name": "3",
@@ -9117,7 +9117,7 @@
     "name": "Stara cerkev",
     "lat": 46.063847,
     "lon": 14.494407,
-    "opposite": "403062",
+    "opposite": "802012",
     "routes": [
       {
         "name": "1",
@@ -9155,7 +9155,7 @@
     "name": "Podpeč",
     "lat": 45.974007,
     "lon": 14.42049,
-    "opposite": "745052",
+    "opposite": "745051",
     "routes": [
       {
         "name": "19",
@@ -9173,7 +9173,7 @@
     "name": "Cesta v Zavoglje",
     "lat": 46.04026,
     "lon": 14.602519,
-    "opposite": "104122",
+    "opposite": "404072",
     "routes": [
       {
         "name": "13",
@@ -9199,7 +9199,7 @@
     "name": "Vižmarje",
     "lat": 46.100262,
     "lon": 14.459461,
-    "opposite": "104122",
+    "opposite": "804252",
     "routes": [
       {
         "name": "1",
@@ -9221,7 +9221,7 @@
     "name": "Litostrojska",
     "lat": 46.076759,
     "lon": 14.488915,
-    "opposite": "104122",
+    "opposite": "803051",
     "routes": [
       {
         "name": "3",
@@ -9247,7 +9247,7 @@
     "name": "Poliklinika",
     "lat": 46.053356,
     "lon": 14.519001,
-    "opposite": "104122",
+    "opposite": "402021",
     "routes": [
       {
         "name": "9",
@@ -9269,7 +9269,7 @@
     "name": "Sostro - 2",
     "lat": 46.033081,
     "lon": 14.603621,
-    "opposite": "104122",
+    "opposite": "404201",
     "routes": [
       {
         "name": "24",
@@ -9287,7 +9287,7 @@
     "name": "Kino Šiška",
     "lat": 46.069672,
     "lon": 14.489463,
-    "opposite": "104122",
+    "opposite": "802022",
     "routes": [
       {
         "name": "1",
@@ -9329,7 +9329,7 @@
     "name": "Cukrarna",
     "lat": 46.049263,
     "lon": 14.519643,
-    "opposite": "104122",
+    "opposite": null,
     "routes": [
       {
         "name": "2",
@@ -9355,7 +9355,7 @@
     "name": "Pri Dogonivar",
     "lat": 45.989292,
     "lon": 14.657596,
-    "opposite": "104122",
+    "opposite": "415072",
     "routes": [
       {
         "name": "26",
@@ -9373,7 +9373,7 @@
     "name": "Tavčarjeva",
     "lat": 46.0546,
     "lon": 14.506793,
-    "opposite": "104122",
+    "opposite": null,
     "routes": [
       {
         "name": "5",
@@ -9399,7 +9399,7 @@
     "name": "Zakrajškova",
     "lat": 46.082161,
     "lon": 14.443894,
-    "opposite": "104122",
+    "opposite": "804502",
     "routes": [
       {
         "name": "22",
@@ -9417,7 +9417,7 @@
     "name": "Aškerčeva",
     "lat": 46.046638,
     "lon": 14.498688,
-    "opposite": "104122",
+    "opposite": "602052",
     "routes": [
       {
         "name": "1",
@@ -9439,7 +9439,7 @@
     "name": "Podmornica",
     "lat": 46.047298,
     "lon": 14.464708,
-    "opposite": "104122",
+    "opposite": "703052",
     "routes": [
       {
         "name": "14",
@@ -9457,7 +9457,7 @@
     "name": "Škofljica Petkovšek",
     "lat": 45.989559,
     "lon": 14.566518,
-    "opposite": "104122",
+    "opposite": "504102",
     "routes": [
       {
         "name": "3",
@@ -9479,7 +9479,7 @@
     "name": "Krožna pot",
     "lat": 46.041225,
     "lon": 14.555973,
-    "opposite": "104122",
+    "opposite": "404102",
     "routes": [
       {
         "name": "24",
@@ -9497,7 +9497,7 @@
     "name": "Rašica",
     "lat": 46.127003,
     "lon": 14.493204,
-    "opposite": "104122",
+    "opposite": "104211",
     "routes": [
       {
         "name": "1",
@@ -9519,7 +9519,7 @@
     "name": "Akademija",
     "lat": 46.032436,
     "lon": 14.528572,
-    "opposite": "104122",
+    "opposite": "503031",
     "routes": [
       {
         "name": "3",
@@ -9537,7 +9537,7 @@
     "name": "Kino Šiška",
     "lat": 46.06921,
     "lon": 14.490312,
-    "opposite": "104122",
+    "opposite": "802021",
     "routes": [
       {
         "name": "1",
@@ -9579,7 +9579,7 @@
     "name": "Smelt",
     "lat": 46.081985,
     "lon": 14.513309,
-    "opposite": "104122",
+    "opposite": "103071",
     "routes": [
       {
         "name": "6",
@@ -9609,7 +9609,7 @@
     "name": "Blaževo",
     "lat": 46.032246,
     "lon": 14.678593,
-    "opposite": "104122",
+    "opposite": "405041",
     "routes": [
       {
         "name": "10",
@@ -9631,7 +9631,7 @@
     "name": "VEVČE",
     "lat": 46.049545,
     "lon": 14.593143,
-    "opposite": "104122",
+    "opposite": "304102",
     "routes": [
       {
         "name": "24",
@@ -9657,7 +9657,7 @@
     "name": "Trata",
     "lat": 46.086884,
     "lon": 14.47474,
-    "opposite": "104122",
+    "opposite": "804011",
     "routes": [
       {
         "name": "1",
@@ -9683,7 +9683,7 @@
     "name": "Polanškova",
     "lat": 46.106361,
     "lon": 14.525635,
-    "opposite": "104122",
+    "opposite": "104121",
     "routes": [
       {
         "name": "28",
@@ -9701,7 +9701,7 @@
     "name": "Flajšmanova",
     "lat": 46.064548,
     "lon": 14.52911,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "7",
@@ -9735,7 +9735,7 @@
     "name": "Šola Jarše",
     "lat": 46.066689,
     "lon": 14.532968,
-    "opposite": "203044",
+    "opposite": "203042",
     "routes": [
       {
         "name": "2",
@@ -9773,7 +9773,7 @@
     "name": "Toplarna",
     "lat": 46.076324,
     "lon": 14.500288,
-    "opposite": "203044",
+    "opposite": "103011",
     "routes": [
       {
         "name": "18",
@@ -9791,7 +9791,7 @@
     "name": "Tbilisijska",
     "lat": 46.033859,
     "lon": 14.478345,
-    "opposite": "203044",
+    "opposite": "603142",
     "routes": [
       {
         "name": "1",
@@ -9809,7 +9809,7 @@
     "name": "Agrokombinatska",
     "lat": 46.06913,
     "lon": 14.605268,
-    "opposite": "203044",
+    "opposite": "204212",
     "routes": [
       {
         "name": "11",
@@ -9831,7 +9831,7 @@
     "name": "Bolnica P. Držaja",
     "lat": 46.067883,
     "lon": 14.485481,
-    "opposite": "203044",
+    "opposite": "802041",
     "routes": [
       {
         "name": "7",
@@ -9849,7 +9849,7 @@
     "name": "Jurečič",
     "lat": 45.989456,
     "lon": 14.451919,
-    "opposite": "203044",
+    "opposite": "614112",
     "routes": [
       {
         "name": "19",
@@ -9867,7 +9867,7 @@
     "name": "Tinčk",
     "lat": 46.038151,
     "lon": 14.648045,
-    "opposite": "203044",
+    "opposite": "405102",
     "routes": [
       {
         "name": "10",
@@ -9885,7 +9885,7 @@
     "name": "Volavlje",
     "lat": 46.032249,
     "lon": 14.716785,
-    "opposite": "203044",
+    "opposite": "406061",
     "routes": [
       {
         "name": "10",
@@ -9907,7 +9907,7 @@
     "name": "Astra",
     "lat": 46.064857,
     "lon": 14.508737,
-    "opposite": "203044",
+    "opposite": "101052",
     "routes": [
       {
         "name": "6",
@@ -9941,7 +9941,7 @@
     "name": "Zg. Besnica",
     "lat": 46.025963,
     "lon": 14.701799,
-    "opposite": "203044",
+    "opposite": "405071",
     "routes": [
       {
         "name": "10",
@@ -9963,7 +9963,7 @@
     "name": "Gornji trg",
     "lat": 46.045757,
     "lon": 14.506405,
-    "opposite": "203044",
+    "opposite": "602101",
     "routes": [
       {
         "name": "2",
@@ -9997,7 +9997,7 @@
     "name": "Rašica",
     "lat": 46.127121,
     "lon": 14.492896,
-    "opposite": "203044",
+    "opposite": "104212",
     "routes": [
       {
         "name": "1",
@@ -10019,7 +10019,7 @@
     "name": "Smrekarjevo",
     "lat": 46.028759,
     "lon": 14.726521,
-    "opposite": "203044",
+    "opposite": "406052",
     "routes": [
       {
         "name": "10",
@@ -10041,7 +10041,7 @@
     "name": "Vevče",
     "lat": 46.049408,
     "lon": 14.592624,
-    "opposite": "203044",
+    "opposite": "304101",
     "routes": [
       {
         "name": "24",
@@ -10063,7 +10063,7 @@
     "name": "Jurčkova",
     "lat": 46.026558,
     "lon": 14.527631,
-    "opposite": "203044",
+    "opposite": "504042",
     "routes": [
       {
         "name": "27",
@@ -10081,7 +10081,7 @@
     "name": "Sadinja vas",
     "lat": 46.021694,
     "lon": 14.612069,
-    "opposite": "203044",
+    "opposite": "415011",
     "routes": [
       {
         "name": "26",
@@ -10099,7 +10099,7 @@
     "name": "Krožna pot",
     "lat": 46.041298,
     "lon": 14.555717,
-    "opposite": "203044",
+    "opposite": "404101",
     "routes": [
       {
         "name": "24",
@@ -10117,7 +10117,7 @@
     "name": "ZADOBROVA",
     "lat": 46.071068,
     "lon": 14.580005,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "10",
@@ -10143,7 +10143,7 @@
     "name": "Ajdovščina",
     "lat": 46.053761,
     "lon": 14.504131,
-    "opposite": "203044",
+    "opposite": "600021",
     "routes": [
       {
         "name": "1",
@@ -10197,7 +10197,7 @@
     "name": "Čerinova",
     "lat": 46.090229,
     "lon": 14.512219,
-    "opposite": "203044",
+    "opposite": "103122",
     "routes": [
       {
         "name": "14",
@@ -10215,7 +10215,7 @@
     "name": "Rogovilc",
     "lat": 46.102615,
     "lon": 14.531404,
-    "opposite": "203044",
+    "opposite": "104111",
     "routes": [
       {
         "name": "6",
@@ -10237,7 +10237,7 @@
     "name": "Čebelarska",
     "lat": 46.079277,
     "lon": 14.471299,
-    "opposite": "203044",
+    "opposite": "803111",
     "routes": [
       {
         "name": "7",
@@ -10255,7 +10255,7 @@
     "name": "Lutkovno gl.",
     "lat": 46.050484,
     "lon": 14.510652,
-    "opposite": "203044",
+    "opposite": "501032",
     "routes": [
       {
         "name": "2",
@@ -10273,7 +10273,7 @@
     "name": "Pod Urhom",
     "lat": 46.03817,
     "lon": 14.589188,
-    "opposite": "203044",
+    "opposite": "404141",
     "routes": [
       {
         "name": "24",
@@ -10291,7 +10291,7 @@
     "name": "Podmilščakova",
     "lat": 46.069813,
     "lon": 14.5035,
-    "opposite": "203044",
+    "opposite": "102052",
     "routes": [
       {
         "name": "14",
@@ -10309,7 +10309,7 @@
     "name": "Dobrunje-2",
     "lat": 46.038242,
     "lon": 14.582726,
-    "opposite": "203044",
+    "opposite": "404132",
     "routes": [
       {
         "name": "24",
@@ -10327,7 +10327,7 @@
     "name": "Ambrožev trg",
     "lat": 46.049774,
     "lon": 14.516916,
-    "opposite": "203044",
+    "opposite": "502014",
     "routes": [
       {
         "name": "2",
@@ -10357,7 +10357,7 @@
     "name": "Slovenijales",
     "lat": 46.093533,
     "lon": 14.553877,
-    "opposite": "203044",
+    "opposite": "204111",
     "routes": [
       {
         "name": "8",
@@ -10375,7 +10375,7 @@
     "name": "Bratislavska",
     "lat": 46.065224,
     "lon": 14.550884,
-    "opposite": "203044",
+    "opposite": "203181",
     "routes": [
       {
         "name": "7",
@@ -10393,7 +10393,7 @@
     "name": "BTC-Emporium",
     "lat": 46.061771,
     "lon": 14.544939,
-    "opposite": "203044",
+    "opposite": "203141",
     "routes": [
       {
         "name": "24",
@@ -10415,7 +10415,7 @@
     "name": "Viadukt",
     "lat": 46.059933,
     "lon": 14.519338,
-    "opposite": "203044",
+    "opposite": "202014",
     "routes": [
       {
         "name": "12",
@@ -10437,7 +10437,7 @@
     "name": "Litostrojska",
     "lat": 46.076813,
     "lon": 14.488618,
-    "opposite": "203044",
+    "opposite": "803052",
     "routes": [
       {
         "name": "3",
@@ -10463,7 +10463,7 @@
     "name": "Pod Debnim vrhom",
     "lat": 46.063381,
     "lon": 14.624422,
-    "opposite": "203044",
+    "opposite": "204282",
     "routes": [
       {
         "name": "10",
@@ -10481,7 +10481,7 @@
     "name": "Pod Rožnikom",
     "lat": 46.051216,
     "lon": 14.492358,
-    "opposite": "203044",
+    "opposite": "702012",
     "routes": [
       {
         "name": "14",
@@ -10499,7 +10499,7 @@
     "name": "Sp. Gameljne 3",
     "lat": 46.123848,
     "lon": 14.502708,
-    "opposite": "203044",
+    "opposite": "104352",
     "routes": [
       {
         "name": "28",
@@ -10517,7 +10517,7 @@
     "name": "Opekarska",
     "lat": 46.037384,
     "lon": 14.503611,
-    "opposite": "203044",
+    "opposite": "603172",
     "routes": [
       {
         "name": "9",
@@ -10535,7 +10535,7 @@
     "name": "Kompas",
     "lat": 46.079945,
     "lon": 14.480161,
-    "opposite": "203044",
+    "opposite": "803032",
     "routes": [
       {
         "name": "1",
@@ -10557,7 +10557,7 @@
     "name": "OPEKARSKA",
     "lat": 46.037148,
     "lon": 14.503912,
-    "opposite": "203044",
+    "opposite": "603171",
     "routes": [
       {
         "name": "9",
@@ -10575,7 +10575,7 @@
     "name": "Lipe",
     "lat": 45.997776,
     "lon": 14.470941,
-    "opposite": "203044",
+    "opposite": "614071",
     "routes": [
       {
         "name": "19",
@@ -10593,7 +10593,7 @@
     "name": "Škofljica žaga",
     "lat": 45.986214,
     "lon": 14.571328,
-    "opposite": "203044",
+    "opposite": "504112",
     "routes": [
       {
         "name": "3",
@@ -10623,7 +10623,7 @@
     "name": "Podpeč 1",
     "lat": 45.976265,
     "lon": 14.423029,
-    "opposite": "203044",
+    "opposite": "745111",
     "routes": [
       {
         "name": "19",
@@ -10641,7 +10641,7 @@
     "name": "Trbeže",
     "lat": 46.078091,
     "lon": 14.574941,
-    "opposite": "203044",
+    "opposite": "204252",
     "routes": [
       {
         "name": "24",
@@ -10659,7 +10659,7 @@
     "name": "Dolgi most",
     "lat": 46.0373,
     "lon": 14.467279,
-    "opposite": "203044",
+    "opposite": "703112",
     "routes": [
       {
         "name": "6",
@@ -10709,7 +10709,7 @@
     "name": "GLINCE",
     "lat": 46.081589,
     "lon": 14.441282,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "22",
@@ -10727,7 +10727,7 @@
     "name": "I. Kobilca",
     "lat": 46.041664,
     "lon": 14.463603,
-    "opposite": "203044",
+    "opposite": "703212",
     "routes": [
       {
         "name": "14",
@@ -10745,7 +10745,7 @@
     "name": "Pot v Smrečje",
     "lat": 46.109253,
     "lon": 14.527655,
-    "opposite": "203044",
+    "opposite": "104132",
     "routes": [
       {
         "name": "28",
@@ -10763,7 +10763,7 @@
     "name": "Galjevica",
     "lat": 46.033184,
     "lon": 14.513371,
-    "opposite": "203044",
+    "opposite": "603162",
     "routes": [
       {
         "name": "27",
@@ -10781,7 +10781,7 @@
     "name": "Bratov Učakar",
     "lat": 46.069641,
     "lon": 14.473516,
-    "opposite": "203044",
+    "opposite": "803131",
     "routes": [
       {
         "name": "5",
@@ -10803,7 +10803,7 @@
     "name": "Hajdrihova",
     "lat": 46.045719,
     "lon": 14.49046,
-    "opposite": "203044",
+    "opposite": "602032",
     "routes": [
       {
         "name": "1",
@@ -10853,7 +10853,7 @@
     "name": "Bratov Babnik",
     "lat": 46.074669,
     "lon": 14.463196,
-    "opposite": "203044",
+    "opposite": "803161",
     "routes": [
       {
         "name": "22",
@@ -10871,7 +10871,7 @@
     "name": "Ziherlova",
     "lat": 46.041492,
     "lon": 14.500039,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "9",
@@ -10889,7 +10889,7 @@
     "name": "OŠ Maksa Pečarja",
     "lat": 46.104973,
     "lon": 14.534554,
-    "opposite": "203044",
+    "opposite": "104151",
     "routes": [
       {
         "name": "28",
@@ -10907,7 +10907,7 @@
     "name": "Koprska",
     "lat": 46.035366,
     "lon": 14.484431,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "1",
@@ -10925,7 +10925,7 @@
     "name": "ČRNI LOG",
     "lat": 46.020241,
     "lon": 14.463606,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "16",
@@ -10943,7 +10943,7 @@
     "name": "Lutkovno gl.",
     "lat": 46.050354,
     "lon": 14.510503,
-    "opposite": "203044",
+    "opposite": "501031",
     "routes": [
       {
         "name": "2",
@@ -10961,7 +10961,7 @@
     "name": "Konzorcij",
     "lat": 46.051411,
     "lon": 14.50305,
-    "opposite": "203044",
+    "opposite": "601011",
     "routes": [
       {
         "name": "1",
@@ -11015,7 +11015,7 @@
     "name": "Živalski vrt-ZOO",
     "lat": 46.052132,
     "lon": 14.472137,
-    "opposite": "203044",
+    "opposite": "703122",
     "routes": [
       {
         "name": "18",
@@ -11033,7 +11033,7 @@
     "name": "Dornig",
     "lat": 46.008591,
     "lon": 14.498006,
-    "opposite": "203044",
+    "opposite": "614032",
     "routes": [
       {
         "name": "19",
@@ -11051,7 +11051,7 @@
     "name": "Golouhova",
     "lat": 46.031658,
     "lon": 14.516356,
-    "opposite": "203044",
+    "opposite": "603151",
     "routes": [
       {
         "name": "27",
@@ -11069,7 +11069,7 @@
     "name": "Plešičeva",
     "lat": 46.081665,
     "lon": 14.46937,
-    "opposite": "203044",
+    "opposite": "803122",
     "routes": [
       {
         "name": "7",
@@ -11087,7 +11087,7 @@
     "name": "Križišče Sostro",
     "lat": 46.037361,
     "lon": 14.608246,
-    "opposite": "203044",
+    "opposite": "404082",
     "routes": [
       {
         "name": "13",
@@ -11113,7 +11113,7 @@
     "name": "Nove Žale",
     "lat": 46.074524,
     "lon": 14.532018,
-    "opposite": "203044",
+    "opposite": "203071",
     "routes": [
       {
         "name": "19",
@@ -11131,7 +11131,7 @@
     "name": "Ilovica",
     "lat": 46.027802,
     "lon": 14.511615,
-    "opposite": "203044",
+    "opposite": "603101",
     "routes": [
       {
         "name": "19",
@@ -11149,7 +11149,7 @@
     "name": "Cesta na Vrhovce",
     "lat": 46.041714,
     "lon": 14.459835,
-    "opposite": "203044",
+    "opposite": "703221",
     "routes": [
       {
         "name": "14",
@@ -11167,7 +11167,7 @@
     "name": "Pohorskega bataljona",
     "lat": 46.081913,
     "lon": 14.507374,
-    "opposite": "203044",
+    "opposite": "103061",
     "routes": [
       {
         "name": "14",
@@ -11185,7 +11185,7 @@
     "name": "Cesta v Zavoglje",
     "lat": 46.040192,
     "lon": 14.602766,
-    "opposite": "203044",
+    "opposite": "404071",
     "routes": [
       {
         "name": "13",
@@ -11211,7 +11211,7 @@
     "name": "BTC-tržnica",
     "lat": 46.064137,
     "lon": 14.54355,
-    "opposite": "203044",
+    "opposite": "203121",
     "routes": [
       {
         "name": "27",
@@ -11229,7 +11229,7 @@
     "name": "Maroltova",
     "lat": 46.079155,
     "lon": 14.519899,
-    "opposite": "203044",
+    "opposite": "103161",
     "routes": [
       {
         "name": "20",
@@ -11247,7 +11247,7 @@
     "name": "Živalski vrt-ZOO",
     "lat": 46.052799,
     "lon": 14.471697,
-    "opposite": "203044",
+    "opposite": "703121",
     "routes": [
       {
         "name": "18",
@@ -11265,7 +11265,7 @@
     "name": "Sneberje",
     "lat": 46.077892,
     "lon": 14.569179,
-    "opposite": "203044",
+    "opposite": "204072",
     "routes": [
       {
         "name": "12",
@@ -11287,7 +11287,7 @@
     "name": "Na jami",
     "lat": 46.066616,
     "lon": 14.490035,
-    "opposite": "203044",
+    "opposite": "802032",
     "routes": [
       {
         "name": "7",
@@ -11305,7 +11305,7 @@
     "name": "Preglov trg",
     "lat": 46.05455,
     "lon": 14.558475,
-    "opposite": "203044",
+    "opposite": "304011",
     "routes": [
       {
         "name": "20",
@@ -11331,7 +11331,7 @@
     "name": "Savsko naselje",
     "lat": 46.062729,
     "lon": 14.524755,
-    "opposite": "203044",
+    "opposite": "202041",
     "routes": [
       {
         "name": "2",
@@ -11349,7 +11349,7 @@
     "name": "Ljubljanske brigade",
     "lat": 46.081543,
     "lon": 14.485271,
-    "opposite": "203044",
+    "opposite": "803061",
     "routes": [
       {
         "name": "8",
@@ -11367,7 +11367,7 @@
     "name": "Kozler",
     "lat": 45.995037,
     "lon": 14.465251,
-    "opposite": "203044",
+    "opposite": "614082",
     "routes": [
       {
         "name": "19",
@@ -11385,7 +11385,7 @@
     "name": "ČRNUČE",
     "lat": 46.104263,
     "lon": 14.536042,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "6",
@@ -11407,7 +11407,7 @@
     "name": "Križanke",
     "lat": 46.046017,
     "lon": 14.502186,
-    "opposite": "203044",
+    "opposite": "602061",
     "routes": [
       {
         "name": "2",
@@ -11441,7 +11441,7 @@
     "name": "Brinje",
     "lat": 46.077972,
     "lon": 14.506268,
-    "opposite": "203044",
+    "opposite": "103021",
     "routes": [
       {
         "name": "14",
@@ -11459,7 +11459,7 @@
     "name": "Tinčk",
     "lat": 46.038132,
     "lon": 14.648054,
-    "opposite": "203044",
+    "opposite": "405101",
     "routes": [
       {
         "name": "10",
@@ -11477,7 +11477,7 @@
     "name": "Središka",
     "lat": 46.062981,
     "lon": 14.525992,
-    "opposite": "203044",
+    "opposite": "202091",
     "routes": [
       {
         "name": "12",
@@ -11499,7 +11499,7 @@
     "name": "AMZS",
     "lat": 46.077656,
     "lon": 14.512012,
-    "opposite": "203044",
+    "opposite": "103032",
     "routes": [
       {
         "name": "6",
@@ -11529,7 +11529,7 @@
     "name": "Rusjanov trg",
     "lat": 46.05455,
     "lon": 14.562848,
-    "opposite": "203044",
+    "opposite": "304031",
     "routes": [
       {
         "name": "20",
@@ -11555,7 +11555,7 @@
     "name": "BROD",
     "lat": 46.115513,
     "lon": 14.462748,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "1",
@@ -11577,7 +11577,7 @@
     "name": "Nusdorferjeva",
     "lat": 46.049301,
     "lon": 14.547774,
-    "opposite": "203044",
+    "opposite": "303082",
     "routes": [
       {
         "name": "5",
@@ -11599,7 +11599,7 @@
     "name": "Tovarna Lek",
     "lat": 46.079662,
     "lon": 14.50143,
-    "opposite": "203044",
+    "opposite": "103051",
     "routes": [
       {
         "name": "18",
@@ -11617,7 +11617,7 @@
     "name": "Rudnik",
     "lat": 46.017525,
     "lon": 14.543324,
-    "opposite": "203044",
+    "opposite": "504031",
     "routes": [
       {
         "name": "3",
@@ -11635,7 +11635,7 @@
     "name": "Friškovec",
     "lat": 46.05743,
     "lon": 14.518347,
-    "opposite": "203044",
+    "opposite": "301012",
     "routes": [
       {
         "name": "2",
@@ -11669,7 +11669,7 @@
     "name": "ZELENA JAMA",
     "lat": 46.063202,
     "lon": 14.529534,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "2",
@@ -11687,7 +11687,7 @@
     "name": "Bonifacija",
     "lat": 46.040138,
     "lon": 14.473077,
-    "opposite": "203044",
+    "opposite": "703101",
     "routes": [
       {
         "name": "6",
@@ -11709,7 +11709,7 @@
     "name": "Za travniki",
     "lat": 46.073875,
     "lon": 14.588079,
-    "opposite": "203044",
+    "opposite": "204372",
     "routes": [
       {
         "name": "10",
@@ -11727,7 +11727,7 @@
     "name": "Selo",
     "lat": 45.999229,
     "lon": 14.657269,
-    "opposite": "203044",
+    "opposite": "415041",
     "routes": [
       {
         "name": "26",
@@ -11745,7 +11745,7 @@
     "name": "Litostroj",
     "lat": 46.082207,
     "lon": 14.496925,
-    "opposite": "203044",
+    "opposite": "103201",
     "routes": [
       {
         "name": "18",
@@ -11763,7 +11763,7 @@
     "name": "N. STOŽICE P+R",
     "lat": 46.081921,
     "lon": 14.519762,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "20",
@@ -11781,7 +11781,7 @@
     "name": "Park varne mobilnosti",
     "lat": 46.030388,
     "lon": 14.493136,
-    "opposite": "203044",
+    "opposite": "603201",
     "routes": [
       {
         "name": "16",
@@ -11799,7 +11799,7 @@
     "name": "Pot v Smrečje",
     "lat": 46.10928,
     "lon": 14.528426,
-    "opposite": "203044",
+    "opposite": "104131",
     "routes": [
       {
         "name": "28",
@@ -11817,7 +11817,7 @@
     "name": "Jamnikarjeva",
     "lat": 46.044895,
     "lon": 14.475148,
-    "opposite": "203044",
+    "opposite": "703032",
     "routes": [
       {
         "name": "14",
@@ -11835,7 +11835,7 @@
     "name": "Prušnikova",
     "lat": 46.091019,
     "lon": 14.471065,
-    "opposite": "203044",
+    "opposite": "804021",
     "routes": [
       {
         "name": "1",
@@ -11861,7 +11861,7 @@
     "name": "GAMELJNE",
     "lat": 46.126865,
     "lon": 14.497444,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "1",
@@ -11887,7 +11887,7 @@
     "name": "Šlandrova",
     "lat": 46.097946,
     "lon": 14.536026,
-    "opposite": "203044",
+    "opposite": "104072",
     "routes": [
       {
         "name": "8",
@@ -11905,7 +11905,7 @@
     "name": "Parmova",
     "lat": 46.06374,
     "lon": 14.507465,
-    "opposite": "203044",
+    "opposite": "101022",
     "routes": [
       {
         "name": "14",
@@ -11923,7 +11923,7 @@
     "name": "Pržanec",
     "lat": 46.086147,
     "lon": 14.459642,
-    "opposite": "203044",
+    "opposite": "804232",
     "routes": [
       {
         "name": "7",
@@ -11941,7 +11941,7 @@
     "name": "Mihov štradon",
     "lat": 46.028999,
     "lon": 14.522042,
-    "opposite": "203044",
+    "opposite": "503051",
     "routes": [
       {
         "name": "27",
@@ -11959,7 +11959,7 @@
     "name": "Bavarski dvor",
     "lat": 46.056549,
     "lon": 14.505423,
-    "opposite": "203044",
+    "opposite": "600011",
     "routes": [
       {
         "name": "1",
@@ -12053,7 +12053,7 @@
     "name": "Strelišče",
     "lat": 46.039444,
     "lon": 14.516998,
-    "opposite": "203044",
+    "opposite": "503012",
     "routes": [
       {
         "name": "3",
@@ -12091,7 +12091,7 @@
     "name": "NS Rudnik",
     "lat": 46.020245,
     "lon": 14.534812,
-    "opposite": "203044",
+    "opposite": "504051",
     "routes": [
       {
         "name": "27",
@@ -12109,7 +12109,7 @@
     "name": "Lahova pot",
     "lat": 46.024426,
     "lon": 14.511222,
-    "opposite": "203044",
+    "opposite": "603112",
     "routes": [
       {
         "name": "19",
@@ -12127,7 +12127,7 @@
     "name": "Kržičeva",
     "lat": 46.06509,
     "lon": 14.513805,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "13",
@@ -12149,7 +12149,7 @@
     "name": "ŠKOFLJICA obrač.",
     "lat": 45.979305,
     "lon": 14.575409,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "3",
@@ -12175,7 +12175,7 @@
     "name": "Pod Hribom",
     "lat": 46.006435,
     "lon": 14.548618,
-    "opposite": "203044",
+    "opposite": "504071",
     "routes": [
       {
         "name": "3",
@@ -12197,7 +12197,7 @@
     "name": "Hrvatski trg",
     "lat": 46.052498,
     "lon": 14.516756,
-    "opposite": "203044",
+    "opposite": "402012",
     "routes": [
       {
         "name": "5",
@@ -12215,7 +12215,7 @@
     "name": "Polje-kolodvor",
     "lat": 46.056973,
     "lon": 14.583684,
-    "opposite": "203044",
+    "opposite": "304081",
     "routes": [
       {
         "name": "24",
@@ -12237,7 +12237,7 @@
     "name": "Spar",
     "lat": 46.076797,
     "lon": 14.466884,
-    "opposite": "203044",
+    "opposite": "803172",
     "routes": [
       {
         "name": "22",
@@ -12255,7 +12255,7 @@
     "name": "Savsko naselje",
     "lat": 46.062252,
     "lon": 14.524204,
-    "opposite": "203044",
+    "opposite": "202042",
     "routes": [
       {
         "name": "2",
@@ -12273,7 +12273,7 @@
     "name": "Pod Urhom",
     "lat": 46.038216,
     "lon": 14.589108,
-    "opposite": "203044",
+    "opposite": "404142",
     "routes": [
       {
         "name": "24",
@@ -12291,7 +12291,7 @@
     "name": "Zg. Gameljne",
     "lat": 46.125931,
     "lon": 14.487072,
-    "opposite": "203044",
+    "opposite": "104201",
     "routes": [
       {
         "name": "1",
@@ -12313,7 +12313,7 @@
     "name": "Livada",
     "lat": 46.033203,
     "lon": 14.512451,
-    "opposite": "203044",
+    "opposite": "603091",
     "routes": [
       {
         "name": "19",
@@ -12331,7 +12331,7 @@
     "name": "Bobrova",
     "lat": 46.024364,
     "lon": 14.531842,
-    "opposite": "203044",
+    "opposite": "504121",
     "routes": [
       {
         "name": "27",
@@ -12349,7 +12349,7 @@
     "name": "Bežigrad",
     "lat": 46.06377,
     "lon": 14.511703,
-    "opposite": "203044",
+    "opposite": "101032",
     "routes": [
       {
         "name": "3",
@@ -12403,7 +12403,7 @@
     "name": "Podmilščakova",
     "lat": 46.069252,
     "lon": 14.503558,
-    "opposite": "203044",
+    "opposite": "102051",
     "routes": [
       {
         "name": "14",
@@ -12421,7 +12421,7 @@
     "name": "Yulon",
     "lat": 46.062004,
     "lon": 14.552727,
-    "opposite": "203044",
+    "opposite": "203192",
     "routes": [
       {
         "name": "7",
@@ -12439,7 +12439,7 @@
     "name": "Kavčičeva",
     "lat": 46.064049,
     "lon": 14.53596,
-    "opposite": "203044",
+    "opposite": "203052",
     "routes": [
       {
         "name": "2",
@@ -12457,7 +12457,7 @@
     "name": "Zg. Besnica",
     "lat": 46.026161,
     "lon": 14.701832,
-    "opposite": "203044",
+    "opposite": "405072",
     "routes": [
       {
         "name": "10",
@@ -12479,7 +12479,7 @@
     "name": "AMZS",
     "lat": 46.077362,
     "lon": 14.51225,
-    "opposite": "203044",
+    "opposite": "103031",
     "routes": [
       {
         "name": "6",
@@ -12509,7 +12509,7 @@
     "name": "Žito",
     "lat": 46.069881,
     "lon": 14.546728,
-    "opposite": "203044",
+    "opposite": "203151",
     "routes": [
       {
         "name": "2",
@@ -12539,7 +12539,7 @@
     "name": "Lanišče",
     "lat": 46.045273,
     "lon": 14.709684,
-    "opposite": "203044",
+    "opposite": "406071",
     "routes": [
       {
         "name": "10",
@@ -12561,7 +12561,7 @@
     "name": "Viadukt",
     "lat": 46.059822,
     "lon": 14.51931,
-    "opposite": "203044",
+    "opposite": "202013",
     "routes": [
       {
         "name": "12",
@@ -12583,7 +12583,7 @@
     "name": "Hlebš",
     "lat": 46.044754,
     "lon": 14.645051,
-    "opposite": "203044",
+    "opposite": "405081",
     "routes": [
       {
         "name": "10",
@@ -12601,7 +12601,7 @@
     "name": "Cesta na Brod",
     "lat": 46.096161,
     "lon": 14.546776,
-    "opposite": "203044",
+    "opposite": "104091",
     "routes": [
       {
         "name": "8",
@@ -12619,7 +12619,7 @@
     "name": "Ledena dvorana Zalog",
     "lat": 46.062149,
     "lon": 14.6064,
-    "opposite": "203044",
+    "opposite": "204301",
     "routes": [
       {
         "name": "10",
@@ -12637,7 +12637,7 @@
     "name": "Archinetova",
     "lat": 46.056263,
     "lon": 14.555283,
-    "opposite": "203044",
+    "opposite": "303062",
     "routes": [
       {
         "name": "11",
@@ -12655,7 +12655,7 @@
     "name": "Tabor",
     "lat": 46.109222,
     "lon": 14.461908,
-    "opposite": "203044",
+    "opposite": "804101",
     "routes": [
       {
         "name": "1",
@@ -12677,7 +12677,7 @@
     "name": "Tacen",
     "lat": 46.120155,
     "lon": 14.466866,
-    "opposite": "203044",
+    "opposite": "804151",
     "routes": [
       {
         "name": "1",
@@ -12699,7 +12699,7 @@
     "name": "Pot heroja Trtnika",
     "lat": 46.043903,
     "lon": 14.59494,
-    "opposite": "203044",
+    "opposite": "404191",
     "routes": [
       {
         "name": "24",
@@ -12721,7 +12721,7 @@
     "name": "Ižanska",
     "lat": 46.036018,
     "lon": 14.513099,
-    "opposite": "203044",
+    "opposite": "603122",
     "routes": [
       {
         "name": "27",
@@ -12739,7 +12739,7 @@
     "name": "Novo Polje",
     "lat": 46.063267,
     "lon": 14.583212,
-    "opposite": "203044",
+    "opposite": "204102",
     "routes": [
       {
         "name": "24",
@@ -12761,7 +12761,7 @@
     "name": "Na Žalah",
     "lat": 46.072086,
     "lon": 14.529728,
-    "opposite": "203044",
+    "opposite": "203232",
     "routes": [
       {
         "name": "19",
@@ -12779,7 +12779,7 @@
     "name": "Hrušica",
     "lat": 46.045521,
     "lon": 14.559455,
-    "opposite": "203044",
+    "opposite": "404012",
     "routes": [
       {
         "name": "13",
@@ -12797,7 +12797,7 @@
     "name": "Pržanec",
     "lat": 46.086311,
     "lon": 14.459278,
-    "opposite": "203044",
+    "opposite": "804231",
     "routes": [
       {
         "name": "7",
@@ -12815,7 +12815,7 @@
     "name": "Zadvor",
     "lat": 46.040257,
     "lon": 14.597719,
-    "opposite": "203044",
+    "opposite": "404062",
     "routes": [
       {
         "name": "13",
@@ -12841,7 +12841,7 @@
     "name": "Smrekarjevo",
     "lat": 46.028904,
     "lon": 14.726546,
-    "opposite": "203044",
+    "opposite": "406051",
     "routes": [
       {
         "name": "10",
@@ -12863,7 +12863,7 @@
     "name": "BTC-tržnica",
     "lat": 46.064262,
     "lon": 14.543612,
-    "opposite": "203044",
+    "opposite": "203122",
     "routes": [
       {
         "name": "27",
@@ -12881,7 +12881,7 @@
     "name": "Cukrarna",
     "lat": 46.048725,
     "lon": 14.520202,
-    "opposite": "203044",
+    "opposite": "502021",
     "routes": [
       {
         "name": "5",
@@ -12903,7 +12903,7 @@
     "name": "Plešičeva",
     "lat": 46.082462,
     "lon": 14.469025,
-    "opposite": "203044",
+    "opposite": "803121",
     "routes": [
       {
         "name": "7",
@@ -12921,7 +12921,7 @@
     "name": "Ob daljnovodu",
     "lat": 46.112507,
     "lon": 14.461884,
-    "opposite": "203044",
+    "opposite": "804111",
     "routes": [
       {
         "name": "1",
@@ -12943,7 +12943,7 @@
     "name": "Tobačna",
     "lat": 46.047043,
     "lon": 14.494323,
-    "opposite": "203044",
+    "opposite": "602042",
     "routes": [
       {
         "name": "1",
@@ -12965,7 +12965,7 @@
     "name": "Gasilska brigada",
     "lat": 46.06815,
     "lon": 14.516546,
-    "opposite": "203044",
+    "opposite": "102031",
     "routes": [
       {
         "name": "13",
@@ -12987,7 +12987,7 @@
     "name": "Brinje",
     "lat": 46.076756,
     "lon": 14.505506,
-    "opposite": "203044",
+    "opposite": "103022",
     "routes": [
       {
         "name": "14",
@@ -13005,7 +13005,7 @@
     "name": "Prekmurska",
     "lat": 46.064697,
     "lon": 14.517199,
-    "opposite": "203044",
+    "opposite": "202021",
     "routes": [
       {
         "name": "7",
@@ -13031,7 +13031,7 @@
     "name": "Vevče Papirnica",
     "lat": 46.047268,
     "lon": 14.5943,
-    "opposite": "203044",
+    "opposite": "304121",
     "routes": [
       {
         "name": "24",
@@ -13053,7 +13053,7 @@
     "name": "Šemnikar",
     "lat": 46.019398,
     "lon": 14.718252,
-    "opposite": "203044",
+    "opposite": "406011",
     "routes": [
       {
         "name": "10",
@@ -13075,7 +13075,7 @@
     "name": "ŽELEZNA",
     "lat": 46.061039,
     "lon": 14.513296,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "3",
@@ -13113,7 +13113,7 @@
     "name": "Ljubljanske brigade",
     "lat": 46.079891,
     "lon": 14.486789,
-    "opposite": "203044",
+    "opposite": "803062",
     "routes": [
       {
         "name": "8",
@@ -13131,7 +13131,7 @@
     "name": "Lahova pot",
     "lat": 46.024323,
     "lon": 14.51104,
-    "opposite": "203044",
+    "opposite": "603111",
     "routes": [
       {
         "name": "19",
@@ -13149,7 +13149,7 @@
     "name": "Pod Golovcem",
     "lat": 46.048561,
     "lon": 14.529891,
-    "opposite": "203044",
+    "opposite": "403032",
     "routes": [
       {
         "name": "13",
@@ -13167,7 +13167,7 @@
     "name": "Sp. Gameljne 3",
     "lat": 46.123466,
     "lon": 14.502864,
-    "opposite": "203044",
+    "opposite": "104351",
     "routes": [
       {
         "name": "28",
@@ -13185,7 +13185,7 @@
     "name": "Božičeva",
     "lat": 46.075573,
     "lon": 14.520941,
-    "opposite": "203044",
+    "opposite": "103191",
     "routes": [
       {
         "name": "13",
@@ -13207,7 +13207,7 @@
     "name": "Kosmačeva",
     "lat": 46.100723,
     "lon": 14.460546,
-    "opposite": "203044",
+    "opposite": "804082",
     "routes": [
       {
         "name": "1",
@@ -13233,7 +13233,7 @@
     "name": "Gerbičeva",
     "lat": 46.040665,
     "lon": 14.48985,
-    "opposite": "203044",
+    "opposite": "603021",
     "routes": [
       {
         "name": "1",
@@ -13251,7 +13251,7 @@
     "name": "Cesta na Kope",
     "lat": 46.074177,
     "lon": 14.583752,
-    "opposite": "203044",
+    "opposite": "204351",
     "routes": [
       {
         "name": "10",
@@ -13269,7 +13269,7 @@
     "name": "Cesta na Vrhovce",
     "lat": 46.041718,
     "lon": 14.459641,
-    "opposite": "203044",
+    "opposite": "703222",
     "routes": [
       {
         "name": "14",
@@ -13287,7 +13287,7 @@
     "name": "SOSTRO",
     "lat": 46.031807,
     "lon": 14.604355,
-    "opposite": "203044",
+    "opposite": "404092",
     "routes": [
       {
         "name": "13",
@@ -13305,7 +13305,7 @@
     "name": "C. dveh cesarjev",
     "lat": 46.030514,
     "lon": 14.480692,
-    "opposite": "203044",
+    "opposite": "704162",
     "routes": [
       {
         "name": "16",
@@ -13323,7 +13323,7 @@
     "name": "Dolgi most",
     "lat": 46.036781,
     "lon": 14.465192,
-    "opposite": "203044",
+    "opposite": "703111",
     "routes": [
       {
         "name": "6",
@@ -13369,7 +13369,7 @@
     "name": "Primožev ovinek",
     "lat": 45.991776,
     "lon": 14.658514,
-    "opposite": "203044",
+    "opposite": "415082",
     "routes": [
       {
         "name": "26",
@@ -13387,7 +13387,7 @@
     "name": "Vrhovci",
     "lat": 46.044102,
     "lon": 14.455626,
-    "opposite": "203044",
+    "opposite": "704031",
     "routes": [
       {
         "name": "14",
@@ -13405,7 +13405,7 @@
     "name": "Pošta Dobrunje",
     "lat": 46.041996,
     "lon": 14.586348,
-    "opposite": "203044",
+    "opposite": "404042",
     "routes": [
       {
         "name": "13",
@@ -13423,7 +13423,7 @@
     "name": "Stadion",
     "lat": 46.069347,
     "lon": 14.510169,
-    "opposite": "203044",
+    "opposite": "102042",
     "routes": [
       {
         "name": "6",
@@ -13449,7 +13449,7 @@
     "name": "Galjevica",
     "lat": 46.033104,
     "lon": 14.513184,
-    "opposite": "203044",
+    "opposite": "603161",
     "routes": [
       {
         "name": "27",
@@ -13467,7 +13467,7 @@
     "name": "Ježica",
     "lat": 46.098118,
     "lon": 14.516991,
-    "opposite": "203044",
+    "opposite": "104031",
     "routes": [
       {
         "name": "6",
@@ -13497,7 +13497,7 @@
     "name": "Peruzzijeva",
     "lat": 46.030331,
     "lon": 14.531704,
-    "opposite": "203044",
+    "opposite": "503041",
     "routes": [
       {
         "name": "3",
@@ -13515,7 +13515,7 @@
     "name": "LETALIŠKA P+R",
     "lat": 46.063263,
     "lon": 14.566776,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "7",
@@ -13533,7 +13533,7 @@
     "name": "Bolnica",
     "lat": 46.05442,
     "lon": 14.529307,
-    "opposite": "203044",
+    "opposite": "402041",
     "routes": [
       {
         "name": "2",
@@ -13567,7 +13567,7 @@
     "name": "Prušnikova",
     "lat": 46.089832,
     "lon": 14.471766,
-    "opposite": "203044",
+    "opposite": "804022",
     "routes": [
       {
         "name": "1",
@@ -13593,7 +13593,7 @@
     "name": "Slovenija avto",
     "lat": 46.073914,
     "lon": 14.486595,
-    "opposite": "203044",
+    "opposite": "803011",
     "routes": [
       {
         "name": "3",
@@ -13619,7 +13619,7 @@
     "name": "FUŽINE P+R",
     "lat": 46.052132,
     "lon": 14.56595,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "20",
@@ -13641,7 +13641,7 @@
     "name": "Dobrunje",
     "lat": 46.043274,
     "lon": 14.579272,
-    "opposite": "203044",
+    "opposite": "404032",
     "routes": [
       {
         "name": "13",
@@ -13659,7 +13659,7 @@
     "name": "Blaževo",
     "lat": 46.032166,
     "lon": 14.678075,
-    "opposite": "203044",
+    "opposite": "405042",
     "routes": [
       {
         "name": "10",
@@ -13681,7 +13681,7 @@
     "name": "Sp. Gameljne 2",
     "lat": 46.120529,
     "lon": 14.503875,
-    "opposite": "203044",
+    "opposite": "104341",
     "routes": [
       {
         "name": "28",
@@ -13699,7 +13699,7 @@
     "name": "GD Gameljne",
     "lat": 46.125843,
     "lon": 14.50035,
-    "opposite": "203044",
+    "opposite": "104362",
     "routes": [
       {
         "name": "28",
@@ -13717,7 +13717,7 @@
     "name": "Brdo",
     "lat": 46.047497,
     "lon": 14.453823,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "14",
@@ -13735,7 +13735,7 @@
     "name": "Draga",
     "lat": 46.067978,
     "lon": 14.476771,
-    "opposite": "203044",
+    "opposite": "803221",
     "routes": [
       {
         "name": "18",
@@ -13753,7 +13753,7 @@
     "name": "Jurčkova",
     "lat": 46.025879,
     "lon": 14.528792,
-    "opposite": "203044",
+    "opposite": "504041",
     "routes": [
       {
         "name": "27",
@@ -13771,7 +13771,7 @@
     "name": "Koprska",
     "lat": 46.035271,
     "lon": 14.48346,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "1",
@@ -13789,7 +13789,7 @@
     "name": "BTC-ATLANTIS",
     "lat": 46.063457,
     "lon": 14.548297,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "24",
@@ -13807,7 +13807,7 @@
     "name": "BESNICA obrač.",
     "lat": 46.035427,
     "lon": 14.654818,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "10",
@@ -13825,7 +13825,7 @@
     "name": "Kašeljska",
     "lat": 46.054207,
     "lon": 14.591943,
-    "opposite": "203044",
+    "opposite": "304161",
     "routes": [
       {
         "name": "11",
@@ -13847,7 +13847,7 @@
     "name": "SŽ KOLODVOR",
     "lat": 46.057911,
     "lon": 14.510148,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "Ž",
@@ -13865,7 +13865,7 @@
     "name": "Tobačna",
     "lat": 46.046963,
     "lon": 14.493443,
-    "opposite": "203044",
+    "opposite": "602041",
     "routes": [
       {
         "name": "1",
@@ -13911,7 +13911,7 @@
     "name": "Bežigrad",
     "lat": 46.063519,
     "lon": 14.511629,
-    "opposite": "203044",
+    "opposite": "101031",
     "routes": [
       {
         "name": "6",
@@ -13949,7 +13949,7 @@
     "name": "Strelišče",
     "lat": 46.03825,
     "lon": 14.518193,
-    "opposite": "203044",
+    "opposite": "503011",
     "routes": [
       {
         "name": "3",
@@ -13983,7 +13983,7 @@
     "name": "Kranjčeva",
     "lat": 46.069221,
     "lon": 14.52589,
-    "opposite": "203044",
+    "opposite": "203212",
     "routes": [
       {
         "name": "19",
@@ -14005,7 +14005,7 @@
     "name": "Maroltova",
     "lat": 46.079857,
     "lon": 14.519704,
-    "opposite": "203044",
+    "opposite": "103162",
     "routes": [
       {
         "name": "20",
@@ -14023,7 +14023,7 @@
     "name": "Silos",
     "lat": 46.05777,
     "lon": 14.60659,
-    "opposite": "203044",
+    "opposite": "304131",
     "routes": [
       {
         "name": "11",
@@ -14045,7 +14045,7 @@
     "name": "Cesta v Kresnice",
     "lat": 46.071602,
     "lon": 14.636345,
-    "opposite": "203044",
+    "opposite": "204271",
     "routes": [
       {
         "name": "10",
@@ -14063,7 +14063,7 @@
     "name": "Lipe",
     "lat": 45.997345,
     "lon": 14.470194,
-    "opposite": "203044",
+    "opposite": "614072",
     "routes": [
       {
         "name": "19",
@@ -14081,7 +14081,7 @@
     "name": "OŠ Jezero",
     "lat": 45.971729,
     "lon": 14.429117,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "19",
@@ -14099,7 +14099,7 @@
     "name": "Omersova",
     "lat": 46.074108,
     "lon": 14.452891,
-    "opposite": "203044",
+    "opposite": "804201",
     "routes": [
       {
         "name": "5",
@@ -14117,7 +14117,7 @@
     "name": "Rožičeva",
     "lat": 46.063465,
     "lon": 14.531915,
-    "opposite": "203044",
+    "opposite": "203022",
     "routes": [
       {
         "name": "2",
@@ -14135,7 +14135,7 @@
     "name": "Polje",
     "lat": 46.055119,
     "lon": 14.58367,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "24",
@@ -14157,7 +14157,7 @@
     "name": "Park varne mobilnosti",
     "lat": 46.029957,
     "lon": 14.492149,
-    "opposite": "203044",
+    "opposite": "603202",
     "routes": [
       {
         "name": "16",
@@ -14175,7 +14175,7 @@
     "name": "Šmartno",
     "lat": 46.12328,
     "lon": 14.476823,
-    "opposite": "203044",
+    "opposite": "104191",
     "routes": [
       {
         "name": "1",
@@ -14197,7 +14197,7 @@
     "name": "Martinova",
     "lat": 46.113468,
     "lon": 14.464373,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "1",
@@ -14219,7 +14219,7 @@
     "name": "Rožna dolina",
     "lat": 46.047905,
     "lon": 14.482088,
-    "opposite": "203044",
+    "opposite": "703011",
     "routes": [
       {
         "name": "14",
@@ -14237,7 +14237,7 @@
     "name": "Tiki",
     "lat": 46.072701,
     "lon": 14.498487,
-    "opposite": "203044",
+    "opposite": "802062",
     "routes": [
       {
         "name": "18",
@@ -14255,7 +14255,7 @@
     "name": "Kodeljevo",
     "lat": 46.051487,
     "lon": 14.539051,
-    "opposite": "203044",
+    "opposite": "403021",
     "routes": [
       {
         "name": "5",
@@ -14281,7 +14281,7 @@
     "name": "BRNČIČEVA",
     "lat": 46.093746,
     "lon": 14.555819,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "8",
@@ -14299,7 +14299,7 @@
     "name": "Bilečanska",
     "lat": 46.045769,
     "lon": 14.544234,
-    "opposite": "203044",
+    "opposite": "403071",
     "routes": [
       {
         "name": "24",
@@ -14317,7 +14317,7 @@
     "name": "Pot v mejah",
     "lat": 46.061142,
     "lon": 14.617203,
-    "opposite": "203044",
+    "opposite": "204292",
     "routes": [
       {
         "name": "10",
@@ -14335,7 +14335,7 @@
     "name": "SAVLJE",
     "lat": 46.095177,
     "lon": 14.503263,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "14",
@@ -14353,7 +14353,7 @@
     "name": "Privoz",
     "lat": 46.044083,
     "lon": 14.511282,
-    "opposite": "203044",
+    "opposite": "602112",
     "routes": [
       {
         "name": "3",
@@ -14383,7 +14383,7 @@
     "name": "I.C. Šiška",
     "lat": 46.079319,
     "lon": 14.498086,
-    "opposite": "203044",
+    "opposite": "103232",
     "routes": [
       {
         "name": "18",
@@ -14401,7 +14401,7 @@
     "name": "Vnajnarje",
     "lat": 46.042156,
     "lon": 14.645879,
-    "opposite": "203044",
+    "opposite": "405092",
     "routes": [
       {
         "name": "10",
@@ -14419,7 +14419,7 @@
     "name": "I. Kobilca",
     "lat": 46.04137,
     "lon": 14.463234,
-    "opposite": "203044",
+    "opposite": "703211",
     "routes": [
       {
         "name": "14",
@@ -14437,7 +14437,7 @@
     "name": "Šentvid",
     "lat": 46.096806,
     "lon": 14.46499,
-    "opposite": "203044",
+    "opposite": "804041",
     "routes": [
       {
         "name": "1",
@@ -14467,7 +14467,7 @@
     "name": "PRŽAN",
     "lat": 46.088341,
     "lon": 14.458852,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "7",
@@ -14485,7 +14485,7 @@
     "name": "Veliki Lipoglav",
     "lat": 46.005253,
     "lon": 14.653082,
-    "opposite": "203044",
+    "opposite": "415031",
     "routes": [
       {
         "name": "26",
@@ -14503,7 +14503,7 @@
     "name": "Svetčeva",
     "lat": 46.052963,
     "lon": 14.487136,
-    "opposite": "203044",
+    "opposite": "702031",
     "routes": [
       {
         "name": "18",
@@ -14521,7 +14521,7 @@
     "name": "Vevče Papirnica",
     "lat": 46.047443,
     "lon": 14.594364,
-    "opposite": "203044",
+    "opposite": "304122",
     "routes": [
       {
         "name": "24",
@@ -14543,7 +14543,7 @@
     "name": "Glonarjeva",
     "lat": 46.050301,
     "lon": 14.526478,
-    "opposite": "203044",
+    "opposite": "402052",
     "routes": [
       {
         "name": "5",
@@ -14561,7 +14561,7 @@
     "name": "Ilirska",
     "lat": 46.052895,
     "lon": 14.513903,
-    "opposite": "203044",
+    "opposite": "501011",
     "routes": [
       {
         "name": "5",
@@ -14579,7 +14579,7 @@
     "name": "Baragova",
     "lat": 46.076046,
     "lon": 14.517007,
-    "opposite": "203044",
+    "opposite": "103211",
     "routes": [
       {
         "name": "18",
@@ -14597,7 +14597,7 @@
     "name": "Za travniki",
     "lat": 46.073818,
     "lon": 14.588104,
-    "opposite": "203044",
+    "opposite": "204371",
     "routes": [
       {
         "name": "10",
@@ -14615,7 +14615,7 @@
     "name": "Ruski car",
     "lat": 46.09063,
     "lon": 14.514007,
-    "opposite": "203044",
+    "opposite": "103131",
     "routes": [
       {
         "name": "6",
@@ -14641,7 +14641,7 @@
     "name": "Prežganje",
     "lat": 46.020084,
     "lon": 14.741069,
-    "opposite": "203044",
+    "opposite": "406032",
     "routes": [
       {
         "name": "10",
@@ -14663,7 +14663,7 @@
     "name": "Log",
     "lat": 46.027225,
     "lon": 14.465927,
-    "opposite": "203044",
+    "opposite": "603252",
     "routes": [
       {
         "name": "16",
@@ -14681,7 +14681,7 @@
     "name": "Emona",
     "lat": 46.047771,
     "lon": 14.544743,
-    "opposite": "203044",
+    "opposite": "403052",
     "routes": [
       {
         "name": "5",
@@ -14707,7 +14707,7 @@
     "name": "Hajdrihova",
     "lat": 46.045803,
     "lon": 14.490064,
-    "opposite": "203044",
+    "opposite": "602031",
     "routes": [
       {
         "name": "1",
@@ -14729,7 +14729,7 @@
     "name": "Bizovik",
     "lat": 46.037426,
     "lon": 14.571088,
-    "opposite": "203044",
+    "opposite": "404121",
     "routes": [
       {
         "name": "24",
@@ -14747,7 +14747,7 @@
     "name": "Zmajski most",
     "lat": 46.051407,
     "lon": 14.510719,
-    "opposite": "203044",
+    "opposite": "501022",
     "routes": [
       {
         "name": "13",
@@ -14785,7 +14785,7 @@
     "name": "Središka",
     "lat": 46.062641,
     "lon": 14.525023,
-    "opposite": "203044",
+    "opposite": "202092",
     "routes": [
       {
         "name": "12",
@@ -14807,7 +14807,7 @@
     "name": "Brdo",
     "lat": 46.047489,
     "lon": 14.45362,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "14",
@@ -14825,7 +14825,7 @@
     "name": "C. dveh cesarjev",
     "lat": 46.030853,
     "lon": 14.479537,
-    "opposite": "203044",
+    "opposite": "704161",
     "routes": [
       {
         "name": "16",
@@ -14843,7 +14843,7 @@
     "name": "Viadukt",
     "lat": 46.05941,
     "lon": 14.520622,
-    "opposite": "203044",
+    "opposite": "202012",
     "routes": [
       {
         "name": "2",
@@ -14869,7 +14869,7 @@
     "name": "Vodovodna",
     "lat": 46.07539,
     "lon": 14.505082,
-    "opposite": "203044",
+    "opposite": "102071",
     "routes": [
       {
         "name": "14",
@@ -14887,7 +14887,7 @@
     "name": "Capuder",
     "lat": 46.005497,
     "lon": 14.489564,
-    "opposite": "203044",
+    "opposite": "614041",
     "routes": [
       {
         "name": "19",
@@ -14905,7 +14905,7 @@
     "name": "Rožna dolina",
     "lat": 46.048,
     "lon": 14.482654,
-    "opposite": "203044",
+    "opposite": "703012",
     "routes": [
       {
         "name": "14",
@@ -14923,7 +14923,7 @@
     "name": "Friškovec",
     "lat": 46.057533,
     "lon": 14.516734,
-    "opposite": "203044",
+    "opposite": "301011",
     "routes": [
       {
         "name": "2",
@@ -14957,7 +14957,7 @@
     "name": "Trnovo",
     "lat": 46.041893,
     "lon": 14.509812,
-    "opposite": "203044",
+    "opposite": "602121",
     "routes": [
       {
         "name": "19",
@@ -14975,7 +14975,7 @@
     "name": "Mirje",
     "lat": 46.044579,
     "lon": 14.500682,
-    "opposite": "203044",
+    "opposite": "602072",
     "routes": [
       {
         "name": "9",
@@ -14993,7 +14993,7 @@
     "name": "Kodrova",
     "lat": 46.069183,
     "lon": 14.539748,
-    "opposite": "203044",
+    "opposite": "203102",
     "routes": [
       {
         "name": "2",
@@ -15027,7 +15027,7 @@
     "name": "Kneza Koclja",
     "lat": 46.071491,
     "lon": 14.480672,
-    "opposite": "203044",
+    "opposite": "803081",
     "routes": [
       {
         "name": "5",
@@ -15053,7 +15053,7 @@
     "name": "Rakovnik",
     "lat": 46.036312,
     "lon": 14.522804,
-    "opposite": "203044",
+    "opposite": "503022",
     "routes": [
       {
         "name": "3",
@@ -15075,7 +15075,7 @@
     "name": "Razstavišče",
     "lat": 46.060692,
     "lon": 14.50711,
-    "opposite": "203044",
+    "opposite": "100022",
     "routes": [
       {
         "name": "3",
@@ -15141,7 +15141,7 @@
     "name": "Sneberje",
     "lat": 46.076637,
     "lon": 14.568354,
-    "opposite": "203044",
+    "opposite": "204071",
     "routes": [
       {
         "name": "12",
@@ -15163,7 +15163,7 @@
     "name": "Klinični center",
     "lat": 46.052315,
     "lon": 14.520921,
-    "opposite": "203044",
+    "opposite": "402031",
     "routes": [
       {
         "name": "2",
@@ -15197,7 +15197,7 @@
     "name": "Jana Husa",
     "lat": 46.053177,
     "lon": 14.533083,
-    "opposite": "203044",
+    "opposite": "403011",
     "routes": [
       {
         "name": "5",
@@ -15215,7 +15215,7 @@
     "name": "Gornji Rudnik",
     "lat": 46.028107,
     "lon": 14.535834,
-    "opposite": "203044",
+    "opposite": "504012",
     "routes": [
       {
         "name": "3",
@@ -15233,7 +15233,7 @@
     "name": "Letališka",
     "lat": 46.062035,
     "lon": 14.570114,
-    "opposite": "203044",
+    "opposite": "204041",
     "routes": [
       {
         "name": "27",
@@ -15251,7 +15251,7 @@
     "name": "Na klancu",
     "lat": 46.103741,
     "lon": 14.462691,
-    "opposite": "203044",
+    "opposite": "804091",
     "routes": [
       {
         "name": "1",
@@ -15277,7 +15277,7 @@
     "name": "Hruševska",
     "lat": 46.038799,
     "lon": 14.569472,
-    "opposite": "203044",
+    "opposite": "404111",
     "routes": [
       {
         "name": "24",
@@ -15295,7 +15295,7 @@
     "name": "LITOSTROJ",
     "lat": 46.082615,
     "lon": 14.497325,
-    "opposite": "203044",
+    "opposite": "103202",
     "routes": [
       {
         "name": "3",
@@ -15317,7 +15317,7 @@
     "name": "Kamnogoriška",
     "lat": 46.083527,
     "lon": 14.455612,
-    "opposite": "203044",
+    "opposite": "804392",
     "routes": [
       {
         "name": "22",
@@ -15335,7 +15335,7 @@
     "name": "Mercator",
     "lat": 46.074173,
     "lon": 14.511216,
-    "opposite": "203044",
+    "opposite": "102082",
     "routes": [
       {
         "name": "6",
@@ -15361,7 +15361,7 @@
     "name": "Murgle",
     "lat": 46.037868,
     "lon": 14.500715,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "9",
@@ -15379,7 +15379,7 @@
     "name": "JEŽICA P+R",
     "lat": 46.098248,
     "lon": 14.514144,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "11",
@@ -15397,7 +15397,7 @@
     "name": "Streliška",
     "lat": 46.044617,
     "lon": 14.516821,
-    "opposite": "203044",
+    "opposite": "502032",
     "routes": [
       {
         "name": "11",
@@ -15415,7 +15415,7 @@
     "name": "Bolnica",
     "lat": 46.054237,
     "lon": 14.528111,
-    "opposite": "203044",
+    "opposite": "402042",
     "routes": [
       {
         "name": "2",
@@ -15449,7 +15449,7 @@
     "name": "Leskoškova",
     "lat": 46.06208,
     "lon": 14.558679,
-    "opposite": "203044",
+    "opposite": "204012",
     "routes": [
       {
         "name": "7",
@@ -15471,7 +15471,7 @@
     "name": "Kosmačeva",
     "lat": 46.101002,
     "lon": 14.461034,
-    "opposite": "203044",
+    "opposite": "804081",
     "routes": [
       {
         "name": "1",
@@ -15497,7 +15497,7 @@
     "name": "Pri Dolencu",
     "lat": 46.017673,
     "lon": 14.640804,
-    "opposite": "203044",
+    "opposite": "415091",
     "routes": [
       {
         "name": "26",
@@ -15515,7 +15515,7 @@
     "name": "Cankarjev dom",
     "lat": 46.050003,
     "lon": 14.497364,
-    "opposite": "203044",
+    "opposite": "602011",
     "routes": [
       {
         "name": "14",
@@ -15537,7 +15537,7 @@
     "name": "Petrol",
     "lat": 46.056717,
     "lon": 14.601719,
-    "opposite": "203044",
+    "opposite": "304111",
     "routes": [
       {
         "name": "11",
@@ -15559,7 +15559,7 @@
     "name": "ZD Polje",
     "lat": 46.052444,
     "lon": 14.590629,
-    "opposite": "203044",
+    "opposite": "304142",
     "routes": [
       {
         "name": "24",
@@ -15585,7 +15585,7 @@
     "name": "Zgornja Šiška",
     "lat": 46.071117,
     "lon": 14.478365,
-    "opposite": "203044",
+    "opposite": "803091",
     "routes": [
       {
         "name": "7",
@@ -15603,7 +15603,7 @@
     "name": "Kamnogoriška",
     "lat": 46.083591,
     "lon": 14.455598,
-    "opposite": "203044",
+    "opposite": "804391",
     "routes": [
       {
         "name": "22",
@@ -15621,7 +15621,7 @@
     "name": "Selo",
     "lat": 45.999302,
     "lon": 14.657207,
-    "opposite": "203044",
+    "opposite": "415042",
     "routes": [
       {
         "name": "26",
@@ -15639,7 +15639,7 @@
     "name": "Murkova",
     "lat": 46.073624,
     "lon": 14.450083,
-    "opposite": "203044",
+    "opposite": "804212",
     "routes": [
       {
         "name": "5",
@@ -15657,7 +15657,7 @@
     "name": "Brodarjev trg",
     "lat": 46.054401,
     "lon": 14.553214,
-    "opposite": "203044",
+    "opposite": "303072",
     "routes": [
       {
         "name": "20",
@@ -15683,7 +15683,7 @@
     "name": "Drama",
     "lat": 46.049614,
     "lon": 14.502458,
-    "opposite": "203044",
+    "opposite": "602022",
     "routes": [
       {
         "name": "1",
@@ -15729,7 +15729,7 @@
     "name": "Študentsko naselje",
     "lat": 46.049469,
     "lon": 14.488174,
-    "opposite": "203044",
+    "opposite": "702022",
     "routes": [
       {
         "name": "14",
@@ -15747,7 +15747,7 @@
     "name": "Šola Jarše",
     "lat": 46.065029,
     "lon": 14.535752,
-    "opposite": "203044",
+    "opposite": null,
     "routes": [
       {
         "name": "22",
