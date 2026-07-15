@@ -10,8 +10,7 @@
     "lat": 46.0099124,
     "lon": 15.3012739,
     "opposite": "Sevnica:1",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjEw",
@@ -24,8 +23,7 @@
     "lat": 46.0130383,
     "lon": 15.2977978,
     "opposite": "Sevnica:10",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjEx",
@@ -38,8 +36,7 @@
     "lat": 46.0122164,
     "lon": 15.288291,
     "opposite": "Sevnica:11",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjEy",
@@ -52,8 +49,7 @@
     "lat": 46.0111583,
     "lon": 15.2873576,
     "opposite": "Sevnica:12",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjEz",
@@ -66,8 +62,7 @@
     "lat": 46.0134741,
     "lon": 15.2815543,
     "opposite": "Sevnica:13",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjE0",
@@ -80,8 +75,7 @@
     "lat": 46.0104169,
     "lon": 15.2837956,
     "opposite": "Sevnica:14",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjE1",
@@ -94,8 +88,7 @@
     "lat": 46.0073677,
     "lon": 15.2902286,
     "opposite": "Sevnica:15",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjE2",
@@ -108,8 +101,7 @@
     "lat": 46.0056053,
     "lon": 15.2906417,
     "opposite": "Sevnica:16",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjE3",
@@ -122,8 +114,7 @@
     "lat": 46.0075391,
     "lon": 15.2942305,
     "opposite": "Sevnica:17",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjI",
@@ -136,8 +127,7 @@
     "lat": 46.0075711,
     "lon": 15.303968,
     "opposite": "Sevnica:2",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjM",
@@ -150,8 +140,7 @@
     "lat": 46.0062163,
     "lon": 15.3150176,
     "opposite": "Sevnica:3",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjQ",
@@ -164,8 +153,7 @@
     "lat": 46.0057506,
     "lon": 15.3190248,
     "opposite": "Sevnica:4",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjU",
@@ -178,8 +166,7 @@
     "lat": 46.0098156,
     "lon": 15.3041171,
     "opposite": "Sevnica:5",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjY",
@@ -192,8 +179,7 @@
     "lat": 46.0107507,
     "lon": 15.3021376,
     "opposite": "Sevnica:6",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjc",
@@ -206,8 +192,7 @@
     "lat": 46.0125837,
     "lon": 15.3006248,
     "opposite": "Sevnica:7",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjg",
@@ -220,8 +205,7 @@
     "lat": 46.0160745,
     "lon": 15.2991765,
     "opposite": "Sevnica:8",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   },
   {
     "id": "U3RvcDpTZXZuaWNhOjk",
@@ -234,7 +218,6 @@
     "lat": 46.0148958,
     "lon": 15.2994082,
     "opposite": "Sevnica:9",
-    "route_groups_on_station": [],
-    "agencies": []
+    "route_groups_on_station": []
   }
 ]
