@@ -126,12 +126,8 @@ async function fetchAndProcessStations() {
         };
 
         // Specifična pravila za polja agencij in linij
-        if (agency === "ijpp") {
-          // Za IJPP samo agencies (iz ijpp.json), BREZ route_groups_on_station
-          resultStation.agencies = stopToAgenciesCache[stationIdStr] || [];
-        } else if (agency === "sz") {
-          // Za SZ (vlak) oboje
-          resultStation.route_groups_on_station = routesStationsCache[stationIdStr] || [];
+        if (agency === "ijpp" || agency === "sz") {
+          // Za IJPP in SŽ samo agencies (iz ijpp.json), BREZ route_groups_on_station
           resultStation.agencies = stopToAgenciesCache[stationIdStr] || [];
         } else {
           // Za vse ostale (LPP, Marprom, ...) samo route_groups_on_station
