@@ -78,7 +78,7 @@ async function fetchAndProcessStations() {
 
       stops.forEach(station => {
         const stationIdStr = station.gtfs_id.slice(station.gtfs_id.lastIndexOf(":") + 1);
-        const baseNum = agency === "lop" ? Number(station.code) : parseInt(stationIdStr);
+        const baseNum = agency === "lpp" ? Number(station.code) : parseInt(stationIdStr);
         
         const enriched = { ...station, _baseNum: baseNum };
         stopsByNum.set(baseNum, enriched);
@@ -95,7 +95,7 @@ async function fetchAndProcessStations() {
         // Opposite logika (ne velja za ijpp in sž/sz)
         if (agency !== "ijpp" && agency !== "sz") {
           let checkNum = null;
-          let stationNum = agency === "lop" ? Number(station.code) : parsedIdNum + 1;
+          let stationNum = agency === "lpp" ? Number(station.code) : parsedIdNum + 1;
 
           if (agency !== "lpp") {
             const neighborPrev = stopsByNameAndNum.get(`${station.stop_name}_${stationNum - 1}`);
@@ -108,7 +108,7 @@ async function fetchAndProcessStations() {
           }
 
           if (checkNum == null) {
-            if (agency === "lpp" || agency === "lop") {
+            if (agency === "lpp" || agency === "lpp") {
               checkNum = stationNum % 2 === 0 ? stationNum - 1 : stationNum + 1;
             } else {
               checkNum = stationNum % 2 === 0 ? stationNum + 1 : stationNum - 1;
