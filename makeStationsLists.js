@@ -12,7 +12,7 @@ async function fetchAndProcessStations() {
     if (!response.ok) throw new Error(`HTTP napaka! Status: ${response.status}`);
     const allStops = await response.json();
 
-    // 2. Prenos Github datoteke za sž in ijpp (preprečitev cacha ni nujna na serverju, ampak dodamo timestamp)
+    // 2. Prenos Github datoteke za sž (preprečitev cacha ni nujna na serverju, ampak dodamo timestamp)
     const ghUrl = `https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/refs/heads/main/stop_to_routes.json?t=${Date.now()}`;
     let externalStopToRoutes = {};
     try {
@@ -27,10 +27,19 @@ async function fetchAndProcessStations() {
     for (const station of allStops) {
       if (!station.gtfs_id) continue;
       
-      const agency = station.gtfs_id.split(':')[0].toLowerCase();
+      let agency = station.gtfs_id.split(':')[0].toLowerCase();
       
-      // Obdrži BUS, za SŽ pa RAIL
-      if ((agency === "sž" && station.type === "RAIL") || (agency !== "sž" && station.type === "BUS")) {
+      // LOGIKA ZA LOČEVANJE VLAKOV IN AVTOBUSOV:
+      // Vse RAIL postaje gredo v datoteko sz.json
+      if (station.type === "RAIL") {
+        agency = "sz";
+      } else if (agency === "sž") {
+        // Normalizacija imena, da se ujema z datoteko sz.json
+        agency = "sz"; 
+      }
+
+      // Shranimo samo BUS in RAIL
+      if (station.type === "BUS" || station.type === "RAIL") {
         if (!agencyGroups[agency]) agencyGroups[agency] = [];
         agencyGroups[agency].push(station);
       }
@@ -42,22 +51,22 @@ async function fetchAndProcessStations() {
     // 4. Obdelava vsake agencije posebej
     for (const [agency, stops] of Object.entries(agencyGroups)) {
       
-      // Branje lokalnega JSON-a iz repozitorija (če obstaja v station_line_lists)
+      // Branje lokalnega JSON-a iz repozitorija (npr. sz.json, ijpp.json, lop.json...)
       let localCache = {};
       try {
         const localData = await fs.readFile(path.join(LINE_LISTS_DIR, `${agency}.json`), 'utf-8');
         localCache = JSON.parse(localData) || {};
       } catch (err) {
-        // Datoteka ne obstaja za to agencijo (npr. nima svojega jsona), kar je v redu
+        // Datoteka ne obstaja za to agencijo, kar je v redu
       }
 
-      // Nastavitev cache logike, točno tako kot na frontendu
+      // Nastavitev cache logike
       let routesStationsCache = {};
       let stopToAgenciesCache = {};
 
-      if (agency === "sž" || agency === "ijpp") {
+      if (agency === "sz" || agency === "ijpp") {
         routesStationsCache = externalStopToRoutes;
-        stopToAgenciesCache = localCache; // Bere iz sz.json / ijpp.json
+        stopToAgenciesCache = localCache; // Bere iz sz.json ali ijpp.json
       } else {
         routesStationsCache = localCache; // Bere iz npr. marprom.json, lop.json
         stopToAgenciesCache = {};
@@ -78,18 +87,17 @@ async function fetchAndProcessStations() {
 
       // --- Preslikava (Mapping) podatkov ---
       const processedStops = stops.map(station => {
-        const stationIdStr = station.gtfs_id.split(":")[1]; // Za routes in agencies lookup
+        const stationIdStr = station.gtfs_id.split(":")[1];
         const parsedIdNum = parseInt(station.gtfs_id.slice(station.gtfs_id.lastIndexOf(":") + 1));
         
         let exists = null;
 
-        // Opposite logika (ne velja za ijpp in sž)
-        if (agency !== "ijpp" && agency !== "sž") {
+        // Opposite logika (ne velja za ijpp in sž/sz)
+        if (agency !== "ijpp" && agency !== "sz") {
           let checkNum = null;
           let stationNum = agency === "lop" ? Number(station.code) : parsedIdNum + 1;
 
           if (agency !== "lpp") {
-            // Hitro iskanje sosedov namesto O(N^2) .find()
             const neighborPrev = stopsByNameAndNum.get(`${station.stop_name}_${stationNum - 1}`);
             const neighborNext = stopsByNameAndNum.get(`${station.stop_name}_${stationNum + 1}`);
             const matchingNeighbor = neighborPrev || neighborNext;
@@ -101,10 +109,8 @@ async function fetchAndProcessStations() {
 
           if (checkNum == null) {
             if (agency === "lpp" || agency === "lop") {
-              // Odd comes first (11 → 12)
               checkNum = stationNum % 2 === 0 ? stationNum - 1 : stationNum + 1;
             } else {
-              // Even comes first (86 → 87)
               checkNum = stationNum % 2 === 0 ? stationNum + 1 : stationNum - 1;
             }
           }
@@ -113,12 +119,26 @@ async function fetchAndProcessStations() {
           exists = foundOpposite ? (foundOpposite.code || foundOpposite.gtfs_id) : null;
         }
 
-        return {
+        // Priprava končnega objekta za postajo
+        const resultStation = {
           ...station,
-          opposite: exists,
-          route_groups_on_station: routesStationsCache[stationIdStr] || [],
-          agencies: (agency === "ijpp" || agency === "sž") ? (stopToAgenciesCache[stationIdStr] || []) : []
+          opposite: exists
         };
+
+        // Specifična pravila za polja agencij in linij
+        if (agency === "ijpp") {
+          // Za IJPP samo agencies (iz ijpp.json), BREZ route_groups_on_station
+          resultStation.agencies = stopToAgenciesCache[stationIdStr] || [];
+        } else if (agency === "sz") {
+          // Za SZ (vlak) oboje
+          resultStation.route_groups_on_station = routesStationsCache[stationIdStr] || [];
+          resultStation.agencies = stopToAgenciesCache[stationIdStr] || [];
+        } else {
+          // Za vse ostale (LPP, Marprom, ...) samo route_groups_on_station
+          resultStation.route_groups_on_station = routesStationsCache[stationIdStr] || [];
+        }
+
+        return resultStation;
       });
 
       // 5. Zapis končne datoteke v station_lists
