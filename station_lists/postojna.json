@@ -10,7 +10,7 @@
     "lat": 45.774846,
     "lon": 14.213219,
     "opposite": "Postojna:7cmf",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpjbDdv",
@@ -23,7 +23,7 @@
     "lat": 45.783897,
     "lon": 14.197762,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTplcHRr",
@@ -36,7 +36,7 @@
     "lat": 45.782463,
     "lon": 14.215649,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpneXRh",
@@ -49,7 +49,7 @@
     "lat": 45.785348,
     "lon": 14.195886,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpsZHhi",
@@ -62,7 +62,7 @@
     "lat": 45.768366,
     "lon": 14.215386,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpsaHNj",
@@ -75,7 +75,7 @@
     "lat": 45.779729,
     "lon": 14.205835,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvOGhw",
@@ -88,7 +88,7 @@
     "lat": 45.773028,
     "lon": 14.221138,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDkzMTM0ODgwNw",
@@ -101,7 +101,7 @@
     "lat": 45.767487,
     "lon": 14.197925,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDkzMTQwMDYwMw",
@@ -114,7 +114,7 @@
     "lat": 45.768219,
     "lon": 14.19343,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mg",
@@ -127,7 +127,7 @@
     "lat": 45.770693,
     "lon": 14.19329,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mw",
@@ -140,7 +140,7 @@
     "lat": 45.770037,
     "lon": 14.197657,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0NA",
@@ -153,7 +153,7 @@
     "lat": 45.771345,
     "lon": 14.202888,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE3NzI5OA",
@@ -166,7 +166,7 @@
     "lat": 45.773445,
     "lon": 14.207171,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMA",
@@ -179,7 +179,7 @@
     "lat": 45.77242,
     "lon": 14.200491,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMQ",
@@ -192,7 +192,7 @@
     "lat": 45.775201,
     "lon": 14.206266,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMg",
@@ -205,7 +205,7 @@
     "lat": 45.775812,
     "lon": 14.211886,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5MzMwNQ",
@@ -218,7 +218,7 @@
     "lat": 45.774431,
     "lon": 14.211175,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5MzMxOQ",
@@ -231,7 +231,7 @@
     "lat": 45.772132,
     "lon": 14.211018,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5ODcyMw",
@@ -244,7 +244,7 @@
     "lat": 45.773251,
     "lon": 14.213003,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5ODcyNA",
@@ -257,7 +257,7 @@
     "lat": 45.774643,
     "lon": 14.215009,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIwNTM3Ng",
@@ -270,7 +270,7 @@
     "lat": 45.778888,
     "lon": 14.216499,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIwNTM3Nw",
@@ -283,7 +283,7 @@
     "lat": 45.777445,
     "lon": 14.217091,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxMDQ0MQ",
@@ -296,7 +296,7 @@
     "lat": 45.773485,
     "lon": 14.217686,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxMDQ0Mg",
@@ -309,7 +309,7 @@
     "lat": 45.772543,
     "lon": 14.218891,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNDA5MA",
@@ -322,7 +322,7 @@
     "lat": 45.767078,
     "lon": 14.216733,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNDA5MQ",
@@ -335,7 +335,7 @@
     "lat": 45.765037,
     "lon": 14.213311,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0NQ",
@@ -348,7 +348,7 @@
     "lat": 45.767064,
     "lon": 14.212583,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Nw",
@@ -361,7 +361,7 @@
     "lat": 45.770017,
     "lon": 14.212469,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NTE5NzIyMzIwMg",
@@ -374,7 +374,7 @@
     "lat": 45.770497,
     "lon": 14.218621,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpzZnBu",
@@ -387,7 +387,7 @@
     "lat": 45.770469,
     "lon": 14.220602,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpzeXg0",
@@ -400,7 +400,7 @@
     "lat": 45.762775,
     "lon": 14.215826,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTp0b2dm",
@@ -413,7 +413,7 @@
     "lat": 45.780264,
     "lon": 14.215903,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTp1eHJv",
@@ -426,7 +426,7 @@
     "lat": 45.769859,
     "lon": 14.21322,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpQb3N0b2puYTp5Z2h6",
@@ -439,6 +439,6 @@
     "lat": 45.780977,
     "lon": 14.20526,
     "opposite": "Postojna:yghz",
-    "route_groups_on_station": []
+    "routes": []
   }
 ]

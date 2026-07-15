@@ -10,7 +10,7 @@
     "lat": 46.537849,
     "lon": 15.635186,
     "opposite": "s185",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -28,7 +28,7 @@
     "lat": 46.559594,
     "lon": 15.747312,
     "opposite": "s290",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -46,7 +46,7 @@
     "lat": 46.557164,
     "lon": 15.745885,
     "opposite": "s288",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -64,7 +64,7 @@
     "lat": 46.557053,
     "lon": 15.745686,
     "opposite": "s289",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -82,7 +82,7 @@
     "lat": 46.573981,
     "lon": 15.623151,
     "opposite": "s43",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -100,7 +100,7 @@
     "lat": 46.574209,
     "lon": 15.622491,
     "opposite": "s44",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -118,7 +118,7 @@
     "lat": 46.571145,
     "lon": 15.612604,
     "opposite": "s58",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -136,7 +136,7 @@
     "lat": 46.571064,
     "lon": 15.614065,
     "opposite": "s59",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -158,7 +158,7 @@
     "lat": 46.543233,
     "lon": 15.638539,
     "opposite": "s212",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -176,7 +176,7 @@
     "lat": 46.572481,
     "lon": 15.612652,
     "opposite": "s57",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -198,7 +198,7 @@
     "lat": 46.573562,
     "lon": 15.615887,
     "opposite": "s45",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -216,7 +216,7 @@
     "lat": 46.573495,
     "lon": 15.617011,
     "opposite": "s46",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -234,7 +234,7 @@
     "lat": 46.573793,
     "lon": 15.612425,
     "opposite": "s47",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -252,7 +252,7 @@
     "lat": 46.574042,
     "lon": 15.612542,
     "opposite": "s48",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -270,7 +270,7 @@
     "lat": 46.534392,
     "lon": 15.630204,
     "opposite": "s174",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -288,7 +288,7 @@
     "lat": 46.533681,
     "lon": 15.629585,
     "opposite": "s173",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -306,7 +306,7 @@
     "lat": 46.538595,
     "lon": 15.631963,
     "opposite": "s188",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -324,7 +324,7 @@
     "lat": 46.538949,
     "lon": 15.632643,
     "opposite": "s189",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -342,7 +342,7 @@
     "lat": 46.543928,
     "lon": 15.634391,
     "opposite": "s177",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -360,7 +360,7 @@
     "lat": 46.542351,
     "lon": 15.638437,
     "opposite": "s213",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -378,7 +378,7 @@
     "lat": 46.526876,
     "lon": 15.672361,
     "opposite": "s316",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -396,7 +396,7 @@
     "lat": 46.527143,
     "lon": 15.672036,
     "opposite": "s317",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -414,7 +414,7 @@
     "lat": 46.554317,
     "lon": 15.736326,
     "opposite": "s285",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -432,7 +432,7 @@
     "lat": 46.554546,
     "lon": 15.736294,
     "opposite": "s582",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -450,7 +450,7 @@
     "lat": 46.555541,
     "lon": 15.604321,
     "opposite": "s139",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P19",
         "color": "#F5DD26"
@@ -468,7 +468,7 @@
     "lat": 46.558804,
     "lon": 15.637914,
     "opposite": "s409",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -486,7 +486,7 @@
     "lat": 46.550416,
     "lon": 15.640798,
     "opposite": "s216",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -504,7 +504,7 @@
     "lat": 46.559166,
     "lon": 15.635392,
     "opposite": "s18",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -522,7 +522,7 @@
     "lat": 46.559293,
     "lon": 15.635065,
     "opposite": "s19",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -540,7 +540,7 @@
     "lat": 46.558211,
     "lon": 15.64124,
     "opposite": "s410",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -558,7 +558,7 @@
     "lat": 46.560205,
     "lon": 15.630971,
     "opposite": "s20",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -576,7 +576,7 @@
     "lat": 46.560616,
     "lon": 15.629859,
     "opposite": "s21",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -594,7 +594,7 @@
     "lat": 46.572788,
     "lon": 15.659274,
     "opposite": "s85",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -612,7 +612,7 @@
     "lat": 46.578054,
     "lon": 15.666996,
     "opposite": "s88",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -630,7 +630,7 @@
     "lat": 46.576146,
     "lon": 15.666803,
     "opposite": "s87",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -648,7 +648,7 @@
     "lat": 46.574861,
     "lon": 15.662986,
     "opposite": "s86",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -666,7 +666,7 @@
     "lat": 46.556493,
     "lon": 15.691105,
     "opposite": "s267",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -684,7 +684,7 @@
     "lat": 46.550335,
     "lon": 15.641006,
     "opposite": "s217",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -702,7 +702,7 @@
     "lat": 46.556431,
     "lon": 15.691654,
     "opposite": "s268",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -720,7 +720,7 @@
     "lat": 46.558651,
     "lon": 15.664065,
     "opposite": "s598",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -738,7 +738,7 @@
     "lat": 46.558764,
     "lon": 15.663918,
     "opposite": "s599",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -756,7 +756,7 @@
     "lat": 46.562017,
     "lon": 15.643599,
     "opposite": "s40",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -790,7 +790,7 @@
     "lat": 46.562065,
     "lon": 15.649602,
     "opposite": "s37",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -824,7 +824,7 @@
     "lat": 46.556601,
     "lon": 15.733079,
     "opposite": "s284",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -842,7 +842,7 @@
     "lat": 46.556547,
     "lon": 15.733096,
     "opposite": "s581",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -860,7 +860,7 @@
     "lat": 46.528448,
     "lon": 15.679731,
     "opposite": "s390",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -882,7 +882,7 @@
     "lat": 46.527904,
     "lon": 15.67982,
     "opposite": "s391",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -900,7 +900,7 @@
     "lat": 46.527886,
     "lon": 15.681957,
     "opposite": "s392",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -918,7 +918,7 @@
     "lat": 46.529618,
     "lon": 15.637662,
     "opposite": "s245",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -936,7 +936,7 @@
     "lat": 46.540574,
     "lon": 15.606969,
     "opposite": "s149",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -958,7 +958,7 @@
     "lat": 46.54564,
     "lon": 15.600098,
     "opposite": "s150",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -976,7 +976,7 @@
     "lat": 46.538493,
     "lon": 15.611431,
     "opposite": "s143",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -1002,7 +1002,7 @@
     "lat": 46.538361,
     "lon": 15.612191,
     "opposite": "s142",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -1028,7 +1028,7 @@
     "lat": 46.562266,
     "lon": 15.601788,
     "opposite": "s122",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -1050,7 +1050,7 @@
     "lat": 46.538239,
     "lon": 15.588906,
     "opposite": "s153",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -1068,7 +1068,7 @@
     "lat": 46.537262,
     "lon": 15.591816,
     "opposite": "s154",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -1086,7 +1086,7 @@
     "lat": 46.553939,
     "lon": 15.582293,
     "opposite": "s127",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -1104,7 +1104,7 @@
     "lat": 46.553985,
     "lon": 15.582052,
     "opposite": "s527",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -1130,7 +1130,7 @@
     "lat": 46.550344,
     "lon": 15.588568,
     "opposite": "s128",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -1156,7 +1156,7 @@
     "lat": 46.529503,
     "lon": 15.637461,
     "opposite": "s246",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -1174,7 +1174,7 @@
     "lat": 46.550618,
     "lon": 15.588177,
     "opposite": "s129",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -1200,7 +1200,7 @@
     "lat": 46.556424,
     "lon": 15.602803,
     "opposite": "s120",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -1218,7 +1218,7 @@
     "lat": 46.556424,
     "lon": 15.604549,
     "opposite": "s121",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -1244,7 +1244,7 @@
     "lat": 46.556562,
     "lon": 15.620111,
     "opposite": "s114",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -1262,7 +1262,7 @@
     "lat": 46.556416,
     "lon": 15.620624,
     "opposite": "s115",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -1280,7 +1280,7 @@
     "lat": 46.554951,
     "lon": 15.583604,
     "opposite": "s124",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -1298,7 +1298,7 @@
     "lat": 46.557197,
     "lon": 15.616584,
     "opposite": "s116",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -1316,7 +1316,7 @@
     "lat": 46.557069,
     "lon": 15.616917,
     "opposite": "s117",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -1334,7 +1334,7 @@
     "lat": 46.54502,
     "lon": 15.643234,
     "opposite": "s233",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1352,7 +1352,7 @@
     "lat": 46.545074,
     "lon": 15.643485,
     "opposite": "s234",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1370,7 +1370,7 @@
     "lat": 46.541783,
     "lon": 15.590336,
     "opposite": "s152",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -1388,7 +1388,7 @@
     "lat": 46.548748,
     "lon": 15.645491,
     "opposite": "s231",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1410,7 +1410,7 @@
     "lat": 46.549561,
     "lon": 15.645558,
     "opposite": "s232",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1432,7 +1432,7 @@
     "lat": 46.536635,
     "lon": 15.637329,
     "opposite": "s192",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1450,7 +1450,7 @@
     "lat": 46.537296,
     "lon": 15.638018,
     "opposite": "s193",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1468,7 +1468,7 @@
     "lat": 46.539467,
     "lon": 15.639381,
     "opposite": "s194",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1494,7 +1494,7 @@
     "lat": 46.540333,
     "lon": 15.639733,
     "opposite": "s195",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1520,7 +1520,7 @@
     "lat": 46.534075,
     "lon": 15.635127,
     "opposite": "s191",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNQVJQUk9NOjE3Nw",
@@ -1533,7 +1533,7 @@
     "lat": 46.533502,
     "lon": 15.634789,
     "opposite": "s190",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1551,7 +1551,7 @@
     "lat": 46.555131,
     "lon": 15.697163,
     "opposite": "s270",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -1569,7 +1569,7 @@
     "lat": 46.555402,
     "lon": 15.696661,
     "opposite": "s271",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -1587,7 +1587,7 @@
     "lat": 46.566056,
     "lon": 15.571947,
     "opposite": "s70",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -1605,7 +1605,7 @@
     "lat": 46.554578,
     "lon": 15.646762,
     "opposite": "s227",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -1639,7 +1639,7 @@
     "lat": 46.554476,
     "lon": 15.647181,
     "opposite": "s228",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -1677,7 +1677,7 @@
     "lat": 46.552755,
     "lon": 15.645782,
     "opposite": "s230",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1699,7 +1699,7 @@
     "lat": 46.563044,
     "lon": 15.654677,
     "opposite": "s539",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -1717,7 +1717,7 @@
     "lat": 46.542602,
     "lon": 15.657619,
     "opposite": "s308",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -1735,7 +1735,7 @@
     "lat": 46.542353,
     "lon": 15.657277,
     "opposite": "s508",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -1753,7 +1753,7 @@
     "lat": 46.553079,
     "lon": 15.705175,
     "opposite": "s272",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -1771,7 +1771,7 @@
     "lat": 46.553011,
     "lon": 15.705251,
     "opposite": "s273",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -1789,7 +1789,7 @@
     "lat": 46.552997,
     "lon": 15.705808,
     "opposite": "s280",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -1807,7 +1807,7 @@
     "lat": 46.552428,
     "lon": 15.708238,
     "opposite": "s291",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -1825,7 +1825,7 @@
     "lat": 46.552497,
     "lon": 15.708171,
     "opposite": "s591",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -1843,7 +1843,7 @@
     "lat": 46.553028,
     "lon": 15.646453,
     "opposite": "s229",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -1881,7 +1881,7 @@
     "lat": 46.560211,
     "lon": 15.656321,
     "opposite": "s1",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -1943,7 +1943,7 @@
     "lat": 46.568666,
     "lon": 15.614559,
     "opposite": "s72",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNQVJQUk9NOjE5NA",
@@ -1956,7 +1956,7 @@
     "lat": 46.570163,
     "lon": 15.600708,
     "opposite": "s60",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -1974,7 +1974,7 @@
     "lat": 46.570119,
     "lon": 15.601352,
     "opposite": "s61",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -1992,7 +1992,7 @@
     "lat": 46.557844,
     "lon": 15.596415,
     "opposite": "s123",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -2010,7 +2010,7 @@
     "lat": 46.559977,
     "lon": 15.66818,
     "opposite": "s103",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2028,7 +2028,7 @@
     "lat": 46.560518,
     "lon": 15.658035,
     "opposite": "s5",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -2046,7 +2046,7 @@
     "lat": 46.542928,
     "lon": 15.654167,
     "opposite": "s309",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -2064,7 +2064,7 @@
     "lat": 46.560667,
     "lon": 15.657971,
     "opposite": "s6",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -2086,7 +2086,7 @@
     "lat": 46.560634,
     "lon": 15.663027,
     "opposite": "s98",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -2108,7 +2108,7 @@
     "lat": 46.560514,
     "lon": 15.662161,
     "opposite": "s99",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -2126,7 +2126,7 @@
     "lat": 46.558419,
     "lon": 15.681445,
     "opposite": "s265",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2144,7 +2144,7 @@
     "lat": 46.558068,
     "lon": 15.682489,
     "opposite": "s266",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2162,7 +2162,7 @@
     "lat": 46.539722,
     "lon": 15.732907,
     "opposite": "s297",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2180,7 +2180,7 @@
     "lat": 46.534851,
     "lon": 15.731278,
     "opposite": "s296",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2198,7 +2198,7 @@
     "lat": 46.534931,
     "lon": 15.731634,
     "opposite": "s596",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2216,7 +2216,7 @@
     "lat": 46.550199,
     "lon": 15.740111,
     "opposite": "s286",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2234,7 +2234,7 @@
     "lat": 46.550119,
     "lon": 15.740569,
     "opposite": "s585",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2252,7 +2252,7 @@
     "lat": 46.567723,
     "lon": 15.584451,
     "opposite": "s64",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -2270,7 +2270,7 @@
     "lat": 46.559605,
     "lon": 15.655157,
     "opposite": "s2",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -2288,7 +2288,7 @@
     "lat": 46.559717,
     "lon": 15.65543,
     "opposite": "s600",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2310,7 +2310,7 @@
     "lat": 46.551745,
     "lon": 15.628734,
     "opposite": "s198",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -2328,7 +2328,7 @@
     "lat": 46.551892,
     "lon": 15.628447,
     "opposite": "s199",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -2346,7 +2346,7 @@
     "lat": 46.581964,
     "lon": 15.666229,
     "opposite": "s89",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -2364,7 +2364,7 @@
     "lat": 46.568097,
     "lon": 15.659518,
     "opposite": "s84",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -2382,7 +2382,7 @@
     "lat": 46.545437,
     "lon": 15.652773,
     "opposite": "s306",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -2400,7 +2400,7 @@
     "lat": 46.550584,
     "lon": 15.656246,
     "opposite": "s301",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -2418,7 +2418,7 @@
     "lat": 46.551359,
     "lon": 15.656685,
     "opposite": "s300",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -2436,7 +2436,7 @@
     "lat": 46.556982,
     "lon": 15.720101,
     "opposite": "s276",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2454,7 +2454,7 @@
     "lat": 46.567599,
     "lon": 15.585017,
     "opposite": "s65",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -2472,7 +2472,7 @@
     "lat": 46.557287,
     "lon": 15.719664,
     "opposite": "s277",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2490,7 +2490,7 @@
     "lat": 46.557705,
     "lon": 15.725053,
     "opposite": "s278",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2508,7 +2508,7 @@
     "lat": 46.557634,
     "lon": 15.724085,
     "opposite": "s279",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2526,7 +2526,7 @@
     "lat": 46.543159,
     "lon": 15.624149,
     "opposite": "s163",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -2548,7 +2548,7 @@
     "lat": 46.543812,
     "lon": 15.624338,
     "opposite": "s164",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -2570,7 +2570,7 @@
     "lat": 46.537613,
     "lon": 15.724272,
     "opposite": "s295",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2588,7 +2588,7 @@
     "lat": 46.537569,
     "lon": 15.724293,
     "opposite": "s595",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -2606,7 +2606,7 @@
     "lat": 46.547933,
     "lon": 15.656879,
     "opposite": "s303",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -2624,7 +2624,7 @@
     "lat": 46.547051,
     "lon": 15.656968,
     "opposite": "s304",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -2642,7 +2642,7 @@
     "lat": 46.539426,
     "lon": 15.598236,
     "opposite": "s156",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -2660,7 +2660,7 @@
     "lat": 46.566738,
     "lon": 15.578279,
     "opposite": "s66",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -2678,7 +2678,7 @@
     "lat": 46.556492,
     "lon": 15.662919,
     "opposite": "s101",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -2696,7 +2696,7 @@
     "lat": 46.556392,
     "lon": 15.66144,
     "opposite": "s501",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -2714,7 +2714,7 @@
     "lat": 46.551776,
     "lon": 15.664403,
     "opposite": "s368",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -2732,7 +2732,7 @@
     "lat": 46.554105,
     "lon": 15.665806,
     "opposite": "s369",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -2750,7 +2750,7 @@
     "lat": 46.546161,
     "lon": 15.672361,
     "opposite": "s364",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -2772,7 +2772,7 @@
     "lat": 46.546369,
     "lon": 15.672098,
     "opposite": "s365",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -2794,7 +2794,7 @@
     "lat": 46.566701,
     "lon": 15.57866,
     "opposite": "s67",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -2812,7 +2812,7 @@
     "lat": 46.540425,
     "lon": 15.621986,
     "opposite": "s161",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -2834,7 +2834,7 @@
     "lat": 46.540432,
     "lon": 15.622139,
     "opposite": "s162",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -2856,7 +2856,7 @@
     "lat": 46.537644,
     "lon": 15.620457,
     "opposite": "s159",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -2878,7 +2878,7 @@
     "lat": 46.537643,
     "lon": 15.620659,
     "opposite": "s160",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -2900,7 +2900,7 @@
     "lat": 46.553481,
     "lon": 15.639959,
     "opposite": "s218",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -2918,7 +2918,7 @@
     "lat": 46.553781,
     "lon": 15.639109,
     "opposite": "s219",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -2936,7 +2936,7 @@
     "lat": 46.536735,
     "lon": 15.631356,
     "opposite": "s175",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -2954,7 +2954,7 @@
     "lat": 46.536681,
     "lon": 15.631055,
     "opposite": "s176",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -2972,7 +2972,7 @@
     "lat": 46.548544,
     "lon": 15.594241,
     "opposite": "s130",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -2994,7 +2994,7 @@
     "lat": 46.548657,
     "lon": 15.594099,
     "opposite": "s131",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -3020,7 +3020,7 @@
     "lat": 46.536185,
     "lon": 15.688982,
     "opposite": "s358",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3042,7 +3042,7 @@
     "lat": 46.547527,
     "lon": 15.593973,
     "opposite": "s151",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -3060,7 +3060,7 @@
     "lat": 46.55473,
     "lon": 15.654307,
     "opposite": "s262",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -3090,7 +3090,7 @@
     "lat": 46.554732,
     "lon": 15.653071,
     "opposite": "s263",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -3128,7 +3128,7 @@
     "lat": 46.539771,
     "lon": 15.606151,
     "opposite": "s144",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -3146,7 +3146,7 @@
     "lat": 46.539628,
     "lon": 15.605652,
     "opposite": "s145",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -3164,7 +3164,7 @@
     "lat": 46.537453,
     "lon": 15.603781,
     "opposite": "s146",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -3182,7 +3182,7 @@
     "lat": 46.537233,
     "lon": 15.603547,
     "opposite": "s147",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -3200,7 +3200,7 @@
     "lat": 46.518447,
     "lon": 15.683862,
     "opposite": "s329",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3218,7 +3218,7 @@
     "lat": 46.518501,
     "lon": 15.687541,
     "opposite": "s341",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3236,7 +3236,7 @@
     "lat": 46.519089,
     "lon": 15.692238,
     "opposite": "s339",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3254,7 +3254,7 @@
     "lat": 46.536515,
     "lon": 15.688387,
     "opposite": "s359",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3276,7 +3276,7 @@
     "lat": 46.519089,
     "lon": 15.691251,
     "opposite": "s338",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3294,7 +3294,7 @@
     "lat": 46.519569,
     "lon": 15.696044,
     "opposite": "s340",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3312,7 +3312,7 @@
     "lat": 46.550152,
     "lon": 15.665808,
     "opposite": "s366",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3330,7 +3330,7 @@
     "lat": 46.550902,
     "lon": 15.664378,
     "opposite": "s367",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3348,7 +3348,7 @@
     "lat": 46.521946,
     "lon": 15.671974,
     "opposite": "s320",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -3366,7 +3366,7 @@
     "lat": 46.524584,
     "lon": 15.667554,
     "opposite": "s402",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -3384,7 +3384,7 @@
     "lat": 46.524641,
     "lon": 15.667625,
     "opposite": "s405",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -3402,7 +3402,7 @@
     "lat": 46.521965,
     "lon": 15.670191,
     "opposite": "s403",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -3420,7 +3420,7 @@
     "lat": 46.555618,
     "lon": 15.710577,
     "opposite": "s274",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -3438,7 +3438,7 @@
     "lat": 46.521951,
     "lon": 15.66984,
     "opposite": "s404",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -3456,7 +3456,7 @@
     "lat": 46.541641,
     "lon": 15.640899,
     "opposite": "s235",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -3474,7 +3474,7 @@
     "lat": 46.542598,
     "lon": 15.634665,
     "opposite": "s179",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3500,7 +3500,7 @@
     "lat": 46.543219,
     "lon": 15.632911,
     "opposite": "s178",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3530,7 +3530,7 @@
     "lat": 46.543982,
     "lon": 15.629472,
     "opposite": "s180",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3556,7 +3556,7 @@
     "lat": 46.544323,
     "lon": 15.628793,
     "opposite": "s181",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3582,7 +3582,7 @@
     "lat": 46.541427,
     "lon": 15.639756,
     "opposite": "s196",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3608,7 +3608,7 @@
     "lat": 46.540904,
     "lon": 15.641137,
     "opposite": "s197",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -3626,7 +3626,7 @@
     "lat": 46.556035,
     "lon": 15.711244,
     "opposite": "s275",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -3644,7 +3644,7 @@
     "lat": 46.545432,
     "lon": 15.620348,
     "opposite": "s110",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3674,7 +3674,7 @@
     "lat": 46.539799,
     "lon": 15.646367,
     "opposite": "s244",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3696,7 +3696,7 @@
     "lat": 46.544819,
     "lon": 15.624193,
     "opposite": "s165",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3726,7 +3726,7 @@
     "lat": 46.544607,
     "lon": 15.625679,
     "opposite": "s166",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -3752,7 +3752,7 @@
     "lat": 46.533582,
     "lon": 15.664617,
     "opposite": "s324",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -3778,7 +3778,7 @@
     "lat": 46.533447,
     "lon": 15.665435,
     "opposite": "s333",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -3804,7 +3804,7 @@
     "lat": 46.538628,
     "lon": 15.654733,
     "opposite": "s322",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -3830,7 +3830,7 @@
     "lat": 46.539627,
     "lon": 15.654032,
     "opposite": "s335",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -3856,7 +3856,7 @@
     "lat": 46.5361,
     "lon": 15.659813,
     "opposite": "s323",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -3882,7 +3882,7 @@
     "lat": 46.536927,
     "lon": 15.658624,
     "opposite": "s334",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -3908,7 +3908,7 @@
     "lat": 46.584169,
     "lon": 15.615231,
     "opposite": "s51",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -3926,7 +3926,7 @@
     "lat": 46.532011,
     "lon": 15.667669,
     "opposite": "s325",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -3952,7 +3952,7 @@
     "lat": 46.531681,
     "lon": 15.668748,
     "opposite": "s332",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -3978,7 +3978,7 @@
     "lat": 46.528505,
     "lon": 15.672507,
     "opposite": "s326",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -4000,7 +4000,7 @@
     "lat": 46.529611,
     "lon": 15.671695,
     "opposite": "s331",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -4022,7 +4022,7 @@
     "lat": 46.539701,
     "lon": 15.648591,
     "opposite": "s321",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -4048,7 +4048,7 @@
     "lat": 46.537936,
     "lon": 15.626869,
     "opposite": "s169",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4066,7 +4066,7 @@
     "lat": 46.538366,
     "lon": 15.627125,
     "opposite": "s170",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4084,7 +4084,7 @@
     "lat": 46.535775,
     "lon": 15.625033,
     "opposite": "s167",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4102,7 +4102,7 @@
     "lat": 46.536279,
     "lon": 15.625321,
     "opposite": "s168",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4120,7 +4120,7 @@
     "lat": 46.542801,
     "lon": 15.631095,
     "opposite": "s171",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4138,7 +4138,7 @@
     "lat": 46.542973,
     "lon": 15.654071,
     "opposite": "s302",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -4156,7 +4156,7 @@
     "lat": 46.583887,
     "lon": 15.615325,
     "opposite": "s52",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -4174,7 +4174,7 @@
     "lat": 46.541651,
     "lon": 15.629961,
     "opposite": "s172",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4192,7 +4192,7 @@
     "lat": 46.545895,
     "lon": 15.634183,
     "opposite": "s205",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4210,7 +4210,7 @@
     "lat": 46.546526,
     "lon": 15.635159,
     "opposite": "s206",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4228,7 +4228,7 @@
     "lat": 46.562136,
     "lon": 15.654084,
     "opposite": "s39",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -4246,7 +4246,7 @@
     "lat": 46.515413,
     "lon": 15.635653,
     "opposite": "s250",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -4264,7 +4264,7 @@
     "lat": 46.517971,
     "lon": 15.634457,
     "opposite": "s249",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -4282,7 +4282,7 @@
     "lat": 46.518901,
     "lon": 15.634317,
     "opposite": "s248",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -4300,7 +4300,7 @@
     "lat": 46.521622,
     "lon": 15.635317,
     "opposite": "s247",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -4318,7 +4318,7 @@
     "lat": 46.521791,
     "lon": 15.635159,
     "opposite": "s547",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -4336,7 +4336,7 @@
     "lat": 46.57899,
     "lon": 15.613401,
     "opposite": "s49",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -4354,7 +4354,7 @@
     "lat": 46.601692,
     "lon": 15.621163,
     "opposite": "s56",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -4372,7 +4372,7 @@
     "lat": 46.597751,
     "lon": 15.619571,
     "opposite": "s55",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -4390,7 +4390,7 @@
     "lat": 46.597776,
     "lon": 15.619418,
     "opposite": "s555",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -4408,7 +4408,7 @@
     "lat": 46.587338,
     "lon": 15.616655,
     "opposite": "s54",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -4426,7 +4426,7 @@
     "lat": 46.587004,
     "lon": 15.616551,
     "opposite": "s53",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -4444,7 +4444,7 @@
     "lat": 46.560819,
     "lon": 15.729387,
     "opposite": "s282",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -4462,7 +4462,7 @@
     "lat": 46.560761,
     "lon": 15.729293,
     "opposite": "s283",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -4480,7 +4480,7 @@
     "lat": 46.579404,
     "lon": 15.613768,
     "opposite": "s50",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -4498,7 +4498,7 @@
     "lat": 46.559391,
     "lon": 15.640427,
     "opposite": "s408",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -4516,7 +4516,7 @@
     "lat": 46.536251,
     "lon": 15.620385,
     "opposite": "s157",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4534,7 +4534,7 @@
     "lat": 46.536224,
     "lon": 15.620682,
     "opposite": "s158",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4552,7 +4552,7 @@
     "lat": 46.586361,
     "lon": 15.666012,
     "opposite": "s513",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P17",
         "color": "#9C8AC1"
@@ -4570,7 +4570,7 @@
     "lat": 46.544261,
     "lon": 15.677811,
     "opposite": "s362",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -4596,7 +4596,7 @@
     "lat": 46.556847,
     "lon": 15.610385,
     "opposite": "s119",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -4614,7 +4614,7 @@
     "lat": 46.556986,
     "lon": 15.611228,
     "opposite": "s118",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -4632,7 +4632,7 @@
     "lat": 46.527311,
     "lon": 15.706298,
     "opposite": "s354",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -4650,7 +4650,7 @@
     "lat": 46.528356,
     "lon": 15.706277,
     "opposite": "s355",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -4668,7 +4668,7 @@
     "lat": 46.553252,
     "lon": 15.617321,
     "opposite": "s138",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -4690,7 +4690,7 @@
     "lat": 46.551724,
     "lon": 15.621286,
     "opposite": "s136",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -4712,7 +4712,7 @@
     "lat": 46.551581,
     "lon": 15.621506,
     "opposite": "s137",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -4734,7 +4734,7 @@
     "lat": 46.567076,
     "lon": 15.659232,
     "opposite": "s81",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -4756,7 +4756,7 @@
     "lat": 46.567289,
     "lon": 15.658896,
     "opposite": "s82",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -4778,7 +4778,7 @@
     "lat": 46.576391,
     "lon": 15.657536,
     "opposite": "s95",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -4800,7 +4800,7 @@
     "lat": 46.544875,
     "lon": 15.676494,
     "opposite": "s363",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -4826,7 +4826,7 @@
     "lat": 46.570616,
     "lon": 15.658075,
     "opposite": "s97",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -4848,7 +4848,7 @@
     "lat": 46.581046,
     "lon": 15.662691,
     "opposite": "s93",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -4870,7 +4870,7 @@
     "lat": 46.568791,
     "lon": 15.657067,
     "opposite": "s83",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -4888,7 +4888,7 @@
     "lat": 46.553496,
     "lon": 15.644225,
     "opposite": "s226",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -4918,7 +4918,7 @@
     "lat": 46.521225,
     "lon": 15.651598,
     "opposite": "s254",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -4940,7 +4940,7 @@
     "lat": 46.56558,
     "lon": 15.623574,
     "opposite": "s73",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -4962,7 +4962,7 @@
     "lat": 46.568112,
     "lon": 15.592015,
     "opposite": "s62",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -4980,7 +4980,7 @@
     "lat": 46.564968,
     "lon": 15.624263,
     "opposite": "s74",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -4998,7 +4998,7 @@
     "lat": 46.57709,
     "lon": 15.657794,
     "opposite": "s574",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P17",
         "color": "#9C8AC1"
@@ -5016,7 +5016,7 @@
     "lat": 46.526839,
     "lon": 15.687001,
     "opposite": "s393",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -5034,7 +5034,7 @@
     "lat": 46.525556,
     "lon": 15.678967,
     "opposite": "s336",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -5052,7 +5052,7 @@
     "lat": 46.525041,
     "lon": 15.678189,
     "opposite": "s337",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -5070,7 +5070,7 @@
     "lat": 46.543712,
     "lon": 15.649091,
     "opposite": "s236",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -5092,7 +5092,7 @@
     "lat": 46.544594,
     "lon": 15.648782,
     "opposite": "s237",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -5114,7 +5114,7 @@
     "lat": 46.559151,
     "lon": 15.651256,
     "opposite": "s7",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -5188,7 +5188,7 @@
     "lat": 46.558644,
     "lon": 15.650901,
     "opposite": "s8",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -5266,7 +5266,7 @@
     "lat": 46.568481,
     "lon": 15.593426,
     "opposite": "s63",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P15",
         "color": "#60C3AC"
@@ -5284,7 +5284,7 @@
     "lat": 46.539405,
     "lon": 15.720482,
     "opposite": "s294",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -5302,7 +5302,7 @@
     "lat": 46.539504,
     "lon": 15.720569,
     "opposite": "s594",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -5320,7 +5320,7 @@
     "lat": 46.54768,
     "lon": 15.714955,
     "opposite": "s292",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -5338,7 +5338,7 @@
     "lat": 46.547793,
     "lon": 15.714933,
     "opposite": "s293",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -5356,7 +5356,7 @@
     "lat": 46.51779,
     "lon": 15.652969,
     "opposite": "s417",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5374,7 +5374,7 @@
     "lat": 46.526461,
     "lon": 15.648079,
     "opposite": "s258",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5396,7 +5396,7 @@
     "lat": 46.526525,
     "lon": 15.648251,
     "opposite": "s259",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5418,7 +5418,7 @@
     "lat": 46.541329,
     "lon": 15.648398,
     "opposite": "s238",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -5440,7 +5440,7 @@
     "lat": 46.519346,
     "lon": 15.650705,
     "opposite": "s416",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5458,7 +5458,7 @@
     "lat": 46.519863,
     "lon": 15.650517,
     "opposite": "s418",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5476,7 +5476,7 @@
     "lat": 46.545622,
     "lon": 15.656589,
     "opposite": "s307",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -5494,7 +5494,7 @@
     "lat": 46.530275,
     "lon": 15.646328,
     "opposite": "s260",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5516,7 +5516,7 @@
     "lat": 46.530925,
     "lon": 15.645941,
     "opposite": "s261",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5538,7 +5538,7 @@
     "lat": 46.521951,
     "lon": 15.648881,
     "opposite": "s255",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5560,7 +5560,7 @@
     "lat": 46.521465,
     "lon": 15.648956,
     "opposite": "s415",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5582,7 +5582,7 @@
     "lat": 46.533331,
     "lon": 15.646287,
     "opposite": "s414",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5604,7 +5604,7 @@
     "lat": 46.533114,
     "lon": 15.646451,
     "opposite": "s419",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5626,7 +5626,7 @@
     "lat": 46.537794,
     "lon": 15.638796,
     "opposite": "s411",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -5648,7 +5648,7 @@
     "lat": 46.537525,
     "lon": 15.639608,
     "opposite": "s422",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -5670,7 +5670,7 @@
     "lat": 46.535254,
     "lon": 15.642749,
     "opposite": "s412",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5688,7 +5688,7 @@
     "lat": 46.536107,
     "lon": 15.641725,
     "opposite": "s421",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -5710,7 +5710,7 @@
     "lat": 46.545675,
     "lon": 15.656455,
     "opposite": "s507",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -5728,7 +5728,7 @@
     "lat": 46.534288,
     "lon": 15.644301,
     "opposite": "s413",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5746,7 +5746,7 @@
     "lat": 46.534833,
     "lon": 15.643674,
     "opposite": "s420",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -5764,7 +5764,7 @@
     "lat": 46.548834,
     "lon": 15.641523,
     "opposite": "s242",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -5782,7 +5782,7 @@
     "lat": 46.548726,
     "lon": 15.641515,
     "opposite": "s243",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -5800,7 +5800,7 @@
     "lat": 46.551231,
     "lon": 15.676799,
     "opposite": "s374",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -5822,7 +5822,7 @@
     "lat": 46.550802,
     "lon": 15.676429,
     "opposite": "s375",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -5844,7 +5844,7 @@
     "lat": 46.548549,
     "lon": 15.675437,
     "opposite": "s376",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -5866,7 +5866,7 @@
     "lat": 46.547605,
     "lon": 15.674821,
     "opposite": "s377",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P16",
         "color": "#D5137B"
@@ -5884,7 +5884,7 @@
     "lat": 46.544808,
     "lon": 15.653853,
     "opposite": "s305",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -5902,7 +5902,7 @@
     "lat": 46.556141,
     "lon": 15.630354,
     "opposite": "s224",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -5920,7 +5920,7 @@
     "lat": 46.554577,
     "lon": 15.672089,
     "opposite": "s372",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -5946,7 +5946,7 @@
     "lat": 46.555811,
     "lon": 15.631387,
     "opposite": "s225",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -5964,7 +5964,7 @@
     "lat": 46.556902,
     "lon": 15.626748,
     "opposite": "s222",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -5982,7 +5982,7 @@
     "lat": 46.556541,
     "lon": 15.628123,
     "opposite": "s223",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -6000,7 +6000,7 @@
     "lat": 46.565929,
     "lon": 15.633438,
     "opposite": "s32",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -6018,7 +6018,7 @@
     "lat": 46.566171,
     "lon": 15.632983,
     "opposite": "s33",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -6036,7 +6036,7 @@
     "lat": 46.570028,
     "lon": 15.627758,
     "opposite": "s41",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -6054,7 +6054,7 @@
     "lat": 46.570316,
     "lon": 15.627311,
     "opposite": "s42",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -6072,7 +6072,7 @@
     "lat": 46.544965,
     "lon": 15.619133,
     "opposite": "s108",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -6090,7 +6090,7 @@
     "lat": 46.533221,
     "lon": 15.599686,
     "opposite": "s148",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -6108,7 +6108,7 @@
     "lat": 46.531882,
     "lon": 15.664025,
     "opposite": "s314",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6126,7 +6126,7 @@
     "lat": 46.543812,
     "lon": 15.65258,
     "opposite": "s509",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6144,7 +6144,7 @@
     "lat": 46.554516,
     "lon": 15.673517,
     "opposite": "s373",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -6174,7 +6174,7 @@
     "lat": 46.531271,
     "lon": 15.665202,
     "opposite": "s315",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6192,7 +6192,7 @@
     "lat": 46.534441,
     "lon": 15.658472,
     "opposite": "s312",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6210,7 +6210,7 @@
     "lat": 46.534721,
     "lon": 15.658095,
     "opposite": "s313",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6228,7 +6228,7 @@
     "lat": 46.515357,
     "lon": 15.717538,
     "opposite": "s353",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P16",
         "color": "#D5137B"
@@ -6246,7 +6246,7 @@
     "lat": 46.551326,
     "lon": 15.743461,
     "opposite": "s287",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -6264,7 +6264,7 @@
     "lat": 46.551379,
     "lon": 15.743682,
     "opposite": "s586",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -6282,7 +6282,7 @@
     "lat": 46.525953,
     "lon": 15.670998,
     "opposite": "s318",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6300,7 +6300,7 @@
     "lat": 46.5259,
     "lon": 15.670344,
     "opposite": "s518",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6318,7 +6318,7 @@
     "lat": 46.549582,
     "lon": 15.700092,
     "opposite": "s382",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6336,7 +6336,7 @@
     "lat": 46.554347,
     "lon": 15.676824,
     "opposite": "s378",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6354,7 +6354,7 @@
     "lat": 46.555136,
     "lon": 15.665524,
     "opposite": "s370",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -6384,7 +6384,7 @@
     "lat": 46.554349,
     "lon": 15.676661,
     "opposite": "s578",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6402,7 +6402,7 @@
     "lat": 46.546572,
     "lon": 15.705258,
     "opposite": "s383",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6420,7 +6420,7 @@
     "lat": 46.546532,
     "lon": 15.705432,
     "opposite": "s583",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6438,7 +6438,7 @@
     "lat": 46.544222,
     "lon": 15.706825,
     "opposite": "s584",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6456,7 +6456,7 @@
     "lat": 46.544223,
     "lon": 15.706709,
     "opposite": "s384",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6474,7 +6474,7 @@
     "lat": 46.549787,
     "lon": 15.694231,
     "opposite": "s380",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6492,7 +6492,7 @@
     "lat": 46.549674,
     "lon": 15.694727,
     "opposite": "s381",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6510,7 +6510,7 @@
     "lat": 46.550712,
     "lon": 15.686665,
     "opposite": "s579",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6528,7 +6528,7 @@
     "lat": 46.550678,
     "lon": 15.68725,
     "opposite": "s580",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6546,7 +6546,7 @@
     "lat": 46.554756,
     "lon": 15.666739,
     "opposite": "s371",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -6576,7 +6576,7 @@
     "lat": 46.552191,
     "lon": 15.682277,
     "opposite": "s379",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6594,7 +6594,7 @@
     "lat": 46.552228,
     "lon": 15.682309,
     "opposite": "s577",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -6612,7 +6612,7 @@
     "lat": 46.537056,
     "lon": 15.596948,
     "opposite": "s155",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -6630,7 +6630,7 @@
     "lat": 46.561852,
     "lon": 15.656836,
     "opposite": "s4",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -6656,7 +6656,7 @@
     "lat": 46.561728,
     "lon": 15.656944,
     "opposite": "s3",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -6682,7 +6682,7 @@
     "lat": 46.554505,
     "lon": 15.635999,
     "opposite": "s220",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -6700,7 +6700,7 @@
     "lat": 46.554546,
     "lon": 15.635401,
     "opposite": "s221",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P8",
         "color": "#8EB3DF"
@@ -6718,7 +6718,7 @@
     "lat": 46.539888,
     "lon": 15.650973,
     "opposite": "s310",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6736,7 +6736,7 @@
     "lat": 46.539447,
     "lon": 15.651313,
     "opposite": "s311",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -6754,7 +6754,7 @@
     "lat": 46.549534,
     "lon": 15.611103,
     "opposite": "s603",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P19",
         "color": "#F5DD26"
@@ -6772,7 +6772,7 @@
     "lat": 46.51468,
     "lon": 15.712493,
     "opposite": "s352",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P16",
         "color": "#D5137B"
@@ -6790,7 +6790,7 @@
     "lat": 46.565157,
     "lon": 15.634537,
     "opposite": "s609",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -6808,7 +6808,7 @@
     "lat": 46.563217,
     "lon": 15.630418,
     "opposite": "s611",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -6826,7 +6826,7 @@
     "lat": 46.548891,
     "lon": 15.611291,
     "opposite": "s602",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P19",
         "color": "#F5DD26"
@@ -6844,7 +6844,7 @@
     "lat": 46.548691,
     "lon": 15.667511,
     "opposite": "s604",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -6862,7 +6862,7 @@
     "lat": 46.523351,
     "lon": 15.703928,
     "opposite": "s345",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P16",
         "color": "#D5137B"
@@ -6880,7 +6880,7 @@
     "lat": 46.537168,
     "lon": 15.59225,
     "opposite": "s614",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -6898,7 +6898,7 @@
     "lat": 46.53609,
     "lon": 15.596385,
     "opposite": "s615",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -6916,7 +6916,7 @@
     "lat": 46.539721,
     "lon": 15.598561,
     "opposite": "s622",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -6934,7 +6934,7 @@
     "lat": 46.540368,
     "lon": 15.589466,
     "opposite": "s616",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -6952,7 +6952,7 @@
     "lat": 46.545256,
     "lon": 15.60047,
     "opposite": "s617",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -6970,7 +6970,7 @@
     "lat": 46.540938,
     "lon": 15.606056,
     "opposite": "s619",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -6992,7 +6992,7 @@
     "lat": 46.547384,
     "lon": 15.596941,
     "opposite": "s620",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -7010,7 +7010,7 @@
     "lat": 46.547277,
     "lon": 15.59738,
     "opposite": "s621",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P14",
         "color": "#F7B1CA"
@@ -7028,7 +7028,7 @@
     "lat": 46.523742,
     "lon": 15.703949,
     "opposite": "s346",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -7050,7 +7050,7 @@
     "lat": 46.542408,
     "lon": 15.719173,
     "opposite": "s623",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -7068,7 +7068,7 @@
     "lat": 46.542435,
     "lon": 15.719209,
     "opposite": "s624",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P10",
         "color": "#7BC258"
@@ -7086,7 +7086,7 @@
     "lat": 46.562953,
     "lon": 15.643877,
     "opposite": "s625",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7120,7 +7120,7 @@
     "lat": 46.563011,
     "lon": 15.647843,
     "opposite": "s626",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7154,7 +7154,7 @@
     "lat": 46.517439,
     "lon": 15.708728,
     "opposite": "s350",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P16",
         "color": "#D5137B"
@@ -7172,7 +7172,7 @@
     "lat": 46.571096,
     "lon": 15.658169,
     "opposite": "s573",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P17",
         "color": "#9C8AC1"
@@ -7190,7 +7190,7 @@
     "lat": 46.581055,
     "lon": 15.663103,
     "opposite": "s575",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P17",
         "color": "#9C8AC1"
@@ -7208,7 +7208,7 @@
     "lat": 46.507501,
     "lon": 15.639463,
     "opposite": "s704",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -7226,7 +7226,7 @@
     "lat": 46.53841,
     "lon": 15.588516,
     "opposite": "s186",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -7244,7 +7244,7 @@
     "lat": 46.512917,
     "lon": 15.635321,
     "opposite": "s705",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -7262,7 +7262,7 @@
     "lat": 46.516745,
     "lon": 15.709547,
     "opposite": "s351",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P16",
         "color": "#D5137B"
@@ -7280,7 +7280,7 @@
     "lat": 46.528314,
     "lon": 15.675737,
     "opposite": "s389",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -7302,7 +7302,7 @@
     "lat": 46.528173,
     "lon": 15.674948,
     "opposite": "s388",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -7324,7 +7324,7 @@
     "lat": 46.546179,
     "lon": 15.639123,
     "opposite": "s214",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -7342,7 +7342,7 @@
     "lat": 46.549182,
     "lon": 15.621149,
     "opposite": "s106",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7360,7 +7360,7 @@
     "lat": 46.549942,
     "lon": 15.621805,
     "opposite": "s111",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7378,7 +7378,7 @@
     "lat": 46.552491,
     "lon": 15.623049,
     "opposite": "s105",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7404,7 +7404,7 @@
     "lat": 46.536288,
     "lon": 15.710143,
     "opposite": "s627",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -7422,7 +7422,7 @@
     "lat": 46.53641,
     "lon": 15.71018,
     "opposite": "s628",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -7440,7 +7440,7 @@
     "lat": 46.553664,
     "lon": 15.624005,
     "opposite": "s112",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7462,7 +7462,7 @@
     "lat": 46.561231,
     "lon": 15.627061,
     "opposite": "s633",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -7480,7 +7480,7 @@
     "lat": 46.564271,
     "lon": 15.623099,
     "opposite": "s634",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -7498,7 +7498,7 @@
     "lat": 46.564796,
     "lon": 15.62318,
     "opposite": "s635",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -7516,7 +7516,7 @@
     "lat": 46.561176,
     "lon": 15.627064,
     "opposite": "s636",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -7534,7 +7534,7 @@
     "lat": 46.548779,
     "lon": 15.636555,
     "opposite": "s637",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -7552,7 +7552,7 @@
     "lat": 46.608633,
     "lon": 15.626059,
     "opposite": "s638",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -7570,7 +7570,7 @@
     "lat": 46.609465,
     "lon": 15.632868,
     "opposite": "s640",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -7588,7 +7588,7 @@
     "lat": 46.546461,
     "lon": 15.620128,
     "opposite": "s109",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7606,7 +7606,7 @@
     "lat": 46.608627,
     "lon": 15.625915,
     "opposite": "s639",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -7624,7 +7624,7 @@
     "lat": 46.54384,
     "lon": 15.65273,
     "opposite": "s641",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P13",
         "color": "#8C7174"
@@ -7642,7 +7642,7 @@
     "lat": 46.554492,
     "lon": 15.650439,
     "opposite": "s642",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -7664,7 +7664,7 @@
     "lat": 46.538819,
     "lon": 15.64702,
     "opposite": "s643",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P17",
         "color": "#9C8AC1"
@@ -7682,7 +7682,7 @@
     "lat": 46.554466,
     "lon": 15.650609,
     "opposite": "s644",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G1",
         "color": "#323033"
@@ -7704,7 +7704,7 @@
     "lat": 46.60928,
     "lon": 15.63813,
     "opposite": "s645",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNQVJQUk9NOjU0Ng",
@@ -7717,7 +7717,7 @@
     "lat": 46.60933,
     "lon": 15.63847,
     "opposite": "s646",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -7735,7 +7735,7 @@
     "lat": 46.609503,
     "lon": 15.631009,
     "opposite": "s647",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -7753,7 +7753,7 @@
     "lat": 46.557368,
     "lon": 15.625449,
     "opposite": "s113",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7775,7 +7775,7 @@
     "lat": 46.557532,
     "lon": 15.624998,
     "opposite": "s104",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7797,7 +7797,7 @@
     "lat": 46.55322,
     "lon": 15.6173,
     "opposite": "s648",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -7819,7 +7819,7 @@
     "lat": 46.532164,
     "lon": 15.694953,
     "opposite": "s356",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -7841,7 +7841,7 @@
     "lat": 46.532254,
     "lon": 15.694671,
     "opposite": "s357",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -7863,7 +7863,7 @@
     "lat": 46.525898,
     "lon": 15.700396,
     "opposite": "s342",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -7881,7 +7881,7 @@
     "lat": 46.546786,
     "lon": 15.639532,
     "opposite": "s215",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -7899,7 +7899,7 @@
     "lat": 46.526052,
     "lon": 15.701311,
     "opposite": "s343",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P16",
         "color": "#D5137B"
@@ -7917,7 +7917,7 @@
     "lat": 46.526891,
     "lon": 15.700068,
     "opposite": "s344",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -7939,7 +7939,7 @@
     "lat": 46.541026,
     "lon": 15.683486,
     "opposite": "s360",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7965,7 +7965,7 @@
     "lat": 46.541218,
     "lon": 15.683419,
     "opposite": "s361",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -7991,7 +7991,7 @@
     "lat": 46.557371,
     "lon": 15.645791,
     "opposite": "s905",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -8009,7 +8009,7 @@
     "lat": 46.557431,
     "lon": 15.645841,
     "opposite": "s906",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -8027,7 +8027,7 @@
     "lat": 46.558601,
     "lon": 15.641611,
     "opposite": "s907",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -8045,7 +8045,7 @@
     "lat": 46.551291,
     "lon": 15.652211,
     "opposite": "s908",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -8063,7 +8063,7 @@
     "lat": 46.554431,
     "lon": 15.651911,
     "opposite": "s909",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G5",
         "color": "#DA1F27"
@@ -8081,7 +8081,7 @@
     "lat": 46.548131,
     "lon": 15.648891,
     "opposite": "s919",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNQVJQUk9NOjY0",
@@ -8094,7 +8094,7 @@
     "lat": 46.523932,
     "lon": 15.704634,
     "opposite": "s347",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -8112,7 +8112,7 @@
     "lat": 46.548101,
     "lon": 15.648651,
     "opposite": "s918",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNQVJQUk9NOjY0Mg",
@@ -8125,7 +8125,7 @@
     "lat": 46.533936,
     "lon": 15.675329,
     "opposite": "s921",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -8143,7 +8143,7 @@
     "lat": 46.536917,
     "lon": 15.643153,
     "opposite": "s910",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -8161,7 +8161,7 @@
     "lat": 46.563141,
     "lon": 15.655271,
     "opposite": "s914",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -8179,7 +8179,7 @@
     "lat": 46.533271,
     "lon": 15.674474,
     "opposite": "s920",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -8197,7 +8197,7 @@
     "lat": 46.556241,
     "lon": 15.611421,
     "opposite": "s912",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8219,7 +8219,7 @@
     "lat": 46.555861,
     "lon": 15.612571,
     "opposite": "s913",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8241,7 +8241,7 @@
     "lat": 46.557201,
     "lon": 15.653321,
     "opposite": "s915",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -8267,7 +8267,7 @@
     "lat": 46.562925,
     "lon": 15.630317,
     "opposite": "s935",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -8289,7 +8289,7 @@
     "lat": 46.523413,
     "lon": 15.705232,
     "opposite": "s348",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -8307,7 +8307,7 @@
     "lat": 46.560961,
     "lon": 15.653141,
     "opposite": "s911",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -8337,7 +8337,7 @@
     "lat": 46.557144,
     "lon": 15.652877,
     "opposite": "s916",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P7",
         "color": "#8A181A"
@@ -8363,7 +8363,7 @@
     "lat": 46.549011,
     "lon": 15.667261,
     "opposite": "s927",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -8381,7 +8381,7 @@
     "lat": 46.564861,
     "lon": 15.634671,
     "opposite": "s917",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8399,7 +8399,7 @@
     "lat": 46.56173,
     "lon": 15.637112,
     "opposite": "s924",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8417,7 +8417,7 @@
     "lat": 46.541091,
     "lon": 15.602131,
     "opposite": "s922",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8435,7 +8435,7 @@
     "lat": 46.541041,
     "lon": 15.602081,
     "opposite": "s923",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8453,7 +8453,7 @@
     "lat": 46.562125,
     "lon": 15.636867,
     "opposite": "s925",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8471,7 +8471,7 @@
     "lat": 46.521559,
     "lon": 15.705513,
     "opposite": "s349",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -8489,7 +8489,7 @@
     "lat": 46.545991,
     "lon": 15.618611,
     "opposite": "s926",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P19",
         "color": "#F5DD26"
@@ -8507,7 +8507,7 @@
     "lat": 46.552724,
     "lon": 15.624305,
     "opposite": "s938",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8525,7 +8525,7 @@
     "lat": 46.549492,
     "lon": 15.637156,
     "opposite": "s207",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -8543,7 +8543,7 @@
     "lat": 46.555661,
     "lon": 15.602791,
     "opposite": "s939",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8565,7 +8565,7 @@
     "lat": 46.518471,
     "lon": 15.686901,
     "opposite": "s940",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P12",
         "color": "#1480C1"
@@ -8583,7 +8583,7 @@
     "lat": 46.548301,
     "lon": 15.674211,
     "opposite": "s941",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -8601,7 +8601,7 @@
     "lat": 46.537261,
     "lon": 15.643416,
     "opposite": "s942",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -8619,7 +8619,7 @@
     "lat": 46.548661,
     "lon": 15.595361,
     "opposite": "s943",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P19",
         "color": "#F5DD26"
@@ -8637,7 +8637,7 @@
     "lat": 46.548701,
     "lon": 15.669591,
     "opposite": "s944",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -8655,7 +8655,7 @@
     "lat": 46.548521,
     "lon": 15.668721,
     "opposite": "s945",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -8673,7 +8673,7 @@
     "lat": 46.549854,
     "lon": 15.636699,
     "opposite": "s208",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8695,7 +8695,7 @@
     "lat": 46.534411,
     "lon": 15.646001,
     "opposite": "s946",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P17",
         "color": "#9C8AC1"
@@ -8713,7 +8713,7 @@
     "lat": 46.549942,
     "lon": 15.636722,
     "opposite": "s209",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8735,7 +8735,7 @@
     "lat": 46.540409,
     "lon": 15.637128,
     "opposite": "s182",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -8753,7 +8753,7 @@
     "lat": 46.549346,
     "lon": 15.629735,
     "opposite": "s200",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8771,7 +8771,7 @@
     "lat": 46.548919,
     "lon": 15.628775,
     "opposite": "s201",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8789,7 +8789,7 @@
     "lat": 46.546828,
     "lon": 15.624751,
     "opposite": "s203",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8807,7 +8807,7 @@
     "lat": 46.547295,
     "lon": 15.625758,
     "opposite": "s204",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P18",
         "color": "#C07E65"
@@ -8825,7 +8825,7 @@
     "lat": 46.556453,
     "lon": 15.610227,
     "opposite": "s132",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8847,7 +8847,7 @@
     "lat": 46.555365,
     "lon": 15.614664,
     "opposite": "s133",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8869,7 +8869,7 @@
     "lat": 46.554633,
     "lon": 15.616999,
     "opposite": "s135",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G4",
         "color": "#1C3564"
@@ -8891,7 +8891,7 @@
     "lat": 46.540358,
     "lon": 15.637294,
     "opposite": "s183",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -8909,7 +8909,7 @@
     "lat": 46.557531,
     "lon": 15.647755,
     "opposite": "s9",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -8967,7 +8967,7 @@
     "lat": 46.557378,
     "lon": 15.646796,
     "opposite": "s10",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G2",
         "color": "#88A1A9"
@@ -9021,7 +9021,7 @@
     "lat": 46.55112,
     "lon": 15.639839,
     "opposite": "s210",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -9043,7 +9043,7 @@
     "lat": 46.550584,
     "lon": 15.639119,
     "opposite": "s211",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G6",
         "color": "#1A6734"
@@ -9065,7 +9065,7 @@
     "lat": 46.562867,
     "lon": 15.629161,
     "opposite": "s22",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -9091,7 +9091,7 @@
     "lat": 46.562801,
     "lon": 15.628989,
     "opposite": "s23",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -9117,7 +9117,7 @@
     "lat": 46.538211,
     "lon": 15.635715,
     "opposite": "s184",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P11",
         "color": "#D5DA76"
@@ -9135,7 +9135,7 @@
     "lat": 46.560622,
     "lon": 15.640389,
     "opposite": "s29",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -9169,7 +9169,7 @@
     "lat": 46.560691,
     "lon": 15.640481,
     "opposite": "s30",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -9203,7 +9203,7 @@
     "lat": 46.562366,
     "lon": 15.631178,
     "opposite": "s25",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -9233,7 +9233,7 @@
     "lat": 46.561857,
     "lon": 15.633332,
     "opposite": "s26",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -9263,7 +9263,7 @@
     "lat": 46.561371,
     "lon": 15.636204,
     "opposite": "s27",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -9293,7 +9293,7 @@
     "lat": 46.561235,
     "lon": 15.636851,
     "opposite": "s28",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "G3",
         "color": "#6F3A96"
@@ -9323,7 +9323,7 @@
     "lat": 46.554504,
     "lon": 15.659352,
     "opposite": "s298",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"
@@ -9353,7 +9353,7 @@
     "lat": 46.554659,
     "lon": 15.659808,
     "opposite": "s299",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "P9",
         "color": "#E5861D"

@@ -10,7 +10,7 @@
     "lat": 46.360374,
     "lon": 15.125,
     "opposite": "MOVelenje:1",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -36,7 +36,7 @@
     "lat": 46.348667,
     "lon": 15.108654,
     "opposite": "MOVelenje:10",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -54,7 +54,7 @@
     "lat": 46.348736,
     "lon": 15.10873,
     "opposite": "MOVelenje:11",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -72,7 +72,7 @@
     "lat": 46.369904,
     "lon": 15.123009,
     "opposite": "MOVelenje:12",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -90,7 +90,7 @@
     "lat": 46.370148,
     "lon": 15.122954,
     "opposite": "MOVelenje:13",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -108,7 +108,7 @@
     "lat": 46.343472,
     "lon": 15.13104,
     "opposite": "MOVelenje:14",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -126,7 +126,7 @@
     "lat": 46.345352,
     "lon": 15.113383,
     "opposite": "MOVelenje:15",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -144,7 +144,7 @@
     "lat": 46.345291,
     "lon": 15.113394,
     "opposite": "MOVelenje:16",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -162,7 +162,7 @@
     "lat": 46.352421,
     "lon": 15.111995,
     "opposite": "MOVelenje:17",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -180,7 +180,7 @@
     "lat": 46.351524,
     "lon": 15.11151,
     "opposite": "MOVelenje:18",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -198,7 +198,7 @@
     "lat": 46.372589,
     "lon": 15.101889,
     "opposite": "MOVelenje:19",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -216,7 +216,7 @@
     "lat": 46.358589,
     "lon": 15.118189,
     "opposite": "MOVelenje:2",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -254,7 +254,7 @@
     "lat": 46.368919,
     "lon": 15.130338,
     "opposite": "MOVelenje:20",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -276,7 +276,7 @@
     "lat": 46.365864,
     "lon": 15.100227,
     "opposite": "MOVelenje:21",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -294,7 +294,7 @@
     "lat": 46.367821,
     "lon": 15.094583,
     "opposite": "MOVelenje:22",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -312,7 +312,7 @@
     "lat": 46.363171,
     "lon": 15.123764,
     "opposite": "MOVelenje:23",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -334,7 +334,7 @@
     "lat": 46.367943,
     "lon": 15.081788,
     "opposite": "MOVelenje:24",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -352,7 +352,7 @@
     "lat": 46.367729,
     "lon": 15.082906,
     "opposite": "MOVelenje:25",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -370,7 +370,7 @@
     "lat": 46.365246,
     "lon": 15.088624,
     "opposite": "MOVelenje:26",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -388,7 +388,7 @@
     "lat": 46.365475,
     "lon": 15.088269,
     "opposite": "MOVelenje:27",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -406,7 +406,7 @@
     "lat": 46.368511,
     "lon": 15.083503,
     "opposite": "MOVelenje:28",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -424,7 +424,7 @@
     "lat": 46.345535,
     "lon": 15.160653,
     "opposite": "MOVelenje:29",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -442,7 +442,7 @@
     "lat": 46.360195,
     "lon": 15.097909,
     "opposite": "MOVelenje:3",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -464,7 +464,7 @@
     "lat": 46.345165,
     "lon": 15.161681,
     "opposite": "MOVelenje:30",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -482,7 +482,7 @@
     "lat": 46.360249,
     "lon": 15.082938,
     "opposite": "MOVelenje:31",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -504,7 +504,7 @@
     "lat": 46.385689,
     "lon": 15.106005,
     "opposite": "MOVelenje:32",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -522,7 +522,7 @@
     "lat": 46.385773,
     "lon": 15.106051,
     "opposite": "MOVelenje:33",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -540,7 +540,7 @@
     "lat": 46.361046,
     "lon": 15.118186,
     "opposite": "MOVelenje:34",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -566,7 +566,7 @@
     "lat": 46.360275,
     "lon": 15.118345,
     "opposite": "MOVelenje:35",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -588,7 +588,7 @@
     "lat": 46.368713,
     "lon": 15.1041,
     "opposite": "MOVelenje:36",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -606,7 +606,7 @@
     "lat": 46.338375,
     "lon": 15.141947,
     "opposite": "MOVelenje:37",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -624,7 +624,7 @@
     "lat": 46.322571,
     "lon": 15.183176,
     "opposite": "MOVelenje:38",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -642,7 +642,7 @@
     "lat": 46.338676,
     "lon": 15.111625,
     "opposite": "MOVelenje:39",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -660,7 +660,7 @@
     "lat": 46.359722,
     "lon": 15.09897,
     "opposite": "MOVelenje:4",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -682,7 +682,7 @@
     "lat": 46.33234,
     "lon": 15.13077,
     "opposite": "MOVelenje:40",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -700,7 +700,7 @@
     "lat": 46.341679,
     "lon": 15.143052,
     "opposite": "MOVelenje:41",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -718,7 +718,7 @@
     "lat": 46.371052,
     "lon": 15.098846,
     "opposite": "MOVelenje:42",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -736,7 +736,7 @@
     "lat": 46.362392,
     "lon": 15.114025,
     "opposite": "MOVelenje:43",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "S",
         "color": "#000000"
@@ -754,7 +754,7 @@
     "lat": 46.362514,
     "lon": 15.113976,
     "opposite": "MOVelenje:44",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -776,7 +776,7 @@
     "lat": 46.364784,
     "lon": 15.109779,
     "opposite": "MOVelenje:45",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -802,7 +802,7 @@
     "lat": 46.364605,
     "lon": 15.110682,
     "opposite": "MOVelenje:46",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -824,7 +824,7 @@
     "lat": 46.3657,
     "lon": 15.106587,
     "opposite": "MOVelenje:47",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -842,7 +842,7 @@
     "lat": 46.379173,
     "lon": 15.112604,
     "opposite": "MOVelenje:48",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -860,7 +860,7 @@
     "lat": 46.379322,
     "lon": 15.11237,
     "opposite": "MOVelenje:49",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -878,7 +878,7 @@
     "lat": 46.356476,
     "lon": 15.134859,
     "opposite": "MOVelenje:5",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -904,7 +904,7 @@
     "lat": 46.353287,
     "lon": 15.125671,
     "opposite": "MOVelenje:50",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -926,7 +926,7 @@
     "lat": 46.352798,
     "lon": 15.127112,
     "opposite": "MOVelenje:51",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -944,7 +944,7 @@
     "lat": 46.357147,
     "lon": 15.112221,
     "opposite": "MOVelenje:52",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"
@@ -966,7 +966,7 @@
     "lat": 46.340851,
     "lon": 15.172384,
     "opposite": "MOVelenje:53",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -984,7 +984,7 @@
     "lat": 46.341625,
     "lon": 15.171864,
     "opposite": "MOVelenje:54",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -1002,7 +1002,7 @@
     "lat": 46.347862,
     "lon": 15.14553,
     "opposite": "MOVelenje:55",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -1020,7 +1020,7 @@
     "lat": 46.348091,
     "lon": 15.144043,
     "opposite": "MOVelenje:56",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "O",
         "color": "#f58220"
@@ -1038,7 +1038,7 @@
     "lat": 46.360703,
     "lon": 15.124344,
     "opposite": "MOVelenje:57",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1068,7 +1068,7 @@
     "lat": 46.360779,
     "lon": 15.12525,
     "opposite": "MOVelenje:58",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1094,7 +1094,7 @@
     "lat": 46.366367,
     "lon": 15.128058,
     "opposite": "MOVelenje:59",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1112,7 +1112,7 @@
     "lat": 46.356789,
     "lon": 15.129714,
     "opposite": "MOVelenje:6",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -1138,7 +1138,7 @@
     "lat": 46.366486,
     "lon": 15.128305,
     "opposite": "MOVelenje:60",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1164,7 +1164,7 @@
     "lat": 46.383907,
     "lon": 15.100166,
     "opposite": "MOVelenje:61",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1182,7 +1182,7 @@
     "lat": 46.382954,
     "lon": 15.109656,
     "opposite": "MOVelenje:62",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1200,7 +1200,7 @@
     "lat": 46.382935,
     "lon": 15.109825,
     "opposite": "MOVelenje:63",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1218,7 +1218,7 @@
     "lat": 46.38596,
     "lon": 15.094571,
     "opposite": "MOVelenje:64",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1236,7 +1236,7 @@
     "lat": 46.385242,
     "lon": 15.098698,
     "opposite": "MOVelenje:65",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "M",
         "color": "#009cc3"
@@ -1254,7 +1254,7 @@
     "lat": 46.361938,
     "lon": 15.106481,
     "opposite": "MOVelenje:66",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -1280,7 +1280,7 @@
     "lat": 46.362495,
     "lon": 15.106669,
     "opposite": "MOVelenje:67",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -1302,7 +1302,7 @@
     "lat": 46.356503,
     "lon": 15.130836,
     "opposite": "MOVelenje:7",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ed1556"
@@ -1328,7 +1328,7 @@
     "lat": 46.336029,
     "lon": 15.12143,
     "opposite": "MOVelenje:8",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "Z",
         "color": "#a6b622"
@@ -1346,7 +1346,7 @@
     "lat": 46.359371,
     "lon": 15.110661,
     "opposite": "MOVelenje:9",
-    "route_groups_on_station": [
+    "routes": [
       {
         "name": "R",
         "color": "#ffdb00"

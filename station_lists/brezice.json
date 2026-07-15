@@ -10,7 +10,7 @@
     "lat": 45.90402,
     "lon": 15.59293,
     "opposite": "Brezice:10",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjEx",
@@ -23,7 +23,7 @@
     "lat": 45.90772,
     "lon": 15.59136,
     "opposite": "Brezice:11",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjEy",
@@ -36,7 +36,7 @@
     "lat": 45.91177,
     "lon": 15.59061,
     "opposite": "Brezice:12",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjEz",
@@ -49,7 +49,7 @@
     "lat": 45.91846,
     "lon": 15.59663,
     "opposite": "Brezice:13",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE0",
@@ -62,7 +62,7 @@
     "lat": 45.91584,
     "lon": 15.59099,
     "opposite": "Brezice:14",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE1",
@@ -75,7 +75,7 @@
     "lat": 45.9119,
     "lon": 15.59051,
     "opposite": "Brezice:15",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE2",
@@ -88,7 +88,7 @@
     "lat": 45.90775,
     "lon": 15.59126,
     "opposite": "Brezice:16",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE3",
@@ -101,7 +101,7 @@
     "lat": 45.90773,
     "lon": 15.59464,
     "opposite": "Brezice:17",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE4",
@@ -114,7 +114,7 @@
     "lat": 45.90789,
     "lon": 15.59748,
     "opposite": "Brezice:18",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE5",
@@ -127,7 +127,7 @@
     "lat": 45.9076,
     "lon": 15.60089,
     "opposite": "Brezice:19",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjI",
@@ -140,7 +140,7 @@
     "lat": 45.90693,
     "lon": 15.60921,
     "opposite": "Brezice:2",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjM",
@@ -153,7 +153,7 @@
     "lat": 45.90557,
     "lon": 15.60901,
     "opposite": "Brezice:3",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjQ",
@@ -166,7 +166,7 @@
     "lat": 45.90448,
     "lon": 15.60618,
     "opposite": "Brezice:4",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjU",
@@ -179,7 +179,7 @@
     "lat": 45.90573,
     "lon": 15.60522,
     "opposite": "Brezice:5",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjY",
@@ -192,7 +192,7 @@
     "lat": 45.90426,
     "lon": 15.60141,
     "opposite": "Brezice:6",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjc",
@@ -205,7 +205,7 @@
     "lat": 45.9003,
     "lon": 15.59657,
     "opposite": "Brezice:7",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjg",
@@ -218,7 +218,7 @@
     "lat": 45.90211,
     "lon": 15.59702,
     "opposite": "Brezice:8",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjk",
@@ -231,6 +231,6 @@
     "lat": 45.9046,
     "lon": 15.59692,
     "opposite": "Brezice:9",
-    "route_groups_on_station": []
+    "routes": []
   }
 ]

@@ -10,7 +10,7 @@
     "lat": 46.6587909,
     "lon": 16.1651404,
     "opposite": "1122433",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDI",
@@ -23,7 +23,7 @@
     "lat": 46.6653123,
     "lon": 16.1810928,
     "opposite": "1122442",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDM",
@@ -36,7 +36,7 @@
     "lat": 46.6601884,
     "lon": 16.1568467,
     "opposite": "1122443",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDU",
@@ -49,7 +49,7 @@
     "lat": 46.6589472,
     "lon": 16.1665811,
     "opposite": "1122445",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDc",
@@ -62,7 +62,7 @@
     "lat": 46.6630667,
     "lon": 16.1649054,
     "opposite": "1122447",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDg",
@@ -75,7 +75,7 @@
     "lat": 46.6523049,
     "lon": 16.157084,
     "opposite": "1122448",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDk",
@@ -88,7 +88,7 @@
     "lat": 46.6530291,
     "lon": 16.1575306,
     "opposite": "1122449",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTA",
@@ -101,7 +101,7 @@
     "lat": 46.6550993,
     "lon": 16.1592209,
     "opposite": "1122450",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTE",
@@ -114,7 +114,7 @@
     "lat": 46.6549933,
     "lon": 16.1590227,
     "opposite": "1122451",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTM",
@@ -127,7 +127,7 @@
     "lat": 46.6553542,
     "lon": 16.1624798,
     "opposite": "1122453",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTQ",
@@ -140,7 +140,7 @@
     "lat": 46.6553575,
     "lon": 16.1621532,
     "opposite": "1122454",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTU",
@@ -153,7 +153,7 @@
     "lat": 46.6542518,
     "lon": 16.1682704,
     "opposite": "1122455",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTY",
@@ -166,7 +166,7 @@
     "lat": 46.6541503,
     "lon": 16.1685164,
     "opposite": "1122456",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTc",
@@ -179,7 +179,7 @@
     "lat": 46.6600185,
     "lon": 16.1540598,
     "opposite": "1122457",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTg",
@@ -192,7 +192,7 @@
     "lat": 46.6599453,
     "lon": 16.154189,
     "opposite": "1122458",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTk",
@@ -205,7 +205,7 @@
     "lat": 46.6570602,
     "lon": 16.1539056,
     "opposite": "1122459",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NjA",
@@ -218,7 +218,7 @@
     "lat": 46.6578233,
     "lon": 16.1540655,
     "opposite": "1122460",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NjE",
@@ -231,7 +231,7 @@
     "lat": 46.6605251,
     "lon": 16.1555733,
     "opposite": "1122461",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NjI",
@@ -244,7 +244,7 @@
     "lat": 46.6548341,
     "lon": 16.1534011,
     "opposite": "1122462",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NjM",
@@ -257,7 +257,7 @@
     "lat": 46.6549848,
     "lon": 16.1536264,
     "opposite": "1122463",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjM5ODM",
@@ -270,7 +270,7 @@
     "lat": 46.6683266,
     "lon": 16.1364791,
     "opposite": "1123983",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjM5ODY",
@@ -283,7 +283,7 @@
     "lat": 46.6648778,
     "lon": 16.1398286,
     "opposite": "1123986",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3Mjg",
@@ -296,7 +296,7 @@
     "lat": 46.6554918,
     "lon": 16.1821402,
     "opposite": "1127728",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3Mjk",
@@ -309,7 +309,7 @@
     "lat": 46.6548894,
     "lon": 16.1830696,
     "opposite": "1127729",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3MzI",
@@ -322,7 +322,7 @@
     "lat": 46.6613579,
     "lon": 16.1520218,
     "opposite": "1127732",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3MzM",
@@ -335,7 +335,7 @@
     "lat": 46.6614934,
     "lon": 16.1520478,
     "opposite": "1127733",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3Mzg",
@@ -348,7 +348,7 @@
     "lat": 46.6643348,
     "lon": 16.1749599,
     "opposite": "1127738",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3Mzk",
@@ -361,7 +361,7 @@
     "lat": 46.6642538,
     "lon": 16.1747543,
     "opposite": "1127739",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3NDA",
@@ -374,7 +374,7 @@
     "lat": 46.6587408,
     "lon": 16.1767095,
     "opposite": "1127740",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3NDI",
@@ -387,7 +387,7 @@
     "lat": 46.655805,
     "lon": 16.1550835,
     "opposite": "1127742",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3NDQ",
@@ -400,7 +400,7 @@
     "lat": 46.6558503,
     "lon": 16.1546588,
     "opposite": "1127744",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjc4MTg",
@@ -413,7 +413,7 @@
     "lat": 46.6797189,
     "lon": 16.1764256,
     "opposite": "1127818",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjkxOTA",
@@ -426,7 +426,7 @@
     "lat": 46.6503781,
     "lon": 16.192324,
     "opposite": "1129190",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjkxOTE",
@@ -439,7 +439,7 @@
     "lat": 46.6497683,
     "lon": 16.1936203,
     "opposite": "1129191",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExMjkxOTI",
@@ -452,7 +452,7 @@
     "lat": 46.6502855,
     "lon": 16.1873737,
     "opposite": "1129192",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTA0NzM",
@@ -465,7 +465,7 @@
     "lat": 46.6490149,
     "lon": 16.2041121,
     "opposite": "1150473",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTA3NTI",
@@ -478,7 +478,7 @@
     "lat": 46.6587831,
     "lon": 16.1767355,
     "opposite": "1150752",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTA4Njk",
@@ -491,7 +491,7 @@
     "lat": 46.6507593,
     "lon": 16.1957948,
     "opposite": "1150869",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2NjU",
@@ -504,7 +504,7 @@
     "lat": 46.656099,
     "lon": 16.174662,
     "opposite": "1151665",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2NjY",
@@ -517,7 +517,7 @@
     "lat": 46.662215,
     "lon": 16.174196,
     "opposite": "1151666",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2Njc",
@@ -530,7 +530,7 @@
     "lat": 46.661873,
     "lon": 16.173883,
     "opposite": "1151667",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2Njg",
@@ -543,7 +543,7 @@
     "lat": 46.67053,
     "lon": 16.139868,
     "opposite": "1151668",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2Njk",
@@ -556,7 +556,7 @@
     "lat": 46.666327,
     "lon": 16.14167,
     "opposite": "1151669",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2NzA",
@@ -569,7 +569,7 @@
     "lat": 46.669374,
     "lon": 16.1775655,
     "opposite": "1151670",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2NzI",
@@ -582,7 +582,7 @@
     "lat": 46.675128,
     "lon": 16.174999,
     "opposite": "1151672",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjcwNTQ",
@@ -595,7 +595,7 @@
     "lat": 46.66135,
     "lon": 16.166021,
     "opposite": "1167054",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjcwNTU",
@@ -608,7 +608,7 @@
     "lat": 46.6630867,
     "lon": 16.1647098,
     "opposite": "1167055",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjcwODY",
@@ -621,7 +621,7 @@
     "lat": 46.65874,
     "lon": 16.16906,
     "opposite": "1167086",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MTg",
@@ -634,7 +634,7 @@
     "lat": 46.6678053,
     "lon": 16.1776579,
     "opposite": "1167518",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MTk",
@@ -647,7 +647,7 @@
     "lat": 46.6675346,
     "lon": 16.1774953,
     "opposite": "1167519",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MzA",
@@ -660,7 +660,7 @@
     "lat": 46.6515173,
     "lon": 16.1513187,
     "opposite": "1167530",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MzE",
@@ -673,7 +673,7 @@
     "lat": 46.6514601,
     "lon": 16.1516311,
     "opposite": "1167531",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MzQ",
@@ -686,7 +686,7 @@
     "lat": 46.6642114,
     "lon": 16.1675607,
     "opposite": "1167534",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MzU",
@@ -699,7 +699,7 @@
     "lat": 46.664115,
     "lon": 16.1676621,
     "opposite": "1167535",
-    "route_groups_on_station": []
+    "routes": []
   },
   {
     "id": "U3RvcDpNT01TOjExNjc5ODA",
@@ -712,6 +712,6 @@
     "lat": 46.660438,
     "lon": 16.146028,
     "opposite": "1167980",
-    "route_groups_on_station": []
+    "routes": []
   }
 ]
