@@ -127,11 +127,11 @@ async function fetchAndProcessStations() {
 
         // Specifična pravila za polja agencij in linij
         if (agency === "ijpp" || agency === "sz") {
-          // Za IJPP in SŽ samo agencies (iz ijpp.json), BREZ route_groups_on_station
+          // Za IJPP in SŽ samo agencies (iz ijpp.json), BREZ routes
           resultStation.agencies = stopToAgenciesCache[stationIdStr] || [];
         } else {
-          // Za vse ostale (LPP, Marprom, ...) samo route_groups_on_station
-          resultStation.route_groups_on_station = routesStationsCache[stationIdStr] || [];
+          // Za vse ostale (LPP, Marprom, ...) samo routes
+          resultStation.routes = routesStationsCache[stationIdStr] || [];
         }
 
         return resultStation;
