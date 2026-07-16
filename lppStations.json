@@ -1488,7 +1488,6 @@
     "ref_id": "201011",
     "route_groups_on_station": [
       "3",
-      "6",
       "11",
       "18",
       "60"
@@ -1532,7 +1531,6 @@
     "name": "Viadukt",
     "ref_id": "202013",
     "route_groups_on_station": [
-      "6",
       "12",
       "27"
     ]
@@ -1544,6 +1542,7 @@
     "name": "Viadukt",
     "ref_id": "202014",
     "route_groups_on_station": [
+      "6",
       "12",
       "27"
     ]
@@ -1555,6 +1554,7 @@
     "name": "Prekmurska",
     "ref_id": "202021",
     "route_groups_on_station": [
+      "6",
       "7",
       "22"
     ]
@@ -1566,7 +1566,6 @@
     "name": "Prekmurska",
     "ref_id": "202022",
     "route_groups_on_station": [
-      "6",
       "7",
       "22"
     ]
@@ -3096,6 +3095,7 @@
       "48",
       "49",
       "54",
+      "60",
       "68",
       "76",
       "78",
