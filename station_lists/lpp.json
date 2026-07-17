@@ -13488,6 +13488,19 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6ZGI5ZjcxMzAtMGJjMi00ZjNlLWI4Y2QtMDdjZmU5NmIxZjhm",
+    "gtfs_id": "LPP:db9f7130-0bc2-4f3e-b8cd-07cfe96b1f8f",
+    "code": "300015",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "KOLODVOR",
+    "lat": 46.057751,
+    "lon": 14.51027,
+    "opposite": null,
+    "routes": []
+  },
+  {
     "id": "U3RvcDpMUFA6ZGM2Yjk2YjEtZDBmYS00ZDAzLWFjMmItOGViYTViYjk3YmEy",
     "gtfs_id": "LPP:dc6b96b1-d0fa-4d03-ac2b-8eba5bb97ba2",
     "code": "503042",
