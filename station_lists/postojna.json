@@ -1,12 +1,25 @@
 [
   {
+    "id": "U3RvcDpQb3N0b2puYTo2YXpp",
+    "gtfs_id": "Postojna:6azi",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Zagon",
+    "lat": 45.79794,
+    "lon": 14.177989,
+    "opposite": "Postojna:6azi",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpQb3N0b2puYTo3Y21m",
     "gtfs_id": "Postojna:7cmf",
     "code": null,
     "type": "BUS",
     "background_color": "#a92c30",
     "icon_color": "#FFFFFF",
-    "name": "Park pri pošti",
+    "name": "Park pri pošti/Hotel Kras",
     "lat": 45.774846,
     "lon": 14.213219,
     "opposite": "Postojna:7cmf",
@@ -78,6 +91,19 @@
     "routes": []
   },
   {
+    "id": "U3RvcDpQb3N0b2puYTpvMGgw",
+    "gtfs_id": "Postojna:o0h0",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Javorniška pot",
+    "lat": 45.780672,
+    "lon": 14.222451,
+    "opposite": "Postojna:yghz",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpQb3N0b2puYTpvOGhw",
     "gtfs_id": "Postojna:o8hp",
     "code": null,
@@ -87,6 +113,45 @@
     "name": "Železniška postaja",
     "lat": 45.773028,
     "lon": 14.221138,
+    "opposite": "Postojna:yghz",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpQb3N0b2puYTpvc209Mzg2NzQwODU1OA",
+    "gtfs_id": "Postojna:osm=3867408558",
+    "code": "osm=3867408558",
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Supernova",
+    "lat": 45.769697,
+    "lon": 14.195696,
+    "opposite": "Postojna:yghz",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpQb3N0b2puYTpvc209NDIyNjg2NzgwMA",
+    "gtfs_id": "Postojna:osm=4226867800",
+    "code": "osm=4226867800",
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Risovec",
+    "lat": 45.790313,
+    "lon": 14.190527,
+    "opposite": "Postojna:yghz",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpQb3N0b2puYTpvc209NDkyNDg5MDk3MQ",
+    "gtfs_id": "Postojna:osm=4924890971",
+    "code": "osm=4924890971",
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Zalog",
+    "lat": 45.765721,
+    "lon": 14.196136,
     "opposite": "Postojna:yghz",
     "routes": []
   },
@@ -351,6 +416,19 @@
     "routes": []
   },
   {
+    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Ng",
+    "gtfs_id": "Postojna:osm=4958217946",
+    "code": "osm=4958217946",
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Šolski center",
+    "lat": 45.770994,
+    "lon": 14.212234,
+    "opposite": "Postojna:yghz",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Nw",
     "gtfs_id": "Postojna:osm=4958217947",
     "code": "osm=4958217947",
@@ -364,6 +442,19 @@
     "routes": []
   },
   {
+    "id": "U3RvcDpQb3N0b2puYTpvc209NTEzMzcxMDk2Mg",
+    "gtfs_id": "Postojna:osm=5133710962",
+    "code": "osm=5133710962",
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Hotel Kras",
+    "lat": 45.774812,
+    "lon": 14.213065,
+    "opposite": "Postojna:yghz",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpQb3N0b2puYTpvc209NTE5NzIyMzIwMg",
     "gtfs_id": "Postojna:osm=5197223202",
     "code": "osm=5197223202",
@@ -373,6 +464,32 @@
     "name": "Volaričeva",
     "lat": 45.770497,
     "lon": 14.218621,
+    "opposite": "Postojna:yghz",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpQb3N0b2puYTpvc209NTI0MzQ3NjEzMA",
+    "gtfs_id": "Postojna:osm=5243476130",
+    "code": "osm=5243476130",
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Stara vas",
+    "lat": 45.76211,
+    "lon": 14.212897,
+    "opposite": "Postojna:yghz",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpQb3N0b2puYTpwYmV1",
+    "gtfs_id": "Postojna:pbeu",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Predjama",
+    "lat": 45.814112,
+    "lon": 14.128622,
     "opposite": "Postojna:yghz",
     "routes": []
   },
@@ -436,8 +553,8 @@
     "background_color": "#a92c30",
     "icon_color": "#FFFFFF",
     "name": "Postojnska jama",
-    "lat": 45.780977,
-    "lon": 14.20526,
+    "lat": 45.780293,
+    "lon": 14.20522,
     "opposite": "Postojna:yghz",
     "routes": []
   }
