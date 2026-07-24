@@ -1482,8 +1482,8 @@
   },
   {
     "int_id": 3307,
-    "latitude": 46.06103968748721,
-    "longitude": 14.5132960445235,
+    "latitude": 46.06096362004598,
+    "longitude": 14.51326596723204,
     "name": "ŽELEZNA",
     "ref_id": "201011",
     "route_groups_on_station": [
@@ -1495,8 +1495,8 @@
   },
   {
     "int_id": 4510,
-    "latitude": 46.06125433750317,
-    "longitude": 14.513248855397979,
+    "latitude": 46.061328602402014,
+    "longitude": 14.51330208609145,
     "name": "ŽELEZNA",
     "ref_id": "201012",
     "route_groups_on_station": [
@@ -1511,7 +1511,8 @@
     "name": "Viadukt",
     "ref_id": "202011",
     "route_groups_on_station": [
-      "2"
+      "2",
+      "27"
     ]
   },
   {
@@ -3067,7 +3068,8 @@
     "route_groups_on_station": [
       "2",
       "9",
-      "25"
+      "25",
+      "27"
     ]
   },
   {
@@ -3131,7 +3133,8 @@
     "route_groups_on_station": [
       "2",
       "9",
-      "25"
+      "25",
+      "27"
     ]
   },
   {
