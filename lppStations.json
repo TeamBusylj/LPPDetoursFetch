@@ -1482,9 +1482,9 @@
   },
   {
     "int_id": 3307,
-    "latitude": 46.06096362004598,
-    "longitude": 14.51326596723204,
-    "name": "ŽELEZNA",
+    "latitude": 46.060966284535326,
+    "longitude": 14.51328040801712,
+    "name": "ŽELEZNA-1",
     "ref_id": "201011",
     "route_groups_on_station": [
       "3",
@@ -1495,9 +1495,9 @@
   },
   {
     "int_id": 4510,
-    "latitude": 46.061328602402014,
-    "longitude": 14.51330208609145,
-    "name": "ŽELEZNA",
+    "latitude": 46.06117544323874,
+    "longitude": 14.513201625686275,
+    "name": "ŽELEZNA-2",
     "ref_id": "201012",
     "route_groups_on_station": [
       "6",
