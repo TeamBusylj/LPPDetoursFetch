@@ -1,1156 +1,640 @@
-[
-  {
-    "id": "U3RvcDpQb3N0b2puYTo2YXpp",
-    "gtfs_id": "Postojna:6azi",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Zagon",
-    "lat": 45.79794,
-    "lon": 14.177989,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "26",
-        "color": "#FD4097"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTo3Y21m",
-    "gtfs_id": "Postojna:7cmf",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Park pri pošti/Hotel Kras",
-    "lat": 45.774846,
-    "lon": 14.213219,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "26",
-        "color": "#FD4097"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpjbDdv",
-    "gtfs_id": "Postojna:cl7o",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Veliki Otok",
-    "lat": 45.783897,
-    "lon": 14.197762,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTplcHRr",
-    "gtfs_id": "Postojna:eptk",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Poljane",
-    "lat": 45.782463,
-    "lon": 14.215649,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpneXRh",
-    "gtfs_id": "Postojna:gyta",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Inkubator",
-    "lat": 45.785348,
-    "lon": 14.195886,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpsZHhi",
-    "gtfs_id": "Postojna:ldxb",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tuš",
-    "lat": 45.768366,
-    "lon": 14.215386,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpsaHNj",
-    "gtfs_id": "Postojna:lhsc",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Park Jama",
-    "lat": 45.779729,
-    "lon": 14.205835,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvMGgw",
-    "gtfs_id": "Postojna:o0h0",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Javorniška pot",
-    "lat": 45.780672,
-    "lon": 14.222451,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvOGhw",
-    "gtfs_id": "Postojna:o8hp",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Železniška postaja",
-    "lat": 45.773028,
-    "lon": 14.221138,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "26",
-        "color": "#FD4097"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209Mzg2NzQwODU1OA",
-    "gtfs_id": "Postojna:osm=3867408558",
-    "code": "osm=3867408558",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 45.769697,
-    "lon": 14.195696,
-    "opposite": "osm=3867408558",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDIyNjg2NzgwMA",
-    "gtfs_id": "Postojna:osm=4226867800",
-    "code": "osm=4226867800",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Risovec",
-    "lat": 45.790313,
-    "lon": 14.190527,
-    "opposite": "osm=4226867800",
-    "routes": [
-      {
-        "name": "26",
-        "color": "#FD4097"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDkyNDg5MDk3MQ",
-    "gtfs_id": "Postojna:osm=4924890971",
-    "code": "osm=4924890971",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Zalog",
-    "lat": 45.765721,
-    "lon": 14.196136,
-    "opposite": "osm=4924890971",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDkzMTM0ODgwNw",
-    "gtfs_id": "Postojna:osm=4931348807",
-    "code": "osm=4931348807",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Liv",
-    "lat": 45.767487,
-    "lon": 14.197925,
-    "opposite": "osm=4931348807",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDkzMTQwMDYwMw",
-    "gtfs_id": "Postojna:osm=4931400603",
-    "code": "osm=4931400603",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Industrijska cona",
-    "lat": 45.768219,
-    "lon": 14.19343,
-    "opposite": "osm=4931400603",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mg",
-    "gtfs_id": "Postojna:osm=4958167442",
-    "code": "osm=4958167442",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kazarje",
-    "lat": 45.770693,
-    "lon": 14.19329,
-    "opposite": "osm=4958167442",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mw",
-    "gtfs_id": "Postojna:osm=4958167443",
-    "code": "osm=4958167443",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 45.770037,
-    "lon": 14.197657,
-    "opposite": "osm=4958167443",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0NA",
-    "gtfs_id": "Postojna:osm=4958167444",
-    "code": "osm=4958167444",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Spar",
-    "lat": 45.771345,
-    "lon": 14.202888,
-    "opposite": "osm=4958167444",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE3NzI5OA",
-    "gtfs_id": "Postojna:osm=4958177298",
-    "code": "osm=4958177298",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Spodnji Burger",
-    "lat": 45.773445,
-    "lon": 14.207171,
-    "opposite": "osm=4958177298",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMA",
-    "gtfs_id": "Postojna:osm=4958182330",
-    "code": "osm=4958182330",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Mercator",
-    "lat": 45.77242,
-    "lon": 14.200491,
-    "opposite": "osm=4958182330",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMQ",
-    "gtfs_id": "Postojna:osm=4958182331",
-    "code": "osm=4958182331",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Športni park",
-    "lat": 45.775201,
-    "lon": 14.206266,
-    "opposite": "osm=4958182331",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMg",
-    "gtfs_id": "Postojna:osm=4958182332",
-    "code": "osm=4958182332",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Jamska",
-    "lat": 45.775812,
-    "lon": 14.211886,
-    "opposite": "osm=4958182332",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5MzMwNQ",
-    "gtfs_id": "Postojna:osm=4958193305",
-    "code": "osm=4958193305",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Knjižnica",
-    "lat": 45.774431,
-    "lon": 14.211175,
-    "opposite": "osm=4958193305",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5MzMxOQ",
-    "gtfs_id": "Postojna:osm=4958193319",
-    "code": "osm=4958193319",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Zdravstveni dom",
-    "lat": 45.772132,
-    "lon": 14.211018,
-    "opposite": "osm=4958193319",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5ODcyMw",
-    "gtfs_id": "Postojna:osm=4958198723",
-    "code": "osm=4958198723",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Primorka",
-    "lat": 45.773251,
-    "lon": 14.213003,
-    "opposite": "osm=4958198723",
-    "routes": [
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5ODcyNA",
-    "gtfs_id": "Postojna:osm=4958198724",
-    "code": "osm=4958198724",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kulturni dom",
-    "lat": 45.774643,
-    "lon": 14.215009,
-    "opposite": "osm=4958198724",
-    "routes": [
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIwNTM3Ng",
-    "gtfs_id": "Postojna:osm=4958205376",
-    "code": "osm=4958205376",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Zgornji Burger",
-    "lat": 45.778888,
-    "lon": 14.216499,
-    "opposite": "osm=4958205376",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIwNTM3Nw",
-    "gtfs_id": "Postojna:osm=4958205377",
-    "code": "osm=4958205377",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Muzej",
-    "lat": 45.777445,
-    "lon": 14.217091,
-    "opposite": "osm=4958205377",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxMDQ0MQ",
-    "gtfs_id": "Postojna:osm=4958210441",
-    "code": "osm=4958210441",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vojkova",
-    "lat": 45.773485,
-    "lon": 14.217686,
-    "opposite": "osm=4958210441",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxMDQ0Mg",
-    "gtfs_id": "Postojna:osm=4958210442",
-    "code": "osm=4958210442",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pod kolodvorom",
-    "lat": 45.772543,
-    "lon": 14.218891,
-    "opposite": "osm=4958210442",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNDA5MA",
-    "gtfs_id": "Postojna:osm=4958214090",
-    "code": "osm=4958214090",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kremenca",
-    "lat": 45.767078,
-    "lon": 14.216733,
-    "opposite": "osm=4958214090",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNDA5MQ",
-    "gtfs_id": "Postojna:osm=4958214091",
-    "code": "osm=4958214091",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Dom starejših",
-    "lat": 45.765037,
-    "lon": 14.213311,
-    "opposite": "osm=4958214091",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0NQ",
-    "gtfs_id": "Postojna:osm=4958217945",
-    "code": "osm=4958217945",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pivška",
-    "lat": 45.767064,
-    "lon": 14.212583,
-    "opposite": "osm=4958217945",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Ng",
-    "gtfs_id": "Postojna:osm=4958217946",
-    "code": "osm=4958217946",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šolski center",
-    "lat": 45.770994,
-    "lon": 14.212234,
-    "opposite": "osm=4958217946",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Nw",
-    "gtfs_id": "Postojna:osm=4958217947",
-    "code": "osm=4958217947",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šolski center",
-    "lat": 45.770017,
-    "lon": 14.212469,
-    "opposite": "osm=4958217947",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NTEzMzcxMDk2Mg",
-    "gtfs_id": "Postojna:osm=5133710962",
-    "code": "osm=5133710962",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Hotel Kras",
-    "lat": 45.774812,
-    "lon": 14.213065,
-    "opposite": "osm=5133710962",
-    "routes": [
-      {
-        "name": "26",
-        "color": "#FD4097"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NTE5NzIyMzIwMg",
-    "gtfs_id": "Postojna:osm=5197223202",
-    "code": "osm=5197223202",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Volaričeva",
-    "lat": 45.770497,
-    "lon": 14.218621,
-    "opposite": "osm=5197223202",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NTI0MzQ3NjEzMA",
-    "gtfs_id": "Postojna:osm=5243476130",
-    "code": "osm=5243476130",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Stara vas",
-    "lat": 45.76211,
-    "lon": 14.212897,
-    "opposite": "osm=5243476130",
-    "routes": [
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpwYmV1",
-    "gtfs_id": "Postojna:pbeu",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Predjama",
-    "lat": 45.814112,
-    "lon": 14.128622,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "26",
-        "color": "#FD4097"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpzZnBu",
-    "gtfs_id": "Postojna:sfpn",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kolodvorska",
-    "lat": 45.770469,
-    "lon": 14.220602,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpzeXg0",
-    "gtfs_id": "Postojna:syx4",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pod Jelovico",
-    "lat": 45.762775,
-    "lon": 14.215826,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTp0b2dm",
-    "gtfs_id": "Postojna:togf",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vilka Kledeta",
-    "lat": 45.780264,
-    "lon": 14.215903,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      },
-      {
-        "name": "8",
-        "color": "#54f2e8"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTp1eHJv",
-    "gtfs_id": "Postojna:uxro",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pretnerjeva",
-    "lat": 45.769859,
-    "lon": 14.21322,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTp5Z2h6",
-    "gtfs_id": "Postojna:yghz",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Postojnska jama",
-    "lat": 45.780293,
-    "lon": 14.20522,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "26",
-        "color": "#FD4097"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      }
-    ]
-  }
-]
+{
+  "6azi": [
+    {
+      "name": "26",
+      "color": "#FD4097"
+    }
+  ],
+  "7cmf": [
+    {
+      "name": "26",
+      "color": "#FD4097"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    }
+  ],
+  "cl7o": [
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    }
+  ],
+  "eptk": [
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "gyta": [
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    }
+  ],
+  "ldxb": [
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    }
+  ],
+  "lhsc": [
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    }
+  ],
+  "o0h0": [
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "o8hp": [
+    {
+      "name": "26",
+      "color": "#FD4097"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    }
+  ],
+  "osm=3867408558": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    }
+  ],
+  "osm=4226867800": [
+    {
+      "name": "26",
+      "color": "#FD4097"
+    }
+  ],
+  "osm=4924890971": [
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4931348807": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4931400603": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4958167442": [
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4958167443": [
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4958167444": [
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4958177298": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958182330": [
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4958182331": [
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4958182332": [
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4958193305": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958193319": [
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=4958198723": [
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958198724": [
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958205376": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958205377": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958210441": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958210442": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958214090": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958214091": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958217945": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958217946": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=4958217947": [
+    {
+      "name": "1",
+      "color": "#7ed321"
+    }
+  ],
+  "osm=5133710962": [
+    {
+      "name": "26",
+      "color": "#FD4097"
+    }
+  ],
+  "osm=5197223202": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "osm=5243476130": [
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "pbeu": [
+    {
+      "name": "26",
+      "color": "#FD4097"
+    }
+  ],
+  "sfpn": [
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    }
+  ],
+  "syx4": [
+    {
+      "name": "6",
+      "color": "#6694ed"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "togf": [
+    {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    },
+    {
+      "name": "8",
+      "color": "#54f2e8"
+    }
+  ],
+  "uxro": [
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
+    }
+  ],
+  "yghz": [
+    {
+      "name": "26",
+      "color": "#FD4097"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    }
+  ]
+}

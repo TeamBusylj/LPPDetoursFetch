@@ -1,1356 +1,552 @@
-[
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MQ",
-    "gtfs_id": "MOVelenje:1",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "AC Prapotnik",
-    "lat": 46.360374,
-    "lon": 15.125,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTA",
-    "gtfs_id": "MOVelenje:10",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kavče",
-    "lat": 46.348667,
-    "lon": 15.108654,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTE",
-    "gtfs_id": "MOVelenje:11",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kavče",
-    "lat": 46.348736,
-    "lon": 15.10873,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTI",
-    "gtfs_id": "MOVelenje:12",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Konovo K",
-    "lat": 46.369904,
-    "lon": 15.123009,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTM",
-    "gtfs_id": "MOVelenje:13",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Konovo K",
-    "lat": 46.370148,
-    "lon": 15.122954,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTQ",
-    "gtfs_id": "MOVelenje:14",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Laze Vrbenjak",
-    "lat": 46.343472,
-    "lon": 15.13104,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTU",
-    "gtfs_id": "MOVelenje:15",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Laze pri Velenju",
-    "lat": 46.345352,
-    "lon": 15.113383,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTY",
-    "gtfs_id": "MOVelenje:16",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Laze pri Velenju",
-    "lat": 46.345291,
-    "lon": 15.113394,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTc",
-    "gtfs_id": "MOVelenje:17",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljanska cesta 41",
-    "lat": 46.352421,
-    "lon": 15.111995,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTg",
-    "gtfs_id": "MOVelenje:18",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljanska cesta 41",
-    "lat": 46.351524,
-    "lon": 15.11151,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MTk",
-    "gtfs_id": "MOVelenje:19",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Mestni stadion",
-    "lat": 46.372589,
-    "lon": 15.101889,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Mg",
-    "gtfs_id": "MOVelenje:2",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "AP Velenje",
-    "lat": 46.358589,
-    "lon": 15.118189,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      },
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MjA",
-    "gtfs_id": "MOVelenje:20",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "NC Interspar",
-    "lat": 46.368919,
-    "lon": 15.130338,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MjE",
-    "gtfs_id": "MOVelenje:21",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "NC Jager",
-    "lat": 46.365864,
-    "lon": 15.100227,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MjI",
-    "gtfs_id": "MOVelenje:22",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "NC Merkur",
-    "lat": 46.367821,
-    "lon": 15.094583,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MjM",
-    "gtfs_id": "MOVelenje:23",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "PC Efenkova",
-    "lat": 46.363171,
-    "lon": 15.123764,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MjQ",
-    "gtfs_id": "MOVelenje:24",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pesje",
-    "lat": 46.367943,
-    "lon": 15.081788,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MjU",
-    "gtfs_id": "MOVelenje:25",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pesje - Dom krajanov",
-    "lat": 46.367729,
-    "lon": 15.082906,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MjY",
-    "gtfs_id": "MOVelenje:26",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pesje - Hartl",
-    "lat": 46.365246,
-    "lon": 15.088624,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Mjc",
-    "gtfs_id": "MOVelenje:27",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pesje - Hartl",
-    "lat": 46.365475,
-    "lon": 15.088269,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Mjg",
-    "gtfs_id": "MOVelenje:28",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pesje - podhod",
-    "lat": 46.368511,
-    "lon": 15.083503,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Mjk",
-    "gtfs_id": "MOVelenje:29",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pirešica",
-    "lat": 46.345535,
-    "lon": 15.160653,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Mw",
-    "gtfs_id": "MOVelenje:3",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Gorenje",
-    "lat": 46.360195,
-    "lon": 15.097909,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MzA",
-    "gtfs_id": "MOVelenje:30",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pirešica",
-    "lat": 46.345165,
-    "lon": 15.161681,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MzE",
-    "gtfs_id": "MOVelenje:31",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Podkraj pri Vel.Pokop.",
-    "lat": 46.360249,
-    "lon": 15.082938,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MzI",
-    "gtfs_id": "MOVelenje:32",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Podlubela",
-    "lat": 46.385689,
-    "lon": 15.106005,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MzM",
-    "gtfs_id": "MOVelenje:33",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Podlubela",
-    "lat": 46.385773,
-    "lon": 15.106051,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MzQ",
-    "gtfs_id": "MOVelenje:34",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pošta",
-    "lat": 46.361046,
-    "lon": 15.118186,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MzU",
-    "gtfs_id": "MOVelenje:35",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pošta",
-    "lat": 46.360275,
-    "lon": 15.118345,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6MzY",
-    "gtfs_id": "MOVelenje:36",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rudarski dom",
-    "lat": 46.368713,
-    "lon": 15.1041,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Mzc",
-    "gtfs_id": "MOVelenje:37",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sp. Laze",
-    "lat": 46.338375,
-    "lon": 15.141947,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Mzg",
-    "gtfs_id": "MOVelenje:38",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Spodnja Črnova",
-    "lat": 46.322571,
-    "lon": 15.183176,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Mzk",
-    "gtfs_id": "MOVelenje:39",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Spodnje Arnače",
-    "lat": 46.338676,
-    "lon": 15.111625,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NA",
-    "gtfs_id": "MOVelenje:4",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Gorenje",
-    "lat": 46.359722,
-    "lon": 15.09897,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDA",
-    "gtfs_id": "MOVelenje:40",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Spodnje Laze K",
-    "lat": 46.33234,
-    "lon": 15.13077,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDE",
-    "gtfs_id": "MOVelenje:41",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Spodnje Laze transformator",
-    "lat": 46.341679,
-    "lon": 15.143052,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDI",
-    "gtfs_id": "MOVelenje:42",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Stari jašek",
-    "lat": 46.371052,
-    "lon": 15.098846,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDM",
-    "gtfs_id": "MOVelenje:43",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tomšičeva",
-    "lat": 46.362392,
-    "lon": 15.114025,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDQ",
-    "gtfs_id": "MOVelenje:44",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tomšičeva",
-    "lat": 46.362514,
-    "lon": 15.113976,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDU",
-    "gtfs_id": "MOVelenje:45",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržnica",
-    "lat": 46.364784,
-    "lon": 15.109779,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDY",
-    "gtfs_id": "MOVelenje:46",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržnica",
-    "lat": 46.364605,
-    "lon": 15.110682,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDc",
-    "gtfs_id": "MOVelenje:47",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržnica krožišče",
-    "lat": 46.3657,
-    "lon": 15.106587,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDg",
-    "gtfs_id": "MOVelenje:48",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Turn K",
-    "lat": 46.379173,
-    "lon": 15.112604,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NDk",
-    "gtfs_id": "MOVelenje:49",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Turn K",
-    "lat": 46.379322,
-    "lon": 15.11237,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NQ",
-    "gtfs_id": "MOVelenje:5",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Gorica",
-    "lat": 46.356476,
-    "lon": 15.134859,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTA",
-    "gtfs_id": "MOVelenje:50",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Velenjka",
-    "lat": 46.353287,
-    "lon": 15.125671,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTE",
-    "gtfs_id": "MOVelenje:51",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Velenjka",
-    "lat": 46.352798,
-    "lon": 15.127112,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTI",
-    "gtfs_id": "MOVelenje:52",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vila Bianca",
-    "lat": 46.357147,
-    "lon": 15.112221,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTM",
-    "gtfs_id": "MOVelenje:53",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vinska Gora",
-    "lat": 46.340851,
-    "lon": 15.172384,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTQ",
-    "gtfs_id": "MOVelenje:54",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vinska Gora",
-    "lat": 46.341625,
-    "lon": 15.171864,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTU",
-    "gtfs_id": "MOVelenje:55",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Zgornja Črnova",
-    "lat": 46.347862,
-    "lon": 15.14553,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTY",
-    "gtfs_id": "MOVelenje:56",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Zgornja Črnova",
-    "lat": 46.348091,
-    "lon": 15.144043,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Oranžna",
-        "color": "#f58220"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTc",
-    "gtfs_id": "MOVelenje:57",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šalek K",
-    "lat": 46.360703,
-    "lon": 15.124344,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTg",
-    "gtfs_id": "MOVelenje:58",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šalek K",
-    "lat": 46.360779,
-    "lon": 15.12525,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NTk",
-    "gtfs_id": "MOVelenje:59",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šalek Skalca",
-    "lat": 46.366367,
-    "lon": 15.128058,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Ng",
-    "gtfs_id": "MOVelenje:6",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Gorica K",
-    "lat": 46.356789,
-    "lon": 15.129714,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NjA",
-    "gtfs_id": "MOVelenje:60",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šalek Skalca",
-    "lat": 46.366486,
-    "lon": 15.128305,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NjE",
-    "gtfs_id": "MOVelenje:61",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Škale Brezovo",
-    "lat": 46.383907,
-    "lon": 15.100166,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NjI",
-    "gtfs_id": "MOVelenje:62",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Škale Hrastovec K",
-    "lat": 46.382954,
-    "lon": 15.109656,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NjM",
-    "gtfs_id": "MOVelenje:63",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Škale Hrastovec K",
-    "lat": 46.382935,
-    "lon": 15.109825,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NjQ",
-    "gtfs_id": "MOVelenje:64",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Škale K",
-    "lat": 46.38596,
-    "lon": 15.094571,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NjU",
-    "gtfs_id": "MOVelenje:65",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Škale pokopališče",
-    "lat": 46.385242,
-    "lon": 15.098698,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Modra",
-        "color": "#009cc3"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6NjY",
-    "gtfs_id": "MOVelenje:66",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Železniška postaja",
-    "lat": 46.361938,
-    "lon": 15.106481,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Njc",
-    "gtfs_id": "MOVelenje:67",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Železniška postaja",
-    "lat": 46.362495,
-    "lon": 15.106669,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6Nw",
-    "gtfs_id": "MOVelenje:7",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Gorica K",
-    "lat": 46.356503,
-    "lon": 15.130836,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Sobotna",
-        "color": "#000000"
-      },
-      {
-        "name": "Rdeča",
-        "color": "#ed1556"
-      },
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6OA",
-    "gtfs_id": "MOVelenje:8",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Gornje Arnače",
-    "lat": 46.336029,
-    "lon": 15.12143,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Zelena",
-        "color": "#a6b622"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT1ZlbGVuamU6OQ",
-    "gtfs_id": "MOVelenje:9",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Iris",
-    "lat": 46.359371,
-    "lon": 15.110661,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "Rumena",
-        "color": "#ffdb00"
-      }
-    ]
-  }
-]
+{
+  "1": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "2": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    },
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "3": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "4": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "5": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "6": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "7": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "8": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "9": [
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "10": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "11": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "12": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "13": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "14": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "15": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "16": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "17": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "18": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "19": [
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "20": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "21": [
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "22": [
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "23": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "24": [
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "25": [
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "26": [
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "27": [
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "28": [
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "29": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    }
+  ],
+  "30": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    }
+  ],
+  "31": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "32": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "33": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "34": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "35": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "36": [
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "37": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "38": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    }
+  ],
+  "39": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "40": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "41": [
+    {
+      "name": "Zelena",
+      "color": "#a6b622"
+    }
+  ],
+  "42": [
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "43": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    }
+  ],
+  "44": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "45": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "46": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ],
+  "47": [
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "48": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "49": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "50": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "51": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    }
+  ],
+  "52": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "53": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    }
+  ],
+  "54": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    }
+  ],
+  "55": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    }
+  ],
+  "56": [
+    {
+      "name": "Oranžna",
+      "color": "#f58220"
+    }
+  ],
+  "57": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "58": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "59": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "60": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "61": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "62": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "63": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "64": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "65": [
+    {
+      "name": "Modra",
+      "color": "#009cc3"
+    }
+  ],
+  "66": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    },
+    {
+      "name": "Rumena",
+      "color": "#ffdb00"
+    }
+  ],
+  "67": [
+    {
+      "name": "Sobotna",
+      "color": "#000000"
+    },
+    {
+      "name": "Rdeča",
+      "color": "#ed1556"
+    }
+  ]
+}

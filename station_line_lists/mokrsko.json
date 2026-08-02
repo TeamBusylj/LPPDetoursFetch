@@ -1,694 +1,262 @@
-[
-  {
-    "id": "U3RvcDpNT0tyc2tvOjE",
-    "gtfs_id": "MOKrsko:1",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško A. postaja",
-    "lat": 45.956818,
-    "lon": 15.493705,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#D39A5E"
-      },
-      {
-        "name": "N/A",
-        "color": "#000000"
-      },
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      },
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjEw",
-    "gtfs_id": "MOKrsko:10",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Društvo gluhih",
-    "lat": 45.96067,
-    "lon": 15.485296,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjEx",
-    "gtfs_id": "MOKrsko:11",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Zaton",
-    "lat": 45.960999,
-    "lon": 15.486009,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjEy",
-    "gtfs_id": "MOKrsko:12",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Šinkovec",
-    "lat": 45.953495,
-    "lon": 15.486455,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjEz",
-    "gtfs_id": "MOKrsko:13",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Spodnji Grič pokopališča",
-    "lat": 45.947483,
-    "lon": 15.487173,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      },
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjE0",
-    "gtfs_id": "MOKrsko:14",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Leskovec pri Krškem K. Voglar",
-    "lat": 45.939442,
-    "lon": 15.475959,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      },
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjE1",
-    "gtfs_id": "MOKrsko:15",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Grič Plut",
-    "lat": 45.945805,
-    "lon": 15.483333,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      },
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjE2",
-    "gtfs_id": "MOKrsko:16",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Zdravstveni dom",
-    "lat": 45.942623,
-    "lon": 15.4836,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      },
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjE3",
-    "gtfs_id": "MOKrsko:17",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Kovinarska",
-    "lat": 45.941177,
-    "lon": 15.485298,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjE4",
-    "gtfs_id": "MOKrsko:18",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Trgovski center",
-    "lat": 45.935287,
-    "lon": 15.48433,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjE5",
-    "gtfs_id": "MOKrsko:19",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Leskovec pri Krškem pokopališče",
-    "lat": 45.93721,
-    "lon": 15.479577,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjI",
-    "gtfs_id": "MOKrsko:2",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Šumi",
-    "lat": 45.953979,
-    "lon": 15.500412,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjIw",
-    "gtfs_id": "MOKrsko:20",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Leskovec pri Krškem pošta",
-    "lat": 45.941837,
-    "lon": 15.47815,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjIx",
-    "gtfs_id": "MOKrsko:21",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Leskovec pri Krškem cerkev",
-    "lat": 45.942669,
-    "lon": 15.477779,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjIy",
-    "gtfs_id": "MOKrsko:22",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Leskovec pri Krškem Gmajna",
-    "lat": 45.93948,
-    "lon": 15.470436,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjIz",
-    "gtfs_id": "MOKrsko:23",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Narpel AP",
-    "lat": 45.952709,
-    "lon": 15.482966,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#D39A5E"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjI0",
-    "gtfs_id": "MOKrsko:24",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Trška Gora 49",
-    "lat": 45.955009,
-    "lon": 15.475683,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#D39A5E"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjI1",
-    "gtfs_id": "MOKrsko:25",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Narpel kontejnerji",
-    "lat": 45.954632,
-    "lon": 15.484683,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#D39A5E"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjI2",
-    "gtfs_id": "MOKrsko:26",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Resa",
-    "lat": 45.958546,
-    "lon": 15.499055,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      },
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjI3",
-    "gtfs_id": "MOKrsko:27",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kremen odcep",
-    "lat": 45.957943,
-    "lon": 15.504865,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjI4",
-    "gtfs_id": "MOKrsko:28",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kremen 9A",
-    "lat": 45.962444,
-    "lon": 15.50661,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjI5",
-    "gtfs_id": "MOKrsko:29",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kremen - Loke",
-    "lat": 45.966011,
-    "lon": 15.510079,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjMw",
-    "gtfs_id": "MOKrsko:30",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bučerca",
-    "lat": 45.971893,
-    "lon": 15.514481,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjMx",
-    "gtfs_id": "MOKrsko:31",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bučerca odcep",
-    "lat": 45.973442,
-    "lon": 15.515489,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjMy",
-    "gtfs_id": "MOKrsko:32",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sremič",
-    "lat": 45.983341,
-    "lon": 15.491169,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjMz",
-    "gtfs_id": "MOKrsko:33",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sremič Radej",
-    "lat": 45.984596,
-    "lon": 15.488131,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjM0",
-    "gtfs_id": "MOKrsko:34",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tri lučke",
-    "lat": 45.972916,
-    "lon": 15.492276,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjM1",
-    "gtfs_id": "MOKrsko:35",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sremič gozd",
-    "lat": 45.964375,
-    "lon": 15.493859,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjM2",
-    "gtfs_id": "MOKrsko:36",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Apolon",
-    "lat": 45.96352,
-    "lon": 15.486354,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjM3",
-    "gtfs_id": "MOKrsko:37",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sremič Božič",
-    "lat": 45.979752,
-    "lon": 15.486984,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjQ",
-    "gtfs_id": "MOKrsko:4",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Osnovna šola Jurija Dalmatina",
-    "lat": 45.959122,
-    "lon": 15.494501,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      },
-      {
-        "name": "N/A",
-        "color": "#467EDF"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjU",
-    "gtfs_id": "MOKrsko:5",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Cankarjeva",
-    "lat": 45.956985,
-    "lon": 15.49729,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjY",
-    "gtfs_id": "MOKrsko:6",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Most",
-    "lat": 45.958458,
-    "lon": 15.491304,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#D39A5E"
-      },
-      {
-        "name": "N/A",
-        "color": "#000000"
-      },
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjc",
-    "gtfs_id": "MOKrsko:7",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Hočevarjev trg",
-    "lat": 45.967979,
-    "lon": 15.483729,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjg",
-    "gtfs_id": "MOKrsko:8",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Mestna občina Krško",
-    "lat": 45.966774,
-    "lon": 15.485122,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tyc2tvOjk",
-    "gtfs_id": "MOKrsko:9",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krško Avtoline",
-    "lat": 45.963261,
-    "lon": 15.484567,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N/A",
-        "color": "#28C36C"
-      }
-    ]
-  }
-]
+{
+  "1": [
+    {
+      "name": "N/A",
+      "color": "#D39A5E"
+    },
+    {
+      "name": "N/A",
+      "color": "#000000"
+    },
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    },
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "2": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "4": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    },
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "5": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "6": [
+    {
+      "name": "N/A",
+      "color": "#D39A5E"
+    },
+    {
+      "name": "N/A",
+      "color": "#000000"
+    },
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "7": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "8": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "9": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "10": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "11": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "12": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "13": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    },
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "14": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    },
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "15": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    },
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "16": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    },
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "17": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    }
+  ],
+  "18": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    }
+  ],
+  "19": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    }
+  ],
+  "20": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    }
+  ],
+  "21": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    }
+  ],
+  "22": [
+    {
+      "name": "N/A",
+      "color": "#000000"
+    }
+  ],
+  "23": [
+    {
+      "name": "N/A",
+      "color": "#D39A5E"
+    }
+  ],
+  "24": [
+    {
+      "name": "N/A",
+      "color": "#D39A5E"
+    }
+  ],
+  "25": [
+    {
+      "name": "N/A",
+      "color": "#D39A5E"
+    }
+  ],
+  "26": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    },
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "27": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "28": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "29": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "30": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "31": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "32": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "33": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "34": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "35": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ],
+  "36": [
+    {
+      "name": "N/A",
+      "color": "#28C36C"
+    }
+  ],
+  "37": [
+    {
+      "name": "N/A",
+      "color": "#467EDF"
+    }
+  ]
+}

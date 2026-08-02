@@ -1,2684 +1,1640 @@
-[
-  {
-    "id": "U3RvcDpNT05HOjE",
-    "gtfs_id": "MONG:1",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ajševica vrh",
-    "lat": 45.944674,
-    "lon": 13.686207,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjEw",
-    "gtfs_id": "MONG:10",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Poberaj",
-    "lat": 45.957505,
-    "lon": 13.670991,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjEx",
-    "gtfs_id": "MONG:11",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Poberaj",
-    "lat": 45.957211,
-    "lon": 13.671135,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjEy",
-    "gtfs_id": "MONG:12",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk cerkev",
-    "lat": 45.956905,
-    "lon": 13.675656,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjEz",
-    "gtfs_id": "MONG:13",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk cerkev",
-    "lat": 45.956974,
-    "lon": 13.675789,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE0",
-    "gtfs_id": "MONG:14",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk pod Gradom",
-    "lat": 45.958804,
-    "lon": 13.683521,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE1",
-    "gtfs_id": "MONG:15",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk pod Gradom",
-    "lat": 45.958867,
-    "lon": 13.683482,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE2",
-    "gtfs_id": "MONG:16",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk vrtec",
-    "lat": 45.958053,
-    "lon": 13.663973,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE3",
-    "gtfs_id": "MONG:17",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk vrtec",
-    "lat": 45.957934,
-    "lon": 13.663731,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE4",
-    "gtfs_id": "MONG:18",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Loke",
-    "lat": 45.959381,
-    "lon": 13.688293,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE5",
-    "gtfs_id": "MONG:19",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Loke",
-    "lat": 45.959381,
-    "lon": 13.688293,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI",
-    "gtfs_id": "MONG:2",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ajševica vrh",
-    "lat": 45.944437,
-    "lon": 13.687057,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjIw",
-    "gtfs_id": "MONG:20",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Meblo Ind. cona",
-    "lat": 45.955541,
-    "lon": 13.667024,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjIx",
-    "gtfs_id": "MONG:21",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica AP",
-    "lat": 45.95548,
-    "lon": 13.646862,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "5",
-        "color": "#FFC000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjIy",
-    "gtfs_id": "MONG:22",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Cankarjeva",
-    "lat": 45.961185,
-    "lon": 13.644274,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjIz",
-    "gtfs_id": "MONG:23",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Cankarjeva",
-    "lat": 45.960744,
-    "lon": 13.644006,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI0",
-    "gtfs_id": "MONG:24",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Delpinova",
-    "lat": 45.957173,
-    "lon": 13.646038,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI1",
-    "gtfs_id": "MONG:25",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Delpinova",
-    "lat": 45.95623,
-    "lon": 13.645823,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI2",
-    "gtfs_id": "MONG:26",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Elektro G",
-    "lat": 45.953903,
-    "lon": 13.637202,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI3",
-    "gtfs_id": "MONG:27",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Elektro G",
-    "lat": 45.953925,
-    "lon": 13.63739,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI4",
-    "gtfs_id": "MONG:28",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Elektro G",
-    "lat": 45.953613,
-    "lon": 13.638239,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3B",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI5",
-    "gtfs_id": "MONG:29",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Elektro G",
-    "lat": 45.953208,
-    "lon": 13.636418,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3B",
-        "color": "#8F1DAE"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM",
-    "gtfs_id": "MONG:3",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bajta",
-    "lat": 45.938505,
-    "lon": 13.664167,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "5",
-        "color": "#FFC000"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjMw",
-    "gtfs_id": "MONG:30",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Erjav.stad.",
-    "lat": 45.954486,
-    "lon": 13.641428,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3B",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjMx",
-    "gtfs_id": "MONG:31",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Erjav.stad.",
-    "lat": 45.954602,
-    "lon": 13.641377,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjMy",
-    "gtfs_id": "MONG:32",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Gostol",
-    "lat": 45.961645,
-    "lon": 13.640413,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjMz",
-    "gtfs_id": "MONG:33",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Gostol",
-    "lat": 45.962057,
-    "lon": 13.640768,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM0",
-    "gtfs_id": "MONG:34",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Gradnikova",
-    "lat": 45.960382,
-    "lon": 13.647134,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM1",
-    "gtfs_id": "MONG:35",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Grčna",
-    "lat": 45.955347,
-    "lon": 13.651773,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM2",
-    "gtfs_id": "MONG:36",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Grčna",
-    "lat": 45.954114,
-    "lon": 13.65281,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM3",
-    "gtfs_id": "MONG:37",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Lavričeva",
-    "lat": 45.963755,
-    "lon": 13.646866,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM4",
-    "gtfs_id": "MONG:38",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Lavričeva",
-    "lat": 45.96375,
-    "lon": 13.646207,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM5",
-    "gtfs_id": "MONG:39",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica MAP",
-    "lat": 45.956231,
-    "lon": 13.647248,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "3B",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ",
-    "gtfs_id": "MONG:4",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bajta",
-    "lat": 45.938593,
-    "lon": 13.665353,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "5",
-        "color": "#FFC000"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQw",
-    "gtfs_id": "MONG:40",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica MAP",
-    "lat": 45.955784,
-    "lon": 13.646175,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3B",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQx",
-    "gtfs_id": "MONG:41",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Remiza",
-    "lat": 45.958971,
-    "lon": 13.639743,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQy",
-    "gtfs_id": "MONG:42",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Remiza",
-    "lat": 45.958293,
-    "lon": 13.639258,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQz",
-    "gtfs_id": "MONG:43",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Vojkova",
-    "lat": 45.961174,
-    "lon": 13.649888,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ0",
-    "gtfs_id": "MONG:44",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Vojkova",
-    "lat": 45.961407,
-    "lon": 13.649561,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ1",
-    "gtfs_id": "MONG:45",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica glasbena šola",
-    "lat": 45.955939,
-    "lon": 13.642526,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ2",
-    "gtfs_id": "MONG:46",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica glasbena šola",
-    "lat": 45.956218,
-    "lon": 13.642532,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ3",
-    "gtfs_id": "MONG:47",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica ŽP",
-    "lat": 45.954963,
-    "lon": 13.63494,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3B",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ4",
-    "gtfs_id": "MONG:48",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rožna Dolina",
-    "lat": 45.941363,
-    "lon": 13.644291,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ5",
-    "gtfs_id": "MONG:49",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rožna Dolina Politehnika",
-    "lat": 45.942216,
-    "lon": 13.641908,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU",
-    "gtfs_id": "MONG:5",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Hrast",
-    "lat": 45.957698,
-    "lon": 13.655932,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjUw",
-    "gtfs_id": "MONG:50",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rožna Dolina Politehnika",
-    "lat": 45.942288,
-    "lon": 13.640956,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjUx",
-    "gtfs_id": "MONG:51",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rožna Dolina meja",
-    "lat": 45.941455,
-    "lon": 13.637922,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjUy",
-    "gtfs_id": "MONG:52",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rožna Dolina meja",
-    "lat": 45.941455,
-    "lon": 13.637761,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjUz",
-    "gtfs_id": "MONG:53",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rožna dolina Merkur",
-    "lat": 45.941473,
-    "lon": 13.649756,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU0",
-    "gtfs_id": "MONG:54",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan",
-    "lat": 45.973001,
-    "lon": 13.648458,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU1",
-    "gtfs_id": "MONG:55",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan",
-    "lat": 45.973515,
-    "lon": 13.648752,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU2",
-    "gtfs_id": "MONG:56",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan H.Sabotin",
-    "lat": 45.970263,
-    "lon": 13.644045,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU3",
-    "gtfs_id": "MONG:57",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan Hermelika",
-    "lat": 45.966541,
-    "lon": 13.647259,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU4",
-    "gtfs_id": "MONG:58",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan Hermelika",
-    "lat": 45.966574,
-    "lon": 13.647311,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU5",
-    "gtfs_id": "MONG:59",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan M.Štrukelj",
-    "lat": 45.968902,
-    "lon": 13.647377,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY",
-    "gtfs_id": "MONG:6",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Hrast",
-    "lat": 45.957318,
-    "lon": 13.658247,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjYw",
-    "gtfs_id": "MONG:60",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan M.Štrukelj",
-    "lat": 45.968903,
-    "lon": 13.647743,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjYx",
-    "gtfs_id": "MONG:61",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan Zvezda",
-    "lat": 45.967845,
-    "lon": 13.641511,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjYy",
-    "gtfs_id": "MONG:62",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan Zvezda",
-    "lat": 45.967686,
-    "lon": 13.64158,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjYz",
-    "gtfs_id": "MONG:63",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan obračališče",
-    "lat": 45.974695,
-    "lon": 13.648165,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY0",
-    "gtfs_id": "MONG:64",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan pošta",
-    "lat": 45.970395,
-    "lon": 13.644702,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY1",
-    "gtfs_id": "MONG:65",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "St.Gora pokop.",
-    "lat": 45.935651,
-    "lon": 13.671729,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY2",
-    "gtfs_id": "MONG:66",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Stara Gora",
-    "lat": 45.9303,
-    "lon": 13.678578,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY3",
-    "gtfs_id": "MONG:67",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba",
-    "lat": 45.906703,
-    "lon": 13.629463,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY4",
-    "gtfs_id": "MONG:68",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba",
-    "lat": 45.907814,
-    "lon": 13.630675,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY5",
-    "gtfs_id": "MONG:69",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba PTP",
-    "lat": 45.916937,
-    "lon": 13.620367,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc",
-    "gtfs_id": "MONG:7",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Komel",
-    "lat": 45.957216,
-    "lon": 13.677714,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjcw",
-    "gtfs_id": "MONG:70",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba Podlaze",
-    "lat": 45.918186,
-    "lon": 13.642224,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjcx",
-    "gtfs_id": "MONG:71",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba bife",
-    "lat": 45.915629,
-    "lon": 13.637206,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjcy",
-    "gtfs_id": "MONG:72",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba bife",
-    "lat": 45.915734,
-    "lon": 13.637064,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjcz",
-    "gtfs_id": "MONG:73",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba cerkev",
-    "lat": 45.911265,
-    "lon": 13.634998,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc0",
-    "gtfs_id": "MONG:74",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba cerkev",
-    "lat": 45.910902,
-    "lon": 13.634584,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc1",
-    "gtfs_id": "MONG:75",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba meja",
-    "lat": 45.917811,
-    "lon": 13.625686,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc2",
-    "gtfs_id": "MONG:76",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba obračališče",
-    "lat": 45.904507,
-    "lon": 13.627741,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc3",
-    "gtfs_id": "MONG:77",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici",
-    "lat": 45.930328,
-    "lon": 13.639393,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc4",
-    "gtfs_id": "MONG:78",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici",
-    "lat": 45.930727,
-    "lon": 13.638879,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc5",
-    "gtfs_id": "MONG:79",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Biotehn.",
-    "lat": 45.93187,
-    "lon": 13.644108,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjg",
-    "gtfs_id": "MONG:8",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Komel",
-    "lat": 45.957178,
-    "lon": 13.677266,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjgw",
-    "gtfs_id": "MONG:80",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Letrika",
-    "lat": 45.924124,
-    "lon": 13.640726,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjgx",
-    "gtfs_id": "MONG:81",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Letrika",
-    "lat": 45.924004,
-    "lon": 13.640883,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjgy",
-    "gtfs_id": "MONG:82",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici N.Letrika",
-    "lat": 45.921562,
-    "lon": 13.638484,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjgz",
-    "gtfs_id": "MONG:83",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici N.Letrika",
-    "lat": 45.921475,
-    "lon": 13.638948,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjg0",
-    "gtfs_id": "MONG:84",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Podmark",
-    "lat": 45.935981,
-    "lon": 13.639718,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjg1",
-    "gtfs_id": "MONG:85",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Podmark",
-    "lat": 45.936862,
-    "lon": 13.639105,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjg2",
-    "gtfs_id": "MONG:86",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici bolnica",
-    "lat": 45.933391,
-    "lon": 13.63922,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjg3",
-    "gtfs_id": "MONG:87",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici pošta",
-    "lat": 45.92858,
-    "lon": 13.641164,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjk",
-    "gtfs_id": "MONG:9",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Meblo",
-    "lat": 45.957387,
-    "lon": 13.661845,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      }
-    ]
-  }
-]
+{
+  "1": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "2": [
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    }
+  ],
+  "3": [
+    {
+      "name": "5",
+      "color": "#FFC000"
+    }
+  ],
+  "4": [
+    {
+      "name": "5",
+      "color": "#FFC000"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "5": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "6": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "7": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "8": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "9": [
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    }
+  ],
+  "10": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "11": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "12": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "13": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "14": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "15": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "16": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "17": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "18": [
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    }
+  ],
+  "19": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "20": [
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "21": [
+    {
+      "name": "5",
+      "color": "#FFC000"
+    }
+  ],
+  "22": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "23": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "24": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    }
+  ],
+  "25": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    }
+  ],
+  "26": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "27": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "28": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3B",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    }
+  ],
+  "29": [
+    {
+      "name": "3B",
+      "color": "#8F1DAE"
+    }
+  ],
+  "30": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3B",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "31": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "32": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "33": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "34": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    }
+  ],
+  "35": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "5",
+      "color": "#FFC000"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "36": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "5",
+      "color": "#FFC000"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "37": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "38": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "39": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "3B",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "40": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3B",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "41": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "42": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "43": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "44": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "45": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "46": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4A",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "47": [
+    {
+      "name": "3C",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3B",
+      "color": "#8F1DAE"
+    },
+    {
+      "name": "3A",
+      "color": "#8F1DAE"
+    }
+  ],
+  "48": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "49": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "5",
+      "color": "#FFC000"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "50": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "5",
+      "color": "#FFC000"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "51": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "5",
+      "color": "#FFC000"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "52": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "5",
+      "color": "#FFC000"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "53": [
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "54": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "55": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "56": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "57": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "58": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "59": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "60": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "61": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "62": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "63": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "64": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    }
+  ],
+  "65": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "5",
+      "color": "#FFC000"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "66": [
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    }
+  ],
+  "67": [
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "68": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "69": [
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "70": [
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    }
+  ],
+  "71": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "72": [
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "73": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "74": [
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "75": [
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "76": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "77": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "78": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "79": [
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    }
+  ],
+  "80": [
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "81": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "82": [
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    }
+  ],
+  "83": [
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    }
+  ],
+  "84": [
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4B",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4E",
+      "color": "#5AC695"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    }
+  ],
+  "85": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "86": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ],
+  "87": [
+    {
+      "name": "4C",
+      "color": "#5AC695"
+    },
+    {
+      "name": "2A",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1C",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "1B",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2C",
+      "color": "#D42F02"
+    },
+    {
+      "name": "1A",
+      "color": "#0F9ED5"
+    },
+    {
+      "name": "2B",
+      "color": "#D42F02"
+    },
+    {
+      "name": "4D",
+      "color": "#5AC695"
+    }
+  ]
+}

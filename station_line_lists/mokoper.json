@@ -1,2394 +1,1266 @@
-[
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjEwMjA",
-    "gtfs_id": "MOKoper:1121020",
-    "code": "14249",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bol.Izola",
-    "lat": 45.543905,
-    "lon": 13.690244,
-    "opposite": "14249",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMDM",
-    "gtfs_id": "MOKoper:1121103",
-    "code": "16405",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Koper",
-    "lat": 45.53864,
-    "lon": 13.73767,
-    "opposite": "16405",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "10",
-        "color": "#2C3192"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMDQ",
-    "gtfs_id": "MOKoper:1121104",
-    "code": "17773",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Banka",
-    "lat": 45.543945,
-    "lon": 13.730397,
-    "opposite": "17773",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMDY",
-    "gtfs_id": "MOKoper:1121106",
-    "code": "12932",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Barka",
-    "lat": 45.54644,
-    "lon": 13.73797,
-    "opposite": "12932",
-    "routes": [
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "10",
-        "color": "#2C3192"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMTE",
-    "gtfs_id": "MOKoper:1121111",
-    "code": "15615",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Čebelnjak",
-    "lat": 45.54594,
-    "lon": 13.74033,
-    "opposite": "15615",
-    "routes": [
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "10",
-        "color": "#2C3192"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMTI",
-    "gtfs_id": "MOKoper:1121112",
-    "code": "14952",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Dolinska cesta",
-    "lat": 45.53051,
-    "lon": 13.72633,
-    "opposite": "14952",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMjQ",
-    "gtfs_id": "MOKoper:1121124",
-    "code": "15544",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Lesnina",
-    "lat": 45.541352,
-    "lon": 13.73235,
-    "opposite": "15544",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMjc",
-    "gtfs_id": "MOKoper:1121127",
-    "code": "14954",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Mandrač",
-    "lat": 45.540289,
-    "lon": 13.720518,
-    "opposite": "14954",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMjk",
-    "gtfs_id": "MOKoper:1121129",
-    "code": "12977",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Markovec",
-    "lat": 45.539752,
-    "lon": 13.711383,
-    "opposite": "12977",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#EE3533"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMzA",
-    "gtfs_id": "MOKoper:1121130",
-    "code": "12845",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Markovec",
-    "lat": 45.539575,
-    "lon": 13.711925,
-    "opposite": "12845",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMzM",
-    "gtfs_id": "MOKoper:1121133",
-    "code": "15548",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Markovec Š",
-    "lat": 45.54239,
-    "lon": 13.71203,
-    "opposite": "15548",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMzQ",
-    "gtfs_id": "MOKoper:1121134",
-    "code": "15554",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Markovec Š",
-    "lat": 45.54298,
-    "lon": 13.71245,
-    "opposite": "15554",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMzU",
-    "gtfs_id": "MOKoper:1121135",
-    "code": "15524",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Mercator",
-    "lat": 45.5298,
-    "lon": 13.7336,
-    "opposite": "15524",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExMzY",
-    "gtfs_id": "MOKoper:1121136",
-    "code": "15525",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Mercator",
-    "lat": 45.52998,
-    "lon": 13.73332,
-    "opposite": "15525",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNDE",
-    "gtfs_id": "MOKoper:1121141",
-    "code": "12865",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nad Dolinsko",
-    "lat": 45.5289,
-    "lon": 13.73272,
-    "opposite": "12865",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNDc",
-    "gtfs_id": "MOKoper:1121147",
-    "code": "15530",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Olmo",
-    "lat": 45.53109,
-    "lon": 13.72708,
-    "opposite": "15530",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNDg",
-    "gtfs_id": "MOKoper:1121148",
-    "code": "15527",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Olmo",
-    "lat": 45.53125,
-    "lon": 13.72725,
-    "opposite": "15527",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNDk",
-    "gtfs_id": "MOKoper:1121149",
-    "code": "15528",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Olmo K",
-    "lat": 45.534285,
-    "lon": 13.728683,
-    "opposite": "15528",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNTE",
-    "gtfs_id": "MOKoper:1121151",
-    "code": "15532",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Prisoje",
-    "lat": 45.536,
-    "lon": 13.72548,
-    "opposite": "15532",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#EE3533"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNTI",
-    "gtfs_id": "MOKoper:1121152",
-    "code": "15549",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Prisoje",
-    "lat": 45.53585,
-    "lon": 13.72619,
-    "opposite": "15549",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNTc",
-    "gtfs_id": "MOKoper:1121157",
-    "code": "15534",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Stadion",
-    "lat": 45.541354,
-    "lon": 13.732068,
-    "opposite": "15534",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNTg",
-    "gtfs_id": "MOKoper:1121158",
-    "code": "15535",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 45.544009,
-    "lon": 13.738647,
-    "opposite": "15535",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "10",
-        "color": "#2C3192"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNTk",
-    "gtfs_id": "MOKoper:1121159",
-    "code": "15533",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 45.544414,
-    "lon": 13.738331,
-    "opposite": "15533",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNjQ",
-    "gtfs_id": "MOKoper:1121164",
-    "code": "14928",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tomos",
-    "lat": 45.53156,
-    "lon": 13.73526,
-    "opposite": "14928",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNzA",
-    "gtfs_id": "MOKoper:1121170",
-    "code": "12509",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Trg Brolo",
-    "lat": 45.548359,
-    "lon": 13.731764,
-    "opposite": "12509",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "12",
-        "color": "#911D8B"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNzc",
-    "gtfs_id": "MOKoper:1121177",
-    "code": "12518",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Žusterna III",
-    "lat": 45.54369,
-    "lon": 13.70501,
-    "opposite": "12518",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjExNzg",
-    "gtfs_id": "MOKoper:1121178",
-    "code": "12519",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Žusterna III",
-    "lat": 45.54377,
-    "lon": 13.7047,
-    "opposite": "12519",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExMjYxMTI",
-    "gtfs_id": "MOKoper:1126112",
-    "code": "15412",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kampel Novaki K",
-    "lat": 45.5201,
-    "lon": 13.74697,
-    "opposite": "15412",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MTI",
-    "gtfs_id": "MOKoper:1164712",
-    "code": "17322",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Srmin GORC II",
-    "lat": 45.55051,
-    "lon": 13.76431,
-    "opposite": "17322",
-    "routes": [
-      {
-        "name": "10",
-        "color": "#2C3192"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MTM",
-    "gtfs_id": "MOKoper:1164713",
-    "code": "17323",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Srmin GORC III",
-    "lat": 45.55382,
-    "lon": 13.76491,
-    "opposite": "17323",
-    "routes": [
-      {
-        "name": "10",
-        "color": "#2C3192"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MTQ",
-    "gtfs_id": "MOKoper:1164714",
-    "code": "17324",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Srmin GORC I",
-    "lat": 45.55139,
-    "lon": 13.76252,
-    "opposite": "17324",
-    "routes": [
-      {
-        "name": "10",
-        "color": "#2C3192"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MTg",
-    "gtfs_id": "MOKoper:1164718",
-    "code": "10685",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pasarela",
-    "lat": 45.539453,
-    "lon": 13.723018,
-    "opposite": "10685",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjA",
-    "gtfs_id": "MOKoper:1164720",
-    "code": "15282",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Pasarela",
-    "lat": 45.539277,
-    "lon": 13.723308,
-    "opposite": "15282",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjE",
-    "gtfs_id": "MOKoper:1164721",
-    "code": "10702",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Semedela-tunel",
-    "lat": 45.54278,
-    "lon": 13.71847,
-    "opposite": "10702",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjI",
-    "gtfs_id": "MOKoper:1164722",
-    "code": "10705",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Semedela-tunel",
-    "lat": 45.54295,
-    "lon": 13.71741,
-    "opposite": "10705",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjM",
-    "gtfs_id": "MOKoper:1164723",
-    "code": "10707",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Žusterna parkirišče",
-    "lat": 45.54567,
-    "lon": 13.71224,
-    "opposite": "10707",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3Mjg",
-    "gtfs_id": "MOKoper:1164728",
-    "code": "13893",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Olmo K",
-    "lat": 45.534,
-    "lon": 13.72842,
-    "opposite": "13893",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MzM",
-    "gtfs_id": "MOKoper:1164733",
-    "code": "13898",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Olmo Eden",
-    "lat": 45.53363,
-    "lon": 13.72573,
-    "opposite": "13898",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MzU",
-    "gtfs_id": "MOKoper:1164735",
-    "code": "13900",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Dolga Reber",
-    "lat": 45.5455,
-    "lon": 13.703942,
-    "opposite": "13900",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MzY",
-    "gtfs_id": "MOKoper:1164736",
-    "code": "13901",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Izletniška pot",
-    "lat": 45.544154,
-    "lon": 13.706848,
-    "opposite": "13901",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjQ5Njg",
-    "gtfs_id": "MOKoper:1164968",
-    "code": "14483",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Zeleni park",
-    "lat": 45.54527,
-    "lon": 13.7268,
-    "opposite": "14483",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjUyNjc",
-    "gtfs_id": "MOKoper:1165267",
-    "code": "17765",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sv. Ana V.n.",
-    "lat": 45.548648,
-    "lon": 13.736488,
-    "opposite": "17765",
-    "routes": [
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "10",
-        "color": "#2C3192"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYyOTM",
-    "gtfs_id": "MOKoper:1166293",
-    "code": "13545",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Banka I",
-    "lat": 45.544091,
-    "lon": 13.730569,
-    "opposite": "13545",
-    "routes": [
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYyOTQ",
-    "gtfs_id": "MOKoper:1166294",
-    "code": "13544",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Beblerjeva ulica",
-    "lat": 45.54146,
-    "lon": 13.70362,
-    "opposite": "13544",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYyOTU",
-    "gtfs_id": "MOKoper:1166295",
-    "code": "15553",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Beblerjeva ulica K",
-    "lat": 45.54128,
-    "lon": 13.70765,
-    "opposite": "15553",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYyOTY",
-    "gtfs_id": "MOKoper:1166296",
-    "code": "15547",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Semedelski razgledi",
-    "lat": 45.53582,
-    "lon": 13.7218,
-    "opposite": "15547",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#EE3533"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYyOTc",
-    "gtfs_id": "MOKoper:1166297",
-    "code": "13549",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Semedelski razgledi",
-    "lat": 45.53587,
-    "lon": 13.72218,
-    "opposite": "13549",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#EE3533"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYyOTg",
-    "gtfs_id": "MOKoper:1166298",
-    "code": "13548",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ulica II. prekomorske brigade",
-    "lat": 45.53833,
-    "lon": 13.71643,
-    "opposite": "13548",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYyOTk",
-    "gtfs_id": "MOKoper:1166299",
-    "code": "13550",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bošamarin Kapelca",
-    "lat": 45.52172,
-    "lon": 13.74275,
-    "opposite": "13550",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDA",
-    "gtfs_id": "MOKoper:1166300",
-    "code": "13319",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bošamarin Kapelca",
-    "lat": 45.52145,
-    "lon": 13.74304,
-    "opposite": "13319",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDE",
-    "gtfs_id": "MOKoper:1166301",
-    "code": "15179",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Klaričeva ulica",
-    "lat": 45.536862,
-    "lon": 13.717136,
-    "opposite": "15179",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#EE3533"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDI",
-    "gtfs_id": "MOKoper:1166302",
-    "code": "13320",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Klaričeva ulica",
-    "lat": 45.53682,
-    "lon": 13.71672,
-    "opposite": "13320",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDM",
-    "gtfs_id": "MOKoper:1166303",
-    "code": "13323",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Žusterna",
-    "lat": 45.54615,
-    "lon": 13.71036,
-    "opposite": "13323",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDQ",
-    "gtfs_id": "MOKoper:1166304",
-    "code": "13322",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Žusterna",
-    "lat": 45.546434,
-    "lon": 13.709132,
-    "opposite": "13322",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDU",
-    "gtfs_id": "MOKoper:1166305",
-    "code": "9526",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kosovelov trg",
-    "lat": 45.5455,
-    "lon": 13.7329,
-    "opposite": "9526",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "10",
-        "color": "#2C3192"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDY",
-    "gtfs_id": "MOKoper:1166306",
-    "code": "15552",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kozlovičeva ulica",
-    "lat": 45.54041,
-    "lon": 13.70131,
-    "opposite": "15552",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDc",
-    "gtfs_id": "MOKoper:1166307",
-    "code": "13326",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kraljeva ulica",
-    "lat": 45.54047,
-    "lon": 13.71605,
-    "opposite": "13326",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDg",
-    "gtfs_id": "MOKoper:1166308",
-    "code": "13325",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kraljeva ulica K",
-    "lat": 45.54113,
-    "lon": 13.71333,
-    "opposite": "13325",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDk",
-    "gtfs_id": "MOKoper:1166309",
-    "code": "13327",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krožna cesta",
-    "lat": 45.54578,
-    "lon": 13.7033,
-    "opposite": "13327",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTA",
-    "gtfs_id": "MOKoper:1166310",
-    "code": "13329",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Krožna cesta K",
-    "lat": 45.5478,
-    "lon": 13.70035,
-    "opposite": "13329",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTI",
-    "gtfs_id": "MOKoper:1166312",
-    "code": "13330",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kvedrova cesta",
-    "lat": 45.539654,
-    "lon": 13.709157,
-    "opposite": "13330",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTU",
-    "gtfs_id": "MOKoper:1166315",
-    "code": "13331",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova ulica",
-    "lat": 45.54088,
-    "lon": 13.71853,
-    "opposite": "13331",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#005BAB"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTY",
-    "gtfs_id": "MOKoper:1166316",
-    "code": "15606",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova ulica",
-    "lat": 45.54093,
-    "lon": 13.71839,
-    "opposite": "15606",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#005BAB"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTc",
-    "gtfs_id": "MOKoper:1166317",
-    "code": "13332",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova ulica K",
-    "lat": 45.541157,
-    "lon": 13.719301,
-    "opposite": "13332",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTg",
-    "gtfs_id": "MOKoper:1166318",
-    "code": "13335",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Oljčna pot Lantana",
-    "lat": 45.53309,
-    "lon": 13.72208,
-    "opposite": "13335",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTk",
-    "gtfs_id": "MOKoper:1166319",
-    "code": "13334",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Oljčna pot Lantana",
-    "lat": 45.53317,
-    "lon": 13.72203,
-    "opposite": "13334",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMjA",
-    "gtfs_id": "MOKoper:1166320",
-    "code": "13303",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Partizanska ulica",
-    "lat": 45.52905,
-    "lon": 13.74244,
-    "opposite": "13303",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMjE",
-    "gtfs_id": "MOKoper:1166321",
-    "code": "9505",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Potniški terminal",
-    "lat": 45.5498,
-    "lon": 13.72879,
-    "opposite": "9505",
-    "routes": [
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMjI",
-    "gtfs_id": "MOKoper:1166322",
-    "code": "15551",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Prisoje pod garažo",
-    "lat": 45.53476,
-    "lon": 13.72651,
-    "opposite": "15551",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMjM",
-    "gtfs_id": "MOKoper:1166323",
-    "code": "13305",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rozmanova ulica",
-    "lat": 45.538209,
-    "lon": 13.721969,
-    "opposite": "13305",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#005BAB"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMjU",
-    "gtfs_id": "MOKoper:1166325",
-    "code": "13307",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rozmanova ulica II",
-    "lat": 45.53948,
-    "lon": 13.71804,
-    "opposite": "13307",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#005BAB"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMjY",
-    "gtfs_id": "MOKoper:1166326",
-    "code": "13306",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rozmanova ulica Š",
-    "lat": 45.537898,
-    "lon": 13.723083,
-    "opposite": "13306",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMjc",
-    "gtfs_id": "MOKoper:1166327",
-    "code": "15605",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Srebrničeva ulica",
-    "lat": 45.53979,
-    "lon": 13.7208,
-    "opposite": "15605",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#005BAB"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMjg",
-    "gtfs_id": "MOKoper:1166328",
-    "code": "13308",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sv.Ana",
-    "lat": 45.548292,
-    "lon": 13.73589,
-    "opposite": "13308",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "12",
-        "color": "#911D8B"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzA",
-    "gtfs_id": "MOKoper:1166330",
-    "code": "15175",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šalara market",
-    "lat": 45.52932,
-    "lon": 13.73889,
-    "opposite": "15175",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzE",
-    "gtfs_id": "MOKoper:1166331",
-    "code": "13310",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šalara market",
-    "lat": 45.5294,
-    "lon": 13.73864,
-    "opposite": "13310",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzI",
-    "gtfs_id": "MOKoper:1166332",
-    "code": "15176",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tomšičeva ulica",
-    "lat": 45.538185,
-    "lon": 13.726274,
-    "opposite": "15176",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzM",
-    "gtfs_id": "MOKoper:1166333",
-    "code": "13312",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tomšičeva ulica",
-    "lat": 45.537755,
-    "lon": 13.726966,
-    "opposite": "13312",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzQ",
-    "gtfs_id": "MOKoper:1166334",
-    "code": "15545",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tomšičeva ulica K",
-    "lat": 45.53578,
-    "lon": 13.72927,
-    "opposite": "15545",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzU",
-    "gtfs_id": "MOKoper:1166335",
-    "code": "15177",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tomšičeva ulica K",
-    "lat": 45.535966,
-    "lon": 13.728965,
-    "opposite": "15177",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzY",
-    "gtfs_id": "MOKoper:1166336",
-    "code": "13317",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ulica 15. maja",
-    "lat": 45.53767,
-    "lon": 13.73002,
-    "opposite": "13317",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzc",
-    "gtfs_id": "MOKoper:1166337",
-    "code": "13316",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ulica Vena Pilona",
-    "lat": 45.541777,
-    "lon": 13.718855,
-    "opposite": "13316",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzg",
-    "gtfs_id": "MOKoper:1166338",
-    "code": "13318",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Žusterna-bazen",
-    "lat": 45.54637,
-    "lon": 13.70866,
-    "opposite": "13318",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzNDk",
-    "gtfs_id": "MOKoper:1166349",
-    "code": "13396",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rozmanova ulica I",
-    "lat": 45.536968,
-    "lon": 13.724558,
-    "opposite": "13396",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzNTQ",
-    "gtfs_id": "MOKoper:1166354",
-    "code": "15202",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržnica",
-    "lat": 45.54537,
-    "lon": 13.72666,
-    "opposite": "15202",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#00BECD"
-      },
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "10",
-        "color": "#2C3192"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjYzNzc",
-    "gtfs_id": "MOKoper:1166377",
-    "code": "15546",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Markovec-Center Za Gradom",
-    "lat": 45.54109,
-    "lon": 13.70923,
-    "opposite": "15546",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjY4MDc",
-    "gtfs_id": "MOKoper:1166807",
-    "code": "15319",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "PH Sonce",
-    "lat": 45.54627,
-    "lon": 13.74056,
-    "opposite": "15319",
-    "routes": [
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "12",
-        "color": "#911D8B"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjY4MDg",
-    "gtfs_id": "MOKoper:1166808",
-    "code": "11215",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Barka",
-    "lat": 45.54646,
-    "lon": 13.73803,
-    "opposite": "11215",
-    "routes": [
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "12",
-        "color": "#911D8B"
-      },
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjY4MjE",
-    "gtfs_id": "MOKoper:1166821",
-    "code": "15310",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nad Dolinsko cesto",
-    "lat": 45.5287,
-    "lon": 13.733,
-    "opposite": "15310",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjY4MzM",
-    "gtfs_id": "MOKoper:1166833",
-    "code": "14138",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sv.Ana p.t.",
-    "lat": 45.549189,
-    "lon": 13.736276,
-    "opposite": "14138",
-    "routes": [
-      {
-        "name": "6",
-        "color": "#727274"
-      },
-      {
-        "name": "7",
-        "color": "#005BAB"
-      },
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      },
-      {
-        "name": "8",
-        "color": "#DBE11F"
-      },
-      {
-        "name": "9",
-        "color": "#F38221"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjY5Mjk",
-    "gtfs_id": "MOKoper:1166929",
-    "code": "14837",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Molet",
-    "lat": 45.54713,
-    "lon": 13.70451,
-    "opposite": "14837",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#8FA3D4"
-      },
-      {
-        "name": "6",
-        "color": "#727274"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjExNjcwMjA",
-    "gtfs_id": "MOKoper:1167020",
-    "code": "10430",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Luka",
-    "lat": 45.54771,
-    "lon": 13.73849,
-    "opposite": "10430",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOjkyMDE3ODA",
-    "gtfs_id": "MOKoper:9201780",
-    "code": "14713",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Dolinska cesta",
-    "lat": 45.53087,
-    "lon": 13.72397,
-    "opposite": "14713",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#DBAC6A"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT0tvcGVyOlNUT1BfMTc3NzMwODUyMjkwNg",
-    "gtfs_id": "MOKoper:STOP_1777308522906",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "CIMOS P+R",
-    "lat": 45.539653,
-    "lon": 13.723694,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "11",
-        "color": "#F5ABAD"
-      }
-    ]
-  }
-]
+{
+  "1121020": [
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1121103": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "10",
+      "color": "#2C3192"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1121104": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1121106": [
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "10",
+      "color": "#2C3192"
+    }
+  ],
+  "1121111": [
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "10",
+      "color": "#2C3192"
+    }
+  ],
+  "1121112": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1121124": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1121127": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1121129": [
+    {
+      "name": "2",
+      "color": "#EE3533"
+    }
+  ],
+  "1121130": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    }
+  ],
+  "1121133": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1121134": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1121135": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1121136": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    }
+  ],
+  "1121141": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    }
+  ],
+  "1121147": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1121148": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1121149": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1121151": [
+    {
+      "name": "2",
+      "color": "#EE3533"
+    }
+  ],
+  "1121152": [
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1121157": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1121158": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "10",
+      "color": "#2C3192"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1121159": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1121164": [
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1121170": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "12",
+      "color": "#911D8B"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1121177": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1121178": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1126112": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1164712": [
+    {
+      "name": "10",
+      "color": "#2C3192"
+    }
+  ],
+  "1164713": [
+    {
+      "name": "10",
+      "color": "#2C3192"
+    }
+  ],
+  "1164714": [
+    {
+      "name": "10",
+      "color": "#2C3192"
+    }
+  ],
+  "1164718": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1164720": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1164721": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1164722": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1164723": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1164728": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1164733": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    }
+  ],
+  "1164735": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1164736": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1164968": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1165267": [
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "10",
+      "color": "#2C3192"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1166293": [
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1166294": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166295": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1166296": [
+    {
+      "name": "2",
+      "color": "#EE3533"
+    }
+  ],
+  "1166297": [
+    {
+      "name": "2",
+      "color": "#EE3533"
+    }
+  ],
+  "1166298": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    }
+  ],
+  "1166299": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1166300": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1166301": [
+    {
+      "name": "2",
+      "color": "#EE3533"
+    }
+  ],
+  "1166302": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    }
+  ],
+  "1166303": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1166304": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1166305": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "10",
+      "color": "#2C3192"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1166306": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166307": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    }
+  ],
+  "1166308": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    }
+  ],
+  "1166309": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1166310": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1166312": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166315": [
+    {
+      "name": "7",
+      "color": "#005BAB"
+    }
+  ],
+  "1166316": [
+    {
+      "name": "7",
+      "color": "#005BAB"
+    }
+  ],
+  "1166317": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166318": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    }
+  ],
+  "1166319": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1166320": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1166321": [
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1166322": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1166323": [
+    {
+      "name": "7",
+      "color": "#005BAB"
+    }
+  ],
+  "1166325": [
+    {
+      "name": "7",
+      "color": "#005BAB"
+    }
+  ],
+  "1166326": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    }
+  ],
+  "1166327": [
+    {
+      "name": "7",
+      "color": "#005BAB"
+    }
+  ],
+  "1166328": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "12",
+      "color": "#911D8B"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1166330": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1166331": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1166332": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166333": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166334": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166335": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166336": [
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1166337": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166338": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1166349": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    }
+  ],
+  "1166354": [
+    {
+      "name": "4",
+      "color": "#00BECD"
+    },
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "10",
+      "color": "#2C3192"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1166377": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166807": [
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "12",
+      "color": "#911D8B"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166808": [
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "12",
+      "color": "#911D8B"
+    },
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "1166821": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    }
+  ],
+  "1166833": [
+    {
+      "name": "6",
+      "color": "#727274"
+    },
+    {
+      "name": "7",
+      "color": "#005BAB"
+    },
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    },
+    {
+      "name": "8",
+      "color": "#DBE11F"
+    },
+    {
+      "name": "9",
+      "color": "#F38221"
+    }
+  ],
+  "1166929": [
+    {
+      "name": "5",
+      "color": "#8FA3D4"
+    },
+    {
+      "name": "6",
+      "color": "#727274"
+    }
+  ],
+  "1167020": [
+    {
+      "name": "1",
+      "color": "#0FAF4B"
+    },
+    {
+      "name": "2",
+      "color": "#EE3533"
+    },
+    {
+      "name": "2A",
+      "color": "#00B6F1"
+    }
+  ],
+  "9201780": [
+    {
+      "name": "3",
+      "color": "#DBAC6A"
+    }
+  ],
+  "STOP_1777308522906": [
+    {
+      "name": "11",
+      "color": "#F5ABAD"
+    }
+  ]
+}
