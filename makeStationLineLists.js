@@ -2,14 +2,13 @@ import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-// Priprava poti v ES modulu
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const OTP_URL = 'https://otp.ojpp-gateway.derp.si/otp/gtfs/v1';
 const OUTPUT_DIR = path.join(__dirname, 'station_line_lists');
 
-// Poenostavljena poizvedba - potrebujemo samo ID in linije
+// Nadgrajena GraphQL poizvedba, ki vključuje tudi podatke o agenciji linije
 const query = `
   query {
     stops {
@@ -18,6 +17,9 @@ const query = `
       routes {
         shortName
         color
+        agency {
+          gtfsId
+        }
       }
     }
   }
@@ -51,45 +53,57 @@ async function main() {
         const rawStops = await fetchStops();
         console.log(`Pridobil ${rawStops.length} postaj. Generiram slovarje...`);
 
-        // Glavni objekt za ločevanje po agencijah
         const routesByAgency = {};
 
         for (const stop of rawStops) {
             if (!stop.gtfsId || !stop.vehicleMode) continue;
 
-            // 1. Določimo agencijo in jo normaliziramo
             let agency = stop.gtfsId.split(':')[0].toLowerCase();
-            if(agency=="ijpp")continue;
             if (stop.vehicleMode === 'RAIL') {
                 agency = 'sz';
             } else if (agency === 'sž') {
                 agency = 'sz';
             }
-          
 
-            // 2. Izluščimo ID postaje (vse za prvim dvopičjem)
-            // Npr. "MARPROM:10" -> "10"
             const stationIdStr = stop.gtfsId.substring(stop.gtfsId.indexOf(':') + 1);
 
-            // 3. Pripravimo formatiran seznam linij
-            const formattedRoutes = (stop.routes || []).map(route => ({
-                name: route.shortName || 'N/A',
-                color: route.color ? `#${route.color}` : '#000000'
-            }));
-
-            // 4. Inicializiramo agencijo, če še ne obstaja
             if (!routesByAgency[agency]) {
                 routesByAgency[agency] = {};
             }
 
-            // 5. Zapišemo pod ustrezen ključ
-            routesByAgency[agency][stationIdStr] = formattedRoutes;
+            let formattedData = [];
+            const routes = stop.routes || [];
+
+            if (agency === 'sz') {
+                // Za SŽ izluščimo samo kratka imena linij (vrste vlakov: LP, RG, IC, ...) in odstranimo dvojnike
+                const trainTypes = routes.map(r => r.shortName).filter(Boolean);
+                formattedData = [...new Set(trainTypes)];
+            } 
+            else if (agency === 'ijpp') {
+                // Za IJPP izluščimo samo ID-je agencij in odstranimo dvojnike
+                const agencyIds = routes.map(r => r.agency?.gtfsId).filter(Boolean);
+                formattedData = [...new Set(agencyIds)];
+            } 
+            else {
+                // Za ostale (LPP, Marprom...) ohranimo objekte in preprečimo podvojene linije
+                const uniqueRoutes = new Map();
+                routes.forEach(route => {
+                    const name = route.shortName || 'N/A';
+                    if (!uniqueRoutes.has(name)) {
+                        uniqueRoutes.set(name, {
+                            name: name,
+                            color: route.color ? `#${route.color}` : '#000000'
+                        });
+                    }
+                });
+                formattedData = Array.from(uniqueRoutes.values());
+            }
+
+            routesByAgency[agency][stationIdStr] = formattedData;
         }
 
-        // Ustvari mapo, če še ne obstaja
         await fs.mkdir(OUTPUT_DIR, { recursive: true });
 
-        // Shrani vsako agencijo v svojo datoteko
         for (const [agency, dataMap] of Object.entries(routesByAgency)) {
             const filePath = path.join(OUTPUT_DIR, `${agency}.json`);
             
@@ -97,7 +111,7 @@ async function main() {
             const jsonData = JSON.stringify(dataMap, null, 2);
             
             await fs.writeFile(filePath, jsonData, 'utf-8');
-            console.log(`Shranjeno: ${agency}.json (Vsebuje linije za ${Object.keys(dataMap).length} postaj)`);
+            console.log(`Shranjeno: ${agency}.json (Vsebuje zapise za ${Object.keys(dataMap).length} postaj)`);
         }
 
         console.log('Postopek uspešno zaključen!');
@@ -108,5 +122,4 @@ async function main() {
     }
 }
 
-// Zagon skripte
 main();
