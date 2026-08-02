@@ -1,551 +1,515 @@
 {
   "1": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "2": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     },
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     },
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "3": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "4": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "5": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "6": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "7": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "8": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "9": [
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "10": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "11": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "12": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "13": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "14": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "15": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "16": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "17": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "18": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "19": [
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "20": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "21": [
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "22": [
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "23": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "24": [
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "25": [
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "26": [
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "27": [
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "28": [
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "29": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     }
   ],
   "30": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     }
   ],
   "31": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "32": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "33": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "34": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "35": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "36": [
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "37": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "38": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     }
   ],
   "39": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "40": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "41": [
     {
-      "name": "Zelena",
+      "name": "Z",
       "color": "#a6b622"
     }
   ],
   "42": [
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "43": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     }
   ],
   "44": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "45": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "46": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ],
   "47": [
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "48": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "49": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "50": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     },
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "51": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     }
   ],
   "52": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "53": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     }
   ],
   "54": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     }
   ],
   "55": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     }
   ],
   "56": [
     {
-      "name": "Oranžna",
+      "name": "O",
       "color": "#f58220"
     }
   ],
   "57": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     },
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "58": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     },
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "59": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "60": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     },
     {
-      "name": "Rumena",
+      "name": "R",
       "color": "#ffdb00"
     }
   ],
   "61": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "62": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "63": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "64": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "65": [
     {
-      "name": "Modra",
+      "name": "M",
       "color": "#009cc3"
     }
   ],
   "66": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
-    },
-    {
-      "name": "Rumena",
-      "color": "#ffdb00"
     }
   ],
   "67": [
     {
-      "name": "Sobotna",
+      "name": "S",
       "color": "#000000"
     },
     {
-      "name": "Rdeča",
+      "name": "R",
       "color": "#ed1556"
     }
   ]
