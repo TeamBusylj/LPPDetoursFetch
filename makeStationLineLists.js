@@ -78,10 +78,9 @@ async function main() {
                 const trainTypes = routes
                     .map(r => r.shortName)
                     .filter(Boolean)
-                    .map(name => name.split(' ')[0]) // Razdeli po presledku in vzame prvo besedo
+                    .map(name => name.split(' ')[0])
                     .filter(Boolean);
                 
-                // Z uporabo Set odstranimo vse dvojnike (npr. če je več "LP", ostane samo eden)
                 formattedData = [...new Set(trainTypes)];
             } 
             else if (agency === 'ijpp') {
@@ -89,16 +88,22 @@ async function main() {
                 const agencyIds = routes
                     .map(r => r.agency?.gtfsId)
                     .filter(Boolean)
-                    .map(id => id.replace(/^IJPP:/i, '')) // Odreže "IJPP:" ne glede na velike/male črke
+                    .map(id => id.replace(/^IJPP:/i, ''))
                     .filter(Boolean);
                 
                 formattedData = [...new Set(agencyIds)];
             } 
             else {
-                // Za ostale (LPP, Marprom...) ohranimo objekte in preprečimo podvojene linije
+                // Za ostale (LPP, Marprom, MOVelenje...)
                 const uniqueRoutes = new Map();
                 routes.forEach(route => {
-                    const name = route.shortName || 'N/A';
+                    let name = route.shortName || 'N/A';
+                    
+                    // Specifično pravilo za MOVelenje: obdržimo samo prvo črko ("MODRA" -> "M")
+                    if (agency === 'movelenje' && name !== 'N/A') {
+                        name = name.charAt(0).toUpperCase();
+                    }
+
                     if (!uniqueRoutes.has(name)) {
                         uniqueRoutes.set(name, {
                             name: name,
