@@ -74,7 +74,6 @@ async function main() {
             const routes = stop.routes || [];
 
             if (agency === 'sz') {
-                // Za SŽ vzamemo samo prvi del pred presledkom (npr. "LP" iz "LP 4531")
                 const trainTypes = routes
                     .map(r => r.shortName)
                     .filter(Boolean)
@@ -82,9 +81,9 @@ async function main() {
                     .filter(Boolean);
                 
                 formattedData = [...new Set(trainTypes)];
+                formattedData.sort(); // Abecedno sortiranje
             } 
             else if (agency === 'ijpp') {
-                // Za IJPP vzamemo ID agencije in mu odstranimo predpono "IJPP:"
                 const agencyIds = routes
                     .map(r => r.agency?.gtfsId)
                     .filter(Boolean)
@@ -92,14 +91,13 @@ async function main() {
                     .filter(Boolean);
                 
                 formattedData = [...new Set(agencyIds)];
+                formattedData.sort(); // Abecedno sortiranje
             } 
             else {
-                // Za ostale (LPP, Marprom, MOVelenje...)
                 const uniqueRoutes = new Map();
                 routes.forEach(route => {
                     let name = route.shortName || 'N/A';
                     
-                    // Specifično pravilo za MOVelenje: obdržimo samo prvo črko ("MODRA" -> "M")
                     if (agency === 'movelenje' && name !== 'N/A') {
                         name = name.charAt(0).toUpperCase();
                     }
@@ -111,7 +109,42 @@ async function main() {
                         });
                     }
                 });
+                
                 formattedData = Array.from(uniqueRoutes.values());
+
+                // SORTIRANJE LINIJ
+                formattedData.sort((a, b) => {
+                    const nameA = a.name;
+                    const nameB = b.name;
+
+                    // Izluščimo samo številke (npr. iz "3B" dobimo 3)
+                    const numA = parseInt(nameA.replace(/\D/g, ''), 10);
+                    const numB = parseInt(nameB.replace(/\D/g, ''), 10);
+
+                    const hasNumA = !isNaN(numA);
+                    const hasNumB = !isNaN(numB);
+
+                    // Če imata obe liniji številko
+                    if (hasNumA && hasNumB) {
+                        if (numA === numB) {
+                            // Če sta številki enaki (npr. "3" in "3B"), sortiraj po abecedi
+                            return nameA.localeCompare(nameB);
+                        }
+                        // Sicer sortiraj številčno (npr. 2 pred 11)
+                        return numA - numB;
+                    } 
+                    // Linije s številkami imajo prednost pred tistimi, ki so samo črkovne
+                    else if (hasNumA) {
+                        return -1;
+                    } 
+                    else if (hasNumB) {
+                        return 1;
+                    } 
+                    // Če sta obe samo črkovni (npr. "M"), ju sortiraj po abecedi
+                    else {
+                        return nameA.localeCompare(nameB);
+                    }
+                });
             }
 
             routesByAgency[agency][stationIdStr] = formattedData;
