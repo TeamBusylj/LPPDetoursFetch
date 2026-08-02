@@ -7,12 +7,12 @@
   ],
   "7cmf": [
     {
-      "name": "26",
-      "color": "#FD4097"
-    },
-    {
       "name": "2",
       "color": "#f8e71c"
+    },
+    {
+      "name": "26",
+      "color": "#FD4097"
     }
   ],
   "cl7o": [
@@ -23,16 +23,16 @@
   ],
   "eptk": [
     {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
       "name": "2",
       "color": "#f8e71c"
     },
     {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     },
     {
       "name": "8",
@@ -63,12 +63,12 @@
   ],
   "o0h0": [
     {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     },
     {
       "name": "8",
@@ -77,16 +77,16 @@
   ],
   "o8hp": [
     {
-      "name": "26",
-      "color": "#FD4097"
-    },
-    {
       "name": "2",
       "color": "#f8e71c"
     },
     {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "26",
+      "color": "#FD4097"
     }
   ],
   "osm=3867408558": [
@@ -103,12 +103,12 @@
   ],
   "osm=4924890971": [
     {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
       "name": "4",
       "color": "#2b2ad0"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     },
     {
       "name": "8",
@@ -117,22 +117,22 @@
   ],
   "osm=4931348807": [
     {
-      "name": "3",
-      "color": "#d0021b"
-    },
-    {
       "name": "1",
       "color": "#7ed321"
+    },
+    {
+      "name": "3",
+      "color": "#d0021b"
     }
   ],
   "osm=4931400603": [
     {
-      "name": "3",
-      "color": "#d0021b"
-    },
-    {
       "name": "1",
       "color": "#7ed321"
+    },
+    {
+      "name": "3",
+      "color": "#d0021b"
     }
   ],
   "osm=4958167442": [
@@ -149,18 +149,34 @@
   ],
   "osm=4958167444": [
     {
-      "name": "2",
-      "color": "#f8e71c"
-    },
-    {
       "name": "1",
       "color": "#7ed321"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
     }
   ],
   "osm=4958177298": [
     {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
       "name": "3",
       "color": "#d0021b"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
     },
     {
       "name": "6",
@@ -169,22 +185,6 @@
     {
       "name": "7",
       "color": "#55b1e3"
-    },
-    {
-      "name": "4",
-      "color": "#2b2ad0"
-    },
-    {
-      "name": "2",
-      "color": "#f8e71c"
-    },
-    {
-      "name": "1",
-      "color": "#7ed321"
-    },
-    {
-      "name": "5",
-      "color": "#165f7b"
     },
     {
       "name": "8",
@@ -193,62 +193,78 @@
   ],
   "osm=4958182330": [
     {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
-      "name": "4",
-      "color": "#2b2ad0"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
       "name": "2",
       "color": "#f8e71c"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     }
   ],
   "osm=4958182331": [
     {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
-      "name": "4",
-      "color": "#2b2ad0"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
       "name": "2",
       "color": "#f8e71c"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     }
   ],
   "osm=4958182332": [
     {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
-      "name": "4",
-      "color": "#2b2ad0"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
       "name": "2",
       "color": "#f8e71c"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     }
   ],
   "osm=4958193305": [
     {
+      "name": "1",
+      "color": "#7ed321"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
+    },
+    {
       "name": "3",
       "color": "#d0021b"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
+    },
+    {
+      "name": "5",
+      "color": "#165f7b"
     },
     {
       "name": "6",
@@ -257,22 +273,6 @@
     {
       "name": "7",
       "color": "#55b1e3"
-    },
-    {
-      "name": "4",
-      "color": "#2b2ad0"
-    },
-    {
-      "name": "2",
-      "color": "#f8e71c"
-    },
-    {
-      "name": "1",
-      "color": "#7ed321"
-    },
-    {
-      "name": "5",
-      "color": "#165f7b"
     },
     {
       "name": "8",
@@ -281,30 +281,30 @@
   ],
   "osm=4958193319": [
     {
-      "name": "2",
-      "color": "#f8e71c"
-    },
-    {
       "name": "1",
       "color": "#7ed321"
+    },
+    {
+      "name": "2",
+      "color": "#f8e71c"
     }
   ],
   "osm=4958198723": [
     {
-      "name": "6",
-      "color": "#6694ed"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
       "name": "4",
       "color": "#2b2ad0"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
-    },
-    {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -313,20 +313,20 @@
   ],
   "osm=4958198724": [
     {
-      "name": "6",
-      "color": "#6694ed"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
       "name": "4",
       "color": "#2b2ad0"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
-    },
-    {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -335,20 +335,20 @@
   ],
   "osm=4958205376": [
     {
-      "name": "3",
-      "color": "#d0021b"
-    },
-    {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
       "name": "2",
       "color": "#f8e71c"
     },
     {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     },
     {
       "name": "8",
@@ -357,20 +357,20 @@
   ],
   "osm=4958205377": [
     {
-      "name": "3",
-      "color": "#d0021b"
-    },
-    {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
       "name": "2",
       "color": "#f8e71c"
     },
     {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     },
     {
       "name": "8",
@@ -379,20 +379,20 @@
   ],
   "osm=4958210441": [
     {
-      "name": "3",
-      "color": "#d0021b"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
-      "name": "6",
-      "color": "#6694ed"
+      "name": "3",
+      "color": "#d0021b"
     },
     {
       "name": "4",
       "color": "#2b2ad0"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -401,20 +401,20 @@
   ],
   "osm=4958210442": [
     {
-      "name": "3",
-      "color": "#d0021b"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
-      "name": "6",
-      "color": "#6694ed"
+      "name": "3",
+      "color": "#d0021b"
     },
     {
       "name": "4",
       "color": "#2b2ad0"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -423,20 +423,20 @@
   ],
   "osm=4958214090": [
     {
-      "name": "3",
-      "color": "#d0021b"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
-      "name": "6",
-      "color": "#6694ed"
+      "name": "3",
+      "color": "#d0021b"
     },
     {
       "name": "4",
       "color": "#2b2ad0"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -445,20 +445,20 @@
   ],
   "osm=4958214091": [
     {
-      "name": "3",
-      "color": "#d0021b"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
-      "name": "6",
-      "color": "#6694ed"
+      "name": "3",
+      "color": "#d0021b"
     },
     {
       "name": "4",
       "color": "#2b2ad0"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -467,20 +467,20 @@
   ],
   "osm=4958217945": [
     {
-      "name": "3",
-      "color": "#d0021b"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
-      "name": "6",
-      "color": "#6694ed"
+      "name": "3",
+      "color": "#d0021b"
     },
     {
       "name": "4",
       "color": "#2b2ad0"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -493,12 +493,12 @@
       "color": "#d0021b"
     },
     {
-      "name": "6",
-      "color": "#6694ed"
-    },
-    {
       "name": "4",
       "color": "#2b2ad0"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -519,28 +519,28 @@
   ],
   "osm=5197223202": [
     {
-      "name": "3",
-      "color": "#d0021b"
-    },
-    {
-      "name": "6",
-      "color": "#6694ed"
-    },
-    {
-      "name": "4",
-      "color": "#2b2ad0"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
       "name": "2",
       "color": "#f8e71c"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
+      "name": "4",
+      "color": "#2b2ad0"
     },
     {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -549,12 +549,12 @@
   ],
   "osm=5243476130": [
     {
-      "name": "6",
-      "color": "#6694ed"
-    },
-    {
       "name": "4",
       "color": "#2b2ad0"
+    },
+    {
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -579,16 +579,16 @@
   ],
   "syx4": [
     {
-      "name": "6",
-      "color": "#6694ed"
+      "name": "1",
+      "color": "#7ed321"
     },
     {
       "name": "4",
       "color": "#2b2ad0"
     },
     {
-      "name": "1",
-      "color": "#7ed321"
+      "name": "6",
+      "color": "#6694ed"
     },
     {
       "name": "8",
@@ -597,20 +597,20 @@
   ],
   "togf": [
     {
-      "name": "3",
-      "color": "#d0021b"
-    },
-    {
-      "name": "7",
-      "color": "#55b1e3"
-    },
-    {
       "name": "2",
       "color": "#f8e71c"
     },
     {
+      "name": "3",
+      "color": "#d0021b"
+    },
+    {
       "name": "5",
       "color": "#165f7b"
+    },
+    {
+      "name": "7",
+      "color": "#55b1e3"
     },
     {
       "name": "8",
@@ -629,12 +629,12 @@
   ],
   "yghz": [
     {
-      "name": "26",
-      "color": "#FD4097"
-    },
-    {
       "name": "2",
       "color": "#f8e71c"
+    },
+    {
+      "name": "26",
+      "color": "#FD4097"
     }
   ]
 }
