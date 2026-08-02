@@ -8,7 +8,6 @@ const __dirname = path.dirname(__filename);
 const OTP_URL = 'https://otp.ojpp-gateway.derp.si/otp/gtfs/v1';
 const OUTPUT_DIR = path.join(__dirname, 'station_line_lists');
 
-// Nadgrajena GraphQL poizvedba, ki vključuje tudi podatke o agenciji linije
 const query = `
   query {
     stops {
@@ -75,13 +74,24 @@ async function main() {
             const routes = stop.routes || [];
 
             if (agency === 'sz') {
-                // Za SŽ izluščimo samo kratka imena linij (vrste vlakov: LP, RG, IC, ...) in odstranimo dvojnike
-                const trainTypes = routes.map(r => r.shortName).filter(Boolean);
+                // Za SŽ vzamemo samo prvi del pred presledkom (npr. "LP" iz "LP 4531")
+                const trainTypes = routes
+                    .map(r => r.shortName)
+                    .filter(Boolean)
+                    .map(name => name.split(' ')[0]) // Razdeli po presledku in vzame prvo besedo
+                    .filter(Boolean);
+                
+                // Z uporabo Set odstranimo vse dvojnike (npr. če je več "LP", ostane samo eden)
                 formattedData = [...new Set(trainTypes)];
             } 
             else if (agency === 'ijpp') {
-                // Za IJPP izluščimo samo ID-je agencij in odstranimo dvojnike
-                const agencyIds = routes.map(r => r.agency?.gtfsId).filter(Boolean);
+                // Za IJPP vzamemo ID agencije in mu odstranimo predpono "IJPP:"
+                const agencyIds = routes
+                    .map(r => r.agency?.gtfsId)
+                    .filter(Boolean)
+                    .map(id => id.replace(/^IJPP:/i, '')) // Odreže "IJPP:" ne glede na velike/male črke
+                    .filter(Boolean);
+                
                 formattedData = [...new Set(agencyIds)];
             } 
             else {
@@ -107,7 +117,6 @@ async function main() {
         for (const [agency, dataMap] of Object.entries(routesByAgency)) {
             const filePath = path.join(OUTPUT_DIR, `${agency}.json`);
             
-            // Formatiramo v JSON slovar
             const jsonData = JSON.stringify(dataMap, null, 2);
             
             await fs.writeFile(filePath, jsonData, 'utf-8');
