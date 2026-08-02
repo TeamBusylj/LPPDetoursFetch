@@ -78,7 +78,8 @@ async function main() {
                     .map(r => r.shortName)
                     .filter(Boolean)
                     .map(name => name.split(' ')[0])
-                    .filter(Boolean);
+                    // Tukaj je nov filter: obdrži samo tiste nize, ki so sestavljeni izključno iz črk
+                    .filter(name => /^[A-Za-z]+$/.test(name));
                 
                 formattedData = [...new Set(trainTypes)];
                 formattedData.sort(); // Abecedno sortiranje
@@ -117,30 +118,24 @@ async function main() {
                     const nameA = a.name;
                     const nameB = b.name;
 
-                    // Izluščimo samo številke (npr. iz "3B" dobimo 3)
                     const numA = parseInt(nameA.replace(/\D/g, ''), 10);
                     const numB = parseInt(nameB.replace(/\D/g, ''), 10);
 
                     const hasNumA = !isNaN(numA);
                     const hasNumB = !isNaN(numB);
 
-                    // Če imata obe liniji številko
                     if (hasNumA && hasNumB) {
                         if (numA === numB) {
-                            // Če sta številki enaki (npr. "3" in "3B"), sortiraj po abecedi
                             return nameA.localeCompare(nameB);
                         }
-                        // Sicer sortiraj številčno (npr. 2 pred 11)
                         return numA - numB;
                     } 
-                    // Linije s številkami imajo prednost pred tistimi, ki so samo črkovne
                     else if (hasNumA) {
                         return -1;
                     } 
                     else if (hasNumB) {
                         return 1;
                     } 
-                    // Če sta obe samo črkovni (npr. "M"), ju sortiraj po abecedi
                     else {
                         return nameA.localeCompare(nameB);
                     }
