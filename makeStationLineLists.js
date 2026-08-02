@@ -59,11 +59,13 @@ async function main() {
 
             // 1. Določimo agencijo in jo normaliziramo
             let agency = stop.gtfsId.split(':')[0].toLowerCase();
+            if(agency=="ijpp")continue;
             if (stop.vehicleMode === 'RAIL') {
                 agency = 'sz';
             } else if (agency === 'sž') {
                 agency = 'sz';
             }
+          
 
             // 2. Izluščimo ID postaje (vse za prvim dvopičjem)
             // Npr. "MARPROM:10" -> "10"
