@@ -3,17 +3,9 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "3": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -26,10 +18,6 @@
     }
   ],
   "5": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -49,17 +37,9 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "8": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -77,17 +57,9 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "10": [
-    {
-      "name": "5",
-      "color": "#231F20"
-    },
     {
       "name": "5",
       "color": "#231F20"
@@ -103,24 +75,12 @@
       "color": "#FFF200"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
-      "name": "2",
-      "color": "#FFF200"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
     },
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "13": [
@@ -141,31 +101,15 @@
     {
       "name": "7",
       "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     }
   ],
   "15": [
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "16": [
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
     {
       "name": "7",
       "color": "#F5821F"
@@ -187,10 +131,6 @@
       "color": "#00AEEF"
     },
     {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
       "name": "3",
       "color": "#A54786"
     },
@@ -217,29 +157,9 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     }
   ],
   "19": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -255,17 +175,9 @@
     {
       "name": "7",
       "color": "#F5821F"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
     }
   ],
   "22": [
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
     {
       "name": "1",
       "color": "#00AEEF"
@@ -281,10 +193,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     },
     {
       "name": "5",
@@ -307,31 +215,11 @@
       "color": "#F5821F"
     },
     {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
       "name": "6",
       "color": "#00A650"
     }
   ],
   "27": [
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
     {
       "name": "1",
       "color": "#00AEEF"
@@ -361,17 +249,9 @@
     {
       "name": "7",
       "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "31": [
-    {
-      "name": "15",
-      "color": "#581E3D"
-    },
     {
       "name": "15",
       "color": "#581E3D"
@@ -381,28 +261,12 @@
       "color": "#FFF200"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
     },
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "32": [
@@ -413,18 +277,6 @@
     {
       "name": "2",
       "color": "#FFF200"
-    },
-    {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     },
     {
       "name": "1",
@@ -449,10 +301,6 @@
       "color": "#F5821F"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
       "name": "6",
       "color": "#00A650"
     },
@@ -461,36 +309,12 @@
       "color": "#00AEEF"
     },
     {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
       "name": "5",
       "color": "#231F20"
     },
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     }
   ],
   "34": [
@@ -503,10 +327,6 @@
       "color": "#581E3D"
     },
     {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
       "name": "2",
       "color": "#FFF200"
     },
@@ -515,44 +335,12 @@
       "color": "#F5821F"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
       "name": "6",
       "color": "#00A650"
     },
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     },
     {
       "name": "5",
@@ -563,21 +351,9 @@
     {
       "name": "2",
       "color": "#FFF200"
-    },
-    {
-      "name": "2",
-      "color": "#FFF200"
     }
   ],
   "37": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -587,31 +363,15 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "39": [
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "40": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -631,25 +391,9 @@
     {
       "name": "6",
       "color": "#00A650"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "44": [
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
     {
       "name": "1",
       "color": "#00AEEF"
@@ -659,10 +403,6 @@
     {
       "name": "3",
       "color": "#A54786"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     },
     {
       "name": "4",
@@ -677,21 +417,9 @@
     {
       "name": "5",
       "color": "#231F20"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     }
   ],
   "49": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -713,17 +441,9 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "55": [
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
     {
       "name": "7",
       "color": "#F5821F"
@@ -739,31 +459,11 @@
       "color": "#F5821F"
     },
     {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
       "name": "6",
       "color": "#00A650"
     }
   ],
   "57": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -773,17 +473,9 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "59": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -797,10 +489,6 @@
     {
       "name": "5",
       "color": "#231F20"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     }
   ],
   "62": [
@@ -809,10 +497,6 @@
       "color": "#EC008C"
     },
     {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
       "name": "2",
       "color": "#FFF200"
     },
@@ -825,32 +509,8 @@
       "color": "#00A650"
     },
     {
-      "name": "2",
-      "color": "#FFF200"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     },
     {
       "name": "5",
@@ -867,31 +527,15 @@
       "color": "#FFF200"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
-      "name": "2",
-      "color": "#FFF200"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
     },
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "64": [
-    {
-      "name": "15",
-      "color": "#581E3D"
-    },
     {
       "name": "15",
       "color": "#581E3D"
@@ -901,17 +545,9 @@
     {
       "name": "7",
       "color": "#F5821F"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
     }
   ],
   "66": [
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
     {
       "name": "1",
       "color": "#00AEEF"
@@ -933,18 +569,6 @@
       "color": "#FFF200"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
     },
@@ -957,35 +581,15 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "70": [
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "71": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1009,35 +613,15 @@
     {
       "name": "7",
       "color": "#F5821F"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
     }
   ],
   "75": [
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "76": [
-    {
-      "name": "15",
-      "color": "#581E3D"
-    },
     {
       "name": "15",
       "color": "#581E3D"
@@ -1071,10 +655,6 @@
     {
       "name": "5",
       "color": "#231F20"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     }
   ],
   "80": [
@@ -1089,10 +669,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     },
     {
       "name": "1",
@@ -1113,32 +689,8 @@
       "color": "#00A650"
     },
     {
-      "name": "2",
-      "color": "#FFF200"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     },
     {
       "name": "5",
@@ -1153,17 +705,9 @@
     {
       "name": "7",
       "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "83": [
-    {
-      "name": "15",
-      "color": "#581E3D"
-    },
     {
       "name": "15",
       "color": "#581E3D"
@@ -1181,17 +725,9 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "85": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1207,10 +743,6 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "88": [
@@ -1223,17 +755,9 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "90": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1249,17 +773,9 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "93": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1269,17 +785,9 @@
     {
       "name": "5",
       "color": "#231F20"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     }
   ],
   "95": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1295,10 +803,6 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "100": [
@@ -1309,10 +813,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "101": [
@@ -1323,10 +823,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "102": [
@@ -1345,31 +841,15 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "103": [
     {
       "name": "2",
       "color": "#FFF200"
-    },
-    {
-      "name": "2",
-      "color": "#FFF200"
     }
   ],
   "104": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1389,10 +869,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "107": [
@@ -1403,17 +879,9 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "108": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1435,14 +903,6 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "110": [
@@ -1453,10 +913,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
     }
   ],
   "111": [
@@ -1469,14 +925,6 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     },
     {
       "name": "4",
@@ -1505,43 +953,15 @@
     {
       "name": "5",
       "color": "#231F20"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
-    {
-      "name": "6",
-      "color": "#00A650"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     }
   ],
   "113": [
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "115": [
-    {
-      "name": "7",
-      "color": "#F5821F"
-    },
     {
       "name": "7",
       "color": "#F5821F"
@@ -1591,10 +1011,6 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "121": [
@@ -1613,10 +1029,6 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "122": [
@@ -1627,17 +1039,9 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "123": [
-    {
-      "name": "2",
-      "color": "#FFF200"
-    },
     {
       "name": "2",
       "color": "#FFF200"
@@ -1647,10 +1051,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     },
     {
       "name": "5",
@@ -1667,31 +1067,15 @@
       "color": "#FFF200"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
-      "name": "2",
-      "color": "#FFF200"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
     },
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "126": [
-    {
-      "name": "2",
-      "color": "#FFF200"
-    },
     {
       "name": "2",
       "color": "#FFF200"
@@ -1703,14 +1087,6 @@
       "color": "#EC008C"
     },
     {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "2",
-      "color": "#FFF200"
-    },
-    {
       "name": "2",
       "color": "#FFF200"
     }
@@ -1719,10 +1095,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     },
     {
       "name": "5",
@@ -1751,14 +1123,6 @@
       "color": "#FFF200"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
     }
@@ -1767,10 +1131,6 @@
     {
       "name": "11",
       "color": "#806B64"
-    },
-    {
-      "name": "5",
-      "color": "#231F20"
     },
     {
       "name": "5",
@@ -1785,17 +1145,9 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "134": [
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
     {
       "name": "1",
       "color": "#00AEEF"
@@ -1805,25 +1157,9 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "137": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1845,14 +1181,6 @@
       "color": "#EC008C"
     },
     {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "2",
-      "color": "#FFF200"
-    },
-    {
       "name": "2",
       "color": "#FFF200"
     }
@@ -1861,14 +1189,6 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
-    {
-      "name": "2",
-      "color": "#FFF200"
     },
     {
       "name": "2",
@@ -1881,19 +1201,11 @@
       "color": "#581E3D"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
       "name": "11",
       "color": "#806B64"
     }
   ],
   "143": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1915,17 +1227,9 @@
     {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     }
   ],
   "145": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -1938,10 +1242,6 @@
     }
   ],
   "148": [
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
     {
       "name": "1",
       "color": "#00AEEF"
@@ -1967,32 +1267,8 @@
       "color": "#F5821F"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
       "name": "1",
       "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
-    {
-      "name": "7",
-      "color": "#F5821F"
     }
   ],
   "151": [
@@ -2033,16 +1309,8 @@
       "color": "#581E3D"
     },
     {
-      "name": "15",
-      "color": "#581E3D"
-    },
-    {
       "name": "2",
       "color": "#FFF200"
-    },
-    {
-      "name": "1",
-      "color": "#00AEEF"
     },
     {
       "name": "1",
@@ -2050,10 +1318,6 @@
     }
   ],
   "503": [
-    {
-      "name": "4",
-      "color": "#EC008C"
-    },
     {
       "name": "4",
       "color": "#EC008C"
@@ -2067,17 +1331,9 @@
     {
       "name": "4",
       "color": "#EC008C"
-    },
-    {
-      "name": "4",
-      "color": "#EC008C"
     }
   ],
   "602": [
-    {
-      "name": "1",
-      "color": "#00AEEF"
-    },
     {
       "name": "1",
       "color": "#00AEEF"
