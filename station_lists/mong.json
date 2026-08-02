@@ -10,7 +10,16 @@
     "lat": 45.944674,
     "lon": 13.686207,
     "opposite": "MONG:1",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjEw",
@@ -23,7 +32,28 @@
     "lat": 45.957505,
     "lon": 13.670991,
     "opposite": "MONG:10",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjEx",
@@ -36,7 +66,28 @@
     "lat": 45.957211,
     "lon": 13.671135,
     "opposite": "MONG:11",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjEy",
@@ -49,7 +100,28 @@
     "lat": 45.956905,
     "lon": 13.675656,
     "opposite": "MONG:12",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjEz",
@@ -62,7 +134,28 @@
     "lat": 45.956974,
     "lon": 13.675789,
     "opposite": "MONG:13",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjE0",
@@ -75,7 +168,28 @@
     "lat": 45.958804,
     "lon": 13.683521,
     "opposite": "MONG:14",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjE1",
@@ -88,7 +202,28 @@
     "lat": 45.958867,
     "lon": 13.683482,
     "opposite": "MONG:15",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjE2",
@@ -101,7 +236,28 @@
     "lat": 45.958053,
     "lon": 13.663973,
     "opposite": "MONG:16",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjE3",
@@ -114,7 +270,28 @@
     "lat": 45.957934,
     "lon": 13.663731,
     "opposite": "MONG:17",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjE4",
@@ -127,7 +304,12 @@
     "lat": 45.959381,
     "lon": 13.688293,
     "opposite": "MONG:18",
-    "routes": []
+    "routes": [
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjE5",
@@ -140,7 +322,36 @@
     "lat": 45.959381,
     "lon": 13.688293,
     "opposite": "MONG:19",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjI",
@@ -153,7 +364,12 @@
     "lat": 45.944437,
     "lon": 13.687057,
     "opposite": "MONG:2",
-    "routes": []
+    "routes": [
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjIw",
@@ -166,7 +382,12 @@
     "lat": 45.955541,
     "lon": 13.667024,
     "opposite": "MONG:20",
-    "routes": []
+    "routes": [
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjIx",
@@ -179,7 +400,12 @@
     "lat": 45.95548,
     "lon": 13.646862,
     "opposite": "MONG:21",
-    "routes": []
+    "routes": [
+      {
+        "name": "5",
+        "color": "#FFC000"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjIy",
@@ -192,7 +418,32 @@
     "lat": 45.961185,
     "lon": 13.644274,
     "opposite": "MONG:22",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjIz",
@@ -205,7 +456,32 @@
     "lat": 45.960744,
     "lon": 13.644006,
     "opposite": "MONG:23",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjI0",
@@ -218,7 +494,16 @@
     "lat": 45.957173,
     "lon": 13.646038,
     "opposite": "MONG:24",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjI1",
@@ -231,7 +516,16 @@
     "lat": 45.95623,
     "lon": 13.645823,
     "opposite": "MONG:25",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjI2",
@@ -244,7 +538,16 @@
     "lat": 45.953903,
     "lon": 13.637202,
     "opposite": "MONG:26",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjI3",
@@ -257,7 +560,20 @@
     "lat": 45.953925,
     "lon": 13.63739,
     "opposite": "MONG:27",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjI4",
@@ -270,7 +586,20 @@
     "lat": 45.953613,
     "lon": 13.638239,
     "opposite": "MONG:28",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjI5",
@@ -283,7 +612,12 @@
     "lat": 45.953208,
     "lon": 13.636418,
     "opposite": "MONG:29",
-    "routes": []
+    "routes": [
+      {
+        "name": "3B",
+        "color": "#8F1DAE"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjM",
@@ -296,7 +630,12 @@
     "lat": 45.938505,
     "lon": 13.664167,
     "opposite": "MONG:3",
-    "routes": []
+    "routes": [
+      {
+        "name": "5",
+        "color": "#FFC000"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjMw",
@@ -309,7 +648,28 @@
     "lat": 45.954486,
     "lon": 13.641428,
     "opposite": "MONG:30",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjMx",
@@ -322,7 +682,28 @@
     "lat": 45.954602,
     "lon": 13.641377,
     "opposite": "MONG:31",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjMy",
@@ -335,7 +716,16 @@
     "lat": 45.961645,
     "lon": 13.640413,
     "opposite": "MONG:32",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjMz",
@@ -348,7 +738,20 @@
     "lat": 45.962057,
     "lon": 13.640768,
     "opposite": "MONG:33",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjM0",
@@ -361,7 +764,16 @@
     "lat": 45.960382,
     "lon": 13.647134,
     "opposite": "MONG:34",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjM1",
@@ -374,7 +786,44 @@
     "lat": 45.955347,
     "lon": 13.651773,
     "opposite": "MONG:35",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "5",
+        "color": "#FFC000"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjM2",
@@ -387,7 +836,40 @@
     "lat": 45.954114,
     "lon": 13.65281,
     "opposite": "MONG:36",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "5",
+        "color": "#FFC000"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjM3",
@@ -400,7 +882,32 @@
     "lat": 45.963755,
     "lon": 13.646866,
     "opposite": "MONG:37",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjM4",
@@ -413,7 +920,32 @@
     "lat": 45.96375,
     "lon": 13.646207,
     "opposite": "MONG:38",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjM5",
@@ -426,7 +958,48 @@
     "lat": 45.956231,
     "lon": 13.647248,
     "opposite": "MONG:39",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQ",
@@ -439,7 +1012,16 @@
     "lat": 45.938593,
     "lon": 13.665353,
     "opposite": "MONG:4",
-    "routes": []
+    "routes": [
+      {
+        "name": "5",
+        "color": "#FFC000"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQw",
@@ -452,7 +1034,44 @@
     "lat": 45.955784,
     "lon": 13.646175,
     "opposite": "MONG:40",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQx",
@@ -465,7 +1084,20 @@
     "lat": 45.958971,
     "lon": 13.639743,
     "opposite": "MONG:41",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQy",
@@ -478,7 +1110,16 @@
     "lat": 45.958293,
     "lon": 13.639258,
     "opposite": "MONG:42",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQz",
@@ -491,7 +1132,28 @@
     "lat": 45.961174,
     "lon": 13.649888,
     "opposite": "MONG:43",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQ0",
@@ -504,7 +1166,28 @@
     "lat": 45.961407,
     "lon": 13.649561,
     "opposite": "MONG:44",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQ1",
@@ -517,7 +1200,32 @@
     "lat": 45.955939,
     "lon": 13.642526,
     "opposite": "MONG:45",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQ2",
@@ -530,7 +1238,32 @@
     "lat": 45.956218,
     "lon": 13.642532,
     "opposite": "MONG:46",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQ3",
@@ -543,7 +1276,20 @@
     "lat": 45.954963,
     "lon": 13.63494,
     "opposite": "MONG:47",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQ4",
@@ -556,7 +1302,40 @@
     "lat": 45.941363,
     "lon": 13.644291,
     "opposite": "MONG:48",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjQ5",
@@ -569,7 +1348,44 @@
     "lat": 45.942216,
     "lon": 13.641908,
     "opposite": "MONG:49",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "5",
+        "color": "#FFC000"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjU",
@@ -582,7 +1398,28 @@
     "lat": 45.957698,
     "lon": 13.655932,
     "opposite": "MONG:5",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjUw",
@@ -595,7 +1432,40 @@
     "lat": 45.942288,
     "lon": 13.640956,
     "opposite": "MONG:50",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "5",
+        "color": "#FFC000"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjUx",
@@ -608,7 +1478,44 @@
     "lat": 45.941455,
     "lon": 13.637922,
     "opposite": "MONG:51",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "5",
+        "color": "#FFC000"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjUy",
@@ -621,7 +1528,40 @@
     "lat": 45.941455,
     "lon": 13.637761,
     "opposite": "MONG:52",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "5",
+        "color": "#FFC000"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjUz",
@@ -634,7 +1574,12 @@
     "lat": 45.941473,
     "lon": 13.649756,
     "opposite": "MONG:53",
-    "routes": []
+    "routes": [
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjU0",
@@ -647,7 +1592,28 @@
     "lat": 45.973001,
     "lon": 13.648458,
     "opposite": "MONG:54",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjU1",
@@ -660,7 +1626,32 @@
     "lat": 45.973515,
     "lon": 13.648752,
     "opposite": "MONG:55",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjU2",
@@ -673,7 +1664,16 @@
     "lat": 45.970263,
     "lon": 13.644045,
     "opposite": "MONG:56",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjU3",
@@ -686,7 +1686,20 @@
     "lat": 45.966541,
     "lon": 13.647259,
     "opposite": "MONG:57",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjU4",
@@ -699,7 +1712,20 @@
     "lat": 45.966574,
     "lon": 13.647311,
     "opposite": "MONG:58",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjU5",
@@ -712,7 +1738,20 @@
     "lat": 45.968902,
     "lon": 13.647377,
     "opposite": "MONG:59",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjY",
@@ -725,7 +1764,28 @@
     "lat": 45.957318,
     "lon": 13.658247,
     "opposite": "MONG:6",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjYw",
@@ -738,7 +1798,20 @@
     "lat": 45.968903,
     "lon": 13.647743,
     "opposite": "MONG:60",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjYx",
@@ -751,7 +1824,16 @@
     "lat": 45.967845,
     "lon": 13.641511,
     "opposite": "MONG:61",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjYy",
@@ -764,7 +1846,20 @@
     "lat": 45.967686,
     "lon": 13.64158,
     "opposite": "MONG:62",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjYz",
@@ -777,7 +1872,32 @@
     "lat": 45.974695,
     "lon": 13.648165,
     "opposite": "MONG:63",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjY0",
@@ -790,7 +1910,20 @@
     "lat": 45.970395,
     "lon": 13.644702,
     "opposite": "MONG:64",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjY1",
@@ -803,7 +1936,20 @@
     "lat": 45.935651,
     "lon": 13.671729,
     "opposite": "MONG:65",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "5",
+        "color": "#FFC000"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjY2",
@@ -816,7 +1962,12 @@
     "lat": 45.9303,
     "lon": 13.678578,
     "opposite": "MONG:66",
-    "routes": []
+    "routes": [
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjY3",
@@ -829,7 +1980,20 @@
     "lat": 45.906703,
     "lon": 13.629463,
     "opposite": "MONG:67",
-    "routes": []
+    "routes": [
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjY4",
@@ -842,7 +2006,20 @@
     "lat": 45.907814,
     "lon": 13.630675,
     "opposite": "MONG:68",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjY5",
@@ -855,7 +2032,16 @@
     "lat": 45.916937,
     "lon": 13.620367,
     "opposite": "MONG:69",
-    "routes": []
+    "routes": [
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjc",
@@ -868,7 +2054,28 @@
     "lat": 45.957216,
     "lon": 13.677714,
     "opposite": "MONG:7",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjcw",
@@ -881,7 +2088,12 @@
     "lat": 45.918186,
     "lon": 13.642224,
     "opposite": "MONG:70",
-    "routes": []
+    "routes": [
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjcx",
@@ -894,7 +2106,20 @@
     "lat": 45.915629,
     "lon": 13.637206,
     "opposite": "MONG:71",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjcy",
@@ -907,7 +2132,20 @@
     "lat": 45.915734,
     "lon": 13.637064,
     "opposite": "MONG:72",
-    "routes": []
+    "routes": [
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjcz",
@@ -920,7 +2158,20 @@
     "lat": 45.911265,
     "lon": 13.634998,
     "opposite": "MONG:73",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjc0",
@@ -933,7 +2184,20 @@
     "lat": 45.910902,
     "lon": 13.634584,
     "opposite": "MONG:74",
-    "routes": []
+    "routes": [
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjc1",
@@ -946,7 +2210,16 @@
     "lat": 45.917811,
     "lon": 13.625686,
     "opposite": "MONG:75",
-    "routes": []
+    "routes": [
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjc2",
@@ -959,7 +2232,24 @@
     "lat": 45.904507,
     "lon": 13.627741,
     "opposite": "MONG:76",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjc3",
@@ -972,7 +2262,36 @@
     "lat": 45.930328,
     "lon": 13.639393,
     "opposite": "MONG:77",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjc4",
@@ -985,7 +2304,36 @@
     "lat": 45.930727,
     "lon": 13.638879,
     "opposite": "MONG:78",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjc5",
@@ -998,7 +2346,12 @@
     "lat": 45.93187,
     "lon": 13.644108,
     "opposite": "MONG:79",
-    "routes": []
+    "routes": [
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjg",
@@ -1011,7 +2364,28 @@
     "lat": 45.957178,
     "lon": 13.677266,
     "opposite": "MONG:8",
-    "routes": []
+    "routes": [
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjgw",
@@ -1024,7 +2398,28 @@
     "lat": 45.924124,
     "lon": 13.640726,
     "opposite": "MONG:80",
-    "routes": []
+    "routes": [
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjgx",
@@ -1037,7 +2432,24 @@
     "lat": 45.924004,
     "lon": 13.640883,
     "opposite": "MONG:81",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjgy",
@@ -1050,7 +2462,16 @@
     "lat": 45.921562,
     "lon": 13.638484,
     "opposite": "MONG:82",
-    "routes": []
+    "routes": [
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjgz",
@@ -1063,7 +2484,12 @@
     "lat": 45.921475,
     "lon": 13.638948,
     "opposite": "MONG:83",
-    "routes": []
+    "routes": [
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjg0",
@@ -1076,7 +2502,36 @@
     "lat": 45.935981,
     "lon": 13.639718,
     "opposite": "MONG:84",
-    "routes": []
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjg1",
@@ -1089,7 +2544,36 @@
     "lat": 45.936862,
     "lon": 13.639105,
     "opposite": "MONG:85",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjg2",
@@ -1102,7 +2586,36 @@
     "lat": 45.933391,
     "lon": 13.63922,
     "opposite": "MONG:86",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjg3",
@@ -1115,7 +2628,40 @@
     "lat": 45.92858,
     "lon": 13.641164,
     "opposite": "MONG:87",
-    "routes": []
+    "routes": [
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "2A",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2C",
+        "color": "#D42F02"
+      },
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "2B",
+        "color": "#D42F02"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      }
+    ]
   },
   {
     "id": "U3RvcDpNT05HOjk",
@@ -1128,6 +2674,11 @@
     "lat": 45.957387,
     "lon": 13.661845,
     "opposite": "MONG:9",
-    "routes": []
+    "routes": [
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      }
+    ]
   }
 ]

@@ -158,12 +158,12 @@
     "opposite": "MONM:105",
     "routes": [
       {
-        "name": "3",
-        "color": "#0aa246"
-      },
-      {
         "name": "5",
         "color": "#833689"
+      },
+      {
+        "name": "3",
+        "color": "#0aa246"
       },
       {
         "name": "N",
@@ -238,11 +238,15 @@
     "opposite": "MONM:109",
     "routes": [
       {
+        "name": "4",
+        "color": "#f58321"
+      },
+      {
         "name": "1B",
         "color": "#0077bc"
       },
       {
-        "name": "4",
+        "name": "4A",
         "color": "#f58321"
       }
     ]
@@ -482,20 +486,20 @@
     "opposite": "MONM:21",
     "routes": [
       {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "3",
+        "color": "#0aa246"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "4A",
+        "color": "#f58321"
       }
     ]
   },
@@ -512,12 +516,12 @@
     "opposite": "MONM:22",
     "routes": [
       {
-        "name": "3",
-        "color": "#0aa246"
-      },
-      {
         "name": "5",
         "color": "#833689"
+      },
+      {
+        "name": "3",
+        "color": "#0aa246"
       }
     ]
   },
@@ -694,20 +698,20 @@
     "opposite": "MONM:30",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
+        "name": "4",
+        "color": "#f58321"
       },
       {
         "name": "1B",
         "color": "#0077bc"
       },
       {
-        "name": "2",
-        "color": "#ffd300"
+        "name": "1A",
+        "color": "#d4191d"
       },
       {
-        "name": "4",
-        "color": "#f58321"
+        "name": "2",
+        "color": "#ffd300"
       },
       {
         "name": "N",
@@ -728,12 +732,12 @@
     "opposite": "MONM:31",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
-      },
-      {
         "name": "1B",
         "color": "#0077bc"
+      },
+      {
+        "name": "1A",
+        "color": "#d4191d"
       }
     ]
   },
@@ -826,24 +830,24 @@
     "opposite": "MONM:36",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "3",
+        "color": "#0aa246"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "2",
+        "color": "#ffd300"
+      },
+      {
+        "name": "4A",
+        "color": "#f58321"
       }
     ]
   },
@@ -860,20 +864,20 @@
     "opposite": "MONM:37",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "3",
+        "color": "#0aa246"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       },
       {
         "name": "N",
@@ -894,12 +898,12 @@
     "opposite": "MONM:38",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
         "name": "4",
         "color": "#f58321"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       }
     ]
   },
@@ -916,12 +920,12 @@
     "opposite": "MONM:39",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
-      },
-      {
         "name": "1B",
         "color": "#0077bc"
+      },
+      {
+        "name": "1A",
+        "color": "#d4191d"
       },
       {
         "name": "2",
@@ -960,20 +964,20 @@
     "opposite": "MONM:40",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
+        "name": "4",
+        "color": "#f58321"
       },
       {
         "name": "1B",
         "color": "#0077bc"
       },
       {
-        "name": "2",
-        "color": "#ffd300"
+        "name": "1A",
+        "color": "#d4191d"
       },
       {
-        "name": "4",
-        "color": "#f58321"
+        "name": "2",
+        "color": "#ffd300"
       },
       {
         "name": "N",
@@ -1012,6 +1016,14 @@
     "opposite": "MONM:42",
     "routes": [
       {
+        "name": "5",
+        "color": "#833689"
+      },
+      {
+        "name": "4",
+        "color": "#f58321"
+      },
+      {
         "name": "1B",
         "color": "#0077bc"
       },
@@ -1020,16 +1032,8 @@
         "color": "#0aa246"
       },
       {
-        "name": "4",
-        "color": "#f58321"
-      },
-      {
         "name": "4A",
         "color": "#f58321"
-      },
-      {
-        "name": "5",
-        "color": "#833689"
       },
       {
         "name": "N",
@@ -1050,20 +1054,20 @@
     "opposite": "MONM:43",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "3",
+        "color": "#0aa246"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       },
       {
         "name": "N",
@@ -1084,24 +1088,24 @@
     "opposite": "MONM:44",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "3",
+        "color": "#0aa246"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "2",
+        "color": "#ffd300"
+      },
+      {
+        "name": "4A",
+        "color": "#f58321"
       }
     ]
   },
@@ -1154,24 +1158,24 @@
     "opposite": "MONM:47",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "3",
+        "color": "#0aa246"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "2",
+        "color": "#ffd300"
+      },
+      {
+        "name": "4A",
+        "color": "#f58321"
       }
     ]
   },
@@ -1188,20 +1192,20 @@
     "opposite": "MONM:48",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "3",
+        "color": "#0aa246"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       },
       {
         "name": "N",
@@ -1306,12 +1310,12 @@
     "opposite": "MONM:52",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
-      },
-      {
         "name": "1B",
         "color": "#0077bc"
+      },
+      {
+        "name": "1A",
+        "color": "#d4191d"
       },
       {
         "name": "2",
@@ -1332,6 +1336,14 @@
     "opposite": "MONM:53",
     "routes": [
       {
+        "name": "5",
+        "color": "#833689"
+      },
+      {
+        "name": "4",
+        "color": "#f58321"
+      },
+      {
         "name": "1B",
         "color": "#0077bc"
       },
@@ -1340,16 +1352,8 @@
         "color": "#0aa246"
       },
       {
-        "name": "4",
-        "color": "#f58321"
-      },
-      {
         "name": "4A",
         "color": "#f58321"
-      },
-      {
-        "name": "5",
-        "color": "#833689"
       }
     ]
   },
@@ -1460,12 +1464,12 @@
     "opposite": "MONM:59",
     "routes": [
       {
-        "name": "3",
-        "color": "#0aa246"
-      },
-      {
         "name": "5",
         "color": "#833689"
+      },
+      {
+        "name": "3",
+        "color": "#0aa246"
       }
     ]
   },
@@ -1500,20 +1504,20 @@
     "opposite": "MONM:60",
     "routes": [
       {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "3",
+        "color": "#0aa246"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "4A",
+        "color": "#f58321"
       }
     ]
   },
@@ -1654,24 +1658,24 @@
     "opposite": "MONM:67",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "3",
+        "color": "#0aa246"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "2",
+        "color": "#ffd300"
+      },
+      {
+        "name": "4A",
+        "color": "#f58321"
       },
       {
         "name": "N",
@@ -1710,12 +1714,12 @@
     "opposite": "MONM:69",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
         "name": "4",
         "color": "#f58321"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       },
       {
         "name": "N",
@@ -1736,16 +1740,16 @@
     "opposite": "MONM:7",
     "routes": [
       {
+        "name": "4",
+        "color": "#f58321"
+      },
+      {
         "name": "1B",
         "color": "#0077bc"
       },
       {
         "name": "3",
         "color": "#0aa246"
-      },
-      {
-        "name": "4",
-        "color": "#f58321"
       },
       {
         "name": "4A",
@@ -1770,12 +1774,12 @@
     "opposite": "MONM:70",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
         "name": "4",
         "color": "#f58321"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       },
       {
         "name": "N",
@@ -1886,20 +1890,20 @@
     "opposite": "MONM:76",
     "routes": [
       {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "3",
+        "color": "#0aa246"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "4A",
+        "color": "#f58321"
       }
     ]
   },
@@ -1916,20 +1920,20 @@
     "opposite": "MONM:77",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "3",
+        "color": "#0aa246"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       }
     ]
   },
@@ -1946,20 +1950,20 @@
     "opposite": "MONM:78",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "3",
+        "color": "#0aa246"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       }
     ]
   },
@@ -2002,16 +2006,16 @@
     "opposite": "MONM:8",
     "routes": [
       {
+        "name": "4",
+        "color": "#f58321"
+      },
+      {
         "name": "1B",
         "color": "#0077bc"
       },
       {
         "name": "3",
         "color": "#0aa246"
-      },
-      {
-        "name": "4",
-        "color": "#f58321"
       },
       {
         "name": "4A",
@@ -2138,20 +2142,20 @@
     "opposite": "MONM:85",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "3",
+        "color": "#0aa246"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
       },
       {
         "name": "N",
@@ -2172,24 +2176,24 @@
     "opposite": "MONM:86",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "3",
+        "color": "#0aa246"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "2",
+        "color": "#ffd300"
+      },
+      {
+        "name": "4A",
+        "color": "#f58321"
       }
     ]
   },
@@ -2206,16 +2210,16 @@
     "opposite": "MONM:87",
     "routes": [
       {
-        "name": "2",
-        "color": "#ffd300"
+        "name": "4",
+        "color": "#f58321"
       },
       {
         "name": "3",
         "color": "#0aa246"
       },
       {
-        "name": "4",
-        "color": "#f58321"
+        "name": "2",
+        "color": "#ffd300"
       }
     ]
   },
@@ -2250,12 +2254,12 @@
     "opposite": "MONM:89",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
-      },
-      {
         "name": "1B",
         "color": "#0077bc"
+      },
+      {
+        "name": "1A",
+        "color": "#d4191d"
       }
     ]
   },
@@ -2294,12 +2298,12 @@
     "opposite": "MONM:90",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
-      },
-      {
         "name": "1B",
         "color": "#0077bc"
+      },
+      {
+        "name": "1A",
+        "color": "#d4191d"
       }
     ]
   },
@@ -2316,32 +2320,32 @@
     "opposite": "MONM:91",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
-      },
-      {
-        "name": "1B",
-        "color": "#0077bc"
-      },
-      {
-        "name": "2",
-        "color": "#ffd300"
-      },
-      {
-        "name": "3",
-        "color": "#0aa246"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "1B",
+        "color": "#0077bc"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "1A",
+        "color": "#d4191d"
+      },
+      {
+        "name": "3",
+        "color": "#0aa246"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
+      },
+      {
+        "name": "4A",
+        "color": "#f58321"
       },
       {
         "name": "N",
@@ -2362,28 +2366,28 @@
     "opposite": "MONM:92",
     "routes": [
       {
-        "name": "1A",
-        "color": "#d4191d"
-      },
-      {
-        "name": "1B",
-        "color": "#0077bc"
-      },
-      {
-        "name": "2",
-        "color": "#ffd300"
+        "name": "5",
+        "color": "#833689"
       },
       {
         "name": "4",
         "color": "#f58321"
       },
       {
-        "name": "4A",
-        "color": "#f58321"
+        "name": "1B",
+        "color": "#0077bc"
       },
       {
-        "name": "5",
-        "color": "#833689"
+        "name": "1A",
+        "color": "#d4191d"
+      },
+      {
+        "name": "2",
+        "color": "#ffd300"
+      },
+      {
+        "name": "4A",
+        "color": "#f58321"
       }
     ]
   },
@@ -2502,12 +2506,12 @@
     "opposite": "MONM:98",
     "routes": [
       {
-        "name": "3",
-        "color": "#0aa246"
-      },
-      {
         "name": "5",
         "color": "#833689"
+      },
+      {
+        "name": "3",
+        "color": "#0aa246"
       }
     ]
   },
