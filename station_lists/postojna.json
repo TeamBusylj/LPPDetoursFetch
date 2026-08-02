@@ -30,12 +30,12 @@
     "opposite": "Postojna:7cmf",
     "routes": [
       {
-        "name": "26",
-        "color": "#FD4097"
-      },
-      {
         "name": "2",
         "color": "#f8e71c"
+      },
+      {
+        "name": "26",
+        "color": "#FD4097"
       }
     ]
   },
@@ -70,16 +70,16 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
         "name": "2",
         "color": "#f8e71c"
       },
       {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       },
       {
         "name": "8",
@@ -158,12 +158,12 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       },
       {
         "name": "8",
@@ -184,16 +184,16 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "26",
-        "color": "#FD4097"
-      },
-      {
         "name": "2",
         "color": "#f8e71c"
       },
       {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "26",
+        "color": "#FD4097"
       }
     ]
   },
@@ -246,12 +246,12 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
         "name": "4",
         "color": "#2b2ad0"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       },
       {
         "name": "8",
@@ -272,12 +272,12 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
         "name": "1",
         "color": "#7ed321"
+      },
+      {
+        "name": "3",
+        "color": "#d0021b"
       }
     ]
   },
@@ -294,12 +294,12 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
         "name": "1",
         "color": "#7ed321"
+      },
+      {
+        "name": "3",
+        "color": "#d0021b"
       }
     ]
   },
@@ -352,12 +352,12 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
         "name": "1",
         "color": "#7ed321"
+      },
+      {
+        "name": "2",
+        "color": "#f8e71c"
       }
     ]
   },
@@ -374,8 +374,24 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
+        "name": "1",
+        "color": "#7ed321"
+      },
+      {
+        "name": "2",
+        "color": "#f8e71c"
+      },
+      {
         "name": "3",
         "color": "#d0021b"
+      },
+      {
+        "name": "4",
+        "color": "#2b2ad0"
+      },
+      {
+        "name": "5",
+        "color": "#165f7b"
       },
       {
         "name": "6",
@@ -384,22 +400,6 @@
       {
         "name": "7",
         "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
       },
       {
         "name": "8",
@@ -420,20 +420,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
         "name": "2",
         "color": "#f8e71c"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "4",
+        "color": "#2b2ad0"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       }
     ]
   },
@@ -450,20 +450,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
         "name": "2",
         "color": "#f8e71c"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "4",
+        "color": "#2b2ad0"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       }
     ]
   },
@@ -480,20 +480,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
         "name": "2",
         "color": "#f8e71c"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "4",
+        "color": "#2b2ad0"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       }
     ]
   },
@@ -510,8 +510,24 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
+        "name": "1",
+        "color": "#7ed321"
+      },
+      {
+        "name": "2",
+        "color": "#f8e71c"
+      },
+      {
         "name": "3",
         "color": "#d0021b"
+      },
+      {
+        "name": "4",
+        "color": "#2b2ad0"
+      },
+      {
+        "name": "5",
+        "color": "#165f7b"
       },
       {
         "name": "6",
@@ -520,22 +536,6 @@
       {
         "name": "7",
         "color": "#55b1e3"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
-      },
-      {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
-        "name": "5",
-        "color": "#165f7b"
       },
       {
         "name": "8",
@@ -556,12 +556,12 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "2",
-        "color": "#f8e71c"
-      },
-      {
         "name": "1",
         "color": "#7ed321"
+      },
+      {
+        "name": "2",
+        "color": "#f8e71c"
       }
     ]
   },
@@ -578,20 +578,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "6",
-        "color": "#6694ed"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
         "name": "4",
         "color": "#2b2ad0"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -612,20 +612,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "6",
-        "color": "#6694ed"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
         "name": "4",
         "color": "#2b2ad0"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -646,20 +646,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
         "name": "2",
         "color": "#f8e71c"
       },
       {
+        "name": "3",
+        "color": "#d0021b"
+      },
+      {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       },
       {
         "name": "8",
@@ -680,20 +680,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
         "name": "2",
         "color": "#f8e71c"
       },
       {
+        "name": "3",
+        "color": "#d0021b"
+      },
+      {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       },
       {
         "name": "8",
@@ -714,20 +714,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
-        "name": "6",
-        "color": "#6694ed"
+        "name": "3",
+        "color": "#d0021b"
       },
       {
         "name": "4",
         "color": "#2b2ad0"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -748,20 +748,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
-        "name": "6",
-        "color": "#6694ed"
+        "name": "3",
+        "color": "#d0021b"
       },
       {
         "name": "4",
         "color": "#2b2ad0"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -782,20 +782,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
-        "name": "6",
-        "color": "#6694ed"
+        "name": "3",
+        "color": "#d0021b"
       },
       {
         "name": "4",
         "color": "#2b2ad0"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -816,20 +816,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
-        "name": "6",
-        "color": "#6694ed"
+        "name": "3",
+        "color": "#d0021b"
       },
       {
         "name": "4",
         "color": "#2b2ad0"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -850,20 +850,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
-        "name": "6",
-        "color": "#6694ed"
+        "name": "3",
+        "color": "#d0021b"
       },
       {
         "name": "4",
         "color": "#2b2ad0"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -888,12 +888,12 @@
         "color": "#d0021b"
       },
       {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
         "name": "4",
         "color": "#2b2ad0"
+      },
+      {
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -950,28 +950,28 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
-        "name": "4",
-        "color": "#2b2ad0"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
         "name": "2",
         "color": "#f8e71c"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "3",
+        "color": "#d0021b"
+      },
+      {
+        "name": "4",
+        "color": "#2b2ad0"
       },
       {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -992,12 +992,12 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "6",
-        "color": "#6694ed"
-      },
-      {
         "name": "4",
         "color": "#2b2ad0"
+      },
+      {
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -1058,16 +1058,16 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "6",
-        "color": "#6694ed"
+        "name": "1",
+        "color": "#7ed321"
       },
       {
         "name": "4",
         "color": "#2b2ad0"
       },
       {
-        "name": "1",
-        "color": "#7ed321"
+        "name": "6",
+        "color": "#6694ed"
       },
       {
         "name": "8",
@@ -1088,20 +1088,20 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "3",
-        "color": "#d0021b"
-      },
-      {
-        "name": "7",
-        "color": "#55b1e3"
-      },
-      {
         "name": "2",
         "color": "#f8e71c"
       },
       {
+        "name": "3",
+        "color": "#d0021b"
+      },
+      {
         "name": "5",
         "color": "#165f7b"
+      },
+      {
+        "name": "7",
+        "color": "#55b1e3"
       },
       {
         "name": "8",
@@ -1144,12 +1144,12 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "26",
-        "color": "#FD4097"
-      },
-      {
         "name": "2",
         "color": "#f8e71c"
+      },
+      {
+        "name": "26",
+        "color": "#FD4097"
       }
     ]
   }

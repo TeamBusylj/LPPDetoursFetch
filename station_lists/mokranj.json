@@ -74,6 +74,10 @@
     "opposite": "17251",
     "routes": [
       {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
         "name": "3",
         "color": "#A54786"
       },
@@ -84,10 +88,6 @@
       {
         "name": "15",
         "color": "#581E3D"
-      },
-      {
-        "name": "1",
-        "color": "#00AEEF"
       }
     ]
   },
@@ -220,6 +220,10 @@
     "opposite": "17254",
     "routes": [
       {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
         "name": "3",
         "color": "#A54786"
       },
@@ -230,10 +234,6 @@
       {
         "name": "15",
         "color": "#581E3D"
-      },
-      {
-        "name": "1",
-        "color": "#00AEEF"
       }
     ]
   },
@@ -250,20 +250,20 @@
     "opposite": "12319",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
-      },
-      {
         "name": "11",
         "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -324,32 +324,32 @@
         "color": "#00AEEF"
       },
       {
-        "name": "4",
-        "color": "#EC008C"
+        "name": "2",
+        "color": "#FFF200"
       },
       {
         "name": "3",
         "color": "#A54786"
       },
       {
-        "name": "2",
-        "color": "#FFF200"
+        "name": "4",
+        "color": "#EC008C"
       },
       {
-        "name": "7",
-        "color": "#F5821F"
+        "name": "5",
+        "color": "#231F20"
       },
       {
         "name": "6",
         "color": "#00A650"
       },
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "7",
+        "color": "#F5821F"
       },
       {
-        "name": "5",
-        "color": "#231F20"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -474,24 +474,24 @@
     "opposite": "12294",
     "routes": [
       {
-        "name": "3",
-        "color": "#A54786"
-      },
-      {
-        "name": "15",
-        "color": "#581E3D"
-      },
-      {
         "name": "0",
         "color": "#581E3D"
+      },
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
       },
       {
         "name": "11",
         "color": "#806B64"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -508,20 +508,20 @@
     "opposite": "12330",
     "routes": [
       {
-        "name": "3",
-        "color": "#A54786"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "3",
+        "color": "#A54786"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -578,12 +578,12 @@
     "opposite": "12176",
     "routes": [
       {
-        "name": "11",
-        "color": "#806B64"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -600,20 +600,20 @@
     "opposite": "12296",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
-      },
-      {
         "name": "11",
         "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -648,12 +648,12 @@
     "opposite": "15729",
     "routes": [
       {
-        "name": "4",
-        "color": "#EC008C"
-      },
-      {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -670,12 +670,12 @@
     "opposite": "12339",
     "routes": [
       {
-        "name": "11",
-        "color": "#806B64"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -746,16 +746,16 @@
     "opposite": "12331",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -772,12 +772,12 @@
     "opposite": "12337",
     "routes": [
       {
-        "name": "11",
-        "color": "#806B64"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -794,12 +794,12 @@
     "opposite": "12338",
     "routes": [
       {
-        "name": "2",
-        "color": "#FFF200"
-      },
-      {
         "name": "1",
         "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
       }
     ]
   },
@@ -870,12 +870,12 @@
     "opposite": "12344",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
-      },
-      {
         "name": "11",
         "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -892,12 +892,12 @@
     "opposite": "10815",
     "routes": [
       {
-        "name": "6",
-        "color": "#00A650"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
       },
       {
         "name": "7",
@@ -918,12 +918,12 @@
     "opposite": "15733",
     "routes": [
       {
-        "name": "4",
-        "color": "#EC008C"
-      },
-      {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -940,12 +940,12 @@
     "opposite": "15732",
     "routes": [
       {
-        "name": "4",
-        "color": "#EC008C"
-      },
-      {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -962,12 +962,12 @@
     "opposite": "12345",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
-      },
-      {
         "name": "11",
         "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -1002,20 +1002,20 @@
     "opposite": "12343",
     "routes": [
       {
-        "name": "3",
-        "color": "#A54786"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "3",
+        "color": "#A54786"
       },
       {
         "name": "11",
         "color": "#806B64"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -1126,16 +1126,16 @@
     "opposite": "15734",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "7",
         "color": "#F5821F"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -1152,12 +1152,12 @@
     "opposite": "12347",
     "routes": [
       {
-        "name": "3",
-        "color": "#A54786"
-      },
-      {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
       },
       {
         "name": "11",
@@ -1178,12 +1178,12 @@
     "opposite": "12432",
     "routes": [
       {
-        "name": "7",
-        "color": "#F5821F"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -1222,32 +1222,32 @@
         "color": "#00AEEF"
       },
       {
-        "name": "3",
-        "color": "#A54786"
-      },
-      {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "7",
-        "color": "#F5821F"
+        "name": "3",
+        "color": "#A54786"
       },
       {
-        "name": "6",
-        "color": "#00A650"
-      },
-      {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "4",
+        "color": "#EC008C"
       },
       {
         "name": "5",
         "color": "#231F20"
       },
       {
-        "name": "4",
-        "color": "#EC008C"
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -1372,12 +1372,12 @@
     "opposite": "14697",
     "routes": [
       {
-        "name": "11",
-        "color": "#806B64"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -1394,12 +1394,12 @@
     "opposite": "14730",
     "routes": [
       {
-        "name": "11",
-        "color": "#806B64"
-      },
-      {
         "name": "7",
         "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -1416,12 +1416,12 @@
     "opposite": "12437",
     "routes": [
       {
-        "name": "7",
-        "color": "#F5821F"
-      },
-      {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -1572,20 +1572,20 @@
     "opposite": "12329",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
-      },
-      {
         "name": "11",
         "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -1602,20 +1602,20 @@
     "opposite": "12328",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -1632,32 +1632,32 @@
     "opposite": "9903",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "7",
-        "color": "#F5821F"
-      },
-      {
-        "name": "6",
-        "color": "#00A650"
-      },
-      {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "4",
+        "color": "#EC008C"
       },
       {
         "name": "5",
         "color": "#231F20"
       },
       {
-        "name": "4",
-        "color": "#EC008C"
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -1674,32 +1674,32 @@
     "opposite": "12441",
     "routes": [
       {
-        "name": "4",
-        "color": "#EC008C"
-      },
-      {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "7",
-        "color": "#F5821F"
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
       },
       {
         "name": "6",
         "color": "#00A650"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "7",
+        "color": "#F5821F"
       },
       {
-        "name": "5",
-        "color": "#231F20"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -1860,12 +1860,12 @@
     "opposite": "12416",
     "routes": [
       {
-        "name": "7",
-        "color": "#F5821F"
-      },
-      {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -1922,12 +1922,12 @@
     "opposite": "12410",
     "routes": [
       {
-        "name": "7",
-        "color": "#F5821F"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -1998,16 +1998,16 @@
     "opposite": "18521",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -2100,12 +2100,12 @@
     "opposite": "9894",
     "routes": [
       {
-        "name": "7",
-        "color": "#F5821F"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -2122,12 +2122,12 @@
     "opposite": "9895",
     "routes": [
       {
-        "name": "7",
-        "color": "#F5821F"
-      },
-      {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -2198,12 +2198,12 @@
     "opposite": "12273",
     "routes": [
       {
-        "name": "11",
-        "color": "#806B64"
-      },
-      {
         "name": "7",
         "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -2238,12 +2238,12 @@
     "opposite": "9930",
     "routes": [
       {
-        "name": "11",
-        "color": "#806B64"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -2260,28 +2260,28 @@
     "opposite": "12429",
     "routes": [
       {
-        "name": "4",
-        "color": "#EC008C"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "7",
-        "color": "#F5821F"
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
       },
       {
         "name": "6",
         "color": "#00A650"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
-      },
-      {
-        "name": "5",
-        "color": "#231F20"
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -2298,20 +2298,20 @@
     "opposite": "11977",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
-      },
-      {
         "name": "11",
         "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -2400,20 +2400,20 @@
     "opposite": "10768",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -2502,16 +2502,16 @@
     "opposite": "10087",
     "routes": [
       {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
         "name": "6",
         "color": "#00A650"
       },
       {
         "name": "11",
         "color": "#806B64"
-      },
-      {
-        "name": "5",
-        "color": "#231F20"
       }
     ]
   },
@@ -2600,16 +2600,16 @@
     "opposite": "10125",
     "routes": [
       {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
         "name": "6",
         "color": "#00A650"
       },
       {
         "name": "11",
         "color": "#806B64"
-      },
-      {
-        "name": "5",
-        "color": "#231F20"
       }
     ]
   },
@@ -2626,12 +2626,12 @@
     "opposite": "13910",
     "routes": [
       {
-        "name": "11",
-        "color": "#806B64"
-      },
-      {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -2666,20 +2666,20 @@
     "opposite": "12302",
     "routes": [
       {
-        "name": "3",
-        "color": "#A54786"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "3",
+        "color": "#A54786"
       },
       {
         "name": "11",
         "color": "#806B64"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },
@@ -2696,24 +2696,24 @@
     "opposite": "12426",
     "routes": [
       {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
         "name": "2",
         "color": "#FFF200"
       },
       {
-        "name": "7",
-        "color": "#F5821F"
+        "name": "5",
+        "color": "#231F20"
       },
       {
         "name": "6",
         "color": "#00A650"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
-      },
-      {
-        "name": "5",
-        "color": "#231F20"
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -2886,16 +2886,16 @@
     "opposite": "12317",
     "routes": [
       {
-        "name": "15",
-        "color": "#581E3D"
+        "name": "1",
+        "color": "#00AEEF"
       },
       {
         "name": "11",
         "color": "#806B64"
       },
       {
-        "name": "1",
-        "color": "#00AEEF"
+        "name": "15",
+        "color": "#581E3D"
       }
     ]
   },

@@ -70,11 +70,11 @@
     "opposite": "1122445",
     "routes": [
       {
-        "name": "2",
+        "name": "1",
         "color": "#0077BE"
       },
       {
-        "name": "1",
+        "name": "2",
         "color": "#0077BE"
       }
     ]
@@ -92,11 +92,11 @@
     "opposite": "1122447",
     "routes": [
       {
-        "name": "2",
+        "name": "1",
         "color": "#0077BE"
       },
       {
-        "name": "1",
+        "name": "2",
         "color": "#0077BE"
       }
     ]
@@ -258,11 +258,11 @@
     "opposite": "1122457",
     "routes": [
       {
-        "name": "2",
+        "name": "1",
         "color": "#0077BE"
       },
       {
-        "name": "1",
+        "name": "2",
         "color": "#0077BE"
       }
     ]
@@ -302,11 +302,11 @@
     "opposite": "1122459",
     "routes": [
       {
-        "name": "2",
+        "name": "1",
         "color": "#0077BE"
       },
       {
-        "name": "1",
+        "name": "2",
         "color": "#0077BE"
       }
     ]
@@ -1010,11 +1010,11 @@
     "opposite": "1167535",
     "routes": [
       {
-        "name": "2",
+        "name": "1",
         "color": "#0077BE"
       },
       {
-        "name": "1",
+        "name": "2",
         "color": "#0077BE"
       }
     ]
