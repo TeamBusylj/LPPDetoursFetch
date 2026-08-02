@@ -1,0 +1,374 @@
+[
+  {
+    "id": "U3RvcDpCcmV6aWNlOjEw",
+    "gtfs_id": "Brezice:10",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice Občina",
+    "lat": 45.90402,
+    "lon": 15.59293,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjEx",
+    "gtfs_id": "Brezice:11",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice gimnazija",
+    "lat": 45.90772,
+    "lon": 15.59136,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjEy",
+    "gtfs_id": "Brezice:12",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice stadion",
+    "lat": 45.91177,
+    "lon": 15.59061,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjEz",
+    "gtfs_id": "Brezice:13",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice Intermarket",
+    "lat": 45.91846,
+    "lon": 15.59663,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE0",
+    "gtfs_id": "Brezice:14",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Cesta bratov Milavcev",
+    "lat": 45.91584,
+    "lon": 15.59099,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE1",
+    "gtfs_id": "Brezice:15",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice stadion",
+    "lat": 45.9119,
+    "lon": 15.59051,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE2",
+    "gtfs_id": "Brezice:16",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice gimnazija",
+    "lat": 45.90775,
+    "lon": 15.59126,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE3",
+    "gtfs_id": "Brezice:17",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice Zdravstveni dom",
+    "lat": 45.90773,
+    "lon": 15.59464,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE4",
+    "gtfs_id": "Brezice:18",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Maistrova",
+    "lat": 45.90789,
+    "lon": 15.59748,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE5",
+    "gtfs_id": "Brezice:19",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice AP",
+    "lat": 45.9076,
+    "lon": 15.60089,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjI",
+    "gtfs_id": "Brezice:2",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Murnova",
+    "lat": 45.90693,
+    "lon": 15.60921,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjM",
+    "gtfs_id": "Brezice:3",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Kregarjeva",
+    "lat": 45.90557,
+    "lon": 15.60901,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjQ",
+    "gtfs_id": "Brezice:4",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Prežihova 1",
+    "lat": 45.90448,
+    "lon": 15.60618,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjU",
+    "gtfs_id": "Brezice:5",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Prežihova 2",
+    "lat": 45.90573,
+    "lon": 15.60522,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjY",
+    "gtfs_id": "Brezice:6",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Trdinova",
+    "lat": 45.90426,
+    "lon": 15.60141,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjc",
+    "gtfs_id": "Brezice:7",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Pokopališče",
+    "lat": 45.9003,
+    "lon": 15.59657,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjg",
+    "gtfs_id": "Brezice:8",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Cankarjeva",
+    "lat": 45.90211,
+    "lon": 15.59702,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjk",
+    "gtfs_id": "Brezice:9",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice Market",
+    "lat": 45.9046,
+    "lon": 15.59692,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#38CC3F"
+      },
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  }
+]
