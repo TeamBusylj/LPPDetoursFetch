@@ -1,5 +1,10 @@
-const fs = require('fs/promises');
-const path = require('path');
+import fs from 'fs/promises';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+// Ustvarimo __dirname, ki v ES modulih ni privzeto na voljo
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // URL naslov OTP strežnika
 const OTP_URL = 'https://otp.ojpp-gateway.derp.si/otp/gtfs/v1';
