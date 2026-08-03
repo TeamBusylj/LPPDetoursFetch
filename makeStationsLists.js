@@ -22,20 +22,28 @@ async function fetchAndProcessStations() {
       console.warn("Opozorilo: Ni bilo mogoče prenesti Github stop_to_routes.json");
     }
 
+    // 2.5 Prednalaganje sz.json, da vemo, kateri ID-ji so zanesljivo železniške postaje
+    let szKnownIds = {};
+    try {
+      const szData = await fs.readFile(path.join(LINE_LISTS_DIR, 'sz.json'), 'utf-8');
+      szKnownIds = JSON.parse(szData) || {};
+    } catch (e) {
+      console.warn("Opozorilo: sz.json še ne obstaja ali ga ni mogoče prebrati.");
+    }
+
     // 3. Grupiranje postaj po agenciji & filtriranje glede na tip (BUS / RAIL)
     const agencyGroups = {};
     for (const station of allStops) {
       if (!station.gtfs_id) continue;
       
       let agency = station.gtfs_id.split(':')[0].toLowerCase();
+      const stationIdStr = station.gtfs_id.substring(station.gtfs_id.indexOf(':') + 1);
       
       // LOGIKA ZA LOČEVANJE VLAKOV IN AVTOBUSOV:
-      // Vse RAIL postaje gredo v datoteko sz.json
-      if (station.type === "RAIL") {
+      // Če ID postaje obstaja v sz.json (kar pomeni, da ima SŽ linije), ali ima type RAIL
+      if (szKnownIds[stationIdStr] || station.type === "RAIL" || agency === "sž" || agency === "sz") {
         agency = "sz";
-      } else if (agency === "sž") {
-        // Normalizacija imena, da se ujema z datoteko sz.json
-        agency = "sz"; 
+        station.type = "RAIL"; // Prisilimo RAIL, da jo koda spodaj pravilno obravnava
       }
 
       // Shranimo samo BUS in RAIL
