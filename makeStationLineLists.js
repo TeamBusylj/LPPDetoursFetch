@@ -54,17 +54,20 @@ async function main() {
 
         const routesByAgency = {};
 
-        for (const stop of rawStops) {
+       for (const stop of rawStops) {
             if (!stop.gtfsId || !stop.vehicleMode) continue;
 
             let agency = stop.gtfsId.split(':')[0].toLowerCase();
-            if (stop.vehicleMode === 'RAIL') {
-                agency = 'sz';
-            } else if (agency === 'sž') {
-                agency = 'sz';
-            }
-
             const stationIdStr = stop.gtfsId.substring(stop.gtfsId.indexOf(':') + 1);
+
+            // Preverimo, ali katerakoli linija na tej postaji pripada SŽ
+            const hasSZRoute = (stop.routes || []).some(r => r.agency && r.agency.gtfsId && r.agency.gtfsId.toUpperCase() === 'SŽ');
+
+            // Če je agencija sž/sz, če je tip RAIL, ALI če na njej ustavlja SŽ linija -> je SŽ postaja!
+            if (stop.vehicleMode === 'RAIL' || agency === 'sž' || agency === 'sz' || hasSZRoute) {
+                agency = 'sz';
+                stop.vehicleMode = 'RAIL';
+            }
 
             if (!routesByAgency[agency]) {
                 routesByAgency[agency] = {};
