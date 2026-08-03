@@ -3486,6 +3486,24 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjMwMDA",
+    "gtfs_id": "IJPP:1123000",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Ljubljana Tivoli",
+    "lat": 46.0501886,
+    "lon": 14.4940959,
+    "opposite": null,
+    "agencies": [
+      "BUS",
+      "EC",
+      "IC",
+      "LPV"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjMwMDE",
     "gtfs_id": "IJPP:1123001",
     "code": null,
@@ -3558,6 +3576,39 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjMwMDU",
+    "gtfs_id": "IJPP:1123005",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Rodik",
+    "lat": 45.6271322,
+    "lon": 13.9752772,
+    "opposite": null,
+    "agencies": [
+      "BUS"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjMwMDY",
+    "gtfs_id": "IJPP:1123006",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Hrpelje-Kozina",
+    "lat": 45.6037043,
+    "lon": 13.9353041,
+    "opposite": null,
+    "agencies": [
+      "BUS",
+      "IC",
+      "MV",
+      "RG"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjMwMDc",
     "gtfs_id": "IJPP:1123007",
     "code": null,
@@ -3571,6 +3622,21 @@
     "agencies": [
       "LP",
       "LPV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjMwMDg",
+    "gtfs_id": "IJPP:1123008",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Prešnica",
+    "lat": 45.5704706,
+    "lon": 13.941199,
+    "opposite": null,
+    "agencies": [
+      "BUS"
     ]
   },
   {
@@ -3601,6 +3667,54 @@
     "opposite": null,
     "agencies": [
       "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjMwMTI",
+    "gtfs_id": "IJPP:1123012",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Koper",
+    "lat": 45.5389705,
+    "lon": 13.7385343,
+    "opposite": null,
+    "agencies": [
+      "BUS",
+      "IC",
+      "MV",
+      "RG"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjMwMTM",
+    "gtfs_id": "IJPP:1123013",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Črnotiče",
+    "lat": 45.5519343,
+    "lon": 13.8915537,
+    "opposite": null,
+    "agencies": [
+      "BUS"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjMwMTQ",
+    "gtfs_id": "IJPP:1123014",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Hrastovlje",
+    "lat": 45.5010582,
+    "lon": 13.90938,
+    "opposite": null,
+    "agencies": [
+      "BUS"
     ]
   },
   {
