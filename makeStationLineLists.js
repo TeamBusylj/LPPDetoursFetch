@@ -62,7 +62,7 @@ async function main() {
 
             // Preverimo, ali katerakoli linija na tej postaji pripada SŽ
        
-            const hasSZRoute = (stop.routes || []).some(r => r.agency.gtfsId && r.agency.gtfsId === 'IJPP:1118');
+            const hasSZRoute = (stop.routes || []).some(r => r.agency.gtfsId && r.agency.gtfsId === 'IJPP:1161');
 
             // Če je agencija sž/sz, če je tip RAIL, ALI če na njej ustavlja SŽ linija -> je SŽ postaja!
             if (stop.vehicleMode === 'RAIL' || agency === 'sž' || agency === 'sz' || hasSZRoute) {
