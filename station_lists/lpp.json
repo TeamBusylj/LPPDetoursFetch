@@ -118,6 +118,24 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6MDMwMzYzZTUtOTlhMy00MDFmLTk2ZGItYTE2YTM0MGFjZTIx",
+    "gtfs_id": "LPP:030363e5-99a3-401f-96db-a16a340ace21",
+    "code": "405012",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Javor",
+    "lat": 46.040199,
+    "lon": 14.64026,
+    "opposite": "405011",
+    "routes": [
+      {
+        "name": "26",
+        "color": "#1f1d1d"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpMUFA6MDMzNGU3OWUtN2E4OS00NGU5LWE0NjMtNWFmODEzZTY0YTQw",
     "gtfs_id": "LPP:0334e79e-7a89-44e9-a463-5af813e64a40",
     "code": "406071",
@@ -1018,6 +1036,24 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6MTQ0YWIzODAtNjU4Ni00M2NlLWIyMTYtMmU2NjM2MmI2ZWNh",
+    "gtfs_id": "LPP:144ab380-6586-43ce-b216-2e66362b6eca",
+    "code": "804411",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Krivec",
+    "lat": 46.078484,
+    "lon": 14.455399,
+    "opposite": "804412",
+    "routes": [
+      {
+        "name": "23",
+        "color": "#5ea653"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpMUFA6MTUwNWM2ZmUtNjA4MC00MjRlLTk4ZDEtMjRjMzEyY2ZhY2Yz",
     "gtfs_id": "LPP:1505c6fe-6080-424e-98d1-24c312cfacf3",
     "code": "603071",
@@ -1270,6 +1306,24 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6MTZhZTBhMzktZmY5YS00YWVlLTg4YjUtMzQ1MDIyNTVmYWI0",
+    "gtfs_id": "LPP:16ae0a39-ff9a-4aee-88b5-34502255fab4",
+    "code": "404171",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Pod Sivnikom",
+    "lat": 46.035954,
+    "lon": 14.624615,
+    "opposite": "404172",
+    "routes": [
+      {
+        "name": "26",
+        "color": "#1f1d1d"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpMUFA6MTZkMTk2MzktYTc4OC00ZGY2LWExNjgtNmY4YzM2NTJkZWQ3",
     "gtfs_id": "LPP:16d19639-a788-4df6-a168-6f8c3652ded7",
     "code": "304041",
@@ -1332,6 +1386,24 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpMUFA6MThkMDEwY2EtMDI0NC00OTI4LTgyY2ItNDdhZjA4MzZhMWJi",
+    "gtfs_id": "LPP:18d010ca-0244-4928-82cb-47af0836a1bb",
+    "code": "804412",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Krivec",
+    "lat": 46.077991,
+    "lon": 14.45547,
+    "opposite": "804411",
+    "routes": [
+      {
+        "name": "23",
+        "color": "#5ea653"
       }
     ]
   },
@@ -1446,6 +1518,24 @@
       {
         "name": "N5",
         "color": "#a35ca0"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpMUFA6MWIwZjYyOWYtYWNkYi00ZTk0LThjNTQtMDE4ZjQzMzRlYmY3",
+    "gtfs_id": "LPP:1b0f629f-acdb-4e94-8c54-018f4334ebf7",
+    "code": "404084",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Križišče Sostro",
+    "lat": 46.037487,
+    "lon": 14.608483,
+    "opposite": "404083",
+    "routes": [
+      {
+        "name": "26",
+        "color": "#1f1d1d"
       }
     ]
   },
@@ -1826,6 +1916,28 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpMUFA6MWZlODJhMDUtNWY2YS00MDc2LTllMTktMjNkNjFiODM1NTcy",
+    "gtfs_id": "LPP:1fe82a05-5f6a-4076-9e19-23d61b835572",
+    "code": "203011",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Pokopališka",
+    "lat": 46.065479,
+    "lon": 14.529408,
+    "opposite": "203012",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
       }
     ]
   },
@@ -2620,6 +2732,24 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6MmJlYjcwMTEtOTgyYS00MzQ5LWJlMjItYWRkZjFjM2JkZWM3",
+    "gtfs_id": "LPP:2beb7011-982a-4349-be22-addf1c3bdec7",
+    "code": "804193",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Pod Kamno Gorico",
+    "lat": 46.074257,
+    "lon": 14.455667,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "23",
+        "color": "#5ea653"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpMUFA6MmJmODk4YjAtMTI0Ny00ZTg0LTg3ZTItMmUwNDRlNTgwYzhm",
     "gtfs_id": "LPP:2bf898b0-1247-4e84-87e2-2e044e580c8f",
     "code": "203061",
@@ -3358,6 +3488,24 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6MzkwZDE2NmMtYjJmZS00ODZjLWJiYTUtMzhjZDFmZjY0ZjQ4",
+    "gtfs_id": "LPP:390d166c-b2fe-486c-bba5-38cd1ff64f48",
+    "code": "404083",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Križišče Sostro",
+    "lat": 46.037548,
+    "lon": 14.60845,
+    "opposite": "404084",
+    "routes": [
+      {
+        "name": "26",
+        "color": "#1f1d1d"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpMUFA6MzkxYmY0MmEtNjhhMy00MDBhLWJhZWEtMGM3MDhmMzI3MzI1",
     "gtfs_id": "LPP:391bf42a-68a3-400a-baea-0c708f327325",
     "code": "803183",
@@ -3470,6 +3618,24 @@
       {
         "name": "13",
         "color": "#c9cc54"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpMUFA6M2MxNDM2ODgtMjQ3Zi00MWNjLTk2MGQtZjVlMzdiODc0YzNh",
+    "gtfs_id": "LPP:3c143688-247f-41cc-960d-f5e37b874c3a",
+    "code": "104163",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Črnuče",
+    "lat": 46.10392,
+    "lon": 14.534587,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ]
   },
@@ -3594,6 +3760,24 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpMUFA6M2YwYzE1YjMtOTliZC00YzEyLThmN2EtZGYwNmM5NTM2NTI2",
+    "gtfs_id": "LPP:3f0c15b3-99bd-4c12-8f7a-df06c9536526",
+    "code": "404172",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Pod Sivnikom",
+    "lat": 46.036026,
+    "lon": 14.624857,
+    "opposite": "404171",
+    "routes": [
+      {
+        "name": "26",
+        "color": "#1f1d1d"
       }
     ]
   },
@@ -4881,7 +5065,7 @@
     "name": "Kamna Gorica",
     "lat": 46.078503,
     "lon": 14.467027,
-    "opposite": null,
+    "opposite": "803181",
     "routes": [
       {
         "name": "22",
@@ -7250,6 +7434,24 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6NzU1NGJiODEtMTE0NC00MjYzLTk5OWQtZjZlMzU4ZDgwOGZl",
+    "gtfs_id": "LPP:7554bb81-1144-4263-999d-f6e358d808fe",
+    "code": "405122",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Baron",
+    "lat": 46.038063,
+    "lon": 14.645587,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "26",
+        "color": "#1f1d1d"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpMUFA6NzU1ODA5OWItMDhhMy00M2JjLTgwNTYtNDliY2M1OTAwYTAz",
     "gtfs_id": "LPP:7558099b-08a3-43bc-8056-49bcc5900a03",
     "code": "404021",
@@ -9444,6 +9646,24 @@
       {
         "name": "8",
         "color": "#255d9f"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpMUFA6OTk1Y2JkNjctNTA3Yi00YzMyLWI3OTQtMGZmNDhlMGEzZGU5",
+    "gtfs_id": "LPP:995cbd67-507b-4c32-b794-0ff48e0a3de9",
+    "code": "803181",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "KAMNA GORICA",
+    "lat": 46.079453,
+    "lon": 14.46512,
+    "opposite": "803182",
+    "routes": [
+      {
+        "name": "23",
+        "color": "#5ea653"
       }
     ]
   },
@@ -11740,6 +11960,24 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6YmUxODgxYzktZDc5Zi00NTNlLWEyZWUtMjYwYThiZjNmZTEz",
+    "gtfs_id": "LPP:be1881c9-d79f-453e-a2ee-260a8bf3fe13",
+    "code": "203012",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Pokopališka",
+    "lat": 46.065437,
+    "lon": 14.52916,
+    "opposite": "203011",
+    "routes": [
+      {
+        "name": "24",
+        "color": "#d4267e"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpMUFA6YmU1ZmI3MTktZWRhMi00ODMxLTkwYzYtMjQ5MjQ4ZWEyMmRk",
     "gtfs_id": "LPP:be5fb719-eda2-4831-90c6-249248ea22dd",
     "code": "104161",
@@ -11826,6 +12064,24 @@
       {
         "name": "18",
         "color": "#765033"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpMUFA6YmY2NGI0OTktMjExYi00ZGE4LWFjZTItZjEyYTE3NjA4YWUz",
+    "gtfs_id": "LPP:bf64b499-211b-4da8-ace2-f12a17608ae3",
+    "code": "303043",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "ŠTEPANJSKO NAS.",
+    "lat": 46.053509,
+    "lon": 14.548228,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "9",
+        "color": "#829fc3"
       }
     ]
   },
@@ -13686,6 +13942,24 @@
       {
         "name": "16",
         "color": "#482972"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpMUFA6ZGE4MzRhMjMtNTY5Ny00OWJiLWIzYTEtN2YyNzdjODIwNmJj",
+    "gtfs_id": "LPP:da834a23-5697-49bb-b3a1-7f277c8206bc",
+    "code": "405011",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Javor",
+    "lat": 46.040215,
+    "lon": 14.640107,
+    "opposite": "405012",
+    "routes": [
+      {
+        "name": "26",
+        "color": "#1f1d1d"
       }
     ]
   },
