@@ -44,6 +44,7 @@ async function fetchAndProcessStations() {
       if (szKnownIds[stationIdStr] || station.type === "RAIL" || agency === "sž" || agency === "sz") {
         agency = "sz";
         station.type = "RAIL"; // Prisilimo RAIL, da jo koda spodaj pravilno obravnava
+        station.background_color = "#00A8EB"
       }
 
       // Shranimo samo BUS in RAIL
