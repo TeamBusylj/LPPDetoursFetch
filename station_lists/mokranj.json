@@ -32,6 +32,10 @@
       {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -50,6 +54,10 @@
       {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -79,7 +87,7 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -98,6 +106,24 @@
       {
         "name": "2",
         "color": "#FFF200"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwNA",
+    "gtfs_id": "MOKranj:104",
+    "code": "10062",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Struževo bloki",
+    "lat": 46.25165,
+    "lon": 14.3396,
+    "opposite": "10062",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -134,6 +160,10 @@
       {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -152,6 +182,28 @@
       {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwOA",
+    "gtfs_id": "MOKranj:108",
+    "code": "10064",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Struževo bloki",
+    "lat": 46.2517,
+    "lon": 14.3396,
+    "opposite": "10064",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -181,7 +233,7 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -206,8 +258,12 @@
         "color": "#FFF200"
       },
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -222,6 +278,28 @@
     "lat": 46.25375,
     "lon": 14.3778,
     "opposite": "17250",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExMQ",
+    "gtfs_id": "MOKranj:111",
+    "code": "12408",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kokrica žaga",
+    "lat": 46.26204,
+    "lon": 14.36027,
+    "opposite": "12408",
     "routes": [
       {
         "name": "6",
@@ -254,6 +332,10 @@
         "color": "#A54786"
       },
       {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
         "name": "5",
         "color": "#231F20"
       },
@@ -267,7 +349,25 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExMw",
+    "gtfs_id": "MOKranj:113",
+    "code": "12366",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Flora",
+    "lat": 46.22532,
+    "lon": 14.32946,
+    "opposite": "12366",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -339,7 +439,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -386,8 +486,12 @@
         "color": "#A54786"
       },
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -408,12 +512,16 @@
         "color": "#00AEEF"
       },
       {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
         "name": "3",
         "color": "#A54786"
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -432,6 +540,10 @@
       {
         "name": "3",
         "color": "#A54786"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -468,6 +580,10 @@
       {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -492,8 +608,12 @@
         "color": "#FFF200"
       },
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -530,6 +650,10 @@
       {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -548,6 +672,10 @@
       {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -566,6 +694,24 @@
       {
         "name": "3",
         "color": "#A54786"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEz",
+    "gtfs_id": "MOKranj:13",
+    "code": "12439",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj C.Kokrškega Odreda",
+    "lat": 46.25051,
+    "lon": 14.36079,
+    "opposite": "12439",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
       }
     ]
   },
@@ -609,7 +755,7 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -628,6 +774,10 @@
       {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -646,6 +796,10 @@
       {
         "name": "1",
         "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
       }
     ]
   },
@@ -686,6 +840,24 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjEzNw",
+    "gtfs_id": "MOKranj:137",
+    "code": "13430",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče Š",
+    "lat": 46.23364,
+    "lon": 14.34503,
+    "opposite": "13430",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjEzOQ",
     "gtfs_id": "MOKranj:139",
     "code": "12344",
@@ -698,8 +870,12 @@
     "opposite": "12344",
     "routes": [
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -744,6 +920,10 @@
       {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -762,6 +942,10 @@
       {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -778,8 +962,30 @@
     "opposite": "12345",
     "routes": [
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0Mw",
+    "gtfs_id": "MOKranj:143",
+    "code": "16303",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Zlato polje P+R",
+    "lat": 46.2493,
+    "lon": 14.34755,
+    "opposite": "16303",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -804,8 +1010,48 @@
         "color": "#A54786"
       },
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0NQ",
+    "gtfs_id": "MOKranj:145",
+    "code": "16302",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Zlato polje P+R",
+    "lat": 46.25052,
+    "lon": 14.34611,
+    "opposite": "16302",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0Nw",
+    "gtfs_id": "MOKranj:147",
+    "code": "10048",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Rupa",
+    "lat": 46.2567,
+    "lon": 14.3648,
+    "opposite": "10048",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
       }
     ]
   },
@@ -842,6 +1088,10 @@
       {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -885,7 +1135,7 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -902,8 +1152,16 @@
     "opposite": "12347",
     "routes": [
       {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
         "name": "3",
         "color": "#A54786"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -972,6 +1230,10 @@
         "color": "#A54786"
       },
       {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
         "name": "5",
         "color": "#231F20"
       },
@@ -985,7 +1247,25 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE5",
+    "gtfs_id": "MOKranj:19",
+    "code": "10098",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zgornje Bitnje 140",
+    "lat": 46.22379,
+    "lon": 14.33154,
+    "opposite": "10098",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1094,6 +1374,32 @@
       {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjI1",
+    "gtfs_id": "MOKranj:25",
+    "code": "14730",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Planika",
+    "lat": 46.22868,
+    "lon": 14.36013,
+    "opposite": "14730",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -1138,6 +1444,28 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjI4",
+    "gtfs_id": "MOKranj:28",
+    "code": "10775",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Primskovo na Klancu",
+    "lat": 46.24331,
+    "lon": 14.36516,
+    "opposite": "10775",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjI5",
     "gtfs_id": "MOKranj:29",
     "code": "12280",
@@ -1156,6 +1484,24 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjM",
+    "gtfs_id": "MOKranj:3",
+    "code": "10091",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zgornje Bitnje 140",
+    "lat": 46.22384,
+    "lon": 14.33156,
+    "opposite": "10091",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjMw",
     "gtfs_id": "MOKranj:30",
     "code": "12560",
@@ -1170,6 +1516,46 @@
       {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjMwMg",
+    "gtfs_id": "MOKranj:302",
+    "code": "17738",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj OŠ Simona Jenka",
+    "lat": 46.25077,
+    "lon": 14.35822,
+    "opposite": "17738",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjMwMw",
+    "gtfs_id": "MOKranj:303",
+    "code": "17739",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj OŠ Simona Jenka",
+    "lat": 46.25084,
+    "lon": 14.35837,
+    "opposite": "17739",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
       }
     ]
   },
@@ -1190,8 +1576,16 @@
         "color": "#00AEEF"
       },
       {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1221,7 +1615,7 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1246,6 +1640,10 @@
         "color": "#FFF200"
       },
       {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
         "name": "5",
         "color": "#231F20"
       },
@@ -1259,7 +1657,7 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1284,6 +1682,10 @@
         "color": "#FFF200"
       },
       {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
         "name": "5",
         "color": "#231F20"
       },
@@ -1297,7 +1699,7 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1316,6 +1718,132 @@
       {
         "name": "2",
         "color": "#FFF200"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM3",
+    "gtfs_id": "MOKranj:37",
+    "code": "10071",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje Pokorn",
+    "lat": 46.21169,
+    "lon": 14.33198,
+    "opposite": "10071",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM4",
+    "gtfs_id": "MOKranj:38",
+    "code": "10073",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje Zora",
+    "lat": 46.21423,
+    "lon": 14.33249,
+    "opposite": "10073",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM5",
+    "gtfs_id": "MOKranj:39",
+    "code": "9921",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Perivnik",
+    "lat": 46.25114,
+    "lon": 14.34228,
+    "opposite": "9921",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ",
+    "gtfs_id": "MOKranj:4",
+    "code": "10093",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zg.Bitnje Jenko",
+    "lat": 46.21882,
+    "lon": 14.33359,
+    "opposite": "10093",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQw",
+    "gtfs_id": "MOKranj:40",
+    "code": "10075",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje most pri Bitencu",
+    "lat": 46.21586,
+    "lon": 14.33328,
+    "opposite": "10075",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQwMg",
+    "gtfs_id": "MOKranj:402",
+    "code": "18402",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Zarica",
+    "lat": 46.22052,
+    "lon": 14.36764,
+    "opposite": "18402",
+    "routes": [
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQx",
+    "gtfs_id": "MOKranj:41",
+    "code": "10074",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje most pri Bitencu",
+    "lat": 46.21588,
+    "lon": 14.33321,
+    "opposite": "10074",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1374,6 +1902,10 @@
       {
         "name": "3",
         "color": "#A54786"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1400,6 +1932,60 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjQ5",
+    "gtfs_id": "MOKranj:49",
+    "code": "12415",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kitajska restavracija",
+    "lat": 46.22086,
+    "lon": 14.33234,
+    "opposite": "12415",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU",
+    "gtfs_id": "MOKranj:5",
+    "code": "10095",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zg.Bitnje Jenko",
+    "lat": 46.21881,
+    "lon": 14.33364,
+    "opposite": "10095",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUw",
+    "gtfs_id": "MOKranj:50",
+    "code": "14714",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Iskra sp.",
+    "lat": 46.2356,
+    "lon": 14.35306,
+    "opposite": "14714",
+    "routes": [
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjUwMg",
     "gtfs_id": "MOKranj:502",
     "code": "18521",
@@ -1416,8 +2002,30 @@
         "color": "#00AEEF"
       },
       {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUwMw",
+    "gtfs_id": "MOKranj:503",
+    "code": "18509",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Perivnik",
+    "lat": 46.25115,
+    "lon": 14.34222,
+    "opposite": "18509",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1436,6 +2044,46 @@
       {
         "name": "3",
         "color": "#A54786"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUy",
+    "gtfs_id": "MOKranj:52",
+    "code": "12412",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kokrica žaga",
+    "lat": 46.26192,
+    "lon": 14.3602,
+    "opposite": "12412",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU0",
+    "gtfs_id": "MOKranj:54",
+    "code": "12534",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Bauimex",
+    "lat": 46.22763,
+    "lon": 14.32873,
+    "opposite": "12534",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1484,6 +2132,82 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjU3",
+    "gtfs_id": "MOKranj:57",
+    "code": "10081",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Struževo KS",
+    "lat": 46.25063,
+    "lon": 14.33803,
+    "opposite": "10081",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU4",
+    "gtfs_id": "MOKranj:58",
+    "code": "10084",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Struževo pod žel.mostom",
+    "lat": 46.24887,
+    "lon": 14.34179,
+    "opposite": "10084",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU5",
+    "gtfs_id": "MOKranj:59",
+    "code": "9898",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj ZD",
+    "lat": 46.24967,
+    "lon": 14.35299,
+    "opposite": "9898",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY",
+    "gtfs_id": "MOKranj:6",
+    "code": "12273",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Iskra sp.",
+    "lat": 46.23567,
+    "lon": 14.35313,
+    "opposite": "12273",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjYwMg",
     "gtfs_id": "MOKranj:602",
     "code": "18908",
@@ -1516,6 +2240,10 @@
       {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -1538,6 +2266,10 @@
       {
         "name": "2",
         "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
       },
       {
         "name": "5",
@@ -1574,8 +2306,12 @@
         "color": "#FFF200"
       },
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1593,7 +2329,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1634,6 +2370,24 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjY3",
+    "gtfs_id": "MOKranj:67",
+    "code": "12427",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj C.Kokrškega Odreda",
+    "lat": 46.25052,
+    "lon": 14.36073,
+    "opposite": "12427",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjY4",
     "gtfs_id": "MOKranj:68",
     "code": "10768",
@@ -1659,7 +2413,43 @@
       },
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY5",
+    "gtfs_id": "MOKranj:69",
+    "code": "11978",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče DD",
+    "lat": 46.23697,
+    "lon": 14.34519,
+    "opposite": "11978",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjc",
+    "gtfs_id": "MOKranj:7",
+    "code": "10097",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Tominčeva 24",
+    "lat": 46.23392,
+    "lon": 14.34094,
+    "opposite": "10097",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1682,6 +2472,50 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjcx",
+    "gtfs_id": "MOKranj:71",
+    "code": "12422",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kitajska restavracija",
+    "lat": 46.22084,
+    "lon": 14.33234,
+    "opposite": "12422",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjcy",
+    "gtfs_id": "MOKranj:72",
+    "code": "10087",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Suha",
+    "lat": 46.27301,
+    "lon": 14.39814,
+    "opposite": "10087",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjcz",
     "gtfs_id": "MOKranj:73",
     "code": "10123",
@@ -1700,6 +2534,24 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjc1",
+    "gtfs_id": "MOKranj:75",
+    "code": "10089",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zg.Bitnje trgovina",
+    "lat": 46.22104,
+    "lon": 14.33629,
+    "opposite": "10089",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjc2",
     "gtfs_id": "MOKranj:76",
     "code": "9928",
@@ -1713,7 +2565,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1731,7 +2583,33 @@
     "routes": [
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjc4",
+    "gtfs_id": "MOKranj:78",
+    "code": "10125",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Predoslje GD",
+    "lat": 46.26807,
+    "lon": 14.38574,
+    "opposite": "10125",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
       }
     ]
   },
@@ -1750,6 +2628,28 @@
       {
         "name": "5",
         "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg",
+    "gtfs_id": "MOKranj:8",
+    "code": "10096",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Tominčeva 24",
+    "lat": 46.23392,
+    "lon": 14.34233,
+    "opposite": "10096",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1774,8 +2674,12 @@
         "color": "#A54786"
       },
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1828,6 +2732,10 @@
       {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
       }
     ]
   },
@@ -1845,7 +2753,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
       }
     ]
   },
@@ -1864,6 +2772,104 @@
       {
         "name": "6",
         "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg1",
+    "gtfs_id": "MOKranj:85",
+    "code": "9942",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Pševska c.52",
+    "lat": 46.23126,
+    "lon": 14.33586,
+    "opposite": "9942",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg2",
+    "gtfs_id": "MOKranj:86",
+    "code": "10050",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sp.Bitnje pri Bošnjakoviču",
+    "lat": 46.20795,
+    "lon": 14.33256,
+    "opposite": "10050",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg3",
+    "gtfs_id": "MOKranj:87",
+    "code": "9940",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Pševska c.52",
+    "lat": 46.23123,
+    "lon": 14.33579,
+    "opposite": "9940",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg4",
+    "gtfs_id": "MOKranj:88",
+    "code": "10053",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Rupa",
+    "lat": 46.25669,
+    "lon": 14.36488,
+    "opposite": "10053",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg5",
+    "gtfs_id": "MOKranj:89",
+    "code": "10052",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Rožna ulica",
+    "lat": 46.23317,
+    "lon": 14.33809,
+    "opposite": "10052",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1884,8 +2890,30 @@
         "color": "#00AEEF"
       },
       {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
         "name": "15",
-        "color": "#290308"
+        "color": "#0F4D0C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjkw",
+    "gtfs_id": "MOKranj:90",
+    "code": "12517",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Bauimex",
+    "lat": 46.22761,
+    "lon": 14.32867,
+    "opposite": "12517",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   },
@@ -1908,6 +2936,42 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjky",
+    "gtfs_id": "MOKranj:92",
+    "code": "10057",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje Avto prevoz Hafner",
+    "lat": 46.21302,
+    "lon": 14.33227,
+    "opposite": "10057",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjkz",
+    "gtfs_id": "MOKranj:93",
+    "code": "10056",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Rožna ulica",
+    "lat": 46.23322,
+    "lon": 14.33796,
+    "opposite": "10056",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjk0",
     "gtfs_id": "MOKranj:94",
     "code": "9934",
@@ -1922,6 +2986,60 @@
       {
         "name": "5",
         "color": "#231F20"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk1",
+    "gtfs_id": "MOKranj:95",
+    "code": "12359",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Flora",
+    "lat": 46.22532,
+    "lon": 14.32942,
+    "opposite": "12359",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk2",
+    "gtfs_id": "MOKranj:96",
+    "code": "10059",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje Avto prevoz Hafner",
+    "lat": 46.21305,
+    "lon": 14.33222,
+    "opposite": "10059",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk3",
+    "gtfs_id": "MOKranj:97",
+    "code": "10058",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sp.Bitnje pri Bošnjakoviču",
+    "lat": 46.20799,
+    "lon": 14.33259,
+    "opposite": "10058",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
       }
     ]
   }

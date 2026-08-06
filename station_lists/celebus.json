@@ -1008,42 +1008,6 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNTEyOTA",
-    "gtfs_id": "CELEBUS:1151290",
-    "code": "16209_50009",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Cesta na grad bife",
-    "lat": 46.2250716,
-    "lon": 15.2750423,
-    "opposite": "16209_50009",
-    "routes": [
-      {
-        "name": "5A",
-        "color": "#a15cad"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNTEyOTI",
-    "gtfs_id": "CELEBUS:1151292",
-    "code": "16207_32887",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Cesta na grad K",
-    "lat": 46.2255479,
-    "lon": 15.2781306,
-    "opposite": "16207_32887",
-    "routes": [
-      {
-        "name": "5A",
-        "color": "#a15cad"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExNTEyOTM",
     "gtfs_id": "CELEBUS:1151293",
     "code": "16169_49325",
@@ -1378,24 +1342,6 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjY0MDQ",
-    "gtfs_id": "CELEBUS:1166404",
-    "code": "11226_49308",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Skalna klet",
-    "lat": 46.2256155,
-    "lon": 15.2706166,
-    "opposite": "11226_49308",
-    "routes": [
-      {
-        "name": "5A",
-        "color": "#a15cad"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MDY",
     "gtfs_id": "CELEBUS:1166406",
     "code": "10158_49310",
@@ -1634,24 +1580,6 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjY0MjE",
-    "gtfs_id": "CELEBUS:1166421",
-    "code": "16209_49323",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Cesta na grad bife",
-    "lat": 46.2250234,
-    "lon": 15.2751426,
-    "opposite": "16209_49323",
-    "routes": [
-      {
-        "name": "5A",
-        "color": "#a15cad"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MjI",
     "gtfs_id": "CELEBUS:1166422",
     "code": "16207_49324",
@@ -1667,24 +1595,6 @@
         "name": "5",
         "color": "#ff9a56"
       },
-      {
-        "name": "5A",
-        "color": "#a15cad"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjY0MjQ",
-    "gtfs_id": "CELEBUS:1166424",
-    "code": "11226_49326",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Skalna klet",
-    "lat": 46.2255874,
-    "lon": 15.2705473,
-    "opposite": "11226_49326",
-    "routes": [
       {
         "name": "5A",
         "color": "#a15cad"
@@ -2030,5 +1940,83 @@
         "color": "#178048"
       }
     ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjM",
+    "gtfs_id": "CELEBUS:1168363",
+    "code": "16193_48860",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje gimnazija",
+    "lat": 46.2322376,
+    "lon": 15.2643003,
+    "opposite": "16193_48860",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0Nzk",
+    "gtfs_id": "CELEBUS:1168479",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Čopova transformator",
+    "lat": 46.236082,
+    "lon": 15.253809,
+    "opposite": "CELEBUS:1168479",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODA",
+    "gtfs_id": "CELEBUS:1168480",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Čopova transformator",
+    "lat": 46.235399,
+    "lon": 15.253585,
+    "opposite": "CELEBUS:1168480",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg3NjE",
+    "gtfs_id": "CELEBUS:1168761",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Glazija",
+    "lat": 46.2317492,
+    "lon": 15.2595342,
+    "opposite": "CELEBUS:1168761",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg3NjI",
+    "gtfs_id": "CELEBUS:1168762",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Glazija",
+    "lat": 46.2324972,
+    "lon": 15.2584274,
+    "opposite": "CELEBUS:1168762",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg3NjM",
+    "gtfs_id": "CELEBUS:1168763",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Lava most",
+    "lat": 46.2487899,
+    "lon": 15.2538398,
+    "opposite": "CELEBUS:1168763",
+    "routes": []
   }
 ]
