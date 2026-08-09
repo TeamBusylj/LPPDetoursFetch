@@ -7,8 +7,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota AP",
-    "lat": 46.6587909,
-    "lon": 16.1651404,
+    "lat": 46.658791,
+    "lon": 16.16514,
     "opposite": "1122433",
     "routes": [
       {
@@ -29,8 +29,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Ekonom. Š",
-    "lat": 46.6653123,
-    "lon": 16.1810928,
+    "lat": 46.665314,
+    "lon": 16.181093,
     "opposite": "1122442",
     "routes": [
       {
@@ -47,8 +47,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Prežihova ulica",
-    "lat": 46.6601884,
-    "lon": 16.1568467,
+    "lat": 46.660187,
+    "lon": 16.156847,
     "opposite": "1122443",
     "routes": [
       {
@@ -65,8 +65,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Slovenska ulica I/Blagovnica",
-    "lat": 46.6589472,
-    "lon": 16.1665811,
+    "lat": 46.658947,
+    "lon": 16.16658,
     "opposite": "1122445",
     "routes": [
       {
@@ -87,8 +87,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Slovenska ulica II/MO MS",
-    "lat": 46.6630667,
-    "lon": 16.1649054,
+    "lat": 46.663067,
+    "lon": 16.164906,
     "opposite": "1122447",
     "routes": [
       {
@@ -109,7 +109,7 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica I",
-    "lat": 46.6523049,
+    "lat": 46.652306,
     "lon": 16.157084,
     "opposite": "1122448",
     "routes": [
@@ -127,8 +127,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica I",
-    "lat": 46.6530291,
-    "lon": 16.1575306,
+    "lat": 46.65303,
+    "lon": 16.15753,
     "opposite": "1122449",
     "routes": [
       {
@@ -145,8 +145,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica II/dijaški dom",
-    "lat": 46.6550993,
-    "lon": 16.1592209,
+    "lat": 46.655098,
+    "lon": 16.159222,
     "opposite": "1122450",
     "routes": [
       {
@@ -163,8 +163,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica II/dijaški dom",
-    "lat": 46.6549933,
-    "lon": 16.1590227,
+    "lat": 46.654995,
+    "lon": 16.159023,
     "opposite": "1122451",
     "routes": [
       {
@@ -181,8 +181,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Trstenjakova ulica I/trgovina",
-    "lat": 46.6553542,
-    "lon": 16.1624798,
+    "lat": 46.655354,
+    "lon": 16.162479,
     "opposite": "1122453",
     "routes": [
       {
@@ -199,8 +199,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Trstenjakova ulica I/trgovina",
-    "lat": 46.6553575,
-    "lon": 16.1621532,
+    "lat": 46.655357,
+    "lon": 16.162153,
     "opposite": "1122454",
     "routes": [
       {
@@ -217,8 +217,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Trstenjakova ulica II/OŠ III",
-    "lat": 46.6542518,
-    "lon": 16.1682704,
+    "lat": 46.654251,
+    "lon": 16.16827,
     "opposite": "1122455",
     "routes": [
       {
@@ -235,8 +235,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Trstenjakova ulica II/OŠ III",
-    "lat": 46.6541503,
-    "lon": 16.1685164,
+    "lat": 46.654152,
+    "lon": 16.168516,
     "opposite": "1122456",
     "routes": [
       {
@@ -253,8 +253,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Ul.Mikloša Kuzmiča I",
-    "lat": 46.6600185,
-    "lon": 16.1540598,
+    "lat": 46.660019,
+    "lon": 16.15406,
     "opposite": "1122457",
     "routes": [
       {
@@ -275,8 +275,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Ul.Mikloša Kuzmiča I",
-    "lat": 46.6599453,
-    "lon": 16.154189,
+    "lat": 46.659946,
+    "lon": 16.154188,
     "opposite": "1122458",
     "routes": [
       {
@@ -297,8 +297,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Ul.Mikloša Kuzmiča II",
-    "lat": 46.6570602,
-    "lon": 16.1539056,
+    "lat": 46.657059,
+    "lon": 16.153906,
     "opposite": "1122459",
     "routes": [
       {
@@ -319,8 +319,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Ul.Mikloša Kuzmiča II",
-    "lat": 46.6578233,
-    "lon": 16.1540655,
+    "lat": 46.657822,
+    "lon": 16.154066,
     "opposite": "1122460",
     "routes": [
       {
@@ -341,8 +341,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Ulica Štefana Kuzmiča",
-    "lat": 46.6605251,
-    "lon": 16.1555733,
+    "lat": 46.660526,
+    "lon": 16.155573,
     "opposite": "1122461",
     "routes": [
       {
@@ -359,8 +359,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Ulica Zorana Velnarja",
-    "lat": 46.6548341,
-    "lon": 16.1534011,
+    "lat": 46.654835,
+    "lon": 16.1534,
     "opposite": "1122462",
     "routes": [
       {
@@ -377,8 +377,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Ulica Zorana Velnarja",
-    "lat": 46.6549848,
-    "lon": 16.1536264,
+    "lat": 46.654984,
+    "lon": 16.153625,
     "opposite": "1122463",
     "routes": [
       {
@@ -395,8 +395,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Černelavci",
-    "lat": 46.6683266,
-    "lon": 16.1364791,
+    "lat": 46.668327,
+    "lon": 16.136478,
     "opposite": "1123983",
     "routes": [
       {
@@ -413,8 +413,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Černelavci Liškova",
-    "lat": 46.6648778,
-    "lon": 16.1398286,
+    "lat": 46.664879,
+    "lon": 16.139828,
     "opposite": "1123986",
     "routes": [
       {
@@ -431,8 +431,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Bakša",
-    "lat": 46.6554918,
-    "lon": 16.1821402,
+    "lat": 46.655491,
+    "lon": 16.18214,
     "opposite": "1127728",
     "routes": [
       {
@@ -449,8 +449,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Bakša",
-    "lat": 46.6548894,
-    "lon": 16.1830696,
+    "lat": 46.654888,
+    "lon": 16.183069,
     "opposite": "1127729",
     "routes": [
       {
@@ -467,8 +467,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota CPŠ",
-    "lat": 46.6613579,
-    "lon": 16.1520218,
+    "lat": 46.661358,
+    "lon": 16.152021,
     "opposite": "1127732",
     "routes": [
       {
@@ -485,8 +485,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota CPŠ",
-    "lat": 46.6614934,
-    "lon": 16.1520478,
+    "lat": 46.661495,
+    "lon": 16.152048,
     "opposite": "1127733",
     "routes": [
       {
@@ -503,8 +503,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Indus.",
-    "lat": 46.6643348,
-    "lon": 16.1749599,
+    "lat": 46.664333,
+    "lon": 16.174959,
     "opposite": "1127738",
     "routes": [
       {
@@ -521,8 +521,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Indus.",
-    "lat": 46.6642538,
-    "lon": 16.1747543,
+    "lat": 46.664253,
+    "lon": 16.174755,
     "opposite": "1127739",
     "routes": [
       {
@@ -539,8 +539,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Mura",
-    "lat": 46.6587408,
-    "lon": 16.1767095,
+    "lat": 46.658741,
+    "lon": 16.17671,
     "opposite": "1127740",
     "routes": [
       {
@@ -557,8 +557,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Polanič",
-    "lat": 46.655805,
-    "lon": 16.1550835,
+    "lat": 46.655804,
+    "lon": 16.155083,
     "opposite": "1127742",
     "routes": [
       {
@@ -575,8 +575,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Polanič",
-    "lat": 46.6558503,
-    "lon": 16.1546588,
+    "lat": 46.655849,
+    "lon": 16.154659,
     "opposite": "1127744",
     "routes": [
       {
@@ -593,8 +593,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Nemčavci kapela",
-    "lat": 46.6797189,
-    "lon": 16.1764256,
+    "lat": 46.679718,
+    "lon": 16.176426,
     "opposite": "1127818",
     "routes": [
       {
@@ -611,7 +611,7 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Rakičan",
-    "lat": 46.6503781,
+    "lat": 46.650379,
     "lon": 16.192324,
     "opposite": "1129190",
     "routes": [
@@ -629,8 +629,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Rakičan",
-    "lat": 46.6497683,
-    "lon": 16.1936203,
+    "lat": 46.649769,
+    "lon": 16.193621,
     "opposite": "1129191",
     "routes": [
       {
@@ -647,8 +647,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Rakičan bol.",
-    "lat": 46.6502855,
-    "lon": 16.1873737,
+    "lat": 46.650284,
+    "lon": 16.187374,
     "opposite": "1129192",
     "routes": [
       {
@@ -665,8 +665,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Rakičan Gmajna",
-    "lat": 46.6490149,
-    "lon": 16.2041121,
+    "lat": 46.649014,
+    "lon": 16.204113,
     "opposite": "1150473",
     "routes": [
       {
@@ -683,8 +683,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Mura",
-    "lat": 46.6587831,
-    "lon": 16.1767355,
+    "lat": 46.658783,
+    "lon": 16.176735,
     "opposite": "1150752",
     "routes": [
       {
@@ -701,8 +701,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Rakičan GD",
-    "lat": 46.6507593,
-    "lon": 16.1957948,
+    "lat": 46.650761,
+    "lon": 16.195795,
     "opposite": "1150869",
     "routes": [
       {
@@ -719,7 +719,7 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Mol",
-    "lat": 46.656099,
+    "lat": 46.656097,
     "lon": 16.174662,
     "opposite": "1151665",
     "routes": [
@@ -737,7 +737,7 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Pomurske Mlekarne prodajalna",
-    "lat": 46.662215,
+    "lat": 46.662216,
     "lon": 16.174196,
     "opposite": "1151666",
     "routes": [
@@ -773,7 +773,7 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Černelavci Ledavska 30",
-    "lat": 46.67053,
+    "lat": 46.670528,
     "lon": 16.139868,
     "opposite": "1151668",
     "routes": [
@@ -791,7 +791,7 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Černelavci Dolga ul.54",
-    "lat": 46.666327,
+    "lat": 46.666328,
     "lon": 16.14167,
     "opposite": "1151669",
     "routes": [
@@ -809,8 +809,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "BTC trgovina",
-    "lat": 46.669374,
-    "lon": 16.1775655,
+    "lat": 46.669373,
+    "lon": 16.177565,
     "opposite": "1151670",
     "routes": [
       {
@@ -827,7 +827,7 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Nemčavci hiš.št.3",
-    "lat": 46.675128,
+    "lat": 46.675129,
     "lon": 16.174999,
     "opposite": "1151672",
     "routes": [
@@ -867,8 +867,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Slovenska ulica II/MO MS",
-    "lat": 46.6630867,
-    "lon": 16.1647098,
+    "lat": 46.663086,
+    "lon": 16.164709,
     "opposite": "1167055",
     "routes": [
       {
@@ -889,7 +889,7 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Žuta kuča",
-    "lat": 46.65874,
+    "lat": 46.658741,
     "lon": 16.16906,
     "opposite": "1167086",
     "routes": [
@@ -911,8 +911,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "M. Sobota Lendavska ul. II",
-    "lat": 46.6678053,
-    "lon": 16.1776579,
+    "lat": 46.667805,
+    "lon": 16.177658,
     "opposite": "1167518",
     "routes": [
       {
@@ -929,8 +929,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "M. Sobota Lendavska ul. II",
-    "lat": 46.6675346,
-    "lon": 16.1774953,
+    "lat": 46.667534,
+    "lon": 16.177496,
     "opposite": "1167519",
     "routes": [
       {
@@ -947,8 +947,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Jakobovo naselje",
-    "lat": 46.6515173,
-    "lon": 16.1513187,
+    "lat": 46.651516,
+    "lon": 16.15132,
     "opposite": "1167530",
     "routes": [
       {
@@ -965,8 +965,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Jakobovo naselje",
-    "lat": 46.6514601,
-    "lon": 16.1516311,
+    "lat": 46.651459,
+    "lon": 16.15163,
     "opposite": "1167531",
     "routes": [
       {
@@ -983,8 +983,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "M. Sobota Lendavska ul. I",
-    "lat": 46.6642114,
-    "lon": 16.1675607,
+    "lat": 46.664211,
+    "lon": 16.167561,
     "opposite": "1167534",
     "routes": [
       {
@@ -1005,8 +1005,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "M. Sobota Lendavska ul. I",
-    "lat": 46.664115,
-    "lon": 16.1676621,
+    "lat": 46.664116,
+    "lon": 16.167662,
     "opposite": "1167535",
     "routes": [
       {
@@ -1027,8 +1027,8 @@
     "background_color": "#00897E",
     "icon_color": "#FFFFFF",
     "name": "Murska Sobota Maximus trg.",
-    "lat": 46.660438,
-    "lon": 16.146028,
+    "lat": 46.660439,
+    "lon": 16.146029,
     "opposite": "1167980",
     "routes": [
       {
