@@ -100775,9 +100775,7 @@
     "lat": 46.5166108,
     "lon": 16.2504107,
     "opposite": null,
-    "agencies": [
-      "1121"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOjExMzE1MDY",
@@ -100790,9 +100788,7 @@
     "lat": 46.5166811,
     "lon": 16.2504171,
     "opposite": null,
-    "agencies": [
-      "1121"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOjExMzE1MDc",

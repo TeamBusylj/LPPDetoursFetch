@@ -212,7 +212,6 @@
     "lon": 15.1704534,
     "opposite": null,
     "agencies": [
-      "BUS",
       "EC",
       "EN",
       "IC",
@@ -234,7 +233,6 @@
     "lon": 15.0935403,
     "opposite": null,
     "agencies": [
-      "BUS",
       "IC",
       "LPV",
       "RG"
@@ -252,7 +250,6 @@
     "lon": 15.036914,
     "opposite": null,
     "agencies": [
-      "BUS",
       "EC",
       "IC",
       "LPV",
@@ -272,7 +269,6 @@
     "lon": 14.9911437,
     "opposite": null,
     "agencies": [
-      "BUS",
       "EC",
       "IC",
       "LPV",
@@ -292,7 +288,6 @@
     "lon": 14.8991794,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "RG"
     ]
@@ -309,7 +304,6 @@
     "lon": 14.8251564,
     "opposite": null,
     "agencies": [
-      "BUS",
       "EC",
       "IC",
       "LPV",
@@ -329,7 +323,6 @@
     "lon": 14.7912962,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "RG"
     ]
@@ -346,7 +339,6 @@
     "lon": 14.7367128,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "RG"
     ]
@@ -363,7 +355,6 @@
     "lon": 14.6876197,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "RG"
     ]
@@ -380,7 +371,6 @@
     "lon": 14.5847213,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "RG"
     ]
@@ -397,7 +387,6 @@
     "lon": 14.6153758,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "RG"
     ]
@@ -1710,7 +1699,6 @@
     "lon": 15.2030635,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "MV"
     ]
@@ -1727,7 +1715,6 @@
     "lon": 15.2320551,
     "opposite": null,
     "agencies": [
-      "BUS",
       "EC",
       "EN",
       "IC",
@@ -1771,7 +1758,6 @@
     "lon": 15.3219158,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LP",
       "LPV"
     ]
@@ -1788,7 +1774,6 @@
     "lon": 15.3962518,
     "opposite": null,
     "agencies": [
-      "BUS",
       "IC",
       "LP",
       "LPV",
@@ -1807,7 +1792,6 @@
     "lon": 15.4396055,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LP",
       "LPV",
       "RG"
@@ -1825,7 +1809,6 @@
     "lon": 15.4306764,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV"
     ]
   },
@@ -1841,7 +1824,6 @@
     "lon": 15.4981052,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV"
     ]
   },
@@ -1857,7 +1839,6 @@
     "lon": 15.5765839,
     "opposite": null,
     "agencies": [
-      "BUS",
       "EC",
       "IC",
       "LPV",
@@ -1877,7 +1858,6 @@
     "lon": 15.5981248,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV"
     ]
   },
@@ -1893,7 +1873,6 @@
     "lon": 15.4729326,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV"
     ]
   },
@@ -1940,7 +1919,6 @@
     "lon": 15.6621627,
     "opposite": null,
     "agencies": [
-      "BUS",
       "EC",
       "IC",
       "ICS",
@@ -1962,7 +1940,6 @@
     "lon": 15.6638579,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "RG"
     ]
@@ -1979,7 +1956,6 @@
     "lon": 15.6634857,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV"
     ]
   },
@@ -1995,7 +1971,6 @@
     "lon": 15.6629414,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV",
       "RG"
     ]
@@ -2173,7 +2148,6 @@
     "lon": 15.658327,
     "opposite": null,
     "agencies": [
-      "BUS",
       "EC",
       "EN",
       "IC",
@@ -4301,7 +4275,6 @@
     "lon": 15.6511331,
     "opposite": null,
     "agencies": [
-      "BUS",
       "LPV"
     ]
   },
