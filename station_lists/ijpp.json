@@ -54548,6 +54548,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjc0NTI",
+    "gtfs_id": "IJPP:1127452",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Medija K",
+    "lat": 46.1542419,
+    "lon": 14.884943,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjc0NTM",
     "gtfs_id": "IJPP:1127453",
     "code": null,
@@ -100765,32 +100780,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMzE1MDU",
-    "gtfs_id": "IJPP:1131505",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Veščica Novak/Ljut.",
-    "lat": 46.5166108,
-    "lon": 16.2504107,
-    "opposite": null,
-    "agencies": []
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMzE1MDY",
-    "gtfs_id": "IJPP:1131506",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Veščica Novak/Ljut.",
-    "lat": 46.5166811,
-    "lon": 16.2504171,
-    "opposite": null,
-    "agencies": []
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMzE1MDc",
     "gtfs_id": "IJPP:1131507",
     "code": null,
@@ -124748,6 +124737,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjU3MTM",
+    "gtfs_id": "IJPP:1165713",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Brezje/Sv.Jurij ob Ščavn.",
+    "lat": 46.566765,
+    "lon": 16.004079,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjU3MTQ",
     "gtfs_id": "IJPP:1165714",
     "code": null,
@@ -127383,6 +127387,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjY1MjQ",
+    "gtfs_id": "IJPP:1166524",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Klinja vas",
+    "lat": 45.664275,
+    "lon": 14.8722545,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjY1MjY",
     "gtfs_id": "IJPP:1166526",
     "code": null,
@@ -127609,6 +127628,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjY1NjM",
+    "gtfs_id": "IJPP:1166563",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Šalka vas",
+    "lat": 45.6509839,
+    "lon": 14.8793516,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjY1NjU",
     "gtfs_id": "IJPP:1166565",
     "code": null,
@@ -127695,6 +127729,21 @@
     "name": "Zabrdo",
     "lat": 46.0224388,
     "lon": 13.6755898,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjY1Nzk",
+    "gtfs_id": "IJPP:1166579",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Željne",
+    "lat": 45.6586203,
+    "lon": 14.884332,
     "opposite": null,
     "agencies": [
       "1119"
@@ -136499,6 +136548,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjc4MTE",
+    "gtfs_id": "IJPP:1167811",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Starošince",
+    "lat": 46.4255506,
+    "lon": 15.7286893,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjc4MTI",
     "gtfs_id": "IJPP:1167812",
     "code": null,
@@ -139743,6 +139807,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjgzMTY",
+    "gtfs_id": "IJPP:1168316",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Črni Potok pri Kočevju",
+    "lat": 45.591999,
+    "lon": 14.900252,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjgzMTc",
     "gtfs_id": "IJPP:1168317",
     "code": null,
@@ -141924,6 +142003,216 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjg2MzE",
+    "gtfs_id": "IJPP:1168631",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Ponikve (Tolmin)",
+    "lat": 46.1380034,
+    "lon": 13.8175946,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2MzI",
+    "gtfs_id": "IJPP:1168632",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Pečine",
+    "lat": 46.1216398,
+    "lon": 13.8294042,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2MzM",
+    "gtfs_id": "IJPP:1168633",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Pečine",
+    "lat": 46.1215361,
+    "lon": 13.8295195,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2MzQ",
+    "gtfs_id": "IJPP:1168634",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Prapetno Brdo",
+    "lat": 46.110345,
+    "lon": 13.8482339,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2MzU",
+    "gtfs_id": "IJPP:1168635",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Prapetno Brdo",
+    "lat": 46.110602,
+    "lon": 13.8479605,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2MzY",
+    "gtfs_id": "IJPP:1168636",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Polje (Tolmin)",
+    "lat": 46.1148767,
+    "lon": 13.8585254,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2Mzc",
+    "gtfs_id": "IJPP:1168637",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Polje (Tolmin)",
+    "lat": 46.114944,
+    "lon": 13.8583879,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2Mzg",
+    "gtfs_id": "IJPP:1168638",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Šentviška Gora",
+    "lat": 46.1171411,
+    "lon": 13.8691707,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2Mzk",
+    "gtfs_id": "IJPP:1168639",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Roče",
+    "lat": 46.1193067,
+    "lon": 13.8132228,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2NDA",
+    "gtfs_id": "IJPP:1168640",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Roče",
+    "lat": 46.1197395,
+    "lon": 13.8131026,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2NDE",
+    "gtfs_id": "IJPP:1168641",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Pečine Markaduc",
+    "lat": 46.1110554,
+    "lon": 13.8273972,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2NDI",
+    "gtfs_id": "IJPP:1168642",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Pečine Markaduc",
+    "lat": 46.1108965,
+    "lon": 13.8273559,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2NDM",
+    "gtfs_id": "IJPP:1168643",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Ponikve (Tolmin) Lazi",
+    "lat": 46.1312193,
+    "lon": 13.8247842,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2NDQ",
+    "gtfs_id": "IJPP:1168644",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Ponikve (Tolmin) Lazi",
+    "lat": 46.1317689,
+    "lon": 13.8247622,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjg2NDU",
     "gtfs_id": "IJPP:1168645",
     "code": null,
@@ -142011,6 +142300,51 @@
     "opposite": null,
     "agencies": [
       "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2OTI",
+    "gtfs_id": "IJPP:1168692",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Sečovlje",
+    "lat": 45.4756785,
+    "lon": 13.618447,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2OTM",
+    "gtfs_id": "IJPP:1168693",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Sečovlje",
+    "lat": 45.4759785,
+    "lon": 13.6185583,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg2OTQ",
+    "gtfs_id": "IJPP:1168694",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Pragersko ŽP",
+    "lat": 46.3945302,
+    "lon": 15.6613088,
+    "opposite": null,
+    "agencies": [
+      "1123"
     ]
   },
   {
@@ -142164,6 +142498,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjg3MDY",
+    "gtfs_id": "IJPP:1168706",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Ljubljana Železna",
+    "lat": 46.061156,
+    "lon": 14.513139,
+    "opposite": null,
+    "agencies": [
+      "1118"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjg3MDc",
     "gtfs_id": "IJPP:1168707",
     "code": null,
@@ -142266,6 +142615,156 @@
     "opposite": null,
     "agencies": [
       "1121"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3MjY",
+    "gtfs_id": "IJPP:1168726",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Zajčje Polje",
+    "lat": 45.5963541,
+    "lon": 14.8925909,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3Mjc",
+    "gtfs_id": "IJPP:1168727",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Spodnji Log (Kočevje)",
+    "lat": 45.524069,
+    "lon": 15.010392,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3Mjg",
+    "gtfs_id": "IJPP:1168728",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Kočarji",
+    "lat": 45.591806,
+    "lon": 14.950444,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3Mjk",
+    "gtfs_id": "IJPP:1168729",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Kočevje OŠ Ob Rinži",
+    "lat": 45.631154,
+    "lon": 14.871523,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3MzA",
+    "gtfs_id": "IJPP:1168730",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Borovec pri Kočevski Reki obračališče",
+    "lat": 45.5459865,
+    "lon": 14.7839929,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3MzE",
+    "gtfs_id": "IJPP:1168731",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Borovec pri Kočevski Reki",
+    "lat": 45.55416,
+    "lon": 14.78805,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3MzI",
+    "gtfs_id": "IJPP:1168732",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Stara Cerkev OŠ",
+    "lat": 45.6698609,
+    "lon": 14.8405278,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3MzM",
+    "gtfs_id": "IJPP:1168733",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Gorenje (Kočevje)",
+    "lat": 45.6709541,
+    "lon": 14.8549832,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3MzQ",
+    "gtfs_id": "IJPP:1168734",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Zatolmin",
+    "lat": 46.1938623,
+    "lon": 13.7278587,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3MzU",
+    "gtfs_id": "IJPP:1168735",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Zatolmin",
+    "lat": 46.1936253,
+    "lon": 13.727951,
+    "opposite": null,
+    "agencies": [
+      "1119"
     ]
   },
   {
@@ -142914,6 +143413,81 @@
     "opposite": null,
     "agencies": [
       "1121"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MDA",
+    "gtfs_id": "IJPP:1168800",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Pohorski dvor obr.",
+    "lat": 46.5046576,
+    "lon": 15.6221354,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MDI",
+    "gtfs_id": "IJPP:1168802",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Ankaran Bonifika",
+    "lat": 45.5698155,
+    "lon": 13.7584693,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MDQ",
+    "gtfs_id": "IJPP:1168804",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Drbetinci HŠ 9",
+    "lat": 46.533017,
+    "lon": 15.9254161,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MDU",
+    "gtfs_id": "IJPP:1168805",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Šentilj v Slovenskih goricah Majer",
+    "lat": 46.6701677,
+    "lon": 15.6747072,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MDY",
+    "gtfs_id": "IJPP:1168806",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Polički Vrh Jareninski dvor",
+    "lat": 46.6451598,
+    "lon": 15.6911415,
+    "opposite": null,
+    "agencies": [
+      "1123"
     ]
   }
 ]
