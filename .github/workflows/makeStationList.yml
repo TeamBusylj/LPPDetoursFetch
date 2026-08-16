@@ -2,7 +2,7 @@ name: Osveži postaje po agencijah
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Zažene se vsak dan ob 3:00 zjutraj po UTC
+    - cron: "0 3 * * *" # Zažene se vsak dan ob 3:00 zjutraj po UTC
   workflow_dispatch: # Omogoča, da akcijo zaženeš tudi ročno preko GitHub vmesnika
 
 permissions:
@@ -19,20 +19,20 @@ jobs:
       - name: Namesti Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Zaženi skripto za prenos postaj
-        run: node makeStationsLists.js
+        run: node /scripts/makeStationsLists.js
 
       - name: Commit in push sprememb
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           # Dodamo samo mapo station_lists
           git add station_lists/
-          
+
           # Uporabimo "|| true", da akcija ne odpove, če ni nobenih sprememb v podatkih
           git commit -m "avtomatizacija: posodobljene postaje po agencijah" || true
-          
+
           git push

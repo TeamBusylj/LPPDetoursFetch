@@ -6,6 +6,8 @@ import requests
 import pandas as pd
 import numpy as np
 import unicodedata
+import json
+import re
 
 # Poti do začasnih map
 LPP_DIR = 'temp_lpp_gtfs'
@@ -46,15 +48,33 @@ def haversine(lat1, lon1, lat2, lon2):
     c = 2 * np.arctan2(np.sqrt(a), np.sqrt(1 - a))
     return R * c
 
-def is_valid_line(route_name):
-    """Preveri, ali linija ustreza pogojem."""
+def check_line(route_val):
+    """Preveri, ali niz ustreza iskani liniji (zelo tolerantno)."""
+    if pd.isna(route_val):
+        return False
+    val_clean = str(route_val).upper().replace(" ", "")
+    
     target_lines = ['3B', '3G', '6B', '12D', '15', '19', '19I', '21D', '25']
-    route_name = str(route_name).strip()
-    if route_name in target_lines:
+    
+    if val_clean in target_lines:
         return True
-    if route_name.isdigit() and int(route_name) >= 30:
-        return True
+    
+    # Preverimo, ali je v vrednosti samo številka >= 30
+    numbers = re.findall(r'\d+', val_clean)
+    for num in numbers:
+        if int(num) >= 30:
+            return True
+            
     return False
+
+def is_valid_line(row):
+    """Preveri tako route_short_name kot route_long_name."""
+    is_valid = False
+    if 'route_short_name' in row and check_line(row['route_short_name']):
+        is_valid = True
+    if 'route_long_name' in row and check_line(row['route_long_name']):
+        is_valid = True
+    return is_valid
 
 def main():
     # 1. Prenos podatkov
@@ -62,69 +82,87 @@ def main():
     download_and_extract(IJPP_URL, IJPP_DIR)
 
     print("Nalagam datoteke v pomnilnik...")
-    lpp_stops = pd.read_csv(os.path.join(LPP_DIR, 'stops.txt'))
-    lpp_routes = pd.read_csv(os.path.join(LPP_DIR, 'routes.txt'))
-    lpp_trips = pd.read_csv(os.path.join(LPP_DIR, 'trips.txt'))
     
-    # Preberemo samo potrebne stolpce, da zmanjšamo porabo pomnilnika
-    lpp_stop_times = pd.read_csv(os.path.join(LPP_DIR, 'stop_times.txt'), usecols=['trip_id', 'stop_id'])
-    ijpp_stops = pd.read_csv(os.path.join(IJPP_DIR, 'stops.txt'))
-
-    # 2. Filtriranje linij
-    print("Filtriram LPP linije...")
-    lpp_routes['is_target'] = lpp_routes['route_short_name'].apply(is_valid_line)
-    valid_routes = lpp_routes[lpp_routes['is_target']]['route_id'].tolist()
-
-    valid_trips = lpp_trips[lpp_trips['route_id'].isin(valid_routes)]['trip_id'].tolist()
-    valid_stops = lpp_stop_times[lpp_stop_times['trip_id'].isin(valid_trips)]['stop_id'].unique()
+    # Naložimo IJPP podatke za filtriranje linij
+    ijpp_stops = pd.read_csv(os.path.join(IJPP_DIR, 'stops.txt'), dtype={'stop_id': str})
+    ijpp_routes = pd.read_csv(os.path.join(IJPP_DIR, 'routes.txt'), dtype={'route_id': str})
+    ijpp_trips = pd.read_csv(os.path.join(IJPP_DIR, 'trips.txt'), dtype={'route_id': str, 'trip_id': str})
+    ijpp_stop_times = pd.read_csv(os.path.join(IJPP_DIR, 'stop_times.txt'), usecols=['trip_id', 'stop_id'], dtype={'trip_id': str, 'stop_id': str})
     
-    filtered_lpp_stops = lpp_stops[lpp_stops['stop_id'].isin(valid_stops)].copy()
-    print(f"Najdenih {len(filtered_lpp_stops)} LPP postaj na izbranih linijah.")
+    # Naložimo LPP postaje za iskanje dvojnikov
+    lpp_stops = pd.read_csv(os.path.join(LPP_DIR, 'stops.txt'), dtype={'stop_id': str})
 
-    # 3. Normalizacija in iskanje dvojnikov
-    filtered_lpp_stops['norm_name'] = filtered_lpp_stops['stop_name'].apply(normalize_string)
-    ijpp_stops['norm_name'] = ijpp_stops['stop_name'].apply(normalize_string)
-
-    results = []
-    print("Iščem IJPP dvojnike (radij 100m)...")
+    # 2. Filtriranje IJPP linij (ker te linije ne obstajajo več v LPP feedu)
+    print("Filtriram IJPP linije...")
+    ijpp_routes['is_target'] = ijpp_routes.apply(is_valid_line, axis=1)
     
-    for _, lpp_row in filtered_lpp_stops.iterrows():
-        # Izračun razdalj
+    valid_routes = ijpp_routes[ijpp_routes['is_target']]['route_id'].tolist()
+    print(f"Najdenih IJPP linij, ki ustrezajo kriteriju: {len(valid_routes)}")
+    
+    if len(valid_routes) == 0:
+        print("OPOZORILO: Ni bilo mogoče najti nobene linije. Preverite strukturo datoteke IJPP routes.txt.")
+        return
+
+    # Poiščemo ustrezne vožnje in nato ustrezne postaje na teh vožnjah
+    valid_trips = ijpp_trips[ijpp_trips['route_id'].isin(valid_routes)]['trip_id'].tolist()
+    valid_stops = ijpp_stop_times[ijpp_stop_times['trip_id'].isin(valid_trips)]['stop_id'].unique()
+    
+    filtered_ijpp_stops = ijpp_stops[ijpp_stops['stop_id'].isin(valid_stops)].copy()
+    print(f"Najdenih {len(filtered_ijpp_stops)} IJPP postaj na izbranih linijah.")
+
+    if len(filtered_ijpp_stops) == 0:
+         return
+
+    # 3. Normalizacija in iskanje LPP dvojnikov
+    filtered_ijpp_stops['norm_name'] = filtered_ijpp_stops['stop_name'].apply(normalize_string)
+    lpp_stops['norm_name'] = lpp_stops['stop_name'].apply(normalize_string)
+
+    mapping_dict = {}
+    print("Iščem LPP dvojnike (radij 100m)...")
+    
+    for _, ijpp_row in filtered_ijpp_stops.iterrows():
+        # Izračun razdalj od trenutne IJPP postaje do vseh LPP postaj
         distances = haversine(
-            lpp_row['stop_lat'], lpp_row['stop_lon'], 
-            ijpp_stops['stop_lat'].values, ijpp_stops['stop_lon'].values
+            ijpp_row['stop_lat'], ijpp_row['stop_lon'], 
+            lpp_stops['stop_lat'].values, lpp_stops['stop_lon'].values
         )
         
-        ijpp_stops['distance_m'] = distances
-        nearby_ijpp = ijpp_stops[ijpp_stops['distance_m'] <= 100].copy()
+        lpp_stops['distance_m'] = distances
+        nearby_lpp = lpp_stops[lpp_stops['distance_m'] <= 100].copy()
         
-        if nearby_ijpp.empty:
+        if nearby_lpp.empty:
             continue
             
-        name_matches = nearby_ijpp[nearby_ijpp['norm_name'] == lpp_row['norm_name']]
+        # Iskanje ujemanj po normaliziranem imenu
+        name_matches = nearby_lpp[nearby_lpp['norm_name'] == ijpp_row['norm_name']]
         best_match = None
         
         if not name_matches.empty:
             best_match = name_matches.sort_values(by='distance_m').iloc[0]
         else:
-            very_close = nearby_ijpp[nearby_ijpp['distance_m'] <= 30]
+            very_close = nearby_lpp[nearby_lpp['distance_m'] <= 30]
             if not very_close.empty:
                 best_match = very_close.sort_values(by='distance_m').iloc[0]
                 
         if best_match is not None:
-            results.append({
-                'lpp_stop_id': lpp_row['stop_id'],
-                'lpp_stop_name': lpp_row['stop_name'],
-                'ijpp_stop_id': best_match['stop_id'],
-                'ijpp_stop_name': best_match['stop_name'],
-                'distance_m': round(best_match['distance_m'], 1)
-            })
+             ijpp_id = str(ijpp_row['stop_id'])
+             lpp_id = str(best_match['stop_id'])
+             
+             # Preverimo, ali se predpone že nahajajo v nizu, sicer jih dodamo
+             if not ijpp_id.startswith('IJPP:'):
+                 ijpp_id = f"IJPP:{ijpp_id}"
+             if not lpp_id.startswith('LPP:'):
+                 lpp_id = f"LPP:{lpp_id}"
+                 
+             mapping_dict[ijpp_id] = lpp_id
 
-    # 4. Izvoz in čiščenje
-    df_results = pd.DataFrame(results)
-    output_file = 'lpp_ijpp_mapping.csv'
-    df_results.to_csv(output_file, index=False)
-    print(f"Končano! Mapiranih {len(df_results)} postaj. Shranjeno v '{output_file}'.")
+    # 4. Izvoz v JSON in čiščenje
+    output_file = 'ijpp_lpp_mapping.json'
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(mapping_dict, f, indent=4)
+        
+    print(f"Končano! Mapiranih {len(mapping_dict)} postaj. Shranjeno v '{output_file}'.")
 
     shutil.rmtree(LPP_DIR, ignore_errors=True)
     shutil.rmtree(IJPP_DIR, ignore_errors=True)

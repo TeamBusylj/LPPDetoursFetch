@@ -2,10 +2,10 @@ name: Shrani GTFS JSON
 
 on:
   # Sproži se ročno preko GitHub vmesnika
-  workflow_dispatch: 
+  workflow_dispatch:
   # Odkomentiraj spodnje vrstice za avtomatsko osveževanje (npr. vsak dan ob 3:00 zjutraj)
   schedule:
-    - cron: '0 3 * * 0'
+    - cron: "0 3 * * 0"
 permissions:
   contents: write
 
@@ -20,7 +20,7 @@ jobs:
       - name: Priprava Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Prenos in razširitev GTFS ZIP datoteke
         run: |
@@ -30,16 +30,16 @@ jobs:
           cd gtfs
           unzip data.zip
           # Pobrišemo zip, da sprostimo prostor
-          rm data.zip 
+          rm data.zip
 
       - name: Poženi JS skripto
-        run: node process_gtfs.js
+        run: node /scripts/process_gtfs.js
 
       - name: Commit in Push ustvarjenega JSON-a
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add stop_to_routes.json
-          
+
           # Če je prišlo do sprememb v podatkih, naredi commit
           git diff --quiet && git diff --staged --quiet || (git commit -m "Posodobitev stop_to_routes.json iz IJPP" && git push)

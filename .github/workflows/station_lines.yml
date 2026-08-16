@@ -2,7 +2,7 @@ name: Osveži linije na postajah po agencijah
 
 on:
   schedule:
-    - cron: '30 2 * * *' # Zažene se vsak dan ob 3:30 zjutraj po UTC (zamaknjeno za pol ure glede na prejšnjo)
+    - cron: "30 2 * * *" # Zažene se vsak dan ob 3:30 zjutraj po UTC (zamaknjeno za pol ure glede na prejšnjo)
   workflow_dispatch: # Omogoča, da akcijo zaženeš tudi ročno preko GitHub vmesnika
 
 permissions:
@@ -19,21 +19,21 @@ jobs:
       - name: Namesti Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Zaženi skripto za prenos postaj in linij
         # POMEMBNO: Tu zamenjaj ime skripte s tistim, ki ga dejansko uporabljaš (npr. makeStationLineLists.js)
-        run: node makeStationLineLists.js
+        run: node /scripts/makeStationLineLists.js
 
       - name: Commit in push sprememb
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           # Dodamo mapo, v katero tvoja skripta shranjuje datoteke (vsak ponudnik v svoj file)
           git add station_line_lists/
-          
+
           # Uporabimo "|| true", da akcija ne odpove, če ni nobenih sprememb v podatkih
           git commit -m "avtomatizacija: posodobljene linije na postajah po ponudnikih" || true
-          
+
           git push
