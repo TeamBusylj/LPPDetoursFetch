@@ -23,7 +23,7 @@ jobs:
 
       - name: Zaženi skripto za prenos postaj in linij
         # POMEMBNO: Tu zamenjaj ime skripte s tistim, ki ga dejansko uporabljaš (npr. makeStationLineLists.js)
-        run: node /scripts/makeStationLineLists.js
+        run: node ./scripts/makeStationLineLists.js
 
       - name: Commit in push sprememb
         run: |

@@ -33,7 +33,7 @@ jobs:
           rm data.zip
 
       - name: Poženi JS skripto
-        run: node /scripts/process_gtfs.js
+        run: node ./scripts/process_gtfs.js
 
       - name: Commit in Push ustvarjenega JSON-a
         run: |

@@ -26,7 +26,7 @@ jobs:
         run: npm install
 
       - name: Zaženi skripto za scrapanje
-        run: node /scripts/scraper.js
+        run: node ./scripts/scraper.js
 
       - name: Shrani v repozitorij brez proženja Firebase deploya
         uses: stefanzweifel/git-auto-commit-action@v5

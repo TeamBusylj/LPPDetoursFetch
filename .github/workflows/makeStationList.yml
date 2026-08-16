@@ -22,7 +22,7 @@ jobs:
           node-version: "20"
 
       - name: Zaženi skripto za prenos postaj
-        run: node /scripts/makeStationsLists.js
+        run: node ./scripts/makeStationsLists.js
 
       - name: Commit in push sprememb
         run: |
