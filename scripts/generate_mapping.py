@@ -154,7 +154,7 @@ def main():
              if not lpp_id.startswith('LPP:'):
                  lpp_id = f"LPP:{lpp_id}"
                  
-             mapping_dict[ijpp_id] = lpp_id
+             mapping_dict[lpp_id] = ijpp_id
 
     # 4. Izvoz v JSON in čiščenje
     output_file = 'ijpp_lpp_mapping.json'
