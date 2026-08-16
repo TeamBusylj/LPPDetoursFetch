@@ -14796,6 +14796,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjM5NzU",
+    "gtfs_id": "IJPP:1123975",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Cerkno St.ETA",
+    "lat": 46.1331034,
+    "lon": 13.9875097,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjM5NzY",
     "gtfs_id": "IJPP:1123976",
     "code": null,
