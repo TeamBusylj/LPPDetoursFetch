@@ -32263,36 +32263,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjU0ODU",
-    "gtfs_id": "IJPP:1125485",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Gržeča vas",
-    "lat": 45.9045112,
-    "lon": 15.4426771,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjU0ODY",
-    "gtfs_id": "IJPP:1125486",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Gržeča vas",
-    "lat": 45.9047256,
-    "lon": 15.4426731,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjU0ODc",
     "gtfs_id": "IJPP:1125487",
     "code": null,
@@ -52515,36 +52485,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjcyNzE",
-    "gtfs_id": "IJPP:1127271",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "M.Podlog",
-    "lat": 45.9091635,
-    "lon": 15.4490201,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjcyNzI",
-    "gtfs_id": "IJPP:1127272",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "M.Podlog",
-    "lat": 45.9091748,
-    "lon": 15.448926,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjcyNzg",
     "gtfs_id": "IJPP:1127278",
     "code": null,
@@ -67675,21 +67615,6 @@
     "name": "Pohorski dvor bloki",
     "lat": 46.5040012,
     "lon": 15.6240861,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjg2Mjk",
-    "gtfs_id": "IJPP:1128629",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Pohorski dvor obr.",
-    "lat": 46.5060333,
-    "lon": 15.6212806,
     "opposite": null,
     "agencies": [
       "1123"
@@ -141382,21 +141307,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExNjg1NDI",
-    "gtfs_id": "IJPP:1168542",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Drbetinci HŠ 9",
-    "lat": 46.5334954,
-    "lon": 15.9267233,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExNjg1NDQ",
     "gtfs_id": "IJPP:1168544",
     "code": null,
@@ -141592,21 +141502,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExNjg1ODM",
-    "gtfs_id": "IJPP:1168583",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Šentilj v Slovenskih goricah Majer",
-    "lat": 46.6701371,
-    "lon": 15.67446,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExNjg1ODY",
     "gtfs_id": "IJPP:1168586",
     "code": null,
@@ -141631,21 +141526,6 @@
     "name": "Polički Vrh Zmrzlek",
     "lat": 46.6638947,
     "lon": 15.6829507,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjg1OTA",
-    "gtfs_id": "IJPP:1168590",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Polički Vrh Jareninski dvor",
-    "lat": 46.6446516,
-    "lon": 15.6911415,
     "opposite": null,
     "agencies": [
       "1123"
@@ -142237,21 +142117,6 @@
     "name": "Ankaran Bonifika",
     "lat": 45.5694897,
     "lon": 13.7597289,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjg2NDY",
-    "gtfs_id": "IJPP:1168646",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Ankaran Bonifika",
-    "lat": 45.5696217,
-    "lon": 13.7597397,
     "opposite": null,
     "agencies": [
       "1123"
@@ -143230,21 +143095,6 @@
     "name": "Velike Brusnice",
     "lat": 45.8105332,
     "lon": 15.258674,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjg3Nzg",
-    "gtfs_id": "IJPP:1168778",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Velike Brusnice",
-    "lat": 45.8105743,
-    "lon": 15.2585038,
     "opposite": null,
     "agencies": [
       "1119"
