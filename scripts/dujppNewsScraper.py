@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-BASE_URL = "https://www.dujpp.si/Obvestila.html"
+BASE_URL = "https://www.dujpp.si/informacije-za-potnika.html"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
@@ -16,7 +16,7 @@ def get_region_links():
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, 'html.parser')
 
-    regions = [{'url': 'https://www.dujpp.si/aktualno.html', 'region': 'aktualno'}]
+    regions = [{'url': 'https://www.dujpp.si/Obvestila.html', 'region': 'aktualno'}]
 
     content_sections = [
         sec for sec in soup.find_all('section')
