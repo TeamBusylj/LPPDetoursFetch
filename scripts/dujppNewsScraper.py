@@ -17,7 +17,7 @@ def get_region_links():
     soup = BeautifulSoup(resp.text, 'html.parser')
 
     # Explicitno dodamo stran "Aktualno"
-    regions = [{'url': 'https://www.dujpp.si/aktualno.html', 'region': 'aktualno'}]
+    regions = [{'url': 'https://www.dujpp.si/Obvestila.html', 'region': 'aktualno'}]
 
     # Zajemamo povezave LE iz vsebinskih sekcij (preskočimo meni in nogo)
     content_sections = [
