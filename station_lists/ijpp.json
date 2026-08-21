@@ -143361,6 +143361,19 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjg4MDE",
+    "gtfs_id": "IJPP:1168801",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Domžale Kettejeva ulica",
+    "lat": 46.149207,
+    "lon": 14.598122,
+    "opposite": null,
+    "agencies": []
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjg4MDI",
     "gtfs_id": "IJPP:1168802",
     "code": null,
@@ -143374,6 +143387,19 @@
     "agencies": [
       "1123"
     ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MDM",
+    "gtfs_id": "IJPP:1168803",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Ankaran Bonifika",
+    "lat": 45.5692235,
+    "lon": 13.7589727,
+    "opposite": null,
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOjExNjg4MDQ",
