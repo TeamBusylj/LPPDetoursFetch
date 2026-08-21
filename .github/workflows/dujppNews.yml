@@ -23,7 +23,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Zagon scraperja
-        run: python ./scripts/scraper.py
+        run: python ./scripts/dujppNewsScraper.py
 
       - name: Shranjevanje sprememb v repozitorij
         run: |
