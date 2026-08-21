@@ -1,6 +1,7 @@
 [
   {
     "title": "Zaradi gradnje novega krožišča v središču Ljutomera vzpostavljena začasna prometna ureditev",
+    "snippet": "Seznanjamo vas, da bo do 17. februarja 2027 zaradi gradnje novega krožišča v središču Ljutomera,...",
     "date": "21. 8. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -8,6 +9,7 @@
   },
   {
     "title": "Popolna zapora Volkmerjeve ceste na Ptuju",
+    "snippet": "Ker je na Ptuju vzpostavljena popolna zapora Volkmerjeve ceste in je le ta predvidena do...",
     "date": "21. 8. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -15,20 +17,15 @@
   },
   {
     "title": "Izpad postajališča Placerovci do zaključka zapore mostu Formin",
+    "snippet": "Zaradi zapore ceste na relaciji Placerovci-Formin (urejanje ceste med Forminskim mostom in novim nadvozom čez...",
     "date": "21. 8. 2026",
     "region": "podravska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/podravska.html#content5-nw"
   },
   {
-    "title": "Začenja se predprodaja subvencioniranih vozovnic za dijake",
-    "date": "20. 8. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-ns"
-  },
-  {
     "title": "AP Ljubljana se seli na začasno lokacijo na Masarykovo cesto",
+    "snippet": "Na novi lokaciji bo skupaj 46 avtobusnih peronov, številke peronov za odhode avtobusov ostajajo nespremenjene....",
     "date": "20. 8. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -36,6 +33,7 @@
   },
   {
     "title": "24. 8. popolna zapora ceste preko Vršiča",
+    "snippet": "Zaradi gradbenih del, ki bodo na Vršiču potekala v ponedeljek, 24. 8. 2026, se prevozi...",
     "date": "20. 8. 2026",
     "region": "gorenjska",
     "source": "DUJPP",
@@ -43,6 +41,7 @@
   },
   {
     "title": "Zapora ceste in spremenjena trasa avtobusnih linij",
+    "snippet": "Obveščamo vas, da zaradi popolne zapore ceste od 21. 8. 2026 do predvidoma maja 2027...",
     "date": "18. 8. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -50,6 +49,7 @@
   },
   {
     "title": "Z 31. 8. ukinjeni vsi začasni železniški peroni v Ljubljani",
+    "snippet": "Obveščamo vas, da bodo z 31. avgustom 2026 oziroma s prvim šolskim dnem ukinjeni vsi...",
     "date": "18. 8. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -57,6 +57,7 @@
   },
   {
     "title": "S 1. 9. uvedena izboljšava v vozni red Ajdovščina – Vipava",
+    "snippet": "Obveščamo vas, da se s 1. 9. 2026 spreminja vozni redi na relaciji Ajdovščina –...",
     "date": "14. 8. 2026",
     "region": "goriška",
     "source": "DUJPP",
@@ -64,6 +65,7 @@
   },
   {
     "title": "Dodatni ali spremenjeni odhodi v Novem mestu",
+    "snippet": "Obveščamo vas, da bomo z dnem 17. 8. 2026 na območju Jugovzhodne Slovenije uvedli dodatne...",
     "date": "12. 8. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -71,6 +73,7 @@
   },
   {
     "title": "S 1. 9. se uskladijo vozni redi na relacijah Idrije in Solkana",
+    "snippet": "Obveščamo vas, da se s 1. 9. 2026 uskladijo vozni redi na relacijah Idrije v...",
     "date": "11. 8. 2026",
     "region": "goriška",
     "source": "DUJPP",
@@ -78,6 +81,7 @@
   },
   {
     "title": "S 1. 9. sprememba odhoda na relaciji Cerknica – Ljubljana ter Postojna – Sl. Bistrica",
+    "snippet": "Obveščamo vas, da se bosta s 1. 9. 2026 spremenila režima vožnje voznega reda na...",
     "date": "11. 8. 2026",
     "region": "notranjsko-kraška",
     "source": "DUJPP",
@@ -85,34 +89,15 @@
   },
   {
     "title": "S 1. 9. spremenjena trasa na relaciji Ankaran – Koper",
+    "snippet": "Obveščamo vas, da bo s 1. 9. 2026 bo na VR 8380, 8385 in 8386...",
     "date": "11. 8. 2026",
     "region": "obalno-kraška",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/obalno-kraska.html#content5-lj"
   },
   {
-    "title": "Nakup vozovnice je tudi v Luciji in Izoli mogoč pri postajnem informatorju",
-    "date": "10. 8. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-km"
-  },
-  {
-    "title": "Na pogovoru o izzivih, novostih in načrtih DUJPP",
-    "date": "4. 8. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-jq"
-  },
-  {
-    "title": "Javni poziv za sklenitev pogodbe o prodaji enotne vozovnice z drugimi zainteresiranimi osebami",
-    "date": "31. 7. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-kb"
-  },
-  {
     "title": "Popolna zapora ceste, ki vodi čez center vasi Spodnja Polskava",
+    "snippet": "Obveščamo vas, da bo zaradi prireditve 26. Spodnjepolskavsko poletje od 30. 7. 2026 od 7.00...",
     "date": "30. 7. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -120,6 +105,7 @@
   },
   {
     "title": "Popolna zapore ceste Slovenska Bistrica – Pragersko",
+    "snippet": "Obveščamo vas, da bo zaradi obnove vozišča (asfaltiranje) na glavni cesti G1-2, Slovenska Bistrica –...",
     "date": "30. 7. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -127,6 +113,7 @@
   },
   {
     "title": "Zapora Kamniške proge od 10. do 22. avgusta",
+    "snippet": "Na Kamniški progi (Ljubljana / Ljubljana Šiška – Kamnik Graben in obratno) bodo med 10....",
     "date": "28. 7. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -134,27 +121,15 @@
   },
   {
     "title": "Sprememba lokacije avtobusnega postajališča na glavni železniški postaji Ljubljana",
+    "snippet": "Obveščamo vas o spremembah voženj in lokaciji postajališča SŽ Kolodvor na avtobusni liniji LPP SŽ...",
     "date": "28. 7. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/osrednjeslovenska.html#content5-hw"
   },
   {
-    "title": "Na Gorenjsko brez skrbi tudi z vlakom",
-    "date": "24. 7. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-hv"
-  },
-  {
-    "title": "DUJPP se redno povezuje z Društvom potnikov Slovenije",
-    "date": "15. 7. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-hu"
-  },
-  {
     "title": "Spremembe poteka avtobusne linije na relaciji Sl. Bistrica – Črešnjevec – Leskovec – Pragersko ŽP",
+    "snippet": "Obveščamo vas, da bo v ponedeljek 13. 7. 2026 in v četrtek 16. 7. 2026...",
     "date": "10. 7. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -162,6 +137,7 @@
   },
   {
     "title": "Popolna zapora Ptujske ceste v Ormožu",
+    "snippet": "Obveščamo vas, da bo zaradi vzdrževalno / gradbenih del prišlo do popolne zapore Ptujske ceste...",
     "date": "10. 7. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -169,6 +145,7 @@
   },
   {
     "title": "Zaradi rekonstrukcije Oglarske poti v naselju Lovrenc na Pohorju prišlo do izpada postajališča",
+    "snippet": "Obveščamo vas, da bo od srede 15. 7. 2026, do sobote 18. 7. 2026 zaradi...",
     "date": "10. 7. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -176,6 +153,7 @@
   },
   {
     "title": "Popolna zapora ceste na odseku Poljana – Šentvid",
+    "snippet": "Obveščamo vas, da bo zaradi del na regionalni cesti R2-425, odsek 1265 Poljana – Šentvid,...",
     "date": "10. 7. 2026",
     "region": "koroška",
     "source": "DUJPP",
@@ -183,6 +161,7 @@
   },
   {
     "title": "Nova avtobusna povezava v režimu DŠP na relaciji Slovenske Konjice – Slovenska Bistrica",
+    "snippet": "( 10. 7. 2026) Obveščamo vas, da bo z dnem 1. 8. 2026 uvedena nova...",
     "date": "10. 7. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -190,6 +169,7 @@
   },
   {
     "title": "Začasna ukinitev postajališča Novo mesto Gimnazija",
+    "snippet": "Obveščamo vas, da bo zaradi enosmerne zapore na Seidlovi cesti od 8. 7. 2026 do...",
     "date": "7. 7. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -197,6 +177,7 @@
   },
   {
     "title": "Začasna ukinitev postajališč zaradi izgradnje kanalizacije v Gržeči vasi in Malem Podlogu",
+    "snippet": "Obveščamo vas, da bo zaradi izgradnje kanalizacije v Gržeči vasi in Malem Podlogu cesta Veliki...",
     "date": "6. 7. 2026",
     "region": "posavska",
     "source": "DUJPP",
@@ -204,20 +185,15 @@
   },
   {
     "title": "Začasna ukinitev postajališč zaradi rekonstrukcije vozišča cesta Pišece – Zgornja Pohanca – Krško",
+    "snippet": "Obveščamo vas, da bo zaradi rekonstrukcije vozišča cesta Pišece – Zgornja Pohanca – Krško popolnoma...",
     "date": "6. 7. 2026",
     "region": "posavska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/posavska.html#content5-ho"
   },
   {
-    "title": "Med poletnimi počitnicami brezskrbno na pot - kapacitet in odhodov je dovolj",
-    "date": "3. 7. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-hi"
-  },
-  {
     "title": "V Kozini so se končala gradbena dela ob Mestnem trgu",
+    "snippet": "S ponedeljkom, 6. 7. 2026, se ukinja spremenjeni prometni režim na Kozini, ki je veljal...",
     "date": "2. 7. 2026",
     "region": "obalno-kraška",
     "source": "DUJPP",
@@ -225,6 +201,7 @@
   },
   {
     "title": "15 minut zgodnejši odhod iz Lucije v Ljubljano",
+    "snippet": "Obveščamo vas, da bosta odhoda v režimu SO in NEP Lucija TPC – Ljubljana AP...",
     "date": "2. 7. 2026",
     "region": "obalno-kraška",
     "source": "DUJPP",
@@ -232,6 +209,7 @@
   },
   {
     "title": "Popolna zapora Volkmerjeve ceste na Ptuju",
+    "snippet": "Sporočamo vam, da je na Ptuju od danes, 1. 7. 2026, do konca septembra 2026...",
     "date": "1. 7. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -239,6 +217,7 @@
   },
   {
     "title": "S 1. 7. 2026 spremembe voznega reda na posameznih vožnjah naštetih relacij",
+    "snippet": "Obveščamo vas, da bodo z dnem 1. 7. 2026 na območju Jugovzhodne in Posavske regije...",
     "date": "1. 7. 2026",
     "region": "posavska",
     "source": "DUJPP",
@@ -246,6 +225,7 @@
   },
   {
     "title": "S 1. 7. 2026 spremembe voznega reda na posameznih vožnjah naštetih relacij",
+    "snippet": "Obveščamo vas, da bodo z dnem 1. 7. 2026 na območju Jugovzhodne in Posavske regije...",
     "date": "1. 7. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -253,6 +233,7 @@
   },
   {
     "title": "S 1. 7. spremembe voznih redov v Moravskih toplicah, Gornji Radgoni in Ljutomerju",
+    "snippet": "Potnike obveščamo, da bodo s 1. julijem 2026 veljale spodaj navedene spremembe glede izvajanja voznih...",
     "date": "29. 6. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -260,6 +241,7 @@
   },
   {
     "title": "Spremembe poti avtobusov Ptuj – Gorišnica",
+    "snippet": "Obveščamo vas, da bo zaradi zapore ceste na relaciji Placerovci-Formin (urejanje ceste med Forminskim mostom...",
     "date": "29. 6. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -267,6 +249,7 @@
   },
   {
     "title": "V počitniškem voznem redu štirje dodatni vikend pari voženj",
+    "snippet": "S 25. 6. 2026 se na relaciji Koper – Piran in obratno začnejo izvajati 4...",
     "date": "24. 6. 2026",
     "region": "obalno-kraška",
     "source": "DUJPP",
@@ -274,6 +257,7 @@
   },
   {
     "title": "Zamik odhoda v počitniškem voznem redu Kočevje in Ribnica",
+    "snippet": "Obveščamo vas, da bo z dnem 1. 7. 2026 uvedena sprememba voznega reda na naslednjih...",
     "date": "23. 6. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -281,6 +265,7 @@
   },
   {
     "title": "4. in 5. julija zapora osrednjega dela postaje Ljubljana",
+    "snippet": "Zaradi obsežne faze investicijskih gradbenih del in popolne zapore postaje Ljubljana bo železniški promet 4....",
     "date": "22. 6. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -288,20 +273,15 @@
   },
   {
     "title": "S 1. julijem višje cene vozovnic v železniškem potniškem prometu",
+    "snippet": "Skladno s soglasjem Ministrstva za okolje, podnebje in energijo (MOPE) št. 370-1/2026-2570-35 z dne 1....",
     "date": "22. 6. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/osrednjeslovenska.html#content5-h3"
   },
   {
-    "title": "Na delavnici RCPS o prometnih izzivih v Savinjski regiji",
-    "date": "19. 6. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-h2"
-  },
-  {
     "title": "Začasna ukinitev postajališča Šmarje/Šentjernej",
+    "snippet": "Obveščamo vas, da bo zaradi popolne zapore ceste v naselju Šmarje od 19. junija do...",
     "date": "18. 6. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -309,20 +289,15 @@
   },
   {
     "title": "Spremenjeno izvajanje prevozov zaradi zapore ceste Novo mesto – Metlika",
+    "snippet": "Image Description (18. 6. 2026) Obveščamo vas, da bo zaradi zapore ceste Novo mesto –...",
     "date": "18. 6. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/jugovzhodna-slovenija.html#image1-h1"
   },
   {
-    "title": "Iskanje rešitev za prihodnji razvoj prometa v Sloveniji",
-    "date": "16. 6. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-gy"
-  },
-  {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -330,6 +305,7 @@
   },
   {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -337,6 +313,7 @@
   },
   {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "koroška",
     "source": "DUJPP",
@@ -344,6 +321,7 @@
   },
   {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -351,6 +329,7 @@
   },
   {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "zasavska",
     "source": "DUJPP",
@@ -358,6 +337,7 @@
   },
   {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -365,6 +345,7 @@
   },
   {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "gorenjska",
     "source": "DUJPP",
@@ -372,6 +353,7 @@
   },
   {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -379,41 +361,23 @@
   },
   {
     "title": "Zapore cest zaradi 32. kolesarske dirke Po Sloveniji",
+    "snippet": "Obveščamo vas, da bo od srede, 17. junija, do nedelje, 21. junija 2026, potekala 32....",
     "date": "16. 6. 2026",
     "region": "goriška",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/goriska.html#content5-gv"
   },
   {
-    "title": "Na panelni razpravi o javnem potniškem prometu v Podravju",
-    "date": "15. 6. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-gm"
-  },
-  {
     "title": "Od 14. 6. 2026 nekaj sprememb v voznih redih vlakov",
+    "snippet": "S 14. 6. 2026 stopijo v veljavo sprememb voznih redov, ki bodo veljale v poletni...",
     "date": "14. 6. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/osrednjeslovenska.html#content5-fm"
   },
   {
-    "title": "RCPS Posavje za bolj dostopno, učinkovito in trajnostno mobilnost",
-    "date": "8. 6. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-gl"
-  },
-  {
-    "title": "Povezovanje transportnih organizacij v Podonavju",
-    "date": "5. 6. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-gh"
-  },
-  {
     "title": "Popolna zapora ceste v Sveti Trojici v Slovenskih Goricah",
+    "snippet": "Obveščamo vas, da bo zaradi prireditve »TROJICAFEST 2026« v Sveti Trojici v Slovenskih Goricah, od...",
     "date": "5. 6. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -421,34 +385,23 @@
   },
   {
     "title": "Delna zapora na Belvederju zaradi gradbenih del je preklicana",
+    "snippet": "Z včerajšnjim dnem 4. 6. 2026 se je delna zapora na Belvederju zaradi gradbenih del...",
     "date": "5. 6. 2026",
     "region": "obalno-kraška",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/obalno-kraska.html#content5-gi"
   },
   {
-    "title": "Elektrobaterijski vlaki v hrvaškem železniškem potniškem prometu za manj emisij in večjo energetsko učinkovitost",
-    "date": "4. 6. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-gg"
-  },
-  {
     "title": "Popolna zapora zaradi kolesarske prireditve 'Kronometer Tišina'",
+    "snippet": "Obveščamo vas, da bo v nedeljo, 7. junija 2026, predvidoma med 8.00 in 18.00 uro,...",
     "date": "4. 6. 2026",
     "region": "pomurska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/pomurska.html#content5-gf"
   },
   {
-    "title": "Na štajerski avtocesti med Slovenskimi Konjicami in Dramljami naslednja faza obnove",
-    "date": "3. 6. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-ge"
-  },
-  {
     "title": "Začasna ukinitev postajališča Celje Metropol",
+    "snippet": "Obveščamo vas, da bo zaradi popolne zapore Cankarjeve ulice v Celju postajališče Celje Metropol začasno...",
     "date": "3. 6. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -456,6 +409,7 @@
   },
   {
     "title": "Spremenjeno izvajanje prevozov na relaciji Črnomelj – Adlešiči – Vinica",
+    "snippet": "Obveščamo vas, da bo zaradi zapore ceste Črnomelj – Dolenjci od 6. 7. 2026 do...",
     "date": "3. 6. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -463,6 +417,7 @@
   },
   {
     "title": "Zapora ceste na prelazu Vršič zaradi prireditve Goni Pony",
+    "snippet": "Obveščamo vas, da bo cesta med Kranjsko Goro in Vršičem v soboto, 6. 6. 2026,...",
     "date": "2. 6. 2026",
     "region": "gorenjska",
     "source": "DUJPP",
@@ -470,6 +425,7 @@
   },
   {
     "title": "DELNE IN POPOLNE ZAPORE cest v središču Lendave",
+    "snippet": "Obveščamo vas, da bodo predvidoma v terminu od 1. junija 2026 do 6. julija 2026,...",
     "date": "1. 6. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -477,6 +433,7 @@
   },
   {
     "title": "Popolna zapora v Banovcih",
+    "snippet": "Potnike obveščamo, da je od 1. 6. 2026 do predvidoma torka, 2. 6. 2026, zaradi...",
     "date": "1. 6. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -484,6 +441,7 @@
   },
   {
     "title": "Delna zapora zaradi ureditve krožišča Belvedere na cesti Jagodje – Valeta",
+    "snippet": "Zaradi ureditve krožišča Belvedere na cesti Jagodje – Valeta je predvidena delna zapora s semaforskim...",
     "date": "1. 6. 2026",
     "region": "obalno-kraška",
     "source": "DUJPP",
@@ -491,48 +449,23 @@
   },
   {
     "title": "Dodan nov par voženj na relaciji Ljubljana AP – Postojna",
+    "snippet": "S 1. 6. 2026 bo na VR 0131 Ljubljana – Postojna (vozi LPP) dodan nov...",
     "date": "29. 5. 2026",
     "region": "notranjsko-kraška",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/notranjsko-kraska.html#content5-g0"
   },
   {
-    "title": "Začetek priprave Regionalne celostne prometne strategije Severne Primorske",
-    "date": "28. 5. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-fy"
-  },
-  {
     "title": "Zgodnejši odhod na relaciji Kočevje - Ljubljana",
+    "snippet": "Obveščamo vas, da se bo z dnem 15. 6. 2026 spremenil odhod na relaciji Kočevje...",
     "date": "28. 5. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/jugovzhodna-slovenija.html#content5-fz"
   },
   {
-    "title": "Na Gorenjskem se morata turizem in mobilnost razvijati povezano",
-    "date": "27. 5. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-fx"
-  },
-  {
-    "title": "Začetek priprave Regijske celostne prometne strategije Zasavje",
-    "date": "26. 5. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-fs"
-  },
-  {
-    "title": "Mobilnost na podeželju: strokovna razprava o prevozih na klic na Gorenjskem",
-    "date": "25. 5. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-fq"
-  },
-  {
     "title": "POPOLNA ZAPORA v središču Veržeja",
+    "snippet": "Obveščamo vas, da bo od ponedeljka 25. maja 2026, do predvidoma petka, 29. maja 2026,...",
     "date": "25. 5. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -540,27 +473,15 @@
   },
   {
     "title": "Prometne zapore med Dramljami in Slovenskimi Konjicami",
+    "snippet": "Zaradi ponovne obnove avtocestnega odseka med Dramljami in Slovenskimi Konjicami bodo od predvidoma 8. 6....",
     "date": "21. 5. 2026",
     "region": "savinjska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/savinjska.html#content5-gc"
   },
   {
-    "title": "Dialog o izzivih javnega potniškega prometa v Zasavju",
-    "date": "15. 5. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-fj"
-  },
-  {
-    "title": "Načrtovanje trajnostne mobilnosti na Južnem Tirolskem",
-    "date": "14. 5. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-fi"
-  },
-  {
     "title": "V soboto, 16. 5., POPOLNA ZAPORA ceste od GRADIŠČA PRI MURSKI SOBOTI do GORNJE RADGONE",
+    "snippet": "Obveščamo vas, da bo v soboto 16. MAJA 2026 od 8.00 do 18.30 ure, zaradi...",
     "date": "14. 5. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -568,6 +489,7 @@
   },
   {
     "title": "Spremenjen dostop na perone na postaji Ljubljana in spremembe za gibalno ovirane osebee",
+    "snippet": "Obvestilo o spremenjenem dostopu na perone na postaji Ljubljana (od *17. 5. do 12. 7....",
     "date": "14. 5. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -575,6 +497,7 @@
   },
   {
     "title": "Začasna sprememba voznega reda v občini Škofja Loka",
+    "snippet": "Obveščamo vas, da se v Občina Škofja Loka s ponedeljkom 18. 5. 2026 začasno spremeni...",
     "date": "14. 5. 2026",
     "region": "gorenjska",
     "source": "DUJPP",
@@ -582,6 +505,7 @@
   },
   {
     "title": "V četrtek, 14. 5., POPOLNA ZAPORA v središču Kuzme",
+    "snippet": "Obveščamo vas, da bo zaradi prireditve »kramarski sejem ob Križanem četrtku«, dne 14. 5. 2026...",
     "date": "13. 5. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -589,6 +513,7 @@
   },
   {
     "title": "V Kozini začasno prestavljeno tudi avtobusno postajališče v smeri Kopra",
+    "snippet": "Obveščamo, da se v sklopu obnove Mestnega trga na Kozini spreminja prometni režim na državni...",
     "date": "13. 5. 2026",
     "region": "obalno-kraška",
     "source": "DUJPP",
@@ -596,6 +521,7 @@
   },
   {
     "title": "V sredo, 13. maja, POPOLNA ZAPORA ceste na lokaciji LJUTOMER – CVEN",
+    "snippet": "Obveščamo, da bo v sredo 13. maja 2026 od 7.00 do 15.00 ure, zaradi prevezave...",
     "date": "12. 5. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -603,20 +529,15 @@
   },
   {
     "title": "Popolna zapora ceste v naselju Sodinci",
+    "snippet": "V naselju Sodinci potekajo gradbena dela v okviru modernizacije ceste Velika Nedelja – Savci na...",
     "date": "11. 5. 2026",
     "region": "podravska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/podravska.html#content5-fb"
   },
   {
-    "title": "Javno naročilo Pilotno testiranje »Prevoza na klic« - invalidi v javnem potniškem prometu in prevozi gibalno oviranih študentov",
-    "date": "8. 5. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-f8"
-  },
-  {
     "title": "Pri Juršincih bo vzpostavljena zapora ceste zaradi gradbenih posegov",
+    "snippet": "v naselju Senčak pri Juršincih bo vzpostavljena zapora ceste zaradi gradbenih posegov. Zapora je predvidena...",
     "date": "8. 5. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -624,6 +545,7 @@
   },
   {
     "title": "V naselju Zg.Kamenščak bo vzpostavljena popolna zapora ceste",
+    "snippet": "V naselju Zg.Kamenščak bo vzpostavljena popolna zapora ceste zaradi obnove vozišča na cesti R3-710/4910 Ljutomer...",
     "date": "6. 5. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -631,34 +553,15 @@
   },
   {
     "title": "Začasna ukinitev postajališča Novo mesto gim.",
+    "snippet": "Obveščamo vas, da bo zaradi enosmerne zapore na Seidlovi cesti postajališče Novo mesto gim. (v...",
     "date": "29. 4. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/jugovzhodna-slovenija.html#content5-f1"
   },
   {
-    "title": "Javno naročilo Vzpostavitev novega IS za podporo upravljanju integriranega javnega potniškega prometa za obdobje 10 let",
-    "date": "28. 4. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-f3"
-  },
-  {
-    "title": "Javno naročilo IS za upravljanje voznih redov (sistem TTM)",
-    "date": "28. 4. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-f0"
-  },
-  {
-    "title": "Ovire in rešitve v javnem prevozu za slepe in slabovidne",
-    "date": "27. 4. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-f4"
-  },
-  {
     "title": "V Savinjski regiji s 1. majem več sprememb voznih redov",
+    "snippet": "Obveščamo vas, da bodo z dnem 1. 5. 2026 na območju Savinjske regije uvedene naslednje...",
     "date": "24. 4. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -666,6 +569,7 @@
   },
   {
     "title": "Spremembe voznega reda v Zasavju",
+    "snippet": "Obveščamo vas, da od 1. 5. 2026 dalje veljajo naslednje spremembe: Čemšenik-Zagorje ob Savi -...",
     "date": "24. 4. 2026",
     "region": "zasavska",
     "source": "DUJPP",
@@ -673,6 +577,7 @@
   },
   {
     "title": "Spremembe na nekaterih linijah v Novem mestu, Krškem in Brežicah",
+    "snippet": "Obveščamo vas, da bodo od 1. 5. 2026 dalje v Posavski regiji uvedene spremembe na...",
     "date": "24. 4. 2026",
     "region": "posavska",
     "source": "DUJPP",
@@ -680,6 +585,7 @@
   },
   {
     "title": "Nova postajališča na relaciji Trebelno - Novo mesto",
+    "snippet": "Obveščamo vas, da bodo z dnem 1. 5. 2026 na območju Jugovzhodne regije uvedene naslednje...",
     "date": "24. 4. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -687,20 +593,15 @@
   },
   {
     "title": "Sprememba prometnega režima ob Mestnem trgu na Kozini",
+    "snippet": "V sklopu obnove Mestnega trga na Kozini bo od petka, 24. aprila, spremenjen prometni režim...",
     "date": "24. 4. 2026",
     "region": "obalno-kraška",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/obalno-kraska.html#content5-dg"
   },
   {
-    "title": "Od 1. maja dalje validacija vozovnic možna tudi na peronu",
-    "date": "23. 4. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-ev"
-  },
-  {
     "title": "Začasna ukinitev postajališča Lopaca",
+    "snippet": "Obveščamo vas, da bo zaradi delne zapore ceste postajališče Lopaca začasno neaktivno, predvidoma do 28....",
     "date": "23. 4. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -708,6 +609,7 @@
   },
   {
     "title": "Delna zapora osrednjega dela postaje Ljubljana",
+    "snippet": "Zaradi obsežne faze investicijskih gradbenih del in delne zapore postaje Ljubljana bo železniški promet 1.,...",
     "date": "23. 4. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -715,6 +617,7 @@
   },
   {
     "title": "Zgodnejši odhodi zaradi spremenjenega prometnega režima na avtocesti Maribor – Ljubljana",
+    "snippet": "Obveščamo vas, da bodo s ponedeljkom, 4. 5. 2026, v veljavo stopile spremembe voznih redov...",
     "date": "22. 4. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -722,20 +625,15 @@
   },
   {
     "title": "Zgodnejši odhod iz Slovenj Gradca zaradi spremenjenega prometnega režima na avtocesti Maribor – Ljubljana",
+    "snippet": "Obveščamo vas, da bo v ponedeljek, 4. 5. 2026, v veljavo stopila naslednja sprememba voznega...",
     "date": "22. 4. 2026",
     "region": "koroška",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/koroska.html#content5-el"
   },
   {
-    "title": "Subvencionirane vozovnice tudi letos deležne podaljšanja veljavnosti",
-    "date": "21. 4. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-ef"
-  },
-  {
     "title": "Zaradi vzdrževalnih del zaprto glavno križišče na Bledu",
+    "snippet": "Danes je na območju Bleda, zaradi vzdrževalnih del, zaprto glavno križišče. Prevozi se izvajajo po...",
     "date": "21. 4. 2026",
     "region": "gorenjska",
     "source": "DUJPP",
@@ -743,6 +641,7 @@
   },
   {
     "title": "Popolna zapora ceste na relaciji Smednik – Zameško – Kostanjevica na Krki",
+    "snippet": "Obveščamo vas, da bo zaradi asfaltiranja vozišča v sredo, 22. 4. 2026, med 6.00 in...",
     "date": "21. 4. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -750,20 +649,15 @@
   },
   {
     "title": "POPOLNA ZAPORA lokalne ceste Pečarovci – Šalamenci",
+    "snippet": "Obveščamo vas, da bo predvidoma od torka, 21. 4. 2026 do predvidoma četrtka, 30. 4....",
     "date": "20. 4. 2026",
     "region": "pomurska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/pomurska.html#content5-dx"
   },
   {
-    "title": "Regijski centri mobilnosti bodo za DUJPP na terenu izvajali anketo",
-    "date": "17. 4. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-dh"
-  },
-  {
     "title": "Zaradi gradbenih na odseku Razdrto – Vipava se lahko podaljša potovalni čas",
+    "snippet": "Pričela so se gradbena dela na odseku Razdrto – Vipava proti Novi Gorici, ki lahko...",
     "date": "17. 4. 2026",
     "region": "goriška",
     "source": "DUJPP",
@@ -771,20 +665,15 @@
   },
   {
     "title": "Na relaciji Brežice ŽP - Brežice Gimnazija uvedena dodatna povezava",
+    "snippet": "Potnike obveščamo, da bo na relaciji Brežice ŽP – Brežice Gimnazija s ponedeljkom, 20. 4....",
     "date": "16. 4. 2026",
     "region": "posavska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/posavska.html#content5-dt"
   },
   {
-    "title": "Na mednarodnem srečanju o dobrih praksah trajnostne mobilnosti v koroški regiji",
-    "date": "15. 4. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-dr"
-  },
-  {
     "title": "Začasno postajališče »Brunšvik obr.« umeščeno na naslov Brunšvik 24",
+    "snippet": "Iz strani občine Starše smo prejeli dovoljenje za začasno postajališče v naselju Brunšvik, kjer še...",
     "date": "14. 4. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -792,6 +681,7 @@
   },
   {
     "title": "Spremembe voznih redov na liniji Slovenska Bistrica – Kebelj in Ptuj – Trnovska vas",
+    "snippet": "Obveščamo vas, da bodo od ponedeljka, 13. 4. 2026 dalje, stopile v veljavo spremembe voznih...",
     "date": "8. 4. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -799,6 +689,7 @@
   },
   {
     "title": "Popolna zapora ceste na relaciji Ravne na Koroškem – Dravograd",
+    "snippet": "Obveščamo vas o popolni zapori ceste, ki bo potekala v soboto, 11. 4. 2026 od...",
     "date": "8. 4. 2026",
     "region": "koroška",
     "source": "DUJPP",
@@ -806,6 +697,7 @@
   },
   {
     "title": "Na relaciji Trebnje - Ivančna Gorica v vozni red dodali postajališče Pluska",
+    "snippet": "Obveščamo vas, da bomo z dnem 13. 4. 2026 na relaciji Trebnje - Ivančna Gorica...",
     "date": "8. 4. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -813,6 +705,7 @@
   },
   {
     "title": "V vozne rede bosta umeščeni dve novi postajališči",
+    "snippet": "V Primorsko – notranjski regiji bosta v ponedeljek, 13. 4. 2026, v veljavo stopili dve...",
     "date": "8. 4. 2026",
     "region": "notranjsko-kraška",
     "source": "DUJPP",
@@ -820,6 +713,7 @@
   },
   {
     "title": "V naselju Brunšvik še vedno potekajo dela v križišču",
+    "snippet": "V naselju Brunšvik še vedno potekajo dela v križišču pri baru Jurček oz. pri postajališču...",
     "date": "7. 4. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -827,6 +721,7 @@
   },
   {
     "title": "Spremembe v Pomurski regiji",
+    "snippet": "Na območju Pomurske regije bodo od torka, 7. 4. 2026 dalje v veljavo stopile naslednje...",
     "date": "3. 4. 2026",
     "region": "pomurska",
     "source": "DUJPP",
@@ -834,6 +729,7 @@
   },
   {
     "title": "V naselju Pijavice bodo vozni redi potekali, kot je veljalo pred zaporo",
+    "snippet": "Obveščamo vas, da se zaradi zaključka zapore v naselju Pijavice (občina Sevnica) z dnem 7....",
     "date": "3. 4. 2026",
     "region": "posavska",
     "source": "DUJPP",
@@ -841,6 +737,7 @@
   },
   {
     "title": "Zapora osrednjega dela postaje Ljubljana",
+    "snippet": "Zaradi obsežne faze investicijskih gradbenih del in popolne zapore postaje Ljubljana bo železniški promet 4....",
     "date": "3. 4. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -848,6 +745,7 @@
   },
   {
     "title": "Spremembe v voznem redu vlakov v notranjem in mednarodnem prometu",
+    "snippet": "S 7. aprilom 2026 bodo v notranjem in mednarodnem železniškem potniškem prometu stopile v veljavo...",
     "date": "3. 4. 2026",
     "region": "osrednjeslovenska",
     "source": "DUJPP",
@@ -855,6 +753,7 @@
   },
   {
     "title": "Spremembe voznih redov na relaciji Radlje ob Dravi – Vuhred – Sp. Vižinga",
+    "snippet": "Obveščamo vas, da bodo od ponedeljka, 13. 4. 2026 dalje, stopile v veljavo spremembe voznih...",
     "date": "1. 4. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -862,6 +761,7 @@
   },
   {
     "title": "Popolna zapora Šmarješke ceste v Novem mestu 2. aprila 2026, med 8.00 in 18.00",
+    "snippet": "Obveščamo vas, da bo zaradi popolne zapore Šmarješke ceste v četrtek, 2. aprila 2026, med...",
     "date": "1. 4. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -869,6 +769,7 @@
   },
   {
     "title": "Popolna zapora lokalne ceste Metlika-Krvavčji vrh-Semič",
+    "snippet": "Obveščamo vas, da se od 7. aprila 2026 do predvidoma 30. junija 2026 na relaciji...",
     "date": "1. 4. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
@@ -876,6 +777,7 @@
   },
   {
     "title": "Spremembe voznih redov v Koroški regiji",
+    "snippet": "S 1. 4. 2026 nastopijo v Koroški regiji naslednje spremembe voznih redov: DRAVOGRAD-SV.DANIJEL GOSNIKOVA Ž....",
     "date": "31. 3. 2026",
     "region": "koroška",
     "source": "DUJPP",
@@ -883,6 +785,7 @@
   },
   {
     "title": "Spremembe voznega reda na linijah, ki potekajo preko Kozjega",
+    "snippet": "Obveščamo vas, da bodo z dnem 1. 4. 2026 uvedene naslednje spremembe voznega reda: •...",
     "date": "31. 3. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -890,6 +793,7 @@
   },
   {
     "title": "Spremembe voznih redov, ki potekajo skozi Strahinj",
+    "snippet": "Obveščamo vas, da z jutrišnjim dnem, s 1. 4. 2026, v veljavo stopijo naslednje spremembe...",
     "date": "31. 3. 2026",
     "region": "gorenjska",
     "source": "DUJPP",
@@ -897,34 +801,15 @@
   },
   {
     "title": "Spremembe voznega reda v Jugovzhodni regiji",
+    "snippet": "Obveščamo vas, da bodo z dnem 1.4. na območju Jugovzhodne regije uvedene naslednje spremembe voznega...",
     "date": "31. 3. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/jugovzhodna-slovenija.html#content5-cx"
   },
   {
-    "title": "Spoznavali področje energetske in prevozne revščine",
-    "date": "26. 3. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-bp"
-  },
-  {
-    "title": "Čezmejni prevozi med obema Goricama se nadaljujejo tudi v letu 2026",
-    "date": "25. 3. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-bo"
-  },
-  {
-    "title": "V središču svetovne mobilnosti in pametnih vozovničnih sistemov",
-    "date": "18. 3. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-bn"
-  },
-  {
     "title": "Zapora ceste zaradi asfaltiranja v naselju Brunšvik",
+    "snippet": "V naselju Brunšvik bo od srede, 18. 3. 2026, vzpostavljena popolna zapora v križišču pri...",
     "date": "17. 3. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -932,6 +817,7 @@
   },
   {
     "title": "Spremembe voznih redov na območju Zgornje Savinjske doline",
+    "snippet": "Obveščamo vas, da bodo s 1. 4. 2026 stopile v veljavo naslednje spremembe voznega reda:...",
     "date": "17. 3. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -939,6 +825,7 @@
   },
   {
     "title": "Sprememba voznih redov v Posavski regiji",
+    "snippet": "Obveščamo vas, da bodo s 15. 3. 2026 v Posavski regiji stopile v veljavo naslednje...",
     "date": "13. 3. 2026",
     "region": "posavska",
     "source": "DUJPP",
@@ -946,34 +833,15 @@
   },
   {
     "title": "V Podravski regiji bo 16. 3. v veljavo stopila sprememba voznega reda",
+    "snippet": "V Podravski regiji bo 16. 3. 2026 v veljavo stopila sprememba voznega reda. Časovna spremembe...",
     "date": "10. 3. 2026",
     "region": "podravska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/podravska.html#content5-cr"
   },
   {
-    "title": "Na delavnici DCPS sodelovali pri razvoju scenarijev mobilnosti",
-    "date": "4. 3. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-bi"
-  },
-  {
-    "title": "Na simpoziju o idejnem projektu RailMB",
-    "date": "2. 3. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-be"
-  },
-  {
-    "title": "Na medregionalnem srečanju Next Ride v Hrpeljah Kozini",
-    "date": "26. 2. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-bg"
-  },
-  {
     "title": "S 1. 3. več sprememb voznih redov v Goriški regiji",
+    "snippet": "V Goriški regiji bo 1. 3. 2026 v veljavo stopilo več sprememb voznih redov. Spremembe...",
     "date": "23. 2. 2026",
     "region": "goriška",
     "source": "DUJPP",
@@ -981,6 +849,7 @@
   },
   {
     "title": "Spremembe voznih redov na linijah Slovenske konjice in Planina pri Sevnici",
+    "snippet": "Obveščamo vas, da bodo z dnem 16. 2. 2026 v veljavo stopile prilagoditve voznih redov....",
     "date": "13. 2. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -988,6 +857,7 @@
   },
   {
     "title": "Začasne spremembe zaradi zapore ceste na odseku Socka – Vitanje",
+    "snippet": "Zaradi popolne zapore ceste na odseku Socka – Vitanje bodo od 16. 2. 2026 dalje...",
     "date": "13. 2. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -995,6 +865,7 @@
   },
   {
     "title": "Zapora ceste Slovenska Bistrica–Ptuj",
+    "snippet": "Obveščamo vas, da bo od sobote, 14. 2. 2026, do sobote, 28. 2. 2026, zaradi...",
     "date": "12. 2. 2026",
     "region": "podravska",
     "source": "DUJPP",
@@ -1002,6 +873,7 @@
   },
   {
     "title": "Spremembe voznih redov v Zasavski regiji",
+    "snippet": "Obveščamo vas, da z dnem 16. 2. 2026 stopi v veljavo spremenjen vozni red na...",
     "date": "12. 2. 2026",
     "region": "zasavska",
     "source": "DUJPP",
@@ -1009,6 +881,7 @@
   },
   {
     "title": "Sprememba voznega reda na relaciji Krško OB – Brežice",
+    "snippet": "Obveščamo vas, da z dnem 16. 2. 2026 stopi v veljavo spremenjen vozni red na...",
     "date": "12. 2. 2026",
     "region": "posavska",
     "source": "DUJPP",
@@ -1016,27 +889,15 @@
   },
   {
     "title": "ZAPORA odseka ceste TURNIŠČE - GENTEROVCI",
+    "snippet": "Obveščamo vas, da bo predvidoma od ponedeljka, 9.2.2026, do predvidoma septembra 2026, vzpostavljena POPOLNA ZAPORA...",
     "date": "6. 2. 2026",
     "region": "pomurska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/pomurska.html#content5-ck"
   },
   {
-    "title": "Vozim varno v javnem potniškem prometu",
-    "date": "5. 2. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-b1"
-  },
-  {
-    "title": "Regijsko srečanje o razvoju javnega potniškega prometa v JV Sloveniji",
-    "date": "30. 1. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-ay"
-  },
-  {
     "title": "Sprememba voznega reda Sevnica – Celje",
+    "snippet": "DUJPP z dnem 1. 2. 2026 prilagaja vozni red na relaciji Sevnica – Celje z...",
     "date": "28. 01. 2026",
     "region": "savinjska",
     "source": "DUJPP",
@@ -1044,6 +905,7 @@
   },
   {
     "title": "Uskladitev prestopov Hrastnik K",
+    "snippet": "Z dnem 1. 2. 2026 smo na relacijah Trbovlje – Hrastnik in Hrastnik – Celje...",
     "date": "15. 01. 2026",
     "region": "zasavska",
     "source": "DUJPP",
@@ -1051,405 +913,23 @@
   },
   {
     "title": "Premik odhodov na relaciji Kranj – Tržič in Kranj – Kamnik",
+    "snippet": "Z dnem 19. 1. 2026 se spreminjata odhoda avtobusa iz Kranja za Tržič in Kamnik,...",
     "date": "15. 01. 2026",
     "region": "gorenjska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/gorenjska.html#content5-ci"
   },
   {
-    "title": "Na furi v Radljah ob Dravi",
-    "date": "12. 1. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-an"
-  },
-  {
-    "title": "Enotna nadomestna vozovnica",
-    "date": "9. 1. 2026",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-ax"
-  },
-  {
     "title": "Postajališče Gorenji Suhadol",
+    "snippet": "Z dnem 1. 2. 2026 bo v vozne rede na relaciji Novo mesto-Hrušica in Hrušica-Novo...",
     "date": "09. 01. 2026",
     "region": "jugovzhodna slovenija",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/jugovzhodna-slovenija.html#content5-d4"
   },
   {
-    "title": "Regijski dialog v Zasavju",
-    "date": "18. 12. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-am"
-  },
-  {
-    "title": "Javni poziv za sklenitev pogodbe o prodaji enotne vozovnice z drugimi zainteresiranimi osebami",
-    "date": "15. 12. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-aj"
-  },
-  {
-    "title": "Povezana in dostopna Savinjska regija",
-    "date": "12. 12. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-ag"
-  },
-  {
-    "title": "Strokovni svet DUJPP potrdil smer razvoja za leto 2026",
-    "date": "9. 12. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-af"
-  },
-  {
-    "title": "Svetovni dan trajnostnega prometa",
-    "date": "26. 11. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-ae"
-  },
-  {
-    "title": "EZTS organiziralo meddržavni forum Poti prihodnosti",
-    "date": "24. 11. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-ab"
-  },
-  {
-    "title": "Reševanje prevozne revščine s celostnim prometnim načrtovanjem",
-    "date": "21. 11. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-aa"
-  },
-  {
-    "title": "DUJPP se je predstavila na Fakulteti za logistiko v Celju",
-    "date": "17. 11. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-a9"
-  },
-  {
-    "title": "Na razpravi o mobilnosti v Posavju",
-    "date": "10. 11. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-a8"
-  },
-  {
-    "title": "Študentje geografije spoznali področja delovanja DUJPP",
-    "date": "29. 10. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-a7"
-  },
-  {
-    "title": "Regijski centri mobilnosti bodo v 2026 za DUJPP izvajali poenoteno raziskavo",
-    "date": "20. 10. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-a5"
-  },
-  {
-    "title": "O digitalizaciji poslovnih procesov v DUJPP",
-    "date": "17. 10. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-a4"
-  },
-  {
-    "title": "SDPZ pozdravil razvojne aktivnosti DUJPP",
-    "date": "15. 10. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-a3"
-  },
-  {
-    "title": "Strokovno srečanje o prevozni revščini in dostopnosti v regiji Zeleni kras",
-    "date": "13. 10. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-a1"
-  },
-  {
-    "title": "Povezovanje prostorskega in prometnega načrtovanja v Jugovzhodni Sloveniji",
-    "date": "7. 10. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-a0"
-  },
-  {
-    "title": "V teku je nadgradnja na blagajnah in terminalih za podporo in izdajo validacij listnih vozovnic",
-    "date": "6. 10. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-9z"
-  },
-  {
-    "title": "Na posvetu o razvoju multimodalnih vozlišč koroške, podravske in pomurske regije",
-    "date": "3. 10. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-9v"
-  },
-  {
-    "title": "V Novi Gorici predstavili projekt Prevozi na klic za gibalno ovirane osebe",
-    "date": "30. 9. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-9u"
-  },
-  {
-    "title": "Sprememba prometne ureditve DARS ne bo vplivala na avtobusne vozne rede",
-    "date": "30. 9. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-97"
-  },
-  {
-    "title": "V regijskih središčih se s potniki pogovarjamo o uporabniških izkušnjah",
-    "date": "19. 9. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-9r"
-  },
-  {
-    "title": "Na Evropski konferenci o prometu 2025",
-    "date": "19. 9. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-9q"
-  },
-  {
-    "title": "V Podravju na posvetu o prometnem načrtovanju",
-    "date": "18. 9. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-9x"
-  },
-  {
-    "title": "Slovenija pri oblikovanju novih strategij čezmejne mobilnosti",
-    "date": "17. 9. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-9s"
-  },
-  {
-    "title": "Kakšen JPP želimo imeti?",
-    "date": "15. 9. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-9o"
-  },
-  {
-    "title": "Študentje in dijaki seznanjeni, da vozni redi ostajajo nespremenjeni",
-    "date": "29. 8. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-9i"
-  },
-  {
-    "title": "Predprodaja subvencioniranih vozovnic za dijake",
-    "date": "21. 8. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-95"
-  },
-  {
-    "title": "Nove cene enotnih vozovnic",
-    "date": "1.8. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-94"
-  },
-  {
-    "title": "Novi avtobusi Arrive potnikom pomembno izboljšujejo udobje, varnost in skrb za okolje",
-    "date": "1. 7. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-8g"
-  },
-  {
-    "title": "Linija Brežice – Ljubljana z novim postajališčem v Dobruški vasi",
-    "date": "1. 7. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-8h"
-  },
-  {
-    "title": "S počitniškimi voznimi redi v Koper ali na Bled",
-    "date": "26. 6. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-8e"
-  },
-  {
-    "title": "Obvestilo o spremembi prometne ureditve na štajerski avtocesti",
-    "date": "24. 6. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-8c"
-  },
-  {
-    "title": "Na Dnevih prometnega inženirstva 2025",
-    "date": "19. 6. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-8d"
-  },
-  {
-    "title": "Novi vlaki potnikom pomembno izboljšujejo udobje potovanja",
-    "date": "13. 6. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-87"
-  },
-  {
-    "title": "Pogledi v prakse JPP kot trajnostne mobilnosti v čezmejnem alpskem prostoru",
-    "date": "12. 6. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-88"
-  },
-  {
-    "title": "Aplikacija Planinske zveze Slovenije po novem nudi tudi prikaz voznih redov",
-    "date": "5. 6. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-7t"
-  },
-  {
-    "title": "Podaljšanje veljavnosti subvencioniranih vozovnic",
-    "date": "27. 5. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-7s"
-  },
-  {
-    "title": "Aktivni tudi pri snovanju občinskih prometnih celostnih strategij",
-    "date": "22. 5. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-7p"
-  },
-  {
-    "title": "Enostavno na vlake višje vrste",
-    "date": "14. 5. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-7o"
-  },
-  {
-    "title": "Na posvetu o oblikovanju ciljev strategije za razvoj trga z alternativnimi gorivi",
-    "date": "5. 5. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-7m"
-  },
-  {
-    "title": "Varni na poti z javnim potniškim prometom",
-    "date": "25. 4. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#image1-75"
-  },
-  {
-    "title": "Na mednarodnem kongresu TRANS-BORDERS+",
-    "date": "23. 4. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-74"
-  },
-  {
-    "title": "Javno naročilo za pilotno testiranje »Prevozi na klic«",
-    "date": "16. 4. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-71"
-  },
-  {
-    "title": "Na posvetu s Strokovnim svetom o pripravi nove strategije DUJPP",
-    "date": "14. 4. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-70"
-  },
-  {
-    "title": "Mobilnost za vse",
-    "date": "11. 4. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6y"
-  },
-  {
-    "title": "Razpravljali o ukrepih zmanjševanja prevozne revščine",
-    "date": "4. 4. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6x"
-  },
-  {
-    "title": "Hitro proti trajnostni in prijazni mobilnosti",
-    "date": "27. 3. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6v"
-  },
-  {
-    "title": "Pregled voznih redov pred uvedbo sprememb zaradi obnovitvenih del DARS na avtocestni relaciji Dramlje - Slovenske Konjice",
-    "date": "25. 3. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6u"
-  },
-  {
-    "title": "Na mednarodni konferenci Transport Ticketing Global 2025",
-    "date": "11. 3. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6q"
-  },
-  {
-    "title": "Načrtovanje poti z aplikacijo SiMO",
-    "date": "26. 2. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6o"
-  },
-  {
-    "title": "Aktivna dostopnost do javnega potniškega prometa",
-    "date": "17. 2. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6n"
-  },
-  {
-    "title": "Modernizacija železniške infrastrukture",
-    "date": "6. 2. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6i"
-  },
-  {
-    "title": "Do izboljšav v JPP tudi skozi raziskave zadovoljstva",
-    "date": "27. 1. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6c"
-  },
-  {
-    "title": "Kako si lahko z uporabo javnega potniškega prometa izboljšamo življenjski slog",
-    "date": "24. 1. 2025",
-    "region": "aktualno",
-    "source": "DUJPP",
-    "url": "https://www.dujpp.si/Obvestila.html#content5-6a"
-  },
-  {
     "title": "Enter your subtitle here",
+    "snippet": "You can use content blocks to arrange your articles, large texts, instructions. Combine these blocks...",
     "date": "",
     "region": "posavska",
     "source": "DUJPP",
