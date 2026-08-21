@@ -3,6 +3,7 @@ import re
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 BASE_URL = "https://www.dujpp.si/informacije-za-potnika.html"
 HEADERS = {
@@ -11,6 +12,7 @@ HEADERS = {
 
 def get_region_links():
     resp = requests.get(BASE_URL, headers=HEADERS)
+    resp.encoding = 'utf-8' # Prisili UTF-8 kodiranje za pravilen prikaz šumnikov
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, 'html.parser')
 
@@ -30,6 +32,7 @@ def get_region_links():
 
 def scrape_region_news(region_info):
     resp = requests.get(region_info['url'], headers=HEADERS)
+    resp.encoding = 'utf-8' # Prisili UTF-8 kodiranje
     if resp.status_code != 200:
         return []
 
@@ -37,10 +40,11 @@ def scrape_region_news(region_info):
     news_items = []
 
     sections = soup.find_all('section')
+    print(region_info['region'])
     for sec in sections:
         sec_id = sec.get('id', '')
         
-        # Preskoči meni in nogogo
+        # Preskoči meni in nogo
         sec_class = sec.get('class', [])
         if any(c in sec_class for c in ['menu', 'footer']):
             continue
@@ -59,6 +63,7 @@ def scrape_region_news(region_info):
         date_str = ""
         if p_elem:
             full_p_text = p_elem.get_text()
+            # Išče vzorec datuma (npr. 15.08.2026 ali 15. 8. 2026)
             date_match = re.search(r'\d{1,2}\.\s*\d{1,2}\.\s*\d{4}', full_p_text)
             if date_match:
                 date_str = date_match.group(0)
@@ -75,6 +80,19 @@ def scrape_region_news(region_info):
 
     return news_items
 
+def parse_date_for_sorting(date_str):
+    """Pomožna funkcija za pretvorbo stringa v datum za potrebe sortiranja."""
+    if not date_str:
+        # Če novice nimajo datuma, jih postavimo na konec seznama (najstarejši možen datum)
+        return datetime.min 
+    
+    # Odstranimo presledke za lažje parsanje (npr. "15. 8. 2024" -> "15.8.2024")
+    clean_str = date_str.replace(" ", "")
+    try:
+        return datetime.strptime(clean_str, "%d.%m.%Y")
+    except ValueError:
+        return datetime.min
+
 def main():
     regions = get_region_links()
     all_news = []
@@ -83,10 +101,14 @@ def main():
         news = scrape_region_news(reg)
         all_news.extend(news)
 
+    # Sortiranje vseh novic po datumu (padajoče - najnovejše najprej)
+    all_news.sort(key=lambda x: parse_date_for_sorting(x['date']), reverse=True)
+
+    # Shranjevanje v JSON datoteko
     with open('dujpp_news.json', 'w', encoding='utf-8') as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
 
-    print(f"Uspešno zajeto novic: {len(all_news)}")
+    print(f"Uspešno zajeto in po datumu sortirano {len(all_news)} novic.")
 
 if __name__ == "__main__":
     main()
