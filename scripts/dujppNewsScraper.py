@@ -3,7 +3,7 @@ import re
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 
 BASE_URL = "https://www.dujpp.si/informacije-za-potnika.html"
 HEADERS = {
@@ -16,6 +16,7 @@ def get_region_links():
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, 'html.parser')
 
+    # Posodobljen URL za Obvestila/Aktualno
     regions = [{'url': 'https://www.dujpp.si/Obvestila.html', 'region': 'aktualno'}]
 
     content_sections = [
@@ -68,15 +69,12 @@ def scrape_region_news(region_info):
         date_match = re.search(r'\d{1,2}\.\s*\d{1,2}\.\s*\d{4}', sec_text)
         date_str = date_match.group(0).strip() if date_match else ""
 
-        # Ekstrakcija prvih nekaj besed (snippet)
+        # Ekstrakcija povzetka (snippet)
         p_elems = sec.find_all('p')
         raw_text = " ".join([p.get_text(" ", strip=True) for p in p_elems]).replace('\xa0', ' ')
-        
-        # Odstrani datum z začetka besedila, če obstaja (npr. "(31. 7. 2026)")
         clean_text = re.sub(r'^\(?\d{1,2}\.\s*\d{1,2}\.\s*\d{4}\)?\s*', '', raw_text).strip()
         clean_text = re.sub(r'\s+', ' ', clean_text)
 
-        # Skrajša besedilo na prvih 15 besed
         words = clean_text.split()
         if len(words) > 15:
             snippet = " ".join(words[:15]) + "..."
@@ -115,12 +113,24 @@ def main():
         news = scrape_region_news(reg)
         all_news.extend(news)
 
-    all_news.sort(key=lambda x: parse_date_for_sorting(x['date']), reverse=True)
+    # Filtriranje novic: izločitev vseh, ki so starejše od 1 leta (365 dni)
+    one_year_ago = datetime.now() - timedelta(days=365)
+    filtered_news = []
+    
+    for item in all_news:
+        item_date = parse_date_for_sorting(item['date'])
+        # Če ima novica veljaven datum in je starejša od 1 leta, jo preskočimo
+        if item_date != datetime.min and item_date < one_year_ago:
+            continue
+        filtered_news.append(item)
+
+    # Sortiranje po datumu (najnovejše na vrhu)
+    filtered_news.sort(key=lambda x: parse_date_for_sorting(x['date']), reverse=True)
 
     with open('dujpp_news.json', 'w', encoding='utf-8') as f:
-        json.dump(all_news, f, ensure_ascii=False, indent=2)
+        json.dump(filtered_news, f, ensure_ascii=False, indent=2)
 
-    print(f"Uspešno zajeto {len(all_news)} novic s povzetki.")
+    print(f"Uspešno zablokiranih {len(all_news) - len(filtered_news)} starih novic. Shranjeno {len(filtered_news)} novic.")
 
 if __name__ == "__main__":
     main()
