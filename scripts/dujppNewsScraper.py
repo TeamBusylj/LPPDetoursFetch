@@ -16,10 +16,8 @@ def get_region_links():
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, 'html.parser')
 
-    # Explicitno dodamo stran "Aktualno"
-    regions = [{'url': 'https://www.dujpp.si/Obvestila.html', 'region': 'aktualno'}]
+    regions = [{'url': 'https://www.dujpp.si/aktualno.html', 'region': 'aktualno'}]
 
-    # Zajemamo povezave LE iz vsebinskih sekcij (preskočimo meni in nogo)
     content_sections = [
         sec for sec in soup.find_all('section')
         if not any(c in sec.get('class', []) for c in ['menu', 'footer', 'nav'])
@@ -53,12 +51,10 @@ def scrape_region_news(region_info):
     for sec in sections:
         sec_id = sec.get('id', '')
         
-        # Preskočimo menije in noge strani
         sec_class = sec.get('class', [])
         if any(c in sec_class for c in ['menu', 'footer', 'nav']):
             continue
 
-        # Naslov novice je v <h3> ali <h4>
         title_elem = sec.find(['h3', 'h4'])
         if not title_elem:
             continue
@@ -67,17 +63,33 @@ def scrape_region_news(region_info):
         if not title or len(title) < 3:
             continue
 
-        # Pridobivanje celotnega besedila sekcije za zanesljivo ekstrakcijo datuma
+        # Ekstrakcija datuma
         sec_text = sec.get_text().replace('\xa0', ' ')
-        
-        # Regex ujame datume kot so: "31. 7. 2026", "(31. 7. 2026)", "31.07.2026"
         date_match = re.search(r'\d{1,2}\.\s*\d{1,2}\.\s*\d{4}', sec_text)
         date_str = date_match.group(0).strip() if date_match else ""
+
+        # Ekstrakcija prvih nekaj besed (snippet)
+        p_elems = sec.find_all('p')
+        raw_text = " ".join([p.get_text(" ", strip=True) for p in p_elems]).replace('\xa0', ' ')
+        
+        # Odstrani datum z začetka besedila, če obstaja (npr. "(31. 7. 2026)")
+        clean_text = re.sub(r'^\(?\d{1,2}\.\s*\d{1,2}\.\s*\d{4}\)?\s*', '', raw_text).strip()
+        clean_text = re.sub(r'\s+', ' ', clean_text)
+
+        # Skrajša besedilo na prvih 15 besed
+        words = clean_text.split()
+        if len(words) > 15:
+            snippet = " ".join(words[:15]) + "..."
+        elif words:
+            snippet = " ".join(words) + "..."
+        else:
+            snippet = ""
 
         news_url = f"{region_info['url']}#{sec_id}" if sec_id else region_info['url']
 
         news_items.append({
             "title": title,
+            "snippet": snippet,
             "date": date_str,
             "region": region_info['region'],
             "source": "DUJPP",
@@ -103,13 +115,12 @@ def main():
         news = scrape_region_news(reg)
         all_news.extend(news)
 
-    # Sortiranje vseh novic po datumu (najnovejše na vrhu)
     all_news.sort(key=lambda x: parse_date_for_sorting(x['date']), reverse=True)
 
     with open('dujpp_news.json', 'w', encoding='utf-8') as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
 
-    print(f"Uspešno zajeto {len(all_news)} novic iz regij in strani Aktualno.")
+    print(f"Uspešno zajeto {len(all_news)} novic s povzetki.")
 
 if __name__ == "__main__":
     main()
