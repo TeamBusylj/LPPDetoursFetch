@@ -127660,6 +127660,19 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjY1NzY",
+    "gtfs_id": "IJPP:1166576",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Vrsnik",
+    "lat": 46.0198178,
+    "lon": 14.0875465,
+    "opposite": null,
+    "agencies": []
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjY1Nzg",
     "gtfs_id": "IJPP:1166578",
     "code": null,
@@ -143456,6 +143469,19 @@
     "name": "Gorišnica",
     "lat": 46.4118916,
     "lon": 16.0154772,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MDg",
+    "gtfs_id": "IJPP:1168808",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Spodnji Vrsnik",
+    "lat": 46.017684,
+    "lon": 14.1012204,
     "opposite": null,
     "agencies": []
   }
