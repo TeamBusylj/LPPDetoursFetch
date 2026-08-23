@@ -2,7 +2,7 @@ name: DUJPP News Scraper
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Zažene vsak dan ob 6:00 UTC
+    - cron: '0 7 * * *' # Zažene vsak dan ob 6:00 UTC
   workflow_dispatch: # Omogoča ročni zagon preko GitHub vmesnika
 
 jobs:
