@@ -48734,8 +48734,8 @@
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
     "name": "Ljubljana AP",
-    "lat": 46.0578328,
-    "lon": 14.5087856,
+    "lat": 46.0579438,
+    "lon": 14.5146952,
     "opposite": null,
     "agencies": [
       "1118",
@@ -88463,21 +88463,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMzA0Mjk",
-    "gtfs_id": "IJPP:1130429",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Sp.Otok",
-    "lat": 46.3434077,
-    "lon": 14.2090053,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMzA0MzI",
     "gtfs_id": "IJPP:1130432",
     "code": null,
@@ -109523,21 +109508,6 @@
     "name": "Zg.Osek",
     "lat": 46.5835259,
     "lon": 15.9249753,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMzIyOTM",
-    "gtfs_id": "IJPP:1132293",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Zg.Otok",
-    "lat": 46.348108,
-    "lon": 14.2058778,
     "opposite": null,
     "agencies": [
       "1123"
