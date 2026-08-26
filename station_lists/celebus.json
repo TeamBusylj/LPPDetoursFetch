@@ -52,6 +52,32 @@
     "routes": []
   },
   {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTEyMTc",
+    "gtfs_id": "CELEBUS:1000051217",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Obrtna cona Lava",
+    "lat": 46.2410203,
+    "lon": 15.2516168,
+    "opposite": "CELEBUS:1000051217",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTEyMTg",
+    "gtfs_id": "CELEBUS:1000051218",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Obrtna cona Lava",
+    "lat": 46.240874,
+    "lon": 15.2515251,
+    "opposite": "CELEBUS:1000051218",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTEzNzI",
     "gtfs_id": "CELEBUS:1000051372",
     "code": null,
@@ -1174,6 +1200,71 @@
     ]
   },
   {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDM",
+    "gtfs_id": "CELEBUS:1167043",
+    "code": "20761_50030",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Medlog kapelica",
+    "lat": 46.253565,
+    "lon": 15.222422,
+    "opposite": "20761_50030",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDQ",
+    "gtfs_id": "CELEBUS:1167044",
+    "code": "20762_50031",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Medlog",
+    "lat": 46.249573,
+    "lon": 15.229011,
+    "opposite": "20762_50031",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDU",
+    "gtfs_id": "CELEBUS:1167045",
+    "code": "20763_50032",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Babno",
+    "lat": 46.246579,
+    "lon": 15.233804,
+    "opposite": "20763_50032",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDY",
+    "gtfs_id": "CELEBUS:1167046",
+    "code": "20764_50033",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Babno Kravanja",
+    "lat": 46.244048,
+    "lon": 15.239497,
+    "opposite": "20764_50033",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDc",
+    "gtfs_id": "CELEBUS:1167047",
+    "code": "20765_50034",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Ložnica bloki",
+    "lat": 46.240057,
+    "lon": 15.244488,
+    "opposite": "20765_50034",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpDRUxFQlVTOjExNjc2OTM",
     "gtfs_id": "CELEBUS:1167693",
     "code": null,
@@ -1496,6 +1587,19 @@
         "color": "#559384"
       }
     ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODc",
+    "gtfs_id": "CELEBUS:1168487",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Babno Kravanja",
+    "lat": 46.243913,
+    "lon": 15.239624,
+    "opposite": "CELEBUS:1168487",
+    "routes": []
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjg0ODg",

@@ -14095,8 +14095,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "KOLODVOR",
-    "lat": 46.057751,
-    "lon": 14.51027,
+    "lat": 46.057816,
+    "lon": 14.514664,
     "opposite": null,
     "routes": [
       {
@@ -14507,8 +14507,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "SŽ KOLODVOR",
-    "lat": 46.057911,
-    "lon": 14.510148,
+    "lat": 46.057903,
+    "lon": 14.514673,
     "opposite": null,
     "routes": [
       {

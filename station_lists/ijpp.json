@@ -140041,6 +140041,19 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjgzNDQ",
+    "gtfs_id": "IJPP:1168344",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Rogatec Ceste",
+    "lat": 46.2241272,
+    "lon": 15.7173715,
+    "opposite": null,
+    "agencies": []
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjgzNDU",
     "gtfs_id": "IJPP:1168345",
     "code": null,
