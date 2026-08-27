@@ -372,6 +372,19 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjExNA",
+    "gtfs_id": "MOKranj:114",
+    "code": "13575",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Babni vrt vas",
+    "lat": 46.32032,
+    "lon": 14.38204,
+    "opposite": "13575",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjExNQ",
     "gtfs_id": "MOKranj:115",
     "code": "10067",
@@ -840,6 +853,19 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjEzNg",
+    "gtfs_id": "MOKranj:136",
+    "code": "12699",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Žablje",
+    "lat": 46.30692,
+    "lon": 14.38355,
+    "opposite": "12699",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjEzNw",
     "gtfs_id": "MOKranj:137",
     "code": "13430",
@@ -856,6 +882,19 @@
         "color": "#EC008C"
       }
     ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzOA",
+    "gtfs_id": "MOKranj:138",
+    "code": "16709",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj AP",
+    "lat": 46.2458,
+    "lon": 14.35486,
+    "opposite": "16709",
+    "routes": []
   },
   {
     "id": "U3RvcDpNT0tyYW5qOjEzOQ",
@@ -1932,6 +1971,32 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjQ3",
+    "gtfs_id": "MOKranj:47",
+    "code": "13863",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Čadovlje/Golniku K",
+    "lat": 46.30859,
+    "lon": 14.37651,
+    "opposite": "13863",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ4",
+    "gtfs_id": "MOKranj:48",
+    "code": "13866",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Povlje",
+    "lat": 46.32259,
+    "lon": 14.37775,
+    "opposite": "13866",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjQ5",
     "gtfs_id": "MOKranj:49",
     "code": "12415",
@@ -2052,6 +2117,19 @@
     ]
   },
   {
+    "id": "U3RvcDpNT0tyYW5qOjUx",
+    "gtfs_id": "MOKranj:51",
+    "code": "13864",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zalog/Goriče",
+    "lat": 46.32652,
+    "lon": 14.35307,
+    "opposite": "13864",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpNT0tyYW5qOjUy",
     "gtfs_id": "MOKranj:52",
     "code": "12412",
@@ -2068,6 +2146,19 @@
         "color": "#231F20"
       }
     ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUz",
+    "gtfs_id": "MOKranj:53",
+    "code": "13865",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Srednja vas/Goriče",
+    "lat": 46.31905,
+    "lon": 14.34741,
+    "opposite": "13865",
+    "routes": []
   },
   {
     "id": "U3RvcDpNT0tyYW5qOjU0",
@@ -2206,6 +2297,19 @@
         "color": "#806B64"
       }
     ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjYw",
+    "gtfs_id": "MOKranj:60",
+    "code": "13870",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Hraše/Tatinec",
+    "lat": 46.29317,
+    "lon": 14.37403,
+    "opposite": "13870",
+    "routes": []
   },
   {
     "id": "U3RvcDpNT0tyYW5qOjYwMg",
@@ -3042,5 +3146,31 @@
         "color": "#EC008C"
       }
     ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk4",
+    "gtfs_id": "MOKranj:98",
+    "code": "13842",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Tatinec vas",
+    "lat": 46.28859,
+    "lon": 14.36812,
+    "opposite": "13842",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk5",
+    "gtfs_id": "MOKranj:99",
+    "code": "13843",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Svarje",
+    "lat": 46.33207,
+    "lon": 14.35085,
+    "opposite": "13843",
+    "routes": []
   }
 ]

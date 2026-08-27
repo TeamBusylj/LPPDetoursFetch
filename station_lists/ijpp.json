@@ -127538,6 +127538,19 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjY1NTU",
+    "gtfs_id": "IJPP:1166555",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Sinja Gorica P+R",
+    "lat": 45.9776616,
+    "lon": 14.3082953,
+    "opposite": null,
+    "agencies": []
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjY1NjM",
     "gtfs_id": "IJPP:1166563",
     "code": null,
@@ -139726,6 +139739,32 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjgzMTI",
+    "gtfs_id": "IJPP:1168312",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Smrečje Kasarna",
+    "lat": 46.014865,
+    "lon": 14.192461,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjgzMTM",
+    "gtfs_id": "IJPP:1168313",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Smrečje Kasarna",
+    "lat": 46.014864,
+    "lon": 14.192271,
+    "opposite": null,
+    "agencies": []
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjgzMTQ",
     "gtfs_id": "IJPP:1168314",
     "code": null,
@@ -141415,6 +141454,32 @@
     "agencies": [
       "1119"
     ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg1NjE",
+    "gtfs_id": "IJPP:1168561",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Tišina OŠ",
+    "lat": 46.6558763,
+    "lon": 16.094227,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg1NjI",
+    "gtfs_id": "IJPP:1168562",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Tišina OŠ",
+    "lat": 46.655496,
+    "lon": 16.093923,
+    "opposite": null,
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOjExNjg1NjU",
@@ -143353,6 +143418,19 @@
     "agencies": [
       "1121"
     ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg3OTk",
+    "gtfs_id": "IJPP:1168799",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Grosuplje",
+    "lat": 45.9557586,
+    "lon": 14.6529807,
+    "opposite": null,
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOjExNjg4MDA",
