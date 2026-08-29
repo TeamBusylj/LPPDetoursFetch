@@ -8220,7 +8220,7 @@
     "type": "BUS",
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
-    "name": "Nove Jarše",
+    "name": "Nove Jarše-Šm.",
     "lat": 46.070415,
     "lon": 14.548994,
     "opposite": null,
@@ -12064,24 +12064,6 @@
       {
         "name": "18",
         "color": "#765033"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6YmY2NGI0OTktMjExYi00ZGE4LWFjZTItZjEyYTE3NjA4YWUz",
-    "gtfs_id": "LPP:bf64b499-211b-4da8-ace2-f12a17608ae3",
-    "code": "303043",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "ŠTEPANJSKO NAS.",
-    "lat": 46.053509,
-    "lon": 14.548228,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "9",
-        "color": "#829fc3"
       }
     ]
   },
