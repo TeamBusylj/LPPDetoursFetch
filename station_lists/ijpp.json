@@ -143558,5 +143558,18 @@
     "lon": 14.1012204,
     "opposite": null,
     "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MTA",
+    "gtfs_id": "IJPP:1168810",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Primoži (Kočevje)",
+    "lat": 45.6008669,
+    "lon": 14.796923,
+    "opposite": null,
+    "agencies": []
   }
 ]

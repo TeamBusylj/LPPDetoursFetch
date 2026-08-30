@@ -1920,28 +1920,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6MWZlODJhMDUtNWY2YS00MDc2LTllMTktMjNkNjFiODM1NTcy",
-    "gtfs_id": "LPP:1fe82a05-5f6a-4076-9e19-23d61b835572",
-    "code": "203011",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Pokopališka",
-    "lat": 46.065479,
-    "lon": 14.529408,
-    "opposite": "203012",
-    "routes": [
-      {
-        "name": "7",
-        "color": "#47acd1"
-      },
-      {
-        "name": "24",
-        "color": "#d4267e"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6MjA3M2IyODgtMDJjMi00ZDdlLWFjZjEtMWE4ZDU5ZmIyODg0",
     "gtfs_id": "LPP:2073b288-02c2-4d7e-acf1-1a8d59fb2884",
     "code": "102062",
@@ -3722,6 +3700,19 @@
         "color": "#da5894"
       }
     ]
+  },
+  {
+    "id": "U3RvcDpMUFA6M2RlOTAyZDgtNjE5ZS00MmVmLWIxZWMtMDYwZTUxZTU2MWE4",
+    "gtfs_id": "LPP:3de902d8-619e-42ef-b1ec-060e51e561a8",
+    "code": "100011",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Navje",
+    "lat": 46.059872,
+    "lon": 14.512282,
+    "opposite": "100012",
+    "routes": []
   },
   {
     "id": "U3RvcDpMUFA6M2VkZDYwNTctMzg0Ny00YzQyLWI4ZWMtNmU4OWZmOTU3OTNh",
@@ -8477,7 +8468,7 @@
     "name": "Navje",
     "lat": 46.059723,
     "lon": 14.509243,
-    "opposite": null,
+    "opposite": "100011",
     "routes": [
       {
         "name": "11B",
@@ -11016,6 +11007,19 @@
     ]
   },
   {
+    "id": "U3RvcDpMUFA6YWJjYTA1ZDQtYzhmOC00NjI3LTljMDgtY2U4MzkyYzRkZDcy",
+    "gtfs_id": "LPP:abca05d4-c8f8-4627-9c08-ce8392c4dd72",
+    "code": "202013",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Viadukt",
+    "lat": 46.059933,
+    "lon": 14.519338,
+    "opposite": "202014",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpMUFA6YWMzYWZlN2QtYTJiMy00ZDVkLTllNmEtMWQyNDEyYTNiYzcw",
     "gtfs_id": "LPP:ac3afe7d-a2b3-4d5d-9e6a-1d2412a3bc70",
     "code": "803051",
@@ -11956,24 +11960,6 @@
       {
         "name": "19B",
         "color": "#d895a9"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6YmUxODgxYzktZDc5Zi00NTNlLWEyZWUtMjYwYThiZjNmZTEz",
-    "gtfs_id": "LPP:be1881c9-d79f-453e-a2ee-260a8bf3fe13",
-    "code": "203012",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Pokopališka",
-    "lat": 46.065437,
-    "lon": 14.52916,
-    "opposite": "203011",
-    "routes": [
-      {
-        "name": "24",
-        "color": "#d4267e"
       }
     ]
   },
@@ -13148,6 +13134,19 @@
         "color": "#1f1d1d"
       }
     ]
+  },
+  {
+    "id": "U3RvcDpMUFA6Y2ZjZWY5NzAtMjVkNi00YjM2LWI2YzgtNjlmYmY3ZTA1ODQz",
+    "gtfs_id": "LPP:cfcef970-25d6-4b36-b6c8-69fbf7e05843",
+    "code": "202014",
+    "type": "BUS",
+    "background_color": "#016A42",
+    "icon_color": "#FFFFFF",
+    "name": "Viadukt",
+    "lat": 46.059822,
+    "lon": 14.51931,
+    "opposite": "202013",
+    "routes": []
   },
   {
     "id": "U3RvcDpMUFA6ZDA2YzZjOGEtYzEzNi00YjdhLTljMTMtYjI2YmEwYzA0MDI5",
