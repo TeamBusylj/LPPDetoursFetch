@@ -1,11 +1,27 @@
 [
   {
+    "title": "Obvoz zaradi zapore ceste na relaciji Krško–Zdole",
+    "snippet": "Obveščamo vas, da bo zaradi nadaljevanja sanacijskih del in stabilizacije zemljine cesta na območju rekonstrukcije...",
+    "date": "31. 8. 2026",
+    "region": "posavska",
+    "source": "DUJPP",
+    "url": "https://www.dujpp.si/posavska.html#content5-of"
+  },
+  {
     "title": "Spremenjen avtobusni režim v Naklem",
     "snippet": "Zaradi rekonstrukcije regionalne ceste skozi Naklo, ostaja v Naklem zaprto osrednje območje pri gostilnah in...",
     "date": "31. 8. 2026",
     "region": "gorenjska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/gorenjska.html#image1-od"
+  },
+  {
+    "title": "Spremenjeni vozni redi na območju Kočevja",
+    "snippet": "Obveščamo vas, da bodo od 1. 9. 2026 v Jugovzhodni regiji začele veljati spremembe voznih...",
+    "date": "31. 8. 2026",
+    "region": "jugovzhodna slovenija",
+    "source": "DUJPP",
+    "url": "https://www.dujpp.si/jugovzhodna-slovenija.html#content5-oj"
   },
   {
     "title": "Zaradi rekonstrukcije mostu Dernarnik vzpostavljena popolna zapora ceste",
@@ -142,6 +158,22 @@
     "region": "savinjska",
     "source": "DUJPP",
     "url": "https://www.dujpp.si/savinjska.html#content5-n1"
+  },
+  {
+    "title": "Obvoz zaradi gradnje krožišča in rekonstrukcije mostu v Zagorju",
+    "snippet": "Obveščamo vas, da bo zaradi gradnje krožišča in rekonstrukcije mostu v Zagorju od torka, 18....",
+    "date": "18. 8. 2026",
+    "region": "zasavska",
+    "source": "DUJPP",
+    "url": "https://www.dujpp.si/zasavska.html#content5-oi"
+  },
+  {
+    "title": "Zaradi zapore ceste neaktivno avtobusno postajališče Krško Galerija",
+    "snippet": "Obveščamo vas, da bo zaradi rekonstrukcije cestišča in popolne zapore ceste od 20. 8. 2026...",
+    "date": "18. 8. 2026",
+    "region": "posavska",
+    "source": "DUJPP",
+    "url": "https://www.dujpp.si/posavska.html#content5-og"
   },
   {
     "title": "Z 31. 8. ukinjeni vsi začasni železniški peroni v Ljubljani",
