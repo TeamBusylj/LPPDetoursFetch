@@ -20339,36 +20339,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjQ0NjA",
-    "gtfs_id": "IJPP:1124460",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Dobrava/Sl.Bist.",
-    "lat": 46.3884258,
-    "lon": 15.5115706,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjQ0NjE",
-    "gtfs_id": "IJPP:1124461",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Dobrava/Sl.Bist.",
-    "lat": 46.3883925,
-    "lon": 15.5114923,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjQ0NjI",
     "gtfs_id": "IJPP:1124462",
     "code": null,
@@ -63466,36 +63436,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjgyNzY",
-    "gtfs_id": "IJPP:1128276",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Placerovci",
-    "lat": 46.4014019,
-    "lon": 16.0265278,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjgyNzc",
-    "gtfs_id": "IJPP:1128277",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Placerovci",
-    "lat": 46.4014049,
-    "lon": 16.0264471,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjgyNzg",
     "gtfs_id": "IJPP:1128278",
     "code": null,
@@ -69333,36 +69273,6 @@
     "name": "Pragersko marof",
     "lat": 46.3995667,
     "lon": 15.6412931,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjg3Nzc",
-    "gtfs_id": "IJPP:1128777",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Pragersko ŽP",
-    "lat": 46.3944165,
-    "lon": 15.6606911,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjg3Nzg",
-    "gtfs_id": "IJPP:1128778",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Pragersko ŽP",
-    "lat": 46.3945453,
-    "lon": 15.6606787,
     "opposite": null,
     "agencies": [
       "1123"
@@ -101996,21 +101906,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMzE2MjY",
-    "gtfs_id": "IJPP:1131626",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Vitomarci Brlak K",
-    "lat": 46.5210352,
-    "lon": 15.9408345,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMzE2Mjg",
     "gtfs_id": "IJPP:1131628",
     "code": null,
@@ -115793,21 +115688,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExNTA2MTc",
-    "gtfs_id": "IJPP:1150617",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Ceršak",
-    "lat": 46.6971588,
-    "lon": 15.6675797,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExNTA2MTg",
     "gtfs_id": "IJPP:1150618",
     "code": null,
@@ -115941,21 +115821,6 @@
     "opposite": null,
     "agencies": [
       "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNTA2NTc",
-    "gtfs_id": "IJPP:1150657",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Pragersko marof",
-    "lat": 46.399701,
-    "lon": 15.6420242,
-    "opposite": null,
-    "agencies": [
-      "1123"
     ]
   },
   {
@@ -118393,21 +118258,6 @@
     "opposite": null,
     "agencies": [
       "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNTEyNDQ",
-    "gtfs_id": "IJPP:1151244",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Preddvor Križnar",
-    "lat": 46.3027148,
-    "lon": 14.4220403,
-    "opposite": null,
-    "agencies": [
-      "1123"
     ]
   },
   {
@@ -132691,51 +132541,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExNjczNjQ",
-    "gtfs_id": "IJPP:1167364",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Erbežnik",
-    "lat": 46.002208,
-    "lon": 14.413464,
-    "opposite": null,
-    "agencies": [
-      "1118"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjczNjY",
-    "gtfs_id": "IJPP:1167366",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Mostiček",
-    "lat": 45.997254,
-    "lon": 14.407922,
-    "opposite": null,
-    "agencies": [
-      "1118"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjczNjg",
-    "gtfs_id": "IJPP:1167368",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Notranje Gorice",
-    "lat": 45.987955,
-    "lon": 14.401773,
-    "opposite": null,
-    "agencies": [
-      "1118"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExNjczNjk",
     "gtfs_id": "IJPP:1167369",
     "code": null,
@@ -134509,21 +134314,6 @@
     "opposite": null,
     "agencies": [
       "1121",
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjc1ODY",
-    "gtfs_id": "IJPP:1167586",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Breg OŠ",
-    "lat": 46.414187,
-    "lon": 15.861246,
-    "opposite": null,
-    "agencies": [
       "1123"
     ]
   },
@@ -143569,6 +143359,19 @@
     "name": "Primoži (Kočevje)",
     "lat": 45.6008669,
     "lon": 14.796923,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MTE",
+    "gtfs_id": "IJPP:1168811",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Prepuž",
+    "lat": 46.3527506,
+    "lon": 15.5291464,
     "opposite": null,
     "agencies": []
   }

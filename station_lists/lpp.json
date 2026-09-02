@@ -3600,24 +3600,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6M2MxNDM2ODgtMjQ3Zi00MWNjLTk2MGQtZjVlMzdiODc0YzNh",
-    "gtfs_id": "LPP:3c143688-247f-41cc-960d-f5e37b874c3a",
-    "code": "104163",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Črnuče",
-    "lat": 46.10392,
-    "lon": 14.534587,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "28",
-        "color": "#b7b937"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6M2M2ZWJmOTAtYzYxMS00NTM1LWIyYjAtMjJmYmEzZjc2NDlh",
     "gtfs_id": "LPP:3c6ebf90-c611-4535-b2b0-22fba3f7649a",
     "code": "103182",
@@ -14065,28 +14047,6 @@
       {
         "name": "11",
         "color": "#e2bb46"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6ZGI5ZjcxMzAtMGJjMi00ZjNlLWI4Y2QtMDdjZmU5NmIxZjhm",
-    "gtfs_id": "LPP:db9f7130-0bc2-4f3e-b8cd-07cfe96b1f8f",
-    "code": "300015",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "KOLODVOR",
-    "lat": 46.057991,
-    "lon": 14.514928,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "18",
-        "color": "#765033"
-      },
-      {
-        "name": "18L",
-        "color": "#765033"
       }
     ]
   },

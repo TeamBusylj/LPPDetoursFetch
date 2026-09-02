@@ -1,18 +1,5 @@
 [
   {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk3MTM",
-    "gtfs_id": "CELEBUS:1000039713",
-    "code": "16168_39713",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Stari Grad",
-    "lat": 46.219115,
-    "lon": 15.27322,
-    "opposite": "16168_39713",
-    "routes": []
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjEwMDAwNDQyMzI",
     "gtfs_id": "CELEBUS:1000044232",
     "code": null,
@@ -104,6 +91,19 @@
     "routes": []
   },
   {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTE0MzE",
+    "gtfs_id": "CELEBUS:1000051431",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Bukovžlak Gobec K %28PL%29",
+    "lat": 46.238519,
+    "lon": 15.303453,
+    "opposite": "CELEBUS:1000051431",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpDRUxFQlVTOjExMjM4Nzc",
     "gtfs_id": "CELEBUS:1123877",
     "code": "16214_23564",
@@ -127,19 +127,6 @@
     "lat": 46.2237332,
     "lon": 15.2661636,
     "opposite": "16214_23565",
-    "routes": []
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM4Nzk",
-    "gtfs_id": "CELEBUS:1123879",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celeiapark",
-    "lat": 46.2325988,
-    "lon": 15.2678727,
-    "opposite": "CELEBUS:1123879",
     "routes": []
   },
   {
@@ -721,19 +708,6 @@
     "routes": []
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExMjcwOTM",
-    "gtfs_id": "CELEBUS:1127093",
-    "code": "12319_26628",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Lokrovec Čerčnik",
-    "lat": 46.2611352,
-    "lon": 15.2545813,
-    "opposite": "12319_26628",
-    "routes": []
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExMjcxMTg",
     "gtfs_id": "CELEBUS:1127118",
     "code": "12302_26651",
@@ -871,6 +845,19 @@
     "routes": []
   },
   {
+    "id": "U3RvcDpDRUxFQlVTOjExNjI1OTQ",
+    "gtfs_id": "CELEBUS:1162594",
+    "code": "12319_49215",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Lokrovec Čerčnik",
+    "lat": 46.261045,
+    "lon": 15.254792,
+    "opposite": "12319_49215",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpDRUxFQlVTOjExNjI4ODg",
     "gtfs_id": "CELEBUS:1162888",
     "code": "16178_49978",
@@ -894,6 +881,32 @@
     "lat": 46.2463157,
     "lon": 15.2760831,
     "opposite": "16170_49973",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTA",
+    "gtfs_id": "CELEBUS:1166390",
+    "code": "13508_48869",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Ostrožno GD",
+    "lat": 46.2511876,
+    "lon": 15.2484307,
+    "opposite": "13508_48869",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTM",
+    "gtfs_id": "CELEBUS:1166393",
+    "code": "13510_48868",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Ostrožno Antloga",
+    "lat": 46.2519734,
+    "lon": 15.2520049,
+    "opposite": "13510_48868",
     "routes": []
   },
   {
@@ -1143,6 +1156,19 @@
     ]
   },
   {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwMzc",
+    "gtfs_id": "CELEBUS:1167037",
+    "code": "16174_50004",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Nova vas Lidl.",
+    "lat": 46.250506,
+    "lon": 15.260009,
+    "opposite": "16174_50004",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpDRUxFQlVTOjExNjcwMzg",
     "gtfs_id": "CELEBUS:1167038",
     "code": "20753_50007",
@@ -1153,19 +1179,6 @@
     "lat": 46.2541969,
     "lon": 15.2600066,
     "opposite": "20753_50007",
-    "routes": []
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjcwMzk",
-    "gtfs_id": "CELEBUS:1167039",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Dobrova pri Celju",
-    "lat": 46.2546839,
-    "lon": 15.2598885,
-    "opposite": "CELEBUS:1167039",
     "routes": []
   },
   {
@@ -1335,6 +1348,19 @@
     "routes": []
   },
   {
+    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjc",
+    "gtfs_id": "CELEBUS:1168367",
+    "code": "12318_26630",
+    "type": "BUS",
+    "background_color": "#FFD700",
+    "icon_color": "#000000",
+    "name": "Celje Lokrovec K",
+    "lat": 46.2565196,
+    "lon": 15.2565348,
+    "opposite": "12318_26630",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpDRUxFQlVTOjExNjgzNjg",
     "gtfs_id": "CELEBUS:1168368",
     "code": null,
@@ -1361,32 +1387,6 @@
     "routes": []
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0MTU",
-    "gtfs_id": "CELEBUS:1168415",
-    "code": "11226_49308",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Skalna klet",
-    "lat": 46.2256155,
-    "lon": 15.2706166,
-    "opposite": "11226_49308",
-    "routes": []
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0MTg",
-    "gtfs_id": "CELEBUS:1168418",
-    "code": "15613_49982",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Dobrova K %28Celje%29",
-    "lat": 46.26118,
-    "lon": 15.259805,
-    "opposite": "15613_49982",
-    "routes": []
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExNjg0Njg",
     "gtfs_id": "CELEBUS:1168468",
     "code": null,
@@ -1397,45 +1397,6 @@
     "lat": 46.261233,
     "lon": 15.259547,
     "opposite": "CELEBUS:1168468",
-    "routes": []
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0Njk",
-    "gtfs_id": "CELEBUS:1168469",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Skalna klet",
-    "lat": 46.225499,
-    "lon": 15.2710434,
-    "opposite": "CELEBUS:1168469",
-    "routes": []
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0NzA",
-    "gtfs_id": "CELEBUS:1168470",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Cesta na grad K",
-    "lat": 46.2251902,
-    "lon": 15.2781254,
-    "opposite": "CELEBUS:1168470",
-    "routes": []
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0NzE",
-    "gtfs_id": "CELEBUS:1168471",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Cesta na grad K",
-    "lat": 46.2252425,
-    "lon": 15.2781769,
-    "opposite": "CELEBUS:1168471",
     "routes": []
   },
   {
@@ -1612,32 +1573,6 @@
     "lat": 46.270422,
     "lon": 15.291328,
     "opposite": "CELEBUS:1168488",
-    "routes": []
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg1MDM",
-    "gtfs_id": "CELEBUS:1168503",
-    "code": "16209_50009",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Cesta na grad bife",
-    "lat": 46.2250716,
-    "lon": 15.2750423,
-    "opposite": "16209_50009",
-    "routes": []
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg1MDQ",
-    "gtfs_id": "CELEBUS:1168504",
-    "code": "16209_49323",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Cesta na grad bife",
-    "lat": 46.2250234,
-    "lon": 15.2751426,
-    "opposite": "16209_49323",
     "routes": []
   },
   {

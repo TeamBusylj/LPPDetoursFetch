@@ -47,8 +47,8 @@
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
     "name": "Čefidelj",
-    "lat": 45.814636,
-    "lon": 15.147804,
+    "lat": 45.814642,
+    "lon": 15.147695,
     "opposite": "MONM:100",
     "routes": [
       {
@@ -69,8 +69,8 @@
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
     "name": "Čefidelj",
-    "lat": 45.814705,
-    "lon": 15.148178,
+    "lat": 45.814675,
+    "lon": 15.148242,
     "opposite": "MONM:101",
     "routes": [
       {
@@ -270,6 +270,45 @@
     ]
   },
   {
+    "id": "U3RvcDpNT05NOjExMA",
+    "gtfs_id": "MONM:110",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#9AC42F",
+    "icon_color": "#FFFFFF",
+    "name": "Viadukt Bezgavec",
+    "lat": 45.822609,
+    "lon": 15.155607,
+    "opposite": "MONM:110",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpNT05NOjExMQ",
+    "gtfs_id": "MONM:111",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#9AC42F",
+    "icon_color": "#FFFFFF",
+    "name": "Bučna vas",
+    "lat": 45.824366,
+    "lon": 15.156444,
+    "opposite": "MONM:111",
+    "routes": []
+  },
+  {
+    "id": "U3RvcDpNT05NOjExMg",
+    "gtfs_id": "MONM:112",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#9AC42F",
+    "icon_color": "#FFFFFF",
+    "name": "Turkova",
+    "lat": 45.827588,
+    "lon": 15.156267,
+    "opposite": "MONM:112",
+    "routes": []
+  },
+  {
     "id": "U3RvcDpNT05NOjEy",
     "gtfs_id": "MONM:12",
     "code": null,
@@ -361,8 +400,8 @@
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
     "name": "Drgančevje",
-    "lat": 45.802132,
-    "lon": 15.185509,
+    "lat": 45.802108,
+    "lon": 15.185423,
     "opposite": "MONM:16",
     "routes": [
       {
@@ -405,24 +444,6 @@
         "name": "1A",
         "color": "#d4191d"
       },
-      {
-        "name": "2",
-        "color": "#ffd300"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05NOjE5",
-    "gtfs_id": "MONM:19",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
-    "name": "Drska",
-    "lat": 45.800144,
-    "lon": 15.152662,
-    "opposite": "MONM:19",
-    "routes": [
       {
         "name": "2",
         "color": "#ffd300"
@@ -626,7 +647,7 @@
     "type": "BUS",
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
-    "name": "Kamence I",
+    "name": "Kamence",
     "lat": 45.827667,
     "lon": 15.150291,
     "opposite": "MONM:28",
@@ -648,7 +669,7 @@
     "type": "BUS",
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
-    "name": "Kamence II",
+    "name": "Kamence GD",
     "lat": 45.829334,
     "lon": 15.154331,
     "opposite": "MONM:29",
@@ -992,7 +1013,7 @@
     "type": "BUS",
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
-    "name": "Livada",
+    "name": "Muhaber",
     "lat": 45.820129,
     "lon": 15.147985,
     "opposite": "MONM:41",
@@ -1286,7 +1307,7 @@
     "type": "BUS",
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
-    "name": "Livada",
+    "name": "Muhaber",
     "lat": 45.819283,
     "lon": 15.147336,
     "opposite": "MONM:51",
@@ -1573,8 +1594,8 @@
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
     "name": "Pokopališče Šmihel",
-    "lat": 45.79599,
-    "lon": 15.162442,
+    "lat": 45.795948,
+    "lon": 15.16242,
     "opposite": "MONM:63",
     "routes": [
       {
@@ -1735,8 +1756,8 @@
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
     "name": "Bršljin",
-    "lat": 45.812538,
-    "lon": 15.156161,
+    "lat": 45.812507,
+    "lon": 15.156149,
     "opposite": "MONM:7",
     "routes": [
       {
@@ -1831,8 +1852,8 @@
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
     "name": "Revoz",
-    "lat": 45.796577,
-    "lon": 15.181121,
+    "lat": 45.796501,
+    "lon": 15.181035,
     "opposite": "MONM:73",
     "routes": [
       {
@@ -1852,24 +1873,6 @@
     "lat": 45.795349,
     "lon": 15.180584,
     "opposite": "MONM:74",
-    "routes": [
-      {
-        "name": "1B",
-        "color": "#0077bc"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05NOjc1",
-    "gtfs_id": "MONM:75",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
-    "name": "Salon Kolpa",
-    "lat": 45.782211,
-    "lon": 15.17773,
-    "opposite": "MONM:75",
     "routes": [
       {
         "name": "1B",
@@ -2112,24 +2115,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNT05NOjg0",
-    "gtfs_id": "MONM:84",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
-    "name": "Stopiče",
-    "lat": 45.76981,
-    "lon": 15.209964,
-    "opposite": "MONM:84",
-    "routes": [
-      {
-        "name": "1B",
-        "color": "#0077bc"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpNT05NOjg1",
     "gtfs_id": "MONM:85",
     "code": null,
@@ -2249,8 +2234,8 @@
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
     "name": "TPV",
-    "lat": 45.800152,
-    "lon": 15.174639,
+    "lat": 45.800096,
+    "lon": 15.174769,
     "opposite": "MONM:89",
     "routes": [
       {
