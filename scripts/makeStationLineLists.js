@@ -88,15 +88,19 @@ async function main() {
                 const agencyIds = routes
                     .map(r => r.agency?.gtfsId)
                     .filter(Boolean)
-                    .map(id => id.replace(/^IJPP:/i, ''))
+                    // DODANO VAROVALO: .trim() odstrani presledke
+                    .map(id => id.replace(/^IJPP:/i, '').trim())
                     .filter(Boolean);
                 
                 const uniqueAgencies = [...new Set(agencyIds)];
                 uniqueAgencies.sort();
                 formattedData = uniqueAgencies;
                 
-                // ČE JE EKSKLUZIVNO LPP (1118), LINIJE DODAMO ŠE V LPP DATOTEKO
+                // PREVERJANJE ZA LPP
                 if (uniqueAgencies.length === 1 && uniqueAgencies[0] === '1118') {
+                    // Sledenje v logih za lažji debug
+                    console.log(`[DEBUG] Našel IJPP postajo ekskluzivno za LPP: ${stationIdStr}`);
+                    
                     if (!routesByAgency['lpp']) {
                         routesByAgency['lpp'] = {};
                     }
