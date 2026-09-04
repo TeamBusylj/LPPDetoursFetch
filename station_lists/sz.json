@@ -3868,7 +3868,9 @@
     "lat": 45.8859005,
     "lon": 13.9003209,
     "opposite": null,
-    "agencies": []
+    "agencies": [
+      "LP"
+    ]
   },
   {
     "id": "U3RvcDpJSlBQOjExMjMwMjg",
@@ -3881,7 +3883,9 @@
     "lat": 45.8899249,
     "lon": 13.7362118,
     "opposite": null,
-    "agencies": []
+    "agencies": [
+      "LP"
+    ]
   },
   {
     "id": "U3RvcDpJSlBQOjExMjMwMzA",
@@ -3894,7 +3898,9 @@
     "lat": 45.8825037,
     "lon": 13.8454215,
     "opposite": null,
-    "agencies": []
+    "agencies": [
+      "LP"
+    ]
   },
   {
     "id": "U3RvcDpJSlBQOjExMjMwMzE",
@@ -3907,7 +3913,9 @@
     "lat": 45.8867968,
     "lon": 13.8654413,
     "opposite": null,
-    "agencies": []
+    "agencies": [
+      "LP"
+    ]
   },
   {
     "id": "U3RvcDpJSlBQOjExMjMwMzI",
