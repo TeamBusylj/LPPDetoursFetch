@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const OTP_URL = 'https://otp.ojpp-gateway.derp.si/otp/gtfs/v1';
-const OUTPUT_DIR = path.join(__dirname, 'station_line_lists');
+const OUTPUT_DIR = path.join(__dirname, '../station_line_lists');
 
 const query = `
   query {
