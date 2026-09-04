@@ -60,11 +60,8 @@ async function main() {
             let agency = stop.gtfsId.split(':')[0].toLowerCase();
             const stationIdStr = stop.gtfsId.substring(stop.gtfsId.indexOf(':') + 1);
 
-            // Preverimo, ali katerakoli linija na tej postaji pripada SŽ
-       
             const hasSZRoute = (stop.routes || []).some(r => r.agency.gtfsId && r.agency.gtfsId === 'IJPP:1161');
 
-            // Če je agencija sž/sz, če je tip RAIL, ALI če na njej ustavlja SŽ linija -> je SŽ postaja!
             if (stop.vehicleMode === 'RAIL' || agency === 'sž' || agency === 'sz' || hasSZRoute) {
                 agency = 'sz';
                 stop.vehicleMode = 'RAIL';
@@ -82,11 +79,10 @@ async function main() {
                     .map(r => r.shortName)
                     .filter(Boolean)
                     .map(name => name.split(' ')[0])
-                    // Tukaj je nov filter: obdrži samo tiste nize, ki so sestavljeni izključno iz črk
                     .filter(name => /^[A-Za-z]+$/.test(name));
                 
                 formattedData = [...new Set(trainTypes)];
-                formattedData.sort(); // Abecedno sortiranje
+                formattedData.sort();
             } 
             else if (agency === 'ijpp') {
                 const agencyIds = routes
@@ -95,8 +91,48 @@ async function main() {
                     .map(id => id.replace(/^IJPP:/i, ''))
                     .filter(Boolean);
                 
-                formattedData = [...new Set(agencyIds)];
-                formattedData.sort(); // Abecedno sortiranje
+                const uniqueAgencies = [...new Set(agencyIds)];
+                uniqueAgencies.sort();
+                formattedData = uniqueAgencies;
+                
+                // ČE JE EKSKLUZIVNO LPP (1118), LINIJE DODAMO ŠE V LPP DATOTEKO
+                if (uniqueAgencies.length === 1 && uniqueAgencies[0] === '1118') {
+                    if (!routesByAgency['lpp']) {
+                        routesByAgency['lpp'] = {};
+                    }
+                    
+                    const uniqueRoutes = new Map();
+                    routes.forEach(route => {
+                        let name = route.shortName || 'N/A';
+                        if (!uniqueRoutes.has(name)) {
+                            uniqueRoutes.set(name, {
+                                name: name,
+                                color: route.color ? `#${route.color}` : '#000000'
+                            });
+                        }
+                    });
+                    
+                    let lppFormattedData = Array.from(uniqueRoutes.values());
+
+                    lppFormattedData.sort((a, b) => {
+                        const nameA = a.name;
+                        const nameB = b.name;
+                        const numA = parseInt(nameA.replace(/\D/g, ''), 10);
+                        const numB = parseInt(nameB.replace(/\D/g, ''), 10);
+                        const hasNumA = !isNaN(numA);
+                        const hasNumB = !isNaN(numB);
+
+                        if (hasNumA && hasNumB) {
+                            if (numA === numB) return nameA.localeCompare(nameB);
+                            return numA - numB;
+                        } 
+                        else if (hasNumA) return -1;
+                        else if (hasNumB) return 1;
+                        else return nameA.localeCompare(nameB);
+                    });
+
+                    routesByAgency['lpp'][stationIdStr] = lppFormattedData;
+                }
             } 
             else {
                 const uniqueRoutes = new Map();
@@ -117,32 +153,21 @@ async function main() {
                 
                 formattedData = Array.from(uniqueRoutes.values());
 
-                // SORTIRANJE LINIJ
                 formattedData.sort((a, b) => {
                     const nameA = a.name;
                     const nameB = b.name;
-
                     const numA = parseInt(nameA.replace(/\D/g, ''), 10);
                     const numB = parseInt(nameB.replace(/\D/g, ''), 10);
-
                     const hasNumA = !isNaN(numA);
                     const hasNumB = !isNaN(numB);
 
                     if (hasNumA && hasNumB) {
-                        if (numA === numB) {
-                            return nameA.localeCompare(nameB);
-                        }
+                        if (numA === numB) return nameA.localeCompare(nameB);
                         return numA - numB;
                     } 
-                    else if (hasNumA) {
-                        return -1;
-                    } 
-                    else if (hasNumB) {
-                        return 1;
-                    } 
-                    else {
-                        return nameA.localeCompare(nameB);
-                    }
+                    else if (hasNumA) return -1;
+                    else if (hasNumB) return 1;
+                    else return nameA.localeCompare(nameB);
                 });
             }
 
@@ -153,9 +178,7 @@ async function main() {
 
         for (const [agency, dataMap] of Object.entries(routesByAgency)) {
             const filePath = path.join(OUTPUT_DIR, `${agency}.json`);
-            
             const jsonData = JSON.stringify(dataMap, null, 2);
-            
             await fs.writeFile(filePath, jsonData, 'utf-8');
             console.log(`Shranjeno: ${agency}.json (Vsebuje zapise za ${Object.keys(dataMap).length} postaj)`);
         }
