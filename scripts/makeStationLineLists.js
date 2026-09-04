@@ -6,7 +6,35 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const OTP_URL = 'https://otp.ojpp-gateway.derp.si/otp/gtfs/v1';
+// Posodobljena pot, da se ujema s tvojo GitHub Akcijo!
 const OUTPUT_DIR = path.join(__dirname, '../station_line_lists');
+
+// Tvoj slovar barv za LPP medkrajevne linije
+const lineColorsObj = {
+  "3B": "#5BAF20",
+  "3G": "#5BAF20",
+  "6B": "#6E7073",
+  "12D": "#183875",
+  "15": "#8A1D79",
+  "19I": "#B96F89",
+  "21D": "#3C8C3C",
+  "25": "#2387bc",
+  "30": "#8AC09D",
+  "40": "#41615F",
+  "42": "#967C60",
+  "43": "#464269",
+  "44": "#736F93",
+  "51": "#5D77A9",
+  "52": "#00545B",
+  "53": "#B3A1B5",
+  "56": "#6F280D",
+  "60": "#9AA769",
+  "61": "#D8913F",
+  "71": "#5D77A9",
+  "72": "#41917F",
+  "73": "#D9AC08",
+  "78": "#B06A67",
+};
 
 const query = `
   query {
@@ -53,14 +81,12 @@ async function main() {
         console.log(`Pridobil ${rawStops.length} postaj. Generiram slovarje...`);
 
         const routesByAgency = {};
-        // Poseben set za beleženje, katere IJPP postaje smo že dodali v LPP, da preprečimo prepis!
         const protectedLppIds = new Set();
 
        for (const stop of rawStops) {
             if (!stop.gtfsId || !stop.vehicleMode) continue;
 
             let agency = stop.gtfsId.split(':')[0].toLowerCase();
-            // .trim() na koncu odstrani vse skrite presledke in znake za novo vrstico!
             const stationIdStr = stop.gtfsId.substring(stop.gtfsId.indexOf(':') + 1).trim();
 
             const hasSZRoute = (stop.routes || []).some(r => r.agency.gtfsId && r.agency.gtfsId === 'IJPP:1161');
@@ -98,7 +124,6 @@ async function main() {
                 uniqueAgencies.sort();
                 formattedData = uniqueAgencies;
                 
-                // ČE JE EKSKLUZIVNO LPP (1118), LINIJE DODAMO ŠE V LPP DATOTEKO
                 if (uniqueAgencies.length === 1 && uniqueAgencies[0] === '1118') {
                     console.log(`[DEBUG] Našel IJPP postajo ekskluzivno za LPP: ${stationIdStr}`);
                     
@@ -110,9 +135,15 @@ async function main() {
                     routes.forEach(route => {
                         let name = route.shortName || 'N/A';
                         if (!uniqueRoutes.has(name)) {
+                            // Tukaj preverimo tvoj slovar barv
+                            let finalColor = route.color ? `#${route.color}` : '#000000';
+                            if (lineColorsObj[name]) {
+                                finalColor = lineColorsObj[name];
+                            }
+                            
                             uniqueRoutes.set(name, {
                                 name: name,
-                                color: route.color ? `#${route.color}` : '#000000'
+                                color: finalColor
                             });
                         }
                     });
@@ -136,11 +167,8 @@ async function main() {
                         else return nameA.localeCompare(nameB);
                     });
 
-                    // Dodamo ključavnico: shranimo ID v zaščiten seznam
                     protectedLppIds.add(stationIdStr);
                     routesByAgency['lpp'][stationIdStr] = lppFormattedData;
-                    
-                    console.log(`[DEBUG] Zapisal ${stationIdStr} v lpp objekt. Število najdenih linij: ${lppFormattedData.length}`);
                 }
             } 
             else {
@@ -153,9 +181,15 @@ async function main() {
                     }
 
                     if (!uniqueRoutes.has(name)) {
+                        // In preverimo ga za vsak primer še tukaj (za LPP postaje, ki niso del IJPP bloka)
+                        let finalColor = route.color ? `#${route.color}` : '#000000';
+                        if (agency === 'lpp' && lineColorsObj[name]) {
+                            finalColor = lineColorsObj[name];
+                        }
+
                         uniqueRoutes.set(name, {
                             name: name,
-                            color: route.color ? `#${route.color}` : '#000000'
+                            color: finalColor
                         });
                     }
                 });
@@ -163,7 +197,6 @@ async function main() {
                 formattedData = Array.from(uniqueRoutes.values());
 
                 formattedData.sort((a, b) => {
-                    // ... isto sortiranje kot prej ...
                     const nameA = a.name;
                     const nameB = b.name;
                     const numA = parseInt(nameA.replace(/\D/g, ''), 10);
@@ -181,20 +214,14 @@ async function main() {
                 });
             }
 
-            // VAROVALO: Če gre za navadno obdelavo, poskrbimo, da ne povozimo tistega, kar smo ustvarili zgoraj
             if (agency === 'lpp' && protectedLppIds.has(stationIdStr)) {
-                 console.log(`[DEBUG-WARNING] Preprečen prepis postaje ${stationIdStr} iz navadne LPP logike!`);
+                 // Preskočimo, da ne povozimo tistega, kar smo ustvarili zgoraj
             } else {
                  routesByAgency[agency][stationIdStr] = formattedData;
             }
         }
 
         await fs.mkdir(OUTPUT_DIR, { recursive: true });
-        
-        // ZADNJI PREGLED TIK PRED SHRANJEVANJEM
-        if (routesByAgency['lpp']) {
-             console.log(`[DEBUG-FINAL] Ali lpp objekt vsebuje postajo 1120966 preden zapišemo datoteko? Odgovor: ${!!routesByAgency['lpp']['1120966']}`);
-        }
 
         for (const [agency, dataMap] of Object.entries(routesByAgency)) {
             const filePath = path.join(OUTPUT_DIR, `${agency}.json`);
