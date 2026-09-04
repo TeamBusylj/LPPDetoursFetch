@@ -53,12 +53,15 @@ async function main() {
         console.log(`Pridobil ${rawStops.length} postaj. Generiram slovarje...`);
 
         const routesByAgency = {};
+        // Poseben set za beleženje, katere IJPP postaje smo že dodali v LPP, da preprečimo prepis!
+        const protectedLppIds = new Set();
 
        for (const stop of rawStops) {
             if (!stop.gtfsId || !stop.vehicleMode) continue;
 
             let agency = stop.gtfsId.split(':')[0].toLowerCase();
-            const stationIdStr = stop.gtfsId.substring(stop.gtfsId.indexOf(':') + 1);
+            // .trim() na koncu odstrani vse skrite presledke in znake za novo vrstico!
+            const stationIdStr = stop.gtfsId.substring(stop.gtfsId.indexOf(':') + 1).trim();
 
             const hasSZRoute = (stop.routes || []).some(r => r.agency.gtfsId && r.agency.gtfsId === 'IJPP:1161');
 
@@ -88,7 +91,6 @@ async function main() {
                 const agencyIds = routes
                     .map(r => r.agency?.gtfsId)
                     .filter(Boolean)
-                    // DODANO VAROVALO: .trim() odstrani presledke
                     .map(id => id.replace(/^IJPP:/i, '').trim())
                     .filter(Boolean);
                 
@@ -96,9 +98,8 @@ async function main() {
                 uniqueAgencies.sort();
                 formattedData = uniqueAgencies;
                 
-                // PREVERJANJE ZA LPP
+                // ČE JE EKSKLUZIVNO LPP (1118), LINIJE DODAMO ŠE V LPP DATOTEKO
                 if (uniqueAgencies.length === 1 && uniqueAgencies[0] === '1118') {
-                    // Sledenje v logih za lažji debug
                     console.log(`[DEBUG] Našel IJPP postajo ekskluzivno za LPP: ${stationIdStr}`);
                     
                     if (!routesByAgency['lpp']) {
@@ -135,7 +136,11 @@ async function main() {
                         else return nameA.localeCompare(nameB);
                     });
 
+                    // Dodamo ključavnico: shranimo ID v zaščiten seznam
+                    protectedLppIds.add(stationIdStr);
                     routesByAgency['lpp'][stationIdStr] = lppFormattedData;
+                    
+                    console.log(`[DEBUG] Zapisal ${stationIdStr} v lpp objekt. Število najdenih linij: ${lppFormattedData.length}`);
                 }
             } 
             else {
@@ -158,6 +163,7 @@ async function main() {
                 formattedData = Array.from(uniqueRoutes.values());
 
                 formattedData.sort((a, b) => {
+                    // ... isto sortiranje kot prej ...
                     const nameA = a.name;
                     const nameB = b.name;
                     const numA = parseInt(nameA.replace(/\D/g, ''), 10);
@@ -175,10 +181,20 @@ async function main() {
                 });
             }
 
-            routesByAgency[agency][stationIdStr] = formattedData;
+            // VAROVALO: Če gre za navadno obdelavo, poskrbimo, da ne povozimo tistega, kar smo ustvarili zgoraj
+            if (agency === 'lpp' && protectedLppIds.has(stationIdStr)) {
+                 console.log(`[DEBUG-WARNING] Preprečen prepis postaje ${stationIdStr} iz navadne LPP logike!`);
+            } else {
+                 routesByAgency[agency][stationIdStr] = formattedData;
+            }
         }
 
         await fs.mkdir(OUTPUT_DIR, { recursive: true });
+        
+        // ZADNJI PREGLED TIK PRED SHRANJEVANJEM
+        if (routesByAgency['lpp']) {
+             console.log(`[DEBUG-FINAL] Ali lpp objekt vsebuje postajo 1120966 preden zapišemo datoteko? Odgovor: ${!!routesByAgency['lpp']['1120966']}`);
+        }
 
         for (const [agency, dataMap] of Object.entries(routesByAgency)) {
             const filePath = path.join(OUTPUT_DIR, `${agency}.json`);
