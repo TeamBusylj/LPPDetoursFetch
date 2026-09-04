@@ -4,15 +4,13 @@ import path from 'path';
 async function fetchAndProcessStations() {
   const API_URL = "https://api.beta.brezavta.si/stops/";
   const OUT_DIR = "station_lists";
-  const LINE_LISTS_DIR = "station_line_lists"; // Tvoja mapa z lop.json, ijpp.json, sz.json, itd.
+  const LINE_LISTS_DIR = "station_line_lists";
 
   try {
-    // 1. Prenos vseh postaj iz API-ja
     const response = await fetch(API_URL, { headers: { "User-Agent": "Mozilla/5.0" } });
     if (!response.ok) throw new Error(`HTTP napaka! Status: ${response.status}`);
     const allStops = await response.json();
 
-    // 2. Prenos Github datoteke za sž (preprečitev cacha ni nujna na serverju, ampak dodamo timestamp)
     const ghUrl = `https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/refs/heads/main/stop_to_routes.json?t=${Date.now()}`;
     let externalStopToRoutes = {};
     try {
@@ -22,16 +20,23 @@ async function fetchAndProcessStations() {
       console.warn("Opozorilo: Ni bilo mogoče prenesti Github stop_to_routes.json");
     }
 
-    // 2.5 Prednalaganje sz.json, da vemo, kateri ID-ji so zanesljivo železniške postaje
+    // PREDNALAGANJE SZ.JSON IN IJPP.JSON
     let szKnownIds = {};
+    let ijppKnownIds = {};
     try {
       const szData = await fs.readFile(path.join(LINE_LISTS_DIR, 'sz.json'), 'utf-8');
       szKnownIds = JSON.parse(szData) || {};
     } catch (e) {
-      console.warn("Opozorilo: sz.json še ne obstaja ali ga ni mogoče prebrati.");
+      console.warn("Opozorilo: sz.json še ne obstaja.");
+    }
+    
+    try {
+      const ijppData = await fs.readFile(path.join(LINE_LISTS_DIR, 'ijpp.json'), 'utf-8');
+      ijppKnownIds = JSON.parse(ijppData) || {};
+    } catch (e) {
+      console.warn("Opozorilo: ijpp.json še ne obstaja.");
     }
 
-    // 3. Grupiranje postaj po agenciji & filtriranje glede na tip (BUS / RAIL)
     const agencyGroups = {};
     for (const station of allStops) {
       if (!station.gtfs_id) continue;
@@ -39,72 +44,67 @@ async function fetchAndProcessStations() {
       let agency = station.gtfs_id.split(':')[0].toLowerCase();
       const stationIdStr = station.gtfs_id.substring(station.gtfs_id.indexOf(':') + 1);
       
-      // LOGIKA ZA LOČEVANJE VLAKOV IN AVTOBUSOV:
-      // Če ID postaje obstaja v sz.json (kar pomeni, da ima SŽ linije), ali ima type RAIL
       if (szKnownIds[stationIdStr] || station.type === "RAIL" || agency === "sž" || agency === "sz") {
         agency = "sz";
-        station.type = "RAIL"; // Prisilimo RAIL, da jo koda spodaj pravilno obravnava
-        station.background_color = "#00A8EB"
+        station.type = "RAIL"; 
+        station.background_color = "#00A8EB";
       }
 
-      // Shranimo samo BUS in RAIL
       if (station.type === "BUS" || station.type === "RAIL") {
         if (!agencyGroups[agency]) agencyGroups[agency] = [];
         agencyGroups[agency].push(station);
+        
+        // DODAJANJE IJPP POSTAJE V LPP SKUPINO (če je ekskluzivno LPP)
+        if (agency === "ijpp" && ijppKnownIds[stationIdStr] && ijppKnownIds[stationIdStr].length === 1 && ijppKnownIds[stationIdStr][0] === "1118") {
+            if (!agencyGroups["lpp"]) agencyGroups["lpp"] = [];
+            agencyGroups["lpp"].push({ ...station });
+        }
       }
     }
 
-    // Ustvari izvozno mapo, če ne obstaja
     await fs.mkdir(OUT_DIR, { recursive: true });
 
-    // 4. Obdelava vsake agencije posebej
     for (const [agency, stops] of Object.entries(agencyGroups)) {
       
-      // Branje lokalnega JSON-a iz repozitorija (npr. sz.json, ijpp.json, lop.json...)
       let localCache = {};
       try {
         const localData = await fs.readFile(path.join(LINE_LISTS_DIR, `${agency}.json`), 'utf-8');
         localCache = JSON.parse(localData) || {};
-      } catch (err) {
-        // Datoteka ne obstaja za to agencijo, kar je v redu
-      }
+      } catch (err) {}
 
-      // Nastavitev cache logike
       let routesStationsCache = {};
       let stopToAgenciesCache = {};
 
       if (agency === "sz" || agency === "ijpp") {
         routesStationsCache = externalStopToRoutes;
-        stopToAgenciesCache = localCache; // Bere iz sz.json ali ijpp.json
+        stopToAgenciesCache = localCache; 
       } else {
-        routesStationsCache = localCache; // Bere iz npr. marprom.json, lop.json
+        routesStationsCache = localCache; 
         stopToAgenciesCache = {};
       }
 
-      // --- OPTIMIZACIJA: Priprava slovarjev za 'opposite' logiko ---
       const stopsByNum = new Map();
       const stopsByNameAndNum = new Map();
 
       stops.forEach(station => {
         const stationIdStr = station.gtfs_id.slice(station.gtfs_id.lastIndexOf(":") + 1);
-        const baseNum = agency === "lpp" ? Number(station.code) : parseInt(stationIdStr);
+        // Fallback: Če je postaja iz ijpp nima 'code', uporabimo ID iz gtfs_id
+        const baseNum = agency === "lpp" ? (Number(station.code) || parseInt(stationIdStr)) : parseInt(stationIdStr);
         
         const enriched = { ...station, _baseNum: baseNum };
         stopsByNum.set(baseNum, enriched);
         stopsByNameAndNum.set(`${station.stop_name}_${baseNum}`, enriched);
       });
 
-      // --- Preslikava (Mapping) podatkov ---
       const processedStops = stops.map(station => {
         const stationIdStr = station.gtfs_id.split(":")[1];
         const parsedIdNum = parseInt(station.gtfs_id.slice(station.gtfs_id.lastIndexOf(":") + 1));
         
         let exists = null;
 
-        // Opposite logika (ne velja za ijpp in sž/sz)
         if (agency !== "ijpp" && agency !== "sz") {
           let checkNum = null;
-          let stationNum = agency === "lpp" ? Number(station.code) : parsedIdNum + 1;
+          let stationNum = agency === "lpp" ? (Number(station.code) || parsedIdNum + 1) : parsedIdNum + 1;
 
           if (agency !== "lpp") {
             const neighborPrev = stopsByNameAndNum.get(`${station.stop_name}_${stationNum - 1}`);
@@ -117,7 +117,7 @@ async function fetchAndProcessStations() {
           }
 
           if (checkNum == null) {
-            if (agency === "lpp" || agency === "lpp") {
+            if (agency === "lpp") {
               checkNum = stationNum % 2 === 0 ? stationNum - 1 : stationNum + 1;
             } else {
               checkNum = stationNum % 2 === 0 ? stationNum + 1 : stationNum - 1;
@@ -128,25 +128,20 @@ async function fetchAndProcessStations() {
           exists = foundOpposite ? (foundOpposite.code || foundOpposite.gtfs_id) : null;
         }
 
-        // Priprava končnega objekta za postajo
         const resultStation = {
           ...station,
           opposite: exists
         };
 
-        // Specifična pravila za polja agencij in linij
         if (agency === "ijpp" || agency === "sz") {
-          // Za IJPP in SŽ samo agencies (iz ijpp.json), BREZ routes
           resultStation.agencies = stopToAgenciesCache[stationIdStr] || [];
         } else {
-          // Za vse ostale (LPP, Marprom, ...) samo routes
           resultStation.routes = routesStationsCache[stationIdStr] || [];
         }
 
         return resultStation;
       });
 
-      // 5. Zapis končne datoteke v station_lists
       const outPath = path.join(OUT_DIR, `${agency}.json`);
       await fs.writeFile(outPath, JSON.stringify(processedStops, null, 2), "utf-8");
       console.log(`✅ Shranjeno: ${agency}.json (${processedStops.length} postaj) z vsemi relacijami.`);
