@@ -15,6 +15,9 @@
         "name": "26",
         "color": "#FD4097"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:6azi"
     ]
   },
   {
@@ -37,6 +40,9 @@
         "name": "26",
         "color": "#FD4097"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:7cmf"
     ]
   },
   {
@@ -55,6 +61,9 @@
         "name": "2",
         "color": "#f8e71c"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:cl7o"
     ]
   },
   {
@@ -85,6 +94,9 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:eptk"
     ]
   },
   {
@@ -103,6 +115,9 @@
         "name": "2",
         "color": "#f8e71c"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:gyta"
     ]
   },
   {
@@ -125,6 +140,9 @@
         "name": "5",
         "color": "#165f7b"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:ldxb"
     ]
   },
   {
@@ -143,6 +161,9 @@
         "name": "2",
         "color": "#f8e71c"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:lhsc"
     ]
   },
   {
@@ -169,6 +190,9 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:o0h0"
     ]
   },
   {
@@ -195,6 +219,9 @@
         "name": "26",
         "color": "#FD4097"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:o8hp"
     ]
   },
   {
@@ -210,9 +237,21 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
+        "name": "1",
+        "color": "#7ed321"
+      },
+      {
         "name": "3",
         "color": "#d0021b"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=3867408558",
+      "Postojna:osm=4958167443"
+    ],
+    "merged_codes": [
+      "osm=3867408558",
+      "osm=4958167443"
     ]
   },
   {
@@ -231,6 +270,12 @@
         "name": "26",
         "color": "#FD4097"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4226867800"
+    ],
+    "merged_codes": [
+      "osm=4226867800"
     ]
   },
   {
@@ -257,6 +302,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4924890971"
+    ],
+    "merged_codes": [
+      "osm=4924890971"
     ]
   },
   {
@@ -279,6 +330,12 @@
         "name": "3",
         "color": "#d0021b"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4931348807"
+    ],
+    "merged_codes": [
+      "osm=4931348807"
     ]
   },
   {
@@ -301,6 +358,12 @@
         "name": "3",
         "color": "#d0021b"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4931400603"
+    ],
+    "merged_codes": [
+      "osm=4931400603"
     ]
   },
   {
@@ -319,24 +382,12 @@
         "name": "1",
         "color": "#7ed321"
       }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mw",
-    "gtfs_id": "Postojna:osm=4958167443",
-    "code": "osm=4958167443",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 45.770037,
-    "lon": 14.197657,
-    "opposite": "Postojna:yghz",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958167442"
+    ],
+    "merged_codes": [
+      "osm=4958167442"
     ]
   },
   {
@@ -359,6 +410,12 @@
         "name": "2",
         "color": "#f8e71c"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958167444"
+    ],
+    "merged_codes": [
+      "osm=4958167444"
     ]
   },
   {
@@ -405,6 +462,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958177298"
+    ],
+    "merged_codes": [
+      "osm=4958177298"
     ]
   },
   {
@@ -435,6 +498,12 @@
         "name": "7",
         "color": "#55b1e3"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958182330"
+    ],
+    "merged_codes": [
+      "osm=4958182330"
     ]
   },
   {
@@ -465,6 +534,12 @@
         "name": "7",
         "color": "#55b1e3"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958182331"
+    ],
+    "merged_codes": [
+      "osm=4958182331"
     ]
   },
   {
@@ -495,6 +570,12 @@
         "name": "7",
         "color": "#55b1e3"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958182332"
+    ],
+    "merged_codes": [
+      "osm=4958182332"
     ]
   },
   {
@@ -541,6 +622,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958193305"
+    ],
+    "merged_codes": [
+      "osm=4958193305"
     ]
   },
   {
@@ -563,6 +650,12 @@
         "name": "2",
         "color": "#f8e71c"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958193319"
+    ],
+    "merged_codes": [
+      "osm=4958193319"
     ]
   },
   {
@@ -597,6 +690,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958198723"
+    ],
+    "merged_codes": [
+      "osm=4958198723"
     ]
   },
   {
@@ -631,6 +730,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958198724"
+    ],
+    "merged_codes": [
+      "osm=4958198724"
     ]
   },
   {
@@ -665,6 +770,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958205376"
+    ],
+    "merged_codes": [
+      "osm=4958205376"
     ]
   },
   {
@@ -699,6 +810,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958205377"
+    ],
+    "merged_codes": [
+      "osm=4958205377"
     ]
   },
   {
@@ -733,6 +850,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958210441"
+    ],
+    "merged_codes": [
+      "osm=4958210441"
     ]
   },
   {
@@ -767,6 +890,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958210442"
+    ],
+    "merged_codes": [
+      "osm=4958210442"
     ]
   },
   {
@@ -801,6 +930,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958214090"
+    ],
+    "merged_codes": [
+      "osm=4958214090"
     ]
   },
   {
@@ -835,6 +970,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958214091"
+    ],
+    "merged_codes": [
+      "osm=4958214091"
     ]
   },
   {
@@ -869,6 +1010,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958217945"
+    ],
+    "merged_codes": [
+      "osm=4958217945"
     ]
   },
   {
@@ -883,6 +1030,10 @@
     "lon": 14.212234,
     "opposite": "Postojna:yghz",
     "routes": [
+      {
+        "name": "1",
+        "color": "#7ed321"
+      },
       {
         "name": "3",
         "color": "#d0021b"
@@ -899,24 +1050,14 @@
         "name": "8",
         "color": "#54f2e8"
       }
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Nw",
-    "gtfs_id": "Postojna:osm=4958217947",
-    "code": "osm=4958217947",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
-    "name": "Šolski center",
-    "lat": 45.770017,
-    "lon": 14.212469,
-    "opposite": "Postojna:yghz",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=4958217946",
+      "Postojna:osm=4958217947"
+    ],
+    "merged_codes": [
+      "osm=4958217946",
+      "osm=4958217947"
     ]
   },
   {
@@ -935,6 +1076,12 @@
         "name": "26",
         "color": "#FD4097"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=5133710962"
+    ],
+    "merged_codes": [
+      "osm=5133710962"
     ]
   },
   {
@@ -977,6 +1124,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=5197223202"
+    ],
+    "merged_codes": [
+      "osm=5197223202"
     ]
   },
   {
@@ -1003,6 +1156,12 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:osm=5243476130"
+    ],
+    "merged_codes": [
+      "osm=5243476130"
     ]
   },
   {
@@ -1021,6 +1180,9 @@
         "name": "26",
         "color": "#FD4097"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:pbeu"
     ]
   },
   {
@@ -1043,6 +1205,9 @@
         "name": "5",
         "color": "#165f7b"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:sfpn"
     ]
   },
   {
@@ -1073,6 +1238,9 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:syx4"
     ]
   },
   {
@@ -1107,6 +1275,9 @@
         "name": "8",
         "color": "#54f2e8"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:togf"
     ]
   },
   {
@@ -1129,6 +1300,9 @@
         "name": "5",
         "color": "#165f7b"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:uxro"
     ]
   },
   {
@@ -1151,6 +1325,9 @@
         "name": "26",
         "color": "#FD4097"
       }
+    ],
+    "merged_stop_ids": [
+      "Postojna:yghz"
     ]
   }
 ]
