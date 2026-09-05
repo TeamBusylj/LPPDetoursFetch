@@ -237,15 +237,21 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
+        "name": "1",
+        "color": "#7ed321"
+      },
+      {
         "name": "3",
         "color": "#d0021b"
       }
     ],
     "merged_stop_ids": [
-      "Postojna:osm=3867408558"
+      "Postojna:osm=3867408558",
+      "Postojna:osm=4958167443"
     ],
     "merged_codes": [
-      "osm=3867408558"
+      "osm=3867408558",
+      "osm=4958167443"
     ]
   },
   {
@@ -382,30 +388,6 @@
     ],
     "merged_codes": [
       "osm=4958167442"
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mw",
-    "gtfs_id": "Postojna:osm=4958167443",
-    "code": "osm=4958167443",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 45.770037,
-    "lon": 14.197657,
-    "opposite": "Postojna:yghz",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ],
-    "merged_stop_ids": [
-      "Postojna:osm=4958167443"
-    ],
-    "merged_codes": [
-      "osm=4958167443"
     ]
   },
   {
@@ -1049,6 +1031,10 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
+        "name": "1",
+        "color": "#7ed321"
+      },
+      {
         "name": "3",
         "color": "#d0021b"
       },
@@ -1066,33 +1052,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Postojna:osm=4958217946"
-    ],
-    "merged_codes": [
-      "osm=4958217946"
-    ]
-  },
-  {
-    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Nw",
-    "gtfs_id": "Postojna:osm=4958217947",
-    "code": "osm=4958217947",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
-    "name": "Šolski center",
-    "lat": 45.770017,
-    "lon": 14.212469,
-    "opposite": "Postojna:yghz",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#7ed321"
-      }
-    ],
-    "merged_stop_ids": [
+      "Postojna:osm=4958217946",
       "Postojna:osm=4958217947"
     ],
     "merged_codes": [
+      "osm=4958217946",
       "osm=4958217947"
     ]
   },

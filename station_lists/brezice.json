@@ -15,9 +15,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:10"
     ]
   },
   {
@@ -34,12 +31,8 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#6C91F8"
+        "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:11",
-      "Brezice:16"
     ]
   },
   {
@@ -56,12 +49,8 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#6C91F8"
+        "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:12",
-      "Brezice:15"
     ]
   },
   {
@@ -80,9 +69,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:13"
     ]
   },
   {
@@ -101,9 +87,42 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:14"
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE1",
+    "gtfs_id": "Brezice:15",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#218FF1",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice stadion",
+    "lat": 45.9119,
+    "lon": 15.59051,
+    "opposite": "Brezice:15",
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE2",
+    "gtfs_id": "Brezice:16",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#218FF1",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice gimnazija",
+    "lat": 45.90775,
+    "lon": 15.59126,
+    "opposite": "Brezice:16",
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
     ]
   },
   {
@@ -122,9 +141,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:17"
     ]
   },
   {
@@ -143,9 +159,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:18"
     ]
   },
   {
@@ -164,9 +177,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:19"
     ]
   },
   {
@@ -185,9 +195,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:2"
     ]
   },
   {
@@ -206,9 +213,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:3"
     ]
   },
   {
@@ -227,9 +231,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:4"
     ]
   },
   {
@@ -248,9 +249,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:5"
     ]
   },
   {
@@ -269,9 +267,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:6"
     ]
   },
   {
@@ -290,9 +285,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:7"
     ]
   },
   {
@@ -311,9 +303,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:8"
     ]
   },
   {
@@ -332,9 +321,6 @@
         "name": "N/A",
         "color": "#38CC3F"
       }
-    ],
-    "merged_stop_ids": [
-      "Brezice:9"
     ]
   }
 ]

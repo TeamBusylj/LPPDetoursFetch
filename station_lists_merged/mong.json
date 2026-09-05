@@ -12,6 +12,10 @@
     "opposite": "MONG:1",
     "routes": [
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
@@ -21,7 +25,8 @@
       }
     ],
     "merged_stop_ids": [
-      "MONG:1"
+      "MONG:1",
+      "MONG:2"
     ]
   },
   {
@@ -53,48 +58,20 @@
         "color": "#5AC695"
       },
       {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:10"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjEx",
-    "gtfs_id": "MONG:11",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Poberaj",
-    "lat": 45.957211,
-    "lon": 13.671135,
-    "opposite": "MONG:11",
-    "routes": [
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
         "color": "#5AC695"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
+      "MONG:10",
       "MONG:11"
     ]
   },
@@ -123,44 +100,15 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:12"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjEz",
-    "gtfs_id": "MONG:13",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk cerkev",
-    "lat": 45.956974,
-    "lon": 13.675789,
-    "opposite": "MONG:13",
-    "routes": [
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4B",
         "color": "#5AC695"
       },
       {
@@ -169,6 +117,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:12",
       "MONG:13"
     ]
   },
@@ -197,44 +146,15 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:14"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE1",
-    "gtfs_id": "MONG:15",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk pod Gradom",
-    "lat": 45.958867,
-    "lon": 13.683482,
-    "opposite": "MONG:15",
-    "routes": [
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4B",
         "color": "#5AC695"
       },
       {
@@ -243,6 +163,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:14",
       "MONG:15"
     ]
   },
@@ -275,48 +196,20 @@
         "color": "#5AC695"
       },
       {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:16"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE3",
-    "gtfs_id": "MONG:17",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk vrtec",
-    "lat": 45.957934,
-    "lon": 13.663731,
-    "opposite": "MONG:17",
-    "routes": [
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
         "color": "#5AC695"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
+      "MONG:16",
       "MONG:17"
     ]
   },
@@ -333,27 +226,6 @@
     "opposite": "MONG:18",
     "routes": [
       {
-        "name": "4A",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:18"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjE5",
-    "gtfs_id": "MONG:19",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Loke",
-    "lat": 45.959381,
-    "lon": 13.688293,
-    "opposite": "MONG:19",
-    "routes": [
-      {
         "name": "3A",
         "color": "#8F1DAE"
       },
@@ -383,28 +255,8 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:18",
       "MONG:19"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI",
-    "gtfs_id": "MONG:2",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ajševica vrh",
-    "lat": 45.944437,
-    "lon": 13.687057,
-    "opposite": "MONG:2",
-    "routes": [
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:2"
     ]
   },
   {
@@ -478,48 +330,15 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:22"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjIz",
-    "gtfs_id": "MONG:23",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Cankarjeva",
-    "lat": 45.960744,
-    "lon": 13.644006,
-    "opposite": "MONG:23",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4B",
         "color": "#5AC695"
       },
       {
@@ -528,6 +347,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:22",
       "MONG:23"
     ]
   },
@@ -553,31 +373,7 @@
       }
     ],
     "merged_stop_ids": [
-      "MONG:24"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI1",
-    "gtfs_id": "MONG:25",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Delpinova",
-    "lat": 45.95623,
-    "lon": 13.645823,
-    "opposite": "MONG:25",
-    "routes": [
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:24",
       "MONG:25"
     ]
   },
@@ -598,55 +394,13 @@
         "color": "#0F9ED5"
       },
       {
-        "name": "1C",
-        "color": "#0F9ED5"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:26"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI3",
-    "gtfs_id": "MONG:27",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Elektro G",
-    "lat": 45.953925,
-    "lon": 13.63739,
-    "opposite": "MONG:27",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
         "name": "1B",
         "color": "#0F9ED5"
       },
       {
         "name": "1C",
         "color": "#0F9ED5"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:27"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI4",
-    "gtfs_id": "MONG:28",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Elektro G",
-    "lat": 45.953613,
-    "lon": 13.638239,
-    "opposite": "MONG:28",
-    "routes": [
+      },
       {
         "name": "3A",
         "color": "#8F1DAE"
@@ -661,27 +415,9 @@
       }
     ],
     "merged_stop_ids": [
-      "MONG:28"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjI5",
-    "gtfs_id": "MONG:29",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Elektro G",
-    "lat": 45.953208,
-    "lon": 13.636418,
-    "opposite": "MONG:29",
-    "routes": [
-      {
-        "name": "3B",
-        "color": "#8F1DAE"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:26",
+      "MONG:27",
+      "MONG:28",
       "MONG:29"
     ]
   },
@@ -698,12 +434,17 @@
     "opposite": "MONG:3",
     "routes": [
       {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
         "name": "5",
         "color": "#FFC000"
       }
     ],
     "merged_stop_ids": [
-      "MONG:3"
+      "MONG:3",
+      "MONG:4"
     ]
   },
   {
@@ -723,6 +464,10 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
       },
@@ -740,43 +485,7 @@
       }
     ],
     "merged_stop_ids": [
-      "MONG:30"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjMx",
-    "gtfs_id": "MONG:31",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Erjav.stad.",
-    "lat": 45.954602,
-    "lon": 13.641377,
-    "opposite": "MONG:31",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:30",
       "MONG:31"
     ]
   },
@@ -797,31 +506,6 @@
         "color": "#0F9ED5"
       },
       {
-        "name": "1C",
-        "color": "#0F9ED5"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:32"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjMz",
-    "gtfs_id": "MONG:33",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Gostol",
-    "lat": 45.962057,
-    "lon": 13.640768,
-    "opposite": "MONG:33",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
         "name": "1B",
         "color": "#0F9ED5"
       },
@@ -831,6 +515,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:32",
       "MONG:33"
     ]
   },
@@ -896,56 +581,15 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
-        "color": "#5AC695"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:35"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM2",
-    "gtfs_id": "MONG:36",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Grčna",
-    "lat": 45.954114,
-    "lon": 13.65281,
-    "opposite": "MONG:36",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
         "color": "#5AC695"
       },
       {
@@ -958,6 +602,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:35",
       "MONG:36"
     ]
   },
@@ -994,52 +639,20 @@
         "color": "#5AC695"
       },
       {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:37"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjM4",
-    "gtfs_id": "MONG:38",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Lavričeva",
-    "lat": 45.96375,
-    "lon": 13.646207,
-    "opposite": "MONG:38",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
         "color": "#5AC695"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
+      "MONG:37",
       "MONG:38"
     ]
   },
@@ -1088,85 +701,15 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:39"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ",
-    "gtfs_id": "MONG:4",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bajta",
-    "lat": 45.938593,
-    "lon": 13.665353,
-    "opposite": "MONG:4",
-    "routes": [
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:4"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQw",
-    "gtfs_id": "MONG:40",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica MAP",
-    "lat": 45.955784,
-    "lon": 13.646175,
-    "opposite": "MONG:40",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "3B",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4B",
         "color": "#5AC695"
       },
       {
@@ -1175,6 +718,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:39",
       "MONG:40"
     ]
   },
@@ -1204,31 +748,7 @@
       }
     ],
     "merged_stop_ids": [
-      "MONG:41"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQy",
-    "gtfs_id": "MONG:42",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Remiza",
-    "lat": 45.958293,
-    "lon": 13.639258,
-    "opposite": "MONG:42",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:41",
       "MONG:42"
     ]
   },
@@ -1261,48 +781,20 @@
         "color": "#5AC695"
       },
       {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:43"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ0",
-    "gtfs_id": "MONG:44",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica Vojkova",
-    "lat": 45.961407,
-    "lon": 13.649561,
-    "opposite": "MONG:44",
-    "routes": [
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
         "color": "#5AC695"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
+      "MONG:43",
       "MONG:44"
     ]
   },
@@ -1335,48 +827,15 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:45"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjQ2",
-    "gtfs_id": "MONG:46",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova Gorica glasbena šola",
-    "lat": 45.956218,
-    "lon": 13.642532,
-    "opposite": "MONG:46",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4B",
         "color": "#5AC695"
       },
       {
@@ -1385,6 +844,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:45",
       "MONG:46"
     ]
   },
@@ -1503,6 +963,10 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
@@ -1511,12 +975,17 @@
         "color": "#5AC695"
       },
       {
+        "name": "4E",
+        "color": "#5AC695"
+      },
+      {
         "name": "5",
         "color": "#FFC000"
       }
     ],
     "merged_stop_ids": [
-      "MONG:49"
+      "MONG:49",
+      "MONG:50"
     ]
   },
   {
@@ -1548,61 +1017,21 @@
         "color": "#5AC695"
       },
       {
-        "name": "4E",
+        "name": "4C",
         "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:5"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjUw",
-    "gtfs_id": "MONG:50",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rožna Dolina Politehnika",
-    "lat": 45.942288,
-    "lon": 13.640956,
-    "opposite": "MONG:50",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
       },
       {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
+        "name": "4D",
         "color": "#5AC695"
       },
       {
         "name": "4E",
         "color": "#5AC695"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
       }
     ],
     "merged_stop_ids": [
-      "MONG:50"
+      "MONG:5",
+      "MONG:6"
     ]
   },
   {
@@ -1642,56 +1071,15 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
-        "color": "#5AC695"
-      },
-      {
-        "name": "5",
-        "color": "#FFC000"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:51"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjUy",
-    "gtfs_id": "MONG:52",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rožna Dolina meja",
-    "lat": 45.941455,
-    "lon": 13.637761,
-    "opposite": "MONG:52",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
         "color": "#5AC695"
       },
       {
@@ -1704,6 +1092,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:51",
       "MONG:52"
     ]
   },
@@ -1745,43 +1134,6 @@
         "color": "#0F9ED5"
       },
       {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:54"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU1",
-    "gtfs_id": "MONG:55",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan",
-    "lat": 45.973515,
-    "lon": 13.648752,
-    "opposite": "MONG:55",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
         "name": "1B",
         "color": "#0F9ED5"
       },
@@ -1803,6 +1155,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:54",
       "MONG:55"
     ]
   },
@@ -1857,35 +1210,7 @@
       }
     ],
     "merged_stop_ids": [
-      "MONG:57"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjU4",
-    "gtfs_id": "MONG:58",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan Hermelika",
-    "lat": 45.966574,
-    "lon": 13.647311,
-    "opposite": "MONG:58",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:57",
       "MONG:58"
     ]
   },
@@ -1915,72 +1240,7 @@
       }
     ],
     "merged_stop_ids": [
-      "MONG:59"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY",
-    "gtfs_id": "MONG:6",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Hrast",
-    "lat": 45.957318,
-    "lon": 13.658247,
-    "opposite": "MONG:6",
-    "routes": [
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:6"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjYw",
-    "gtfs_id": "MONG:60",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan M.Štrukelj",
-    "lat": 45.968903,
-    "lon": 13.647743,
-    "opposite": "MONG:60",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:59",
       "MONG:60"
     ]
   },
@@ -2001,31 +1261,6 @@
         "color": "#0F9ED5"
       },
       {
-        "name": "1C",
-        "color": "#0F9ED5"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:61"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjYy",
-    "gtfs_id": "MONG:62",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Solkan Zvezda",
-    "lat": 45.967686,
-    "lon": 13.64158,
-    "opposite": "MONG:62",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
         "name": "1B",
         "color": "#0F9ED5"
       },
@@ -2035,6 +1270,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:61",
       "MONG:62"
     ]
   },
@@ -2181,31 +1417,6 @@
       {
         "name": "4B",
         "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:67"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjY4",
-    "gtfs_id": "MONG:68",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba",
-    "lat": 45.907814,
-    "lon": 13.630675,
-    "opposite": "MONG:68",
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
       },
       {
         "name": "4C",
@@ -2213,6 +1424,7 @@
       }
     ],
     "merged_stop_ids": [
+      "MONG:67",
       "MONG:68"
     ]
   },
@@ -2266,16 +1478,25 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
         "color": "#5AC695"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
-      "MONG:7"
+      "MONG:7",
+      "MONG:8"
     ]
   },
   {
@@ -2320,40 +1541,16 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
-      "MONG:71"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjcy",
-    "gtfs_id": "MONG:72",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba bife",
-    "lat": 45.915734,
-    "lon": 13.637064,
-    "opposite": "MONG:72",
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:71",
       "MONG:72"
     ]
   },
@@ -2378,40 +1575,16 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
-      "MONG:73"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc0",
-    "gtfs_id": "MONG:74",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrtojba cerkev",
-    "lat": 45.910902,
-    "lon": 13.634584,
-    "opposite": "MONG:74",
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:73",
       "MONG:74"
     ]
   },
@@ -2510,56 +1683,20 @@
         "color": "#5AC695"
       },
       {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:77"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjc4",
-    "gtfs_id": "MONG:78",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici",
-    "lat": 45.930727,
-    "lon": 13.638879,
-    "opposite": "MONG:78",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
         "color": "#5AC695"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
+      "MONG:77",
       "MONG:78"
     ]
   },
@@ -2582,43 +1719,6 @@
     ],
     "merged_stop_ids": [
       "MONG:79"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjg",
-    "gtfs_id": "MONG:8",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Kromberk Komel",
-    "lat": 45.957178,
-    "lon": 13.677266,
-    "opposite": "MONG:8",
-    "routes": [
-      {
-        "name": "3A",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "3C",
-        "color": "#8F1DAE"
-      },
-      {
-        "name": "4A",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4B",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:8"
     ]
   },
   {
@@ -2650,44 +1750,16 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
-      "MONG:80"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjgx",
-    "gtfs_id": "MONG:81",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Letrika",
-    "lat": 45.924004,
-    "lon": 13.640883,
-    "opposite": "MONG:81",
-    "routes": [
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:80",
       "MONG:81"
     ]
   },
@@ -2713,27 +1785,7 @@
       }
     ],
     "merged_stop_ids": [
-      "MONG:82"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjgz",
-    "gtfs_id": "MONG:83",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici N.Letrika",
-    "lat": 45.921475,
-    "lon": 13.638948,
-    "opposite": "MONG:83",
-    "routes": [
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      }
-    ],
-    "merged_stop_ids": [
+      "MONG:82",
       "MONG:83"
     ]
   },
@@ -2774,56 +1826,20 @@
         "color": "#5AC695"
       },
       {
-        "name": "4E",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:84"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjg1",
-    "gtfs_id": "MONG:85",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Podmark",
-    "lat": 45.936862,
-    "lon": 13.639105,
-    "opposite": "MONG:85",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
         "color": "#5AC695"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
       }
     ],
     "merged_stop_ids": [
+      "MONG:84",
       "MONG:85"
     ]
   },

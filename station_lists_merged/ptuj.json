@@ -56,30 +56,6 @@
         "color": "#0F871B"
       },
       {
-        "name": "5",
-        "color": "#3127A4"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:1129014"
-    ],
-    "merged_codes": [
-      "12746"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwMTU",
-    "gtfs_id": "Ptuj:1129015",
-    "code": "14858",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj bol.",
-    "lat": 46.42586,
-    "lon": 15.8784,
-    "opposite": "14858",
-    "routes": [
-      {
         "name": "2",
         "color": "#FF7F00"
       },
@@ -89,9 +65,11 @@
       }
     ],
     "merged_stop_ids": [
+      "Ptuj:1129014",
       "Ptuj:1129015"
     ],
     "merged_codes": [
+      "12746",
       "14858"
     ]
   },
@@ -137,33 +115,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1129018"
-    ],
-    "merged_codes": [
-      "14860"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwMTk",
-    "gtfs_id": "Ptuj:1129019",
-    "code": "14861",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Breg trg.",
-    "lat": 46.41399,
-    "lon": 15.86448,
-    "opposite": "14861",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1129018",
       "Ptuj:1129019"
     ],
     "merged_codes": [
+      "14860",
       "14861"
     ]
   },
@@ -185,33 +141,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1129020"
-    ],
-    "merged_codes": [
-      "14867"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwMjE",
-    "gtfs_id": "Ptuj:1129021",
-    "code": "14864",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Budina",
-    "lat": 46.41316,
-    "lon": 15.89544,
-    "opposite": "14864",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#0FB3D4"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1129020",
       "Ptuj:1129021"
     ],
     "merged_codes": [
+      "14867",
       "14864"
     ]
   },
@@ -237,33 +171,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1129024"
-    ],
-    "merged_codes": [
-      "14863"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwMjU",
-    "gtfs_id": "Ptuj:1129025",
-    "code": "15517",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Ormoška",
-    "lat": 46.417,
-    "lon": 15.8804,
-    "opposite": "15517",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#0FB3D4"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1129024",
       "Ptuj:1129025"
     ],
     "merged_codes": [
+      "14863",
       "15517"
     ]
   },
@@ -310,30 +222,6 @@
       {
         "name": "2",
         "color": "#FF7F00"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:1129034"
-    ],
-    "merged_codes": [
-      "14868"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwMzU",
-    "gtfs_id": "Ptuj:1129035",
-    "code": "14869",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj SŠC",
-    "lat": 46.42667,
-    "lon": 15.86995,
-    "opposite": "14869",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#FF7F00"
       },
       {
         "name": "5",
@@ -341,9 +229,11 @@
       }
     ],
     "merged_stop_ids": [
+      "Ptuj:1129034",
       "Ptuj:1129035"
     ],
     "merged_codes": [
+      "14868",
       "14869"
     ]
   },
@@ -365,33 +255,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1129036"
-    ],
-    "merged_codes": [
-      "14874"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwMzc",
-    "gtfs_id": "Ptuj:1129037",
-    "code": "14875",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Transservis",
-    "lat": 46.40706,
-    "lon": 15.86576,
-    "opposite": "14875",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1129036",
       "Ptuj:1129037"
     ],
     "merged_codes": [
+      "14874",
       "14875"
     ]
   },
@@ -413,81 +281,15 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1129038"
-    ],
-    "merged_codes": [
-      "14872"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwMzk",
-    "gtfs_id": "Ptuj:1129039",
-    "code": "14873",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Turnišče",
-    "lat": 46.39891,
-    "lon": 15.86182,
-    "opposite": "14873",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:1129039"
-    ],
-    "merged_codes": [
-      "14873"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwNDA",
-    "gtfs_id": "Ptuj:1129040",
-    "code": "14880",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Turnišče",
-    "lat": 46.39893,
-    "lon": 15.86118,
-    "opposite": "14880",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:1129040"
-    ],
-    "merged_codes": [
-      "14880"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMjkwNDE",
-    "gtfs_id": "Ptuj:1129041",
-    "code": "14879",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Turnišče",
-    "lat": 46.39897,
-    "lon": 15.8611,
-    "opposite": "14879",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1129038",
+      "Ptuj:1129039",
+      "Ptuj:1129040",
       "Ptuj:1129041"
     ],
     "merged_codes": [
+      "14872",
+      "14873",
+      "14880",
       "14879"
     ]
   },
@@ -509,33 +311,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1130358"
-    ],
-    "merged_codes": [
-      "13351"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMzAzNTk",
-    "gtfs_id": "Ptuj:1130359",
-    "code": "13352",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sp.Hajdina",
-    "lat": 46.41355,
-    "lon": 15.8407,
-    "opposite": "13352",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1130358",
       "Ptuj:1130359"
     ],
     "merged_codes": [
+      "13351",
       "13352"
     ]
   },
@@ -581,33 +361,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1130526"
-    ],
-    "merged_codes": [
-      "13853"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMzA1Mjc",
-    "gtfs_id": "Ptuj:1130527",
-    "code": "13854",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Spuhlja G",
-    "lat": 46.41224,
-    "lon": 15.90764,
-    "opposite": "13854",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#0FB3D4"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1130526",
       "Ptuj:1130527"
     ],
     "merged_codes": [
+      "13853",
       "13854"
     ]
   },
@@ -629,33 +387,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1130825"
-    ],
-    "merged_codes": [
-      "14031"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExMzA4MjY",
-    "gtfs_id": "Ptuj:1130826",
-    "code": "15665",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Suha veja",
-    "lat": 46.39003,
-    "lon": 15.86908,
-    "opposite": "15665",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1130825",
       "Ptuj:1130826"
     ],
     "merged_codes": [
+      "14031",
       "15665"
     ]
   },
@@ -677,33 +413,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1150404"
-    ],
-    "merged_codes": [
-      "14017"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExNTA0MDU",
-    "gtfs_id": "Ptuj:1150405",
-    "code": "14018",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Brstje",
-    "lat": 46.41977,
-    "lon": 15.90045,
-    "opposite": "14018",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#0FB3D4"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1150404",
       "Ptuj:1150405"
     ],
     "merged_codes": [
+      "14017",
       "14018"
     ]
   },
@@ -725,10 +439,12 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1150406"
+      "Ptuj:1150406",
+      "Ptuj:1150856"
     ],
     "merged_codes": [
-      "14019"
+      "14019",
+      "13222"
     ]
   },
   {
@@ -749,33 +465,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1150407"
-    ],
-    "merged_codes": [
-      "14003"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExNTA0MDg",
-    "gtfs_id": "Ptuj:1150408",
-    "code": "14004",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Belšakova Bar Venera",
-    "lat": 46.41742,
-    "lon": 15.89406,
-    "opposite": "14004",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#0FB3D4"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1150407",
       "Ptuj:1150408"
     ],
     "merged_codes": [
+      "14003",
       "14004"
     ]
   },
@@ -845,10 +539,12 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1150672"
+      "Ptuj:1150672",
+      "Ptuj:1150952"
     ],
     "merged_codes": [
-      "15889"
+      "15889",
+      "15864"
     ]
   },
   {
@@ -900,54 +596,6 @@
     ]
   },
   {
-    "id": "U3RvcDpQdHVqOjExNTA4NTY",
-    "gtfs_id": "Ptuj:1150856",
-    "code": "13222",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Belšakova Dom krajanov",
-    "lat": 46.41714,
-    "lon": 15.89042,
-    "opposite": "13222",
-    "routes": [
-      {
-        "name": "3",
-        "color": "#0FB3D4"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:1150856"
-    ],
-    "merged_codes": [
-      "13222"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExNTA5NTI",
-    "gtfs_id": "Ptuj:1150952",
-    "code": "15864",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Svržnjakova 4",
-    "lat": 46.43236,
-    "lon": 15.8917,
-    "opposite": "15864",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#3127A4"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:1150952"
-    ],
-    "merged_codes": [
-      "15864"
-    ]
-  },
-  {
     "id": "U3RvcDpQdHVqOjExNTA5NzE",
     "gtfs_id": "Ptuj:1150971",
     "code": "13818",
@@ -989,33 +637,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1151186"
-    ],
-    "merged_codes": [
-      "15631"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExNTExODc",
-    "gtfs_id": "Ptuj:1151187",
-    "code": "15632",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sp.Hajdina trg.",
-    "lat": 46.40846,
-    "lon": 15.84582,
-    "opposite": "15632",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1151186",
       "Ptuj:1151187"
     ],
     "merged_codes": [
+      "15631",
       "15632"
     ]
   },
@@ -1037,33 +663,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1151189"
-    ],
-    "merged_codes": [
-      "18602"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExNTExOTA",
-    "gtfs_id": "Ptuj:1151190",
-    "code": "18603",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Zg.Hajdina",
-    "lat": 46.40687,
-    "lon": 15.84108,
-    "opposite": "18603",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1151189",
       "Ptuj:1151190"
     ],
     "merged_codes": [
+      "18602",
       "18603"
     ]
   },
@@ -1108,15 +712,21 @@
     "opposite": "13291",
     "routes": [
       {
+        "name": "1",
+        "color": "#0F871B"
+      },
+      {
         "name": "2",
         "color": "#FF7F00"
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1164652"
+      "Ptuj:1164652",
+      "Ptuj:9302303"
     ],
     "merged_codes": [
-      "13291"
+      "13291",
+      "15849"
     ]
   },
   {
@@ -1141,10 +751,12 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1164654"
+      "Ptuj:1164654",
+      "Ptuj:9302305"
     ],
     "merged_codes": [
-      "13292"
+      "13292",
+      "9298"
     ]
   },
   {
@@ -1277,10 +889,12 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1164668"
+      "Ptuj:1164668",
+      "Ptuj:297000103"
     ],
     "merged_codes": [
-      "15854"
+      "15854",
+      "15880"
     ]
   },
   {
@@ -1353,37 +967,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:1166750"
-    ],
-    "merged_codes": [
-      "11365"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjExNjY3NTE",
-    "gtfs_id": "Ptuj:1166751",
-    "code": "11364",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptuj Dornavska c. Merkur",
-    "lat": 46.42557,
-    "lon": 15.89356,
-    "opposite": "11364",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0F871B"
-      },
-      {
-        "name": "3",
-        "color": "#0FB3D4"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:1166750",
       "Ptuj:1166751"
     ],
     "merged_codes": [
+      "11365",
       "11364"
     ]
   },
@@ -1501,33 +1089,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:297000081"
-    ],
-    "merged_codes": [
-      "15871"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjI5NzAwMDA4Mg",
-    "gtfs_id": "Ptuj:297000082",
-    "code": "15869",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Orešje 178 sekvoja",
-    "lat": 46.43791,
-    "lon": 15.83871,
-    "opposite": "15869",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#FF7F00"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:297000081",
       "Ptuj:297000082"
     ],
     "merged_codes": [
+      "15871",
       "15869"
     ]
   },
@@ -1690,13 +1256,19 @@
       {
         "name": "2",
         "color": "#FF7F00"
+      },
+      {
+        "name": "5",
+        "color": "#3127A4"
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:297000094"
+      "Ptuj:297000094",
+      "Ptuj:80"
     ],
     "merged_codes": [
-      "15873"
+      "15873",
+      "15861"
     ]
   },
   {
@@ -1817,30 +1389,6 @@
     ],
     "merged_codes": [
       "14302"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjI5NzAwMDEwMw",
-    "gtfs_id": "Ptuj:297000103",
-    "code": "15880",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Jurčičeva 1",
-    "lat": 46.40442,
-    "lon": 15.85575,
-    "opposite": "15880",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:297000103"
-    ],
-    "merged_codes": [
-      "15880"
     ]
   },
   {
@@ -2024,30 +1572,6 @@
     ]
   },
   {
-    "id": "U3RvcDpQdHVqOjgw",
-    "gtfs_id": "Ptuj:80",
-    "code": "15861",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Župančičeva 10",
-    "lat": 46.42812,
-    "lon": 15.87601,
-    "opposite": "15861",
-    "routes": [
-      {
-        "name": "5",
-        "color": "#3127A4"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:80"
-    ],
-    "merged_codes": [
-      "15861"
-    ]
-  },
-  {
     "id": "U3RvcDpQdHVqOjgz",
     "gtfs_id": "Ptuj:83",
     "code": "15862",
@@ -2121,58 +1645,6 @@
     ],
     "merged_codes": [
       "9303"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjkzMDIzMDM",
-    "gtfs_id": "Ptuj:9302303",
-    "code": "15849",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Rimska peč",
-    "lat": 46.4271,
-    "lon": 15.87346,
-    "opposite": "15849",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#0F871B"
-      },
-      {
-        "name": "2",
-        "color": "#FF7F00"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:9302303"
-    ],
-    "merged_codes": [
-      "15849"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjkzMDIzMDU",
-    "gtfs_id": "Ptuj:9302305",
-    "code": "9298",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Bratje Reš",
-    "lat": 46.42693,
-    "lon": 15.86757,
-    "opposite": "9298",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#FF7F00"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:9302305"
-    ],
-    "merged_codes": [
-      "9298"
     ]
   },
   {
@@ -2413,33 +1885,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:9302932"
-    ],
-    "merged_codes": [
-      "15893"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjkzMDI5MzM",
-    "gtfs_id": "Ptuj:9302933",
-    "code": "15894",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Orešje 182a",
-    "lat": 46.44393,
-    "lon": 15.83242,
-    "opposite": "15894",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#FF7F00"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:9302932",
       "Ptuj:9302933"
     ],
     "merged_codes": [
+      "15893",
       "15894"
     ]
   },
@@ -2461,33 +1911,11 @@
       }
     ],
     "merged_stop_ids": [
-      "Ptuj:9303148"
-    ],
-    "merged_codes": [
-      "15865"
-    ]
-  },
-  {
-    "id": "U3RvcDpQdHVqOjkzMDMxNDk",
-    "gtfs_id": "Ptuj:9303149",
-    "code": "15866",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Na postajo 20",
-    "lat": 46.40285,
-    "lon": 15.85511,
-    "opposite": "15866",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
+      "Ptuj:9303148",
       "Ptuj:9303149"
     ],
     "merged_codes": [
+      "15865",
       "15866"
     ]
   },

@@ -17,10 +17,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:10"
+      "MARPROM:10",
+      "MARPROM:9"
     ],
     "merged_codes": [
-      "s185"
+      "s185",
+      "s184"
     ]
   },
   {
@@ -65,33 +67,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:101"
-    ],
-    "merged_codes": [
-      "s288"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjEwMg",
-    "gtfs_id": "MARPROM:102",
-    "code": "s289",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Grušova 1",
-    "lat": 46.557053,
-    "lon": 15.745686,
-    "opposite": "s289",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:101",
       "MARPROM:102"
     ],
     "merged_codes": [
+      "s288",
       "s289"
     ]
   },
@@ -113,33 +93,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:105"
-    ],
-    "merged_codes": [
-      "s43"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjEwNg",
-    "gtfs_id": "MARPROM:106",
-    "code": "s44",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kamnica - hipodrom",
-    "lat": 46.574209,
-    "lon": 15.622491,
-    "opposite": "s44",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:105",
       "MARPROM:106"
     ],
     "merged_codes": [
+      "s43",
       "s44"
     ]
   },
@@ -156,30 +114,6 @@
     "opposite": "s58",
     "routes": [
       {
-        "name": "P15",
-        "color": "#60C3AC"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:107"
-    ],
-    "merged_codes": [
-      "s58"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjEwOA",
-    "gtfs_id": "MARPROM:108",
-    "code": "s59",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kamnica - križišče",
-    "lat": 46.571064,
-    "lon": 15.614065,
-    "opposite": "s59",
-    "routes": [
-      {
         "name": "G5",
         "color": "#DA1F27"
       },
@@ -189,9 +123,11 @@
       }
     ],
     "merged_stop_ids": [
+      "MARPROM:107",
       "MARPROM:108"
     ],
     "merged_codes": [
+      "s58",
       "s59"
     ]
   },
@@ -213,10 +149,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:11"
+      "MARPROM:11",
+      "MARPROM:12"
     ],
     "merged_codes": [
-      "s212"
+      "s212",
+      "s213"
     ]
   },
   {
@@ -265,33 +203,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:111"
-    ],
-    "merged_codes": [
-      "s45"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjExMg",
-    "gtfs_id": "MARPROM:112",
-    "code": "s46",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kamnica - šola",
-    "lat": 46.573495,
-    "lon": 15.617011,
-    "opposite": "s46",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:111",
       "MARPROM:112"
     ],
     "merged_codes": [
+      "s45",
       "s46"
     ]
   },
@@ -313,33 +229,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:113"
-    ],
-    "merged_codes": [
-      "s47"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjExNA",
-    "gtfs_id": "MARPROM:114",
-    "code": "s48",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kamnica - trgovina",
-    "lat": 46.574042,
-    "lon": 15.612542,
-    "opposite": "s48",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:113",
       "MARPROM:114"
     ],
     "merged_codes": [
+      "s47",
       "s48"
     ]
   },
@@ -361,33 +255,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:115"
-    ],
-    "merged_codes": [
-      "s174"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjExNg",
-    "gtfs_id": "MARPROM:116",
-    "code": "s173",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kardeljeva - Borštnikova",
-    "lat": 46.533681,
-    "lon": 15.629585,
-    "opposite": "s173",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:115",
       "MARPROM:116"
     ],
     "merged_codes": [
+      "s174",
       "s173"
     ]
   },
@@ -409,33 +281,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:117"
-    ],
-    "merged_codes": [
-      "s188"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjExOA",
-    "gtfs_id": "MARPROM:118",
-    "code": "s189",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kardeljeva - Knafelčeva",
-    "lat": 46.538949,
-    "lon": 15.632643,
-    "opposite": "s189",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:117",
       "MARPROM:118"
     ],
     "merged_codes": [
+      "s188",
       "s189"
     ]
   },
@@ -464,30 +314,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjEy",
-    "gtfs_id": "MARPROM:12",
-    "code": "s213",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Betnavska - Metelkova",
-    "lat": 46.542351,
-    "lon": 15.638437,
-    "opposite": "s213",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:12"
-    ],
-    "merged_codes": [
-      "s213"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjEyMA",
     "gtfs_id": "MARPROM:120",
     "code": "s316",
@@ -505,33 +331,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:120"
-    ],
-    "merged_codes": [
-      "s316"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjEyMQ",
-    "gtfs_id": "MARPROM:121",
-    "code": "s317",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kavčičeva",
-    "lat": 46.527143,
-    "lon": 15.672036,
-    "opposite": "s317",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:120",
       "MARPROM:121"
     ],
     "merged_codes": [
+      "s316",
       "s317"
     ]
   },
@@ -553,33 +357,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:124"
-    ],
-    "merged_codes": [
-      "s285"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjEyNQ",
-    "gtfs_id": "MARPROM:125",
-    "code": "s582",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Knezar",
-    "lat": 46.554546,
-    "lon": 15.736294,
-    "opposite": "s582",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:124",
       "MARPROM:125"
     ],
     "merged_codes": [
+      "s285",
       "s582"
     ]
   },
@@ -649,10 +431,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:13"
+      "MARPROM:13",
+      "MARPROM:14"
     ],
     "merged_codes": [
-      "s216"
+      "s216",
+      "s217"
     ]
   },
   {
@@ -673,33 +457,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:130"
-    ],
-    "merged_codes": [
-      "s18"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjEzMQ",
-    "gtfs_id": "MARPROM:131",
-    "code": "s19",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Koroški veter",
-    "lat": 46.559293,
-    "lon": 15.635065,
-    "opposite": "s19",
-    "routes": [
-      {
-        "name": "G5",
-        "color": "#DA1F27"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:130",
       "MARPROM:131"
     ],
     "merged_codes": [
+      "s18",
       "s19"
     ]
   },
@@ -721,10 +483,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:132"
+      "MARPROM:132",
+      "MARPROM:635"
     ],
     "merged_codes": [
-      "s410"
+      "s410",
+      "s907"
     ]
   },
   {
@@ -745,33 +509,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:133"
-    ],
-    "merged_codes": [
-      "s20"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjEzNA",
-    "gtfs_id": "MARPROM:134",
-    "code": "s21",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Koroška vrata - Mirni zaliv",
-    "lat": 46.560616,
-    "lon": 15.629859,
-    "opposite": "s21",
-    "routes": [
-      {
-        "name": "G5",
-        "color": "#DA1F27"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:133",
       "MARPROM:134"
     ],
     "merged_codes": [
+      "s20",
       "s21"
     ]
   },
@@ -889,57 +631,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:139"
-    ],
-    "merged_codes": [
-      "s267"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE0",
-    "gtfs_id": "MARPROM:14",
-    "code": "s217",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "OŠ Franceta Prešerna",
-    "lat": 46.550335,
-    "lon": 15.641006,
-    "opposite": "s217",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:14"
-    ],
-    "merged_codes": [
-      "s217"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE0MA",
-    "gtfs_id": "MARPROM:140",
-    "code": "s268",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kovačič",
-    "lat": 46.556431,
-    "lon": 15.691654,
-    "opposite": "s268",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:139",
       "MARPROM:140"
     ],
     "merged_codes": [
+      "s267",
       "s268"
     ]
   },
@@ -961,33 +657,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:141"
-    ],
-    "merged_codes": [
-      "s598"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE0Mg",
-    "gtfs_id": "MARPROM:142",
-    "code": "s599",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kraljeviča Marka ulica",
-    "lat": 46.558764,
-    "lon": 15.663918,
-    "opposite": "s599",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:141",
       "MARPROM:142"
     ],
     "merged_codes": [
+      "s598",
       "s599"
     ]
   },
@@ -1089,33 +763,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:145"
-    ],
-    "merged_codes": [
-      "s284"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE0Ng",
-    "gtfs_id": "MARPROM:146",
-    "code": "s581",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kronaveter",
-    "lat": 46.556547,
-    "lon": 15.733096,
-    "opposite": "s581",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:145",
       "MARPROM:146"
     ],
     "merged_codes": [
+      "s284",
       "s581"
     ]
   },
@@ -1141,57 +793,13 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:147"
-    ],
-    "merged_codes": [
-      "s390"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE0OA",
-    "gtfs_id": "MARPROM:148",
-    "code": "s391",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "MČ Tezno",
-    "lat": 46.527904,
-    "lon": 15.67982,
-    "opposite": "s391",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:148"
-    ],
-    "merged_codes": [
-      "s391"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE0OQ",
-    "gtfs_id": "MARPROM:149",
-    "code": "s392",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "MČ Tezno",
-    "lat": 46.527886,
-    "lon": 15.681957,
-    "opposite": "s392",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:147",
+      "MARPROM:148",
       "MARPROM:149"
     ],
     "merged_codes": [
+      "s390",
+      "s391",
       "s392"
     ]
   },
@@ -1213,10 +821,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:15"
+      "MARPROM:15",
+      "MARPROM:16"
     ],
     "merged_codes": [
-      "s245"
+      "s245",
+      "s246"
     ]
   },
   {
@@ -1241,10 +851,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:150"
+      "MARPROM:150",
+      "MARPROM:447"
     ],
     "merged_codes": [
-      "s149"
+      "s149",
+      "s619"
     ]
   },
   {
@@ -1265,10 +877,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:151"
+      "MARPROM:151",
+      "MARPROM:445"
     ],
     "merged_codes": [
-      "s150"
+      "s150",
+      "s617"
     ]
   },
   {
@@ -1297,41 +911,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:152"
-    ],
-    "merged_codes": [
-      "s143"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE1Mw",
-    "gtfs_id": "MARPROM:153",
-    "code": "s142",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Lackova - Stara lipa",
-    "lat": 46.538361,
-    "lon": 15.612191,
-    "opposite": "s142",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:152",
       "MARPROM:153"
     ],
     "merged_codes": [
+      "s143",
       "s142"
     ]
   },
@@ -1377,10 +961,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:155"
+      "MARPROM:155",
+      "MARPROM:463"
     ],
     "merged_codes": [
-      "s153"
+      "s153",
+      "s186"
     ]
   },
   {
@@ -1401,10 +987,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:156"
+      "MARPROM:156",
+      "MARPROM:441"
     ],
     "merged_codes": [
-      "s154"
+      "s154",
+      "s614"
     ]
   },
   {
@@ -1433,41 +1021,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:157"
-    ],
-    "merged_codes": [
-      "s127"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE1OA",
-    "gtfs_id": "MARPROM:158",
-    "code": "s527",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Limbuš",
-    "lat": 46.553985,
-    "lon": 15.582052,
-    "opposite": "s527",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:157",
       "MARPROM:158"
     ],
     "merged_codes": [
+      "s127",
       "s527"
     ]
   },
@@ -1497,65 +1055,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:159"
-    ],
-    "merged_codes": [
-      "s128"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE2",
-    "gtfs_id": "MARPROM:16",
-    "code": "s246",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Betnavski grad",
-    "lat": 46.529503,
-    "lon": 15.637461,
-    "opposite": "s246",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:16"
-    ],
-    "merged_codes": [
-      "s246"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE2MA",
-    "gtfs_id": "MARPROM:160",
-    "code": "s129",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Limbuš - pošta",
-    "lat": 46.550618,
-    "lon": 15.588177,
-    "opposite": "s129",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:159",
       "MARPROM:160"
     ],
     "merged_codes": [
+      "s128",
       "s129"
     ]
   },
@@ -1572,30 +1076,6 @@
     "opposite": "s120",
     "routes": [
       {
-        "name": "P8",
-        "color": "#8EB3DF"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:161"
-    ],
-    "merged_codes": [
-      "s120"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE2Mg",
-    "gtfs_id": "MARPROM:162",
-    "code": "s121",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Limbuška - Lesarska",
-    "lat": 46.556424,
-    "lon": 15.604549,
-    "opposite": "s121",
-    "routes": [
-      {
         "name": "G4",
         "color": "#1C3564"
       },
@@ -1609,9 +1089,11 @@
       }
     ],
     "merged_stop_ids": [
+      "MARPROM:161",
       "MARPROM:162"
     ],
     "merged_codes": [
+      "s120",
       "s121"
     ]
   },
@@ -1633,33 +1115,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:163"
-    ],
-    "merged_codes": [
-      "s114"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE2NA",
-    "gtfs_id": "MARPROM:164",
-    "code": "s115",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Limbuška - Pekrska",
-    "lat": 46.556416,
-    "lon": 15.620624,
-    "opposite": "s115",
-    "routes": [
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:163",
       "MARPROM:164"
     ],
     "merged_codes": [
+      "s114",
       "s115"
     ]
   },
@@ -1705,33 +1165,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:166"
-    ],
-    "merged_codes": [
-      "s116"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE2Nw",
-    "gtfs_id": "MARPROM:167",
-    "code": "s117",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Limbuška 47",
-    "lat": 46.557069,
-    "lon": 15.616917,
-    "opposite": "s117",
-    "routes": [
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:166",
       "MARPROM:167"
     ],
     "merged_codes": [
+      "s116",
       "s117"
     ]
   },
@@ -1753,33 +1191,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:168"
-    ],
-    "merged_codes": [
-      "s233"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE2OQ",
-    "gtfs_id": "MARPROM:169",
-    "code": "s234",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljanska - Focheva",
-    "lat": 46.545074,
-    "lon": 15.643485,
-    "opposite": "s234",
-    "routes": [
-      {
-        "name": "G2",
-        "color": "#88A1A9"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:168",
       "MARPROM:169"
     ],
     "merged_codes": [
+      "s233",
       "s234"
     ]
   },
@@ -1801,10 +1217,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:17"
+      "MARPROM:17",
+      "MARPROM:444"
     ],
     "merged_codes": [
-      "s152"
+      "s152",
+      "s616"
     ]
   },
   {
@@ -1829,37 +1247,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:170"
-    ],
-    "merged_codes": [
-      "s231"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE3MQ",
-    "gtfs_id": "MARPROM:171",
-    "code": "s232",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljanska - II. gimn.",
-    "lat": 46.549561,
-    "lon": 15.645558,
-    "opposite": "s232",
-    "routes": [
-      {
-        "name": "G2",
-        "color": "#88A1A9"
-      },
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:170",
       "MARPROM:171"
     ],
     "merged_codes": [
+      "s231",
       "s232"
     ]
   },
@@ -1881,33 +1273,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:172"
-    ],
-    "merged_codes": [
-      "s192"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE3Mw",
-    "gtfs_id": "MARPROM:173",
-    "code": "s193",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljanska - stolpnica",
-    "lat": 46.537296,
-    "lon": 15.638018,
-    "opposite": "s193",
-    "routes": [
-      {
-        "name": "G2",
-        "color": "#88A1A9"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:172",
       "MARPROM:173"
     ],
     "merged_codes": [
+      "s192",
       "s193"
     ]
   },
@@ -1937,41 +1307,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:174"
-    ],
-    "merged_codes": [
-      "s194"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE3NQ",
-    "gtfs_id": "MARPROM:175",
-    "code": "s195",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljanska - TC Mercator",
-    "lat": 46.540333,
-    "lon": 15.639733,
-    "opposite": "s195",
-    "routes": [
-      {
-        "name": "G2",
-        "color": "#88A1A9"
-      },
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:174",
       "MARPROM:175"
     ],
     "merged_codes": [
+      "s194",
       "s195"
     ]
   },
@@ -1993,33 +1333,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:176"
-    ],
-    "merged_codes": [
-      "s191"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE3Nw",
-    "gtfs_id": "MARPROM:177",
-    "code": "s190",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova vas",
-    "lat": 46.533502,
-    "lon": 15.634789,
-    "opposite": "s190",
-    "routes": [
-      {
-        "name": "G2",
-        "color": "#88A1A9"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:176",
       "MARPROM:177"
     ],
     "merged_codes": [
+      "s191",
       "s190"
     ]
   },
@@ -2041,33 +1359,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:178"
-    ],
-    "merged_codes": [
-      "s270"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE3OQ",
-    "gtfs_id": "MARPROM:179",
-    "code": "s271",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Lorber",
-    "lat": 46.555402,
-    "lon": 15.696661,
-    "opposite": "s271",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:178",
       "MARPROM:179"
     ],
     "merged_codes": [
+      "s270",
       "s271"
     ]
   },
@@ -2116,46 +1412,6 @@
         "color": "#E5861D"
       },
       {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:180"
-    ],
-    "merged_codes": [
-      "s227"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE4MQ",
-    "gtfs_id": "MARPROM:181",
-    "code": "s228",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "UKC - Pobreška",
-    "lat": 46.554476,
-    "lon": 15.647181,
-    "opposite": "s228",
-    "routes": [
-      {
-        "name": "G5",
-        "color": "#DA1F27"
-      },
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      },
-      {
         "name": "P10",
         "color": "#7BC258"
       },
@@ -2173,9 +1429,11 @@
       }
     ],
     "merged_stop_ids": [
+      "MARPROM:180",
       "MARPROM:181"
     ],
     "merged_codes": [
+      "s227",
       "s228"
     ]
   },
@@ -2225,10 +1483,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:183"
+      "MARPROM:183",
+      "MARPROM:644"
     ],
     "merged_codes": [
-      "s539"
+      "s539",
+      "s914"
     ]
   },
   {
@@ -2249,33 +1509,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:184"
-    ],
-    "merged_codes": [
-      "s308"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE4NQ",
-    "gtfs_id": "MARPROM:185",
-    "code": "s508",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Makedonska",
-    "lat": 46.542353,
-    "lon": 15.657277,
-    "opposite": "s508",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:184",
       "MARPROM:185"
     ],
     "merged_codes": [
+      "s308",
       "s508"
     ]
   },
@@ -2297,57 +1535,13 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:186"
-    ],
-    "merged_codes": [
-      "s272"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE4Nw",
-    "gtfs_id": "MARPROM:187",
-    "code": "s273",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Malečnik - odcep Trčova",
-    "lat": 46.553011,
-    "lon": 15.705251,
-    "opposite": "s273",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:187"
-    ],
-    "merged_codes": [
-      "s273"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE4OA",
-    "gtfs_id": "MARPROM:188",
-    "code": "s280",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Malečnik - odcep Trčova",
-    "lat": 46.552997,
-    "lon": 15.705808,
-    "opposite": "s280",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:186",
+      "MARPROM:187",
       "MARPROM:188"
     ],
     "merged_codes": [
+      "s272",
+      "s273",
       "s280"
     ]
   },
@@ -2369,33 +1563,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:189"
-    ],
-    "merged_codes": [
-      "s291"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE5MA",
-    "gtfs_id": "MARPROM:190",
-    "code": "s591",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Malečnik - trgovina",
-    "lat": 46.552497,
-    "lon": 15.708171,
-    "opposite": "s591",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:189",
       "MARPROM:190"
     ],
     "merged_codes": [
+      "s291",
       "s591"
     ]
   },
@@ -2484,6 +1656,10 @@
         "color": "#E5861D"
       },
       {
+        "name": "P10",
+        "color": "#7BC258"
+      },
+      {
         "name": "P11",
         "color": "#D5DA76"
       },
@@ -2496,6 +1672,10 @@
         "color": "#8C7174"
       },
       {
+        "name": "P15",
+        "color": "#60C3AC"
+      },
+      {
         "name": "P16",
         "color": "#D5137B"
       },
@@ -2505,10 +1685,14 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:192"
+      "MARPROM:192",
+      "MARPROM:210",
+      "MARPROM:211"
     ],
     "merged_codes": [
-      "s1"
+      "s1",
+      "s2",
+      "s600"
     ]
   },
   {
@@ -2553,33 +1737,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:194"
-    ],
-    "merged_codes": [
-      "s60"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE5NQ",
-    "gtfs_id": "MARPROM:195",
-    "code": "s61",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Mariborski otok - HE",
-    "lat": 46.570119,
-    "lon": 15.601352,
-    "opposite": "s61",
-    "routes": [
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:194",
       "MARPROM:195"
     ],
     "merged_codes": [
+      "s60",
       "s61"
     ]
   },
@@ -2646,13 +1808,19 @@
       {
         "name": "G3",
         "color": "#6F3A96"
+      },
+      {
+        "name": "P10",
+        "color": "#7BC258"
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:199"
+      "MARPROM:199",
+      "MARPROM:200"
     ],
     "merged_codes": [
-      "s5"
+      "s5",
+      "s6"
     ]
   },
   {
@@ -2673,38 +1841,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:2"
+      "MARPROM:2",
+      "MARPROM:3"
     ],
     "merged_codes": [
-      "s309"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIwMA",
-    "gtfs_id": "MARPROM:200",
-    "code": "s6",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Prlek",
-    "lat": 46.560667,
-    "lon": 15.657971,
-    "opposite": "s6",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:200"
-    ],
-    "merged_codes": [
-      "s6"
+      "s309",
+      "s302"
     ]
   },
   {
@@ -2729,33 +1871,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:201"
-    ],
-    "merged_codes": [
-      "s98"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIwMg",
-    "gtfs_id": "MARPROM:202",
-    "code": "s99",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Meljska - trgovina",
-    "lat": 46.560514,
-    "lon": 15.662161,
-    "opposite": "s99",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:201",
       "MARPROM:202"
     ],
     "merged_codes": [
+      "s98",
       "s99"
     ]
   },
@@ -2777,33 +1897,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:203"
-    ],
-    "merged_codes": [
-      "s265"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIwNA",
-    "gtfs_id": "MARPROM:204",
-    "code": "s266",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Meljski hrib - most",
-    "lat": 46.558068,
-    "lon": 15.682489,
-    "opposite": "s266",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:203",
       "MARPROM:204"
     ],
     "merged_codes": [
+      "s265",
       "s266"
     ]
   },
@@ -2849,33 +1947,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:206"
-    ],
-    "merged_codes": [
-      "s296"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIwNw",
-    "gtfs_id": "MARPROM:207",
-    "code": "s596",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Metava - Duplek  križišče",
-    "lat": 46.534931,
-    "lon": 15.731634,
-    "opposite": "s596",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:206",
       "MARPROM:207"
     ],
     "merged_codes": [
+      "s296",
       "s596"
     ]
   },
@@ -2897,33 +1973,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:208"
-    ],
-    "merged_codes": [
-      "s286"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIwOQ",
-    "gtfs_id": "MARPROM:209",
-    "code": "s585",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Metava - odcep",
-    "lat": 46.550119,
-    "lon": 15.740569,
-    "opposite": "s585",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:208",
       "MARPROM:209"
     ],
     "merged_codes": [
+      "s286",
       "s585"
     ]
   },
@@ -2945,62 +1999,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:21"
+      "MARPROM:21",
+      "MARPROM:22"
     ],
     "merged_codes": [
-      "s64"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIxMA",
-    "gtfs_id": "MARPROM:210",
-    "code": "s2",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Avtobusna postaja",
-    "lat": 46.559605,
-    "lon": 15.655157,
-    "opposite": "s2",
-    "routes": [
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:210"
-    ],
-    "merged_codes": [
-      "s2"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIxMQ",
-    "gtfs_id": "MARPROM:211",
-    "code": "s600",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Avtobusna postaja",
-    "lat": 46.559717,
-    "lon": 15.65543,
-    "opposite": "s600",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      },
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:211"
-    ],
-    "merged_codes": [
-      "s600"
+      "s64",
+      "s65"
     ]
   },
   {
@@ -3021,33 +2025,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:212"
-    ],
-    "merged_codes": [
-      "s198"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIxMw",
-    "gtfs_id": "MARPROM:213",
-    "code": "s199",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Na Poljanah - Atletski stadion",
-    "lat": 46.551892,
-    "lon": 15.628447,
-    "opposite": "s199",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:212",
       "MARPROM:213"
     ],
     "merged_codes": [
+      "s198",
       "s199"
     ]
   },
@@ -3141,33 +2123,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:217"
-    ],
-    "merged_codes": [
-      "s301"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIxOA",
-    "gtfs_id": "MARPROM:218",
-    "code": "s300",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Nasipna - Snaga",
-    "lat": 46.551359,
-    "lon": 15.656685,
-    "opposite": "s300",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:217",
       "MARPROM:218"
     ],
     "merged_codes": [
+      "s301",
       "s300"
     ]
   },
@@ -3189,57 +2149,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:219"
-    ],
-    "merged_codes": [
-      "s276"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIy",
-    "gtfs_id": "MARPROM:22",
-    "code": "s65",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Bresternica - odcep",
-    "lat": 46.567599,
-    "lon": 15.585017,
-    "opposite": "s65",
-    "routes": [
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:22"
-    ],
-    "merged_codes": [
-      "s65"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIyMA",
-    "gtfs_id": "MARPROM:220",
-    "code": "s277",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Nebova I",
-    "lat": 46.557287,
-    "lon": 15.719664,
-    "opposite": "s277",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:219",
       "MARPROM:220"
     ],
     "merged_codes": [
+      "s276",
       "s277"
     ]
   },
@@ -3261,33 +2175,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:221"
-    ],
-    "merged_codes": [
-      "s278"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIyMg",
-    "gtfs_id": "MARPROM:222",
-    "code": "s279",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Nebova II",
-    "lat": 46.557634,
-    "lon": 15.724085,
-    "opposite": "s279",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:221",
       "MARPROM:222"
     ],
     "merged_codes": [
+      "s278",
       "s279"
     ]
   },
@@ -3313,37 +2205,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:223"
-    ],
-    "merged_codes": [
-      "s163"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIyNA",
-    "gtfs_id": "MARPROM:224",
-    "code": "s164",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Nova vas 2",
-    "lat": 46.543812,
-    "lon": 15.624338,
-    "opposite": "s164",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:223",
       "MARPROM:224"
     ],
     "merged_codes": [
+      "s163",
       "s164"
     ]
   },
@@ -3365,33 +2231,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:225"
-    ],
-    "merged_codes": [
-      "s295"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIyNg",
-    "gtfs_id": "MARPROM:226",
-    "code": "s595",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Novak",
-    "lat": 46.537569,
-    "lon": 15.724293,
-    "opposite": "s595",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:225",
       "MARPROM:226"
     ],
     "merged_codes": [
+      "s295",
       "s595"
     ]
   },
@@ -3413,33 +2257,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:227"
-    ],
-    "merged_codes": [
-      "s303"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIyOA",
-    "gtfs_id": "MARPROM:228",
-    "code": "s304",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "OŠ borcev za severno mejo",
-    "lat": 46.547051,
-    "lon": 15.656968,
-    "opposite": "s304",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:227",
       "MARPROM:228"
     ],
     "merged_codes": [
+      "s303",
       "s304"
     ]
   },
@@ -3461,10 +2283,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:229"
+      "MARPROM:229",
+      "MARPROM:443"
     ],
     "merged_codes": [
-      "s156"
+      "s156",
+      "s622"
     ]
   },
   {
@@ -3485,10 +2309,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:23"
+      "MARPROM:23",
+      "MARPROM:24"
     ],
     "merged_codes": [
-      "s66"
+      "s66",
+      "s67"
     ]
   },
   {
@@ -3509,33 +2335,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:230"
-    ],
-    "merged_codes": [
-      "s101"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIzMQ",
-    "gtfs_id": "MARPROM:231",
-    "code": "s501",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Oreško nabrežje 1",
-    "lat": 46.556392,
-    "lon": 15.66144,
-    "opposite": "s501",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:230",
       "MARPROM:231"
     ],
     "merged_codes": [
+      "s101",
       "s501"
     ]
   },
@@ -3609,62 +2413,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:238"
-    ],
-    "merged_codes": [
-      "s364"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjIzOQ",
-    "gtfs_id": "MARPROM:239",
-    "code": "s365",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "OŠ Draga Kobala",
-    "lat": 46.546369,
-    "lon": 15.672098,
-    "opposite": "s365",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:238",
       "MARPROM:239"
     ],
     "merged_codes": [
+      "s364",
       "s365"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI0",
-    "gtfs_id": "MARPROM:24",
-    "code": "s67",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Bresternica - rondo",
-    "lat": 46.566701,
-    "lon": 15.57866,
-    "opposite": "s67",
-    "routes": [
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:24"
-    ],
-    "merged_codes": [
-      "s67"
     ]
   },
   {
@@ -3689,37 +2443,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:240"
-    ],
-    "merged_codes": [
-      "s161"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI0MQ",
-    "gtfs_id": "MARPROM:241",
-    "code": "s162",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Center Gustava Šiliha",
-    "lat": 46.540432,
-    "lon": 15.622139,
-    "opposite": "s162",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:240",
       "MARPROM:241"
     ],
     "merged_codes": [
+      "s161",
       "s162"
     ]
   },
@@ -3745,37 +2473,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:242"
-    ],
-    "merged_codes": [
-      "s159"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI0Mw",
-    "gtfs_id": "MARPROM:243",
-    "code": "s160",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "OŠ Ludvika Pliberška",
-    "lat": 46.537643,
-    "lon": 15.620659,
-    "opposite": "s160",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:242",
       "MARPROM:243"
     ],
     "merged_codes": [
+      "s159",
       "s160"
     ]
   },
@@ -3797,33 +2499,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:244"
-    ],
-    "merged_codes": [
-      "s218"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI0NQ",
-    "gtfs_id": "MARPROM:245",
-    "code": "s219",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "OŠ Maksa Durjave",
-    "lat": 46.553781,
-    "lon": 15.639109,
-    "opposite": "s219",
-    "routes": [
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:244",
       "MARPROM:245"
     ],
     "merged_codes": [
+      "s218",
       "s219"
     ]
   },
@@ -3845,33 +2525,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:246"
-    ],
-    "merged_codes": [
-      "s175"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI0Nw",
-    "gtfs_id": "MARPROM:247",
-    "code": "s176",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "OŠ Tabor 1",
-    "lat": 46.536681,
-    "lon": 15.631055,
-    "opposite": "s176",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:246",
       "MARPROM:247"
     ],
     "merged_codes": [
+      "s175",
       "s176"
     ]
   },
@@ -3898,45 +2556,27 @@
       {
         "name": "P14",
         "color": "#F7B1CA"
+      },
+      {
+        "name": "P18",
+        "color": "#C07E65"
+      },
+      {
+        "name": "P19",
+        "color": "#F5DD26"
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:248"
+      "MARPROM:248",
+      "MARPROM:249",
+      "MARPROM:250",
+      "MARPROM:677"
     ],
     "merged_codes": [
-      "s130"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI0OQ",
-    "gtfs_id": "MARPROM:249",
-    "code": "s131",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pekre",
-    "lat": 46.548657,
-    "lon": 15.594099,
-    "opposite": "s131",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:249"
-    ],
-    "merged_codes": [
-      "s131"
+      "s130",
+      "s131",
+      "s151",
+      "s943"
     ]
   },
   {
@@ -3961,34 +2601,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:25"
+      "MARPROM:25",
+      "MARPROM:26"
     ],
     "merged_codes": [
-      "s358"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI1MA",
-    "gtfs_id": "MARPROM:250",
-    "code": "s151",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pekre",
-    "lat": 46.547527,
-    "lon": 15.593973,
-    "opposite": "s151",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:250"
-    ],
-    "merged_codes": [
-      "s151"
+      "s358",
+      "s359"
     ]
   },
   {
@@ -4002,42 +2620,6 @@
     "lat": 46.55473,
     "lon": 15.654307,
     "opposite": "s262",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:251"
-    ],
-    "merged_codes": [
-      "s262"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI1Mg",
-    "gtfs_id": "MARPROM:252",
-    "code": "s263",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pobreška - Europark",
-    "lat": 46.554732,
-    "lon": 15.653071,
-    "opposite": "s263",
     "routes": [
       {
         "name": "G5",
@@ -4065,9 +2647,11 @@
       }
     ],
     "merged_stop_ids": [
+      "MARPROM:251",
       "MARPROM:252"
     ],
     "merged_codes": [
+      "s262",
       "s263"
     ]
   },
@@ -4089,33 +2673,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:253"
-    ],
-    "merged_codes": [
-      "s144"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI1NA",
-    "gtfs_id": "MARPROM:254",
-    "code": "s145",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pohorska - Mlada lipa",
-    "lat": 46.539628,
-    "lon": 15.605652,
-    "opposite": "s145",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:253",
       "MARPROM:254"
     ],
     "merged_codes": [
+      "s144",
       "s145"
     ]
   },
@@ -4137,33 +2699,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:255"
-    ],
-    "merged_codes": [
-      "s146"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI1Ng",
-    "gtfs_id": "MARPROM:256",
-    "code": "s147",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pohorska - pošta",
-    "lat": 46.537233,
-    "lon": 15.603547,
-    "opposite": "s147",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:255",
       "MARPROM:256"
     ],
     "merged_codes": [
+      "s146",
       "s147"
     ]
   },
@@ -4209,10 +2749,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:258"
+      "MARPROM:258",
+      "MARPROM:674"
     ],
     "merged_codes": [
-      "s341"
+      "s341",
+      "s940"
     ]
   },
   {
@@ -4233,61 +2775,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:259"
-    ],
-    "merged_codes": [
-      "s339"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI2",
-    "gtfs_id": "MARPROM:26",
-    "code": "s359",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Brezje",
-    "lat": 46.536515,
-    "lon": 15.688387,
-    "opposite": "s359",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:26"
-    ],
-    "merged_codes": [
-      "s359"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI2MA",
-    "gtfs_id": "MARPROM:260",
-    "code": "s338",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pokop. Dobrava - vhod",
-    "lat": 46.519089,
-    "lon": 15.691251,
-    "opposite": "s338",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:259",
       "MARPROM:260"
     ],
     "merged_codes": [
+      "s339",
       "s338"
     ]
   },
@@ -4333,33 +2825,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:262"
-    ],
-    "merged_codes": [
-      "s366"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI2Mw",
-    "gtfs_id": "MARPROM:263",
-    "code": "s367",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pokopališče Pobrežje",
-    "lat": 46.550902,
-    "lon": 15.664378,
-    "opposite": "s367",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:262",
       "MARPROM:263"
     ],
     "merged_codes": [
+      "s366",
       "s367"
     ]
   },
@@ -4405,33 +2875,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:265"
-    ],
-    "merged_codes": [
-      "s402"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI2Ng",
-    "gtfs_id": "MARPROM:266",
-    "code": "s405",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Cona Tezno - črpalka",
-    "lat": 46.524641,
-    "lon": 15.667625,
-    "opposite": "s405",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:265",
       "MARPROM:266"
     ],
     "merged_codes": [
+      "s402",
       "s405"
     ]
   },
@@ -4453,10 +2901,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:269"
+      "MARPROM:269",
+      "MARPROM:270"
     ],
     "merged_codes": [
-      "s403"
+      "s403",
+      "s404"
     ]
   },
   {
@@ -4477,34 +2927,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:27"
+      "MARPROM:27",
+      "MARPROM:28"
     ],
     "merged_codes": [
-      "s274"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI3MA",
-    "gtfs_id": "MARPROM:270",
-    "code": "s404",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Cona Tezno - OTP",
-    "lat": 46.521951,
-    "lon": 15.66984,
-    "opposite": "s404",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:270"
-    ],
-    "merged_codes": [
-      "s404"
+      "s274",
+      "s275"
     ]
   },
   {
@@ -4548,38 +2976,6 @@
         "color": "#6F3A96"
       },
       {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:274"
-    ],
-    "merged_codes": [
-      "s179"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI3NQ",
-    "gtfs_id": "MARPROM:275",
-    "code": "s178",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Prol. brigad - Kardeljeva",
-    "lat": 46.543219,
-    "lon": 15.632911,
-    "opposite": "s178",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
         "name": "G6",
         "color": "#1A6734"
       },
@@ -4593,9 +2989,11 @@
       }
     ],
     "merged_stop_ids": [
+      "MARPROM:274",
       "MARPROM:275"
     ],
     "merged_codes": [
+      "s179",
       "s178"
     ]
   },
@@ -4625,41 +3023,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:276"
-    ],
-    "merged_codes": [
-      "s180"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI3Nw",
-    "gtfs_id": "MARPROM:277",
-    "code": "s181",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Prol. brigad - lekarna",
-    "lat": 46.544323,
-    "lon": 15.628793,
-    "opposite": "s181",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:276",
       "MARPROM:277"
     ],
     "merged_codes": [
+      "s180",
       "s181"
     ]
   },
@@ -4689,58 +3057,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:278"
-    ],
-    "merged_codes": [
-      "s196"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI3OQ",
-    "gtfs_id": "MARPROM:279",
-    "code": "s197",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Prol. brigad - Ljubljan.",
-    "lat": 46.540904,
-    "lon": 15.641137,
-    "opposite": "s197",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:278",
       "MARPROM:279"
     ],
     "merged_codes": [
+      "s196",
       "s197"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI4",
-    "gtfs_id": "MARPROM:28",
-    "code": "s275",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Celestrina",
-    "lat": 46.556035,
-    "lon": 15.711244,
-    "opposite": "s275",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:28"
-    ],
-    "merged_codes": [
-      "s275"
     ]
   },
   {
@@ -4770,13 +3092,23 @@
       {
         "name": "P18",
         "color": "#C07E65"
+      },
+      {
+        "name": "P19",
+        "color": "#F5DD26"
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:280"
+      "MARPROM:280",
+      "MARPROM:397",
+      "MARPROM:54",
+      "MARPROM:660"
     ],
     "merged_codes": [
-      "s110"
+      "s110",
+      "s108",
+      "s109",
+      "s926"
     ]
   },
   {
@@ -4837,41 +3169,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:282"
-    ],
-    "merged_codes": [
-      "s165"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI4Mw",
-    "gtfs_id": "MARPROM:283",
-    "code": "s166",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Prol. brigad - vojašnica",
-    "lat": 46.544607,
-    "lon": 15.625679,
-    "opposite": "s166",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:282",
       "MARPROM:283"
     ],
     "merged_codes": [
+      "s165",
       "s166"
     ]
   },
@@ -4901,41 +3203,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:284"
-    ],
-    "merged_codes": [
-      "s324"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI4NQ",
-    "gtfs_id": "MARPROM:285",
-    "code": "s333",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptujska - Špelina",
-    "lat": 46.533447,
-    "lon": 15.665435,
-    "opposite": "s333",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:284",
       "MARPROM:285"
     ],
     "merged_codes": [
+      "s324",
       "s333"
     ]
   },
@@ -4965,41 +3237,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:286"
-    ],
-    "merged_codes": [
-      "s322"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI4Nw",
-    "gtfs_id": "MARPROM:287",
-    "code": "s335",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptujska - hitra cesta",
-    "lat": 46.539627,
-    "lon": 15.654032,
-    "opposite": "s335",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:286",
       "MARPROM:287"
     ],
     "merged_codes": [
+      "s322",
       "s335"
     ]
   },
@@ -5029,41 +3271,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:288"
-    ],
-    "merged_codes": [
-      "s323"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI4OQ",
-    "gtfs_id": "MARPROM:289",
-    "code": "s334",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptujska - Kovinar",
-    "lat": 46.536927,
-    "lon": 15.658624,
-    "opposite": "s334",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:288",
       "MARPROM:289"
     ],
     "merged_codes": [
+      "s323",
       "s334"
     ]
   },
@@ -5085,10 +3297,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:29"
+      "MARPROM:29",
+      "MARPROM:30"
     ],
     "merged_codes": [
-      "s51"
+      "s51",
+      "s52"
     ]
   },
   {
@@ -5117,41 +3331,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:290"
-    ],
-    "merged_codes": [
-      "s325"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI5MQ",
-    "gtfs_id": "MARPROM:291",
-    "code": "s332",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptujska - pošta",
-    "lat": 46.531681,
-    "lon": 15.668748,
-    "opposite": "s332",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:290",
       "MARPROM:291"
     ],
     "merged_codes": [
+      "s325",
       "s332"
     ]
   },
@@ -5177,37 +3361,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:292"
-    ],
-    "merged_codes": [
-      "s326"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI5Mw",
-    "gtfs_id": "MARPROM:293",
-    "code": "s331",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ptujska - Cona Tezno",
-    "lat": 46.529611,
-    "lon": 15.671695,
-    "opposite": "s331",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:292",
       "MARPROM:293"
     ],
     "merged_codes": [
+      "s326",
       "s331"
     ]
   },
@@ -5261,33 +3419,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:295"
-    ],
-    "merged_codes": [
-      "s169"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI5Ng",
-    "gtfs_id": "MARPROM:296",
-    "code": "s170",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Radvanjska - Antoličičeva",
-    "lat": 46.538366,
-    "lon": 15.627125,
-    "opposite": "s170",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:295",
       "MARPROM:296"
     ],
     "merged_codes": [
+      "s169",
       "s170"
     ]
   },
@@ -5309,33 +3445,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:297"
-    ],
-    "merged_codes": [
-      "s167"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjI5OA",
-    "gtfs_id": "MARPROM:298",
-    "code": "s168",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Radvanjska - Borštnikova",
-    "lat": 46.536279,
-    "lon": 15.625321,
-    "opposite": "s168",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:297",
       "MARPROM:298"
     ],
     "merged_codes": [
+      "s167",
       "s168"
     ]
   },
@@ -5357,81 +3471,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:299"
-    ],
-    "merged_codes": [
-      "s171"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM",
-    "gtfs_id": "MARPROM:3",
-    "code": "s302",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Stražun",
-    "lat": 46.542973,
-    "lon": 15.654071,
-    "opposite": "s302",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:3"
-    ],
-    "merged_codes": [
-      "s302"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMw",
-    "gtfs_id": "MARPROM:30",
-    "code": "s52",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Cesta v Rošpoh 115",
-    "lat": 46.583887,
-    "lon": 15.615325,
-    "opposite": "s52",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:30"
-    ],
-    "merged_codes": [
-      "s52"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMwMA",
-    "gtfs_id": "MARPROM:300",
-    "code": "s172",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Radvanjska - trgovina",
-    "lat": 46.541651,
-    "lon": 15.629961,
-    "opposite": "s172",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:299",
       "MARPROM:300"
     ],
     "merged_codes": [
+      "s171",
       "s172"
     ]
   },
@@ -5453,33 +3497,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:301"
-    ],
-    "merged_codes": [
-      "s205"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMwMg",
-    "gtfs_id": "MARPROM:302",
-    "code": "s206",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Radvanjska - vojašnica",
-    "lat": 46.546526,
-    "lon": 15.635159,
-    "opposite": "s206",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:301",
       "MARPROM:302"
     ],
     "merged_codes": [
+      "s205",
       "s206"
     ]
   },
@@ -5549,33 +3571,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:305"
-    ],
-    "merged_codes": [
-      "s249"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMwNg",
-    "gtfs_id": "MARPROM:306",
-    "code": "s248",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Razvanje - GD",
-    "lat": 46.518901,
-    "lon": 15.634317,
-    "opposite": "s248",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:305",
       "MARPROM:306"
     ],
     "merged_codes": [
+      "s249",
       "s248"
     ]
   },
@@ -5597,33 +3597,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:307"
-    ],
-    "merged_codes": [
-      "s247"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMwOA",
-    "gtfs_id": "MARPROM:308",
-    "code": "s547",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Razvanje - vrtnarstvo",
-    "lat": 46.521791,
-    "lon": 15.635159,
-    "opposite": "s547",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:307",
       "MARPROM:308"
     ],
     "merged_codes": [
+      "s247",
       "s547"
     ]
   },
@@ -5645,10 +3623,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:31"
+      "MARPROM:31",
+      "MARPROM:32"
     ],
     "merged_codes": [
-      "s49"
+      "s49",
+      "s50"
     ]
   },
   {
@@ -5693,33 +3673,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:313"
-    ],
-    "merged_codes": [
-      "s55"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMxNA",
-    "gtfs_id": "MARPROM:314",
-    "code": "s555",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Rošpoh - Hojnik",
-    "lat": 46.597776,
-    "lon": 15.619418,
-    "opposite": "s555",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:313",
       "MARPROM:314"
     ],
     "merged_codes": [
+      "s55",
       "s555"
     ]
   },
@@ -5741,33 +3699,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:315"
-    ],
-    "merged_codes": [
-      "s54"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMxNg",
-    "gtfs_id": "MARPROM:316",
-    "code": "s53",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Rošpoh - odcep Urban",
-    "lat": 46.587004,
-    "lon": 15.616551,
-    "opposite": "s53",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:315",
       "MARPROM:316"
     ],
     "merged_codes": [
+      "s54",
       "s53"
     ]
   },
@@ -5789,58 +3725,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:317"
-    ],
-    "merged_codes": [
-      "s282"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMxOA",
-    "gtfs_id": "MARPROM:318",
-    "code": "s283",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ruperče",
-    "lat": 46.560761,
-    "lon": 15.729293,
-    "opposite": "s283",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:317",
       "MARPROM:318"
     ],
     "merged_codes": [
+      "s282",
       "s283"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMy",
-    "gtfs_id": "MARPROM:32",
-    "code": "s50",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Cesta v Rošpoh 65",
-    "lat": 46.579404,
-    "lon": 15.613768,
-    "opposite": "s50",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:32"
-    ],
-    "merged_codes": [
-      "s50"
     ]
   },
   {
@@ -5885,33 +3775,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:326"
-    ],
-    "merged_codes": [
-      "s157"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMyNw",
-    "gtfs_id": "MARPROM:327",
-    "code": "s158",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Streliška - Ul. Poh. odr.",
-    "lat": 46.536224,
-    "lon": 15.620682,
-    "opposite": "s158",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:326",
       "MARPROM:327"
     ],
     "merged_codes": [
+      "s157",
       "s158"
     ]
   },
@@ -5965,10 +3833,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:33"
+      "MARPROM:33",
+      "MARPROM:34"
     ],
     "merged_codes": [
-      "s362"
+      "s362",
+      "s363"
     ]
   },
   {
@@ -5989,33 +3859,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:330"
-    ],
-    "merged_codes": [
-      "s119"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMzMQ",
-    "gtfs_id": "MARPROM:331",
-    "code": "s118",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Studenci",
-    "lat": 46.556986,
-    "lon": 15.611228,
-    "opposite": "s118",
-    "routes": [
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:330",
       "MARPROM:331"
     ],
     "merged_codes": [
+      "s119",
       "s118"
     ]
   },
@@ -6037,33 +3885,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:332"
-    ],
-    "merged_codes": [
-      "s354"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMzMw",
-    "gtfs_id": "MARPROM:333",
-    "code": "s355",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Svenškova ulica 40",
-    "lat": 46.528356,
-    "lon": 15.706277,
-    "opposite": "s355",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:332",
       "MARPROM:333"
     ],
     "merged_codes": [
+      "s354",
       "s355"
     ]
   },
@@ -6089,10 +3915,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:334"
+      "MARPROM:334",
+      "MARPROM:564"
     ],
     "merged_codes": [
-      "s138"
+      "s138",
+      "s648"
     ]
   },
   {
@@ -6117,37 +3945,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:335"
-    ],
-    "merged_codes": [
-      "s136"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMzNg",
-    "gtfs_id": "MARPROM:336",
-    "code": "s137",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Šarhova - pošta",
-    "lat": 46.551581,
-    "lon": 15.621506,
-    "opposite": "s137",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:335",
       "MARPROM:336"
     ],
     "merged_codes": [
+      "s136",
       "s137"
     ]
   },
@@ -6173,37 +3975,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:337"
-    ],
-    "merged_codes": [
-      "s81"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjMzOA",
-    "gtfs_id": "MARPROM:338",
-    "code": "s82",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Šentiljska - Medved",
-    "lat": 46.567289,
-    "lon": 15.658896,
-    "opposite": "s82",
-    "routes": [
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:337",
       "MARPROM:338"
     ],
     "merged_codes": [
+      "s81",
       "s82"
     ]
   },
@@ -6229,42 +4005,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:339"
+      "MARPROM:339",
+      "MARPROM:351"
     ],
     "merged_codes": [
-      "s95"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM0",
-    "gtfs_id": "MARPROM:34",
-    "code": "s363",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Cesta XIV. divizije",
-    "lat": 46.544875,
-    "lon": 15.676494,
-    "opposite": "s363",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:34"
-    ],
-    "merged_codes": [
-      "s363"
+      "s95",
+      "s574"
     ]
   },
   {
@@ -6289,10 +4035,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:340"
+      "MARPROM:340",
+      "MARPROM:460"
     ],
     "merged_codes": [
-      "s97"
+      "s97",
+      "s573"
     ]
   },
   {
@@ -6317,10 +4065,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:341"
+      "MARPROM:341",
+      "MARPROM:461"
     ],
     "merged_codes": [
-      "s93"
+      "s93",
+      "s575"
     ]
   },
   {
@@ -6433,10 +4183,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:349"
+      "MARPROM:349",
+      "MARPROM:350"
     ],
     "merged_codes": [
-      "s73"
+      "s73",
+      "s74"
     ]
   },
   {
@@ -6457,58 +4209,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:35"
+      "MARPROM:35",
+      "MARPROM:36"
     ],
     "merged_codes": [
-      "s62"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM1MA",
-    "gtfs_id": "MARPROM:350",
-    "code": "s74",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Fontana",
-    "lat": 46.564968,
-    "lon": 15.624263,
-    "opposite": "s74",
-    "routes": [
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:350"
-    ],
-    "merged_codes": [
-      "s74"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM1MQ",
-    "gtfs_id": "MARPROM:351",
-    "code": "s574",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Šentiljska - Počehovska",
-    "lat": 46.57709,
-    "lon": 15.657794,
-    "opposite": "s574",
-    "routes": [
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:351"
-    ],
-    "merged_codes": [
-      "s574"
+      "s62",
+      "s63"
     ]
   },
   {
@@ -6553,33 +4259,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:353"
-    ],
-    "merged_codes": [
-      "s336"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM1NA",
-    "gtfs_id": "MARPROM:354",
-    "code": "s337",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tezno - dom st. občanov",
-    "lat": 46.525041,
-    "lon": 15.678189,
-    "opposite": "s337",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:353",
       "MARPROM:354"
     ],
     "merged_codes": [
+      "s336",
       "s337"
     ]
   },
@@ -6605,37 +4289,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:355"
-    ],
-    "merged_codes": [
-      "s236"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM1Ng",
-    "gtfs_id": "MARPROM:356",
-    "code": "s237",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Titova - Nasipna",
-    "lat": 46.544594,
-    "lon": 15.648782,
-    "opposite": "s237",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:355",
       "MARPROM:356"
     ],
     "merged_codes": [
+      "s236",
       "s237"
     ]
   },
@@ -6680,86 +4338,6 @@
         "color": "#E5861D"
       },
       {
-        "name": "P11",
-        "color": "#D5DA76"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      },
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:358"
-    ],
-    "merged_codes": [
-      "s7"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM1OQ",
-    "gtfs_id": "MARPROM:359",
-    "code": "s8",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "City - zdravstveni dom",
-    "lat": 46.558644,
-    "lon": 15.650901,
-    "opposite": "s8",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "G2",
-        "color": "#88A1A9"
-      },
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      },
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      },
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      },
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      },
-      {
         "name": "P10",
         "color": "#7BC258"
       },
@@ -6797,34 +4375,12 @@
       }
     ],
     "merged_stop_ids": [
+      "MARPROM:358",
       "MARPROM:359"
     ],
     "merged_codes": [
+      "s7",
       "s8"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM2",
-    "gtfs_id": "MARPROM:36",
-    "code": "s63",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Čolnarna",
-    "lat": 46.568481,
-    "lon": 15.593426,
-    "opposite": "s63",
-    "routes": [
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:36"
-    ],
-    "merged_codes": [
-      "s63"
     ]
   },
   {
@@ -6845,33 +4401,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:360"
-    ],
-    "merged_codes": [
-      "s294"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM2MQ",
-    "gtfs_id": "MARPROM:361",
-    "code": "s594",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Trčova - Griček",
-    "lat": 46.539504,
-    "lon": 15.720569,
-    "opposite": "s594",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:360",
       "MARPROM:361"
     ],
     "merged_codes": [
+      "s294",
       "s594"
     ]
   },
@@ -6893,33 +4427,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:362"
-    ],
-    "merged_codes": [
-      "s292"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM2Mw",
-    "gtfs_id": "MARPROM:363",
-    "code": "s293",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Trčova 31",
-    "lat": 46.547793,
-    "lon": 15.714933,
-    "opposite": "s293",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:362",
       "MARPROM:363"
     ],
     "merged_codes": [
+      "s292",
       "s293"
     ]
   },
@@ -6969,37 +4481,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:365"
-    ],
-    "merged_codes": [
-      "s258"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM2Ng",
-    "gtfs_id": "MARPROM:366",
-    "code": "s259",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržaška - carinarnica",
-    "lat": 46.526525,
-    "lon": 15.648251,
-    "opposite": "s259",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:365",
       "MARPROM:366"
     ],
     "merged_codes": [
+      "s258",
       "s259"
     ]
   },
@@ -7049,33 +4535,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:368"
-    ],
-    "merged_codes": [
-      "s416"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM2OQ",
-    "gtfs_id": "MARPROM:369",
-    "code": "s418",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržaška cesta - Bauhaus",
-    "lat": 46.519863,
-    "lon": 15.650517,
-    "opposite": "s418",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:368",
       "MARPROM:369"
     ],
     "merged_codes": [
+      "s416",
       "s418"
     ]
   },
@@ -7097,10 +4561,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:37"
+      "MARPROM:37",
+      "MARPROM:38"
     ],
     "merged_codes": [
-      "s307"
+      "s307",
+      "s507"
     ]
   },
   {
@@ -7125,37 +4591,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:370"
-    ],
-    "merged_codes": [
-      "s260"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM3MQ",
-    "gtfs_id": "MARPROM:371",
-    "code": "s261",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržaška cesta - Lesnina",
-    "lat": 46.530925,
-    "lon": 15.645941,
-    "opposite": "s261",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:370",
       "MARPROM:371"
     ],
     "merged_codes": [
+      "s260",
       "s261"
     ]
   },
@@ -7181,37 +4621,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:372"
-    ],
-    "merged_codes": [
-      "s255"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM3Mw",
-    "gtfs_id": "MARPROM:373",
-    "code": "s415",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržaška cesta - Rutar",
-    "lat": 46.521465,
-    "lon": 15.648956,
-    "opposite": "s415",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:372",
       "MARPROM:373"
     ],
     "merged_codes": [
+      "s255",
       "s415"
     ]
   },
@@ -7237,37 +4651,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:374"
-    ],
-    "merged_codes": [
-      "s414"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM3NQ",
-    "gtfs_id": "MARPROM:375",
-    "code": "s419",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržaška- Vodovodna",
-    "lat": 46.533114,
-    "lon": 15.646451,
-    "opposite": "s419",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:374",
       "MARPROM:375"
     ],
     "merged_codes": [
+      "s414",
       "s419"
     ]
   },
@@ -7293,37 +4681,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:376"
-    ],
-    "merged_codes": [
-      "s411"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM3Nw",
-    "gtfs_id": "MARPROM:377",
-    "code": "s422",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ul. Eve Lovše - Betnava",
-    "lat": 46.537525,
-    "lon": 15.639608,
-    "opposite": "s422",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:376",
       "MARPROM:377"
     ],
     "merged_codes": [
+      "s411",
       "s422"
     ]
   },
@@ -7340,30 +4702,6 @@
     "opposite": "s412",
     "routes": [
       {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:378"
-    ],
-    "merged_codes": [
-      "s412"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM3OQ",
-    "gtfs_id": "MARPROM:379",
-    "code": "s421",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ul. Eve Lovše - Energet.",
-    "lat": 46.536107,
-    "lon": 15.641725,
-    "opposite": "s421",
-    "routes": [
-      {
         "name": "G3",
         "color": "#6F3A96"
       },
@@ -7373,34 +4711,12 @@
       }
     ],
     "merged_stop_ids": [
+      "MARPROM:378",
       "MARPROM:379"
     ],
     "merged_codes": [
+      "s412",
       "s421"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM4",
-    "gtfs_id": "MARPROM:38",
-    "code": "s507",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Črnogorska ul. 23",
-    "lat": 46.545675,
-    "lon": 15.656455,
-    "opposite": "s507",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:38"
-    ],
-    "merged_codes": [
-      "s507"
     ]
   },
   {
@@ -7421,33 +4737,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:380"
-    ],
-    "merged_codes": [
-      "s413"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM4MQ",
-    "gtfs_id": "MARPROM:381",
-    "code": "s420",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ul. Eve Lovše - Betnavski gozd",
-    "lat": 46.534833,
-    "lon": 15.643674,
-    "opposite": "s420",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:380",
       "MARPROM:381"
     ],
     "merged_codes": [
+      "s413",
       "s420"
     ]
   },
@@ -7469,33 +4763,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:382"
-    ],
-    "merged_codes": [
-      "s242"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM4Mw",
-    "gtfs_id": "MARPROM:383",
-    "code": "s243",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ul. Pariške komune",
-    "lat": 46.548726,
-    "lon": 15.641515,
-    "opposite": "s243",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:382",
       "MARPROM:383"
     ],
     "merged_codes": [
+      "s242",
       "s243"
     ]
   },
@@ -7521,37 +4793,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:384"
-    ],
-    "merged_codes": [
-      "s374"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM4NQ",
-    "gtfs_id": "MARPROM:385",
-    "code": "s375",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ul. V. Vlahovića - S31",
-    "lat": 46.550802,
-    "lon": 15.676429,
-    "opposite": "s375",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:384",
       "MARPROM:385"
     ],
     "merged_codes": [
+      "s374",
       "s375"
     ]
   },
@@ -7577,34 +4823,14 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:386"
+      "MARPROM:386",
+      "MARPROM:387",
+      "MARPROM:675"
     ],
     "merged_codes": [
-      "s376"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM4Nw",
-    "gtfs_id": "MARPROM:387",
-    "code": "s377",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Novo Pobrežje",
-    "lat": 46.547605,
-    "lon": 15.674821,
-    "opposite": "s377",
-    "routes": [
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:387"
-    ],
-    "merged_codes": [
-      "s377"
+      "s376",
+      "s377",
+      "s941"
     ]
   },
   {
@@ -7649,10 +4875,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:389"
+      "MARPROM:389",
+      "MARPROM:390"
     ],
     "merged_codes": [
-      "s224"
+      "s224",
+      "s225"
     ]
   },
   {
@@ -7676,39 +4904,21 @@
         "color": "#E5861D"
       },
       {
+        "name": "P10",
+        "color": "#7BC258"
+      },
+      {
         "name": "P16",
         "color": "#D5137B"
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:39"
+      "MARPROM:39",
+      "MARPROM:40"
     ],
     "merged_codes": [
-      "s372"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM5MA",
-    "gtfs_id": "MARPROM:390",
-    "code": "s225",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Waldorfska šola",
-    "lat": 46.555811,
-    "lon": 15.631387,
-    "opposite": "s225",
-    "routes": [
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:390"
-    ],
-    "merged_codes": [
-      "s225"
+      "s372",
+      "s373"
     ]
   },
   {
@@ -7729,33 +4939,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:391"
-    ],
-    "merged_codes": [
-      "s222"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM5Mg",
-    "gtfs_id": "MARPROM:392",
-    "code": "s223",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "OŠ Janka Padežnika",
-    "lat": 46.556541,
-    "lon": 15.628123,
-    "opposite": "s223",
-    "routes": [
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:391",
       "MARPROM:392"
     ],
     "merged_codes": [
+      "s222",
       "s223"
     ]
   },
@@ -7777,33 +4965,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:393"
-    ],
-    "merged_codes": [
-      "s32"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM5NA",
-    "gtfs_id": "MARPROM:394",
-    "code": "s33",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Mitnica",
-    "lat": 46.566171,
-    "lon": 15.632983,
-    "opposite": "s33",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:393",
       "MARPROM:394"
     ],
     "merged_codes": [
+      "s32",
       "s33"
     ]
   },
@@ -7825,58 +4991,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:395"
-    ],
-    "merged_codes": [
-      "s41"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM5Ng",
-    "gtfs_id": "MARPROM:396",
-    "code": "s42",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kamniški drevored",
-    "lat": 46.570316,
-    "lon": 15.627311,
-    "opposite": "s42",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:395",
       "MARPROM:396"
     ],
     "merged_codes": [
+      "s41",
       "s42"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjM5Nw",
-    "gtfs_id": "MARPROM:397",
-    "code": "s108",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 46.544965,
-    "lon": 15.619133,
-    "opposite": "s108",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:397"
-    ],
-    "merged_codes": [
-      "s108"
     ]
   },
   {
@@ -7921,10 +5041,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:399"
+      "MARPROM:399",
+      "MARPROM:400"
     ],
     "merged_codes": [
-      "s314"
+      "s314",
+      "s315"
     ]
   },
   {
@@ -7945,70 +5067,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:4"
+      "MARPROM:4",
+      "MARPROM:541"
     ],
     "merged_codes": [
-      "s509"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQw",
-    "gtfs_id": "MARPROM:40",
-    "code": "s373",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Čufarjeva - dom st. obč.",
-    "lat": 46.554516,
-    "lon": 15.673517,
-    "opposite": "s373",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      },
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:40"
-    ],
-    "merged_codes": [
-      "s373"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQwMA",
-    "gtfs_id": "MARPROM:400",
-    "code": "s315",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zagrebška - CSD",
-    "lat": 46.531271,
-    "lon": 15.665202,
-    "opposite": "s315",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:400"
-    ],
-    "merged_codes": [
-      "s315"
+      "s509",
+      "s641"
     ]
   },
   {
@@ -8029,33 +5093,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:401"
-    ],
-    "merged_codes": [
-      "s312"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQwMg",
-    "gtfs_id": "MARPROM:402",
-    "code": "s313",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zagrebška - Kovinar",
-    "lat": 46.534721,
-    "lon": 15.658095,
-    "opposite": "s313",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:401",
       "MARPROM:402"
     ],
     "merged_codes": [
+      "s312",
       "s313"
     ]
   },
@@ -8101,33 +5143,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:404"
-    ],
-    "merged_codes": [
-      "s287"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQwNQ",
-    "gtfs_id": "MARPROM:405",
-    "code": "s586",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zimica - odcep",
-    "lat": 46.551379,
-    "lon": 15.743682,
-    "opposite": "s586",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:404",
       "MARPROM:405"
     ],
     "merged_codes": [
+      "s287",
       "s586"
     ]
   },
@@ -8149,33 +5169,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:406"
-    ],
-    "merged_codes": [
-      "s318"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQwNw",
-    "gtfs_id": "MARPROM:407",
-    "code": "s518",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zolajeva - TŠC",
-    "lat": 46.5259,
-    "lon": 15.670344,
-    "opposite": "s518",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:406",
       "MARPROM:407"
     ],
     "merged_codes": [
+      "s318",
       "s518"
     ]
   },
@@ -8221,10 +5219,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:409"
+      "MARPROM:409",
+      "MARPROM:411"
     ],
     "merged_codes": [
-      "s378"
+      "s378",
+      "s578"
     ]
   },
   {
@@ -8248,6 +5248,10 @@
         "color": "#E5861D"
       },
       {
+        "name": "P10",
+        "color": "#7BC258"
+      },
+      {
         "name": "P12",
         "color": "#1480C1"
       },
@@ -8257,34 +5261,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:41"
+      "MARPROM:41",
+      "MARPROM:42"
     ],
     "merged_codes": [
-      "s370"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQxMQ",
-    "gtfs_id": "MARPROM:411",
-    "code": "s578",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zrkovska - Gasilski dom",
-    "lat": 46.554349,
-    "lon": 15.676661,
-    "opposite": "s578",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:411"
-    ],
-    "merged_codes": [
-      "s578"
+      "s370",
+      "s371"
     ]
   },
   {
@@ -8305,33 +5287,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:412"
-    ],
-    "merged_codes": [
-      "s383"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQxMw",
-    "gtfs_id": "MARPROM:413",
-    "code": "s583",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zrkovska - Na Gorci 54",
-    "lat": 46.546532,
-    "lon": 15.705432,
-    "opposite": "s583",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:412",
       "MARPROM:413"
     ],
     "merged_codes": [
+      "s383",
       "s583"
     ]
   },
@@ -8353,33 +5313,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:414"
-    ],
-    "merged_codes": [
-      "s584"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQxNQ",
-    "gtfs_id": "MARPROM:415",
-    "code": "s384",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zrkovska - Na Gorci 65",
-    "lat": 46.544223,
-    "lon": 15.706709,
-    "opposite": "s384",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:414",
       "MARPROM:415"
     ],
     "merged_codes": [
+      "s584",
       "s384"
     ]
   },
@@ -8401,33 +5339,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:416"
-    ],
-    "merged_codes": [
-      "s380"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQxNw",
-    "gtfs_id": "MARPROM:417",
-    "code": "s381",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zrkovska - Na terasi",
-    "lat": 46.549674,
-    "lon": 15.694727,
-    "opposite": "s381",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:416",
       "MARPROM:417"
     ],
     "merged_codes": [
+      "s380",
       "s381"
     ]
   },
@@ -8449,70 +5365,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:418"
-    ],
-    "merged_codes": [
-      "s579"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQxOQ",
-    "gtfs_id": "MARPROM:419",
-    "code": "s580",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zrkovska - trgovina",
-    "lat": 46.550678,
-    "lon": 15.68725,
-    "opposite": "s580",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:418",
       "MARPROM:419"
     ],
     "merged_codes": [
+      "s579",
       "s580"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQy",
-    "gtfs_id": "MARPROM:42",
-    "code": "s371",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Čufarjeva - TVD Partizan",
-    "lat": 46.554756,
-    "lon": 15.666739,
-    "opposite": "s371",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      },
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:42"
-    ],
-    "merged_codes": [
-      "s371"
     ]
   },
   {
@@ -8533,33 +5391,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:420"
-    ],
-    "merged_codes": [
-      "s379"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQyMQ",
-    "gtfs_id": "MARPROM:421",
-    "code": "s577",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zrkovska cesta",
-    "lat": 46.552228,
-    "lon": 15.682309,
-    "opposite": "s577",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:420",
       "MARPROM:421"
     ],
     "merged_codes": [
+      "s379",
       "s577"
     ]
   },
@@ -8581,10 +5417,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:422"
+      "MARPROM:422",
+      "MARPROM:442"
     ],
     "merged_codes": [
-      "s155"
+      "s155",
+      "s615"
     ]
   },
   {
@@ -8613,41 +5451,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:423"
-    ],
-    "merged_codes": [
-      "s4"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQyNA",
-    "gtfs_id": "MARPROM:424",
-    "code": "s3",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "ŽP Maribor",
-    "lat": 46.561728,
-    "lon": 15.656944,
-    "opposite": "s3",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:423",
       "MARPROM:424"
     ],
     "merged_codes": [
+      "s4",
       "s3"
     ]
   },
@@ -8669,33 +5477,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:425"
-    ],
-    "merged_codes": [
-      "s220"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQyNg",
-    "gtfs_id": "MARPROM:426",
-    "code": "s221",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "ŽP Studenci",
-    "lat": 46.554546,
-    "lon": 15.635401,
-    "opposite": "s221",
-    "routes": [
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:425",
       "MARPROM:426"
     ],
     "merged_codes": [
+      "s220",
       "s221"
     ]
   },
@@ -8717,33 +5503,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:427"
-    ],
-    "merged_codes": [
-      "s310"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQyOA",
-    "gtfs_id": "MARPROM:428",
-    "code": "s311",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "ŽP Tezno",
-    "lat": 46.539447,
-    "lon": 15.651313,
-    "opposite": "s311",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:427",
       "MARPROM:428"
     ],
     "merged_codes": [
+      "s310",
       "s311"
     ]
   },
@@ -8765,10 +5529,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:429"
+      "MARPROM:429",
+      "MARPROM:434"
     ],
     "merged_codes": [
-      "s603"
+      "s603",
+      "s602"
     ]
   },
   {
@@ -8813,10 +5579,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:432"
+      "MARPROM:432",
+      "MARPROM:655"
     ],
     "merged_codes": [
-      "s609"
+      "s609",
+      "s917"
     ]
   },
   {
@@ -8834,37 +5602,19 @@
       {
         "name": "P7",
         "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:433"
-    ],
-    "merged_codes": [
-      "s611"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQzNA",
-    "gtfs_id": "MARPROM:434",
-    "code": "s602",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Kamenškova",
-    "lat": 46.548891,
-    "lon": 15.611291,
-    "opposite": "s602",
-    "routes": [
+      },
       {
-        "name": "P19",
-        "color": "#F5DD26"
+        "name": "P18",
+        "color": "#C07E65"
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:434"
+      "MARPROM:433",
+      "MARPROM:649"
     ],
     "merged_codes": [
-      "s602"
+      "s611",
+      "s935"
     ]
   },
   {
@@ -8885,10 +5635,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:435"
+      "MARPROM:435",
+      "MARPROM:654"
     ],
     "merged_codes": [
-      "s604"
+      "s604",
+      "s927"
     ]
   },
   {
@@ -8904,163 +5656,21 @@
     "opposite": "s345",
     "routes": [
       {
+        "name": "P9",
+        "color": "#E5861D"
+      },
+      {
         "name": "P16",
         "color": "#D5137B"
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:44"
+      "MARPROM:44",
+      "MARPROM:45"
     ],
     "merged_codes": [
-      "s345"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ0MQ",
-    "gtfs_id": "MARPROM:441",
-    "code": "s614",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Lesjakova 2",
-    "lat": 46.537168,
-    "lon": 15.59225,
-    "opposite": "s614",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:441"
-    ],
-    "merged_codes": [
-      "s614"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ0Mg",
-    "gtfs_id": "MARPROM:442",
-    "code": "s615",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zvezna ulica",
-    "lat": 46.53609,
-    "lon": 15.596385,
-    "opposite": "s615",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:442"
-    ],
-    "merged_codes": [
-      "s615"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ0Mw",
-    "gtfs_id": "MARPROM:443",
-    "code": "s622",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Ob ribniku",
-    "lat": 46.539721,
-    "lon": 15.598561,
-    "opposite": "s622",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:443"
-    ],
-    "merged_codes": [
-      "s622"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ0NA",
-    "gtfs_id": "MARPROM:444",
-    "code": "s616",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Bezjakova",
-    "lat": 46.540368,
-    "lon": 15.589466,
-    "opposite": "s616",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:444"
-    ],
-    "merged_codes": [
-      "s616"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ0NQ",
-    "gtfs_id": "MARPROM:445",
-    "code": "s617",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Lackova - Na gorco",
-    "lat": 46.545256,
-    "lon": 15.60047,
-    "opposite": "s617",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:445"
-    ],
-    "merged_codes": [
-      "s617"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ0Nw",
-    "gtfs_id": "MARPROM:447",
-    "code": "s619",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Lackova - Mlada lipa",
-    "lat": 46.540938,
-    "lon": 15.606056,
-    "opposite": "s619",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:447"
-    ],
-    "merged_codes": [
-      "s619"
+      "s345",
+      "s346"
     ]
   },
   {
@@ -9081,62 +5691,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:448"
-    ],
-    "merged_codes": [
-      "s620"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ0OQ",
-    "gtfs_id": "MARPROM:449",
-    "code": "s621",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Lackova - Ul. Jelenčevih",
-    "lat": 46.547277,
-    "lon": 15.59738,
-    "opposite": "s621",
-    "routes": [
-      {
-        "name": "P14",
-        "color": "#F7B1CA"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:448",
       "MARPROM:449"
     ],
     "merged_codes": [
+      "s620",
       "s621"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ1",
-    "gtfs_id": "MARPROM:45",
-    "code": "s346",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dogoše - Gasilski dom",
-    "lat": 46.523742,
-    "lon": 15.703949,
-    "opposite": "s346",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:45"
-    ],
-    "merged_codes": [
-      "s346"
     ]
   },
   {
@@ -9157,33 +5717,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:450"
-    ],
-    "merged_codes": [
-      "s623"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ1MQ",
-    "gtfs_id": "MARPROM:451",
-    "code": "s624",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Trčova 168",
-    "lat": 46.542435,
-    "lon": 15.719209,
-    "opposite": "s624",
-    "routes": [
-      {
-        "name": "P10",
-        "color": "#7BC258"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:450",
       "MARPROM:451"
     ],
     "merged_codes": [
+      "s623",
       "s624"
     ]
   },
@@ -9285,58 +5823,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:46"
+      "MARPROM:46",
+      "MARPROM:47"
     ],
     "merged_codes": [
-      "s350"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ2MA",
-    "gtfs_id": "MARPROM:460",
-    "code": "s573",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Šentiljska - TMI Košaki",
-    "lat": 46.571096,
-    "lon": 15.658169,
-    "opposite": "s573",
-    "routes": [
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:460"
-    ],
-    "merged_codes": [
-      "s573"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ2MQ",
-    "gtfs_id": "MARPROM:461",
-    "code": "s575",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Šentiljska - veterinar",
-    "lat": 46.581055,
-    "lon": 15.663103,
-    "opposite": "s575",
-    "routes": [
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:461"
-    ],
-    "merged_codes": [
-      "s575"
+      "s350",
+      "s351"
     ]
   },
   {
@@ -9364,30 +5856,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjQ2Mw",
-    "gtfs_id": "MARPROM:463",
-    "code": "s186",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Lesjakova 1",
-    "lat": 46.53841,
-    "lon": 15.588516,
-    "opposite": "s186",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:463"
-    ],
-    "merged_codes": [
-      "s186"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjQ2NA",
     "gtfs_id": "MARPROM:464",
     "code": "s705",
@@ -9412,30 +5880,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjQ3",
-    "gtfs_id": "MARPROM:47",
-    "code": "s351",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dogoše - polje",
-    "lat": 46.516745,
-    "lon": 15.709547,
-    "opposite": "s351",
-    "routes": [
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:47"
-    ],
-    "merged_codes": [
-      "s351"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjQ4",
     "gtfs_id": "MARPROM:48",
     "code": "s389",
@@ -9457,37 +5901,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:48"
-    ],
-    "merged_codes": [
-      "s389"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjQ5",
-    "gtfs_id": "MARPROM:49",
-    "code": "s388",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dogoška - vrtec",
-    "lat": 46.528173,
-    "lon": 15.674948,
-    "opposite": "s388",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:48",
       "MARPROM:49"
     ],
     "merged_codes": [
+      "s389",
       "s388"
     ]
   },
@@ -9509,10 +5927,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:5"
+      "MARPROM:5",
+      "MARPROM:6"
     ],
     "merged_codes": [
-      "s214"
+      "s214",
+      "s215"
     ]
   },
   {
@@ -9533,33 +5953,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:50"
-    ],
-    "merged_codes": [
-      "s106"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjUx",
-    "gtfs_id": "MARPROM:51",
-    "code": "s111",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dravograjska",
-    "lat": 46.549942,
-    "lon": 15.621805,
-    "opposite": "s111",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:50",
       "MARPROM:51"
     ],
     "merged_codes": [
+      "s106",
       "s111"
     ]
   },
@@ -9589,10 +5987,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:52"
+      "MARPROM:52",
+      "MARPROM:53"
     ],
     "merged_codes": [
-      "s105"
+      "s105",
+      "s112"
     ]
   },
   {
@@ -9613,62 +6013,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:527"
-    ],
-    "merged_codes": [
-      "s627"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjUyOA",
-    "gtfs_id": "MARPROM:528",
-    "code": "s628",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zrkovci - polje",
-    "lat": 46.53641,
-    "lon": 15.71018,
-    "opposite": "s628",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:527",
       "MARPROM:528"
     ],
     "merged_codes": [
+      "s627",
       "s628"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjUz",
-    "gtfs_id": "MARPROM:53",
-    "code": "s112",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Prometna šola Maribor",
-    "lat": 46.553664,
-    "lon": 15.624005,
-    "opposite": "s112",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:53"
-    ],
-    "merged_codes": [
-      "s112"
     ]
   },
   {
@@ -9689,10 +6039,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:533"
+      "MARPROM:533",
+      "MARPROM:536"
     ],
     "merged_codes": [
-      "s633"
+      "s633",
+      "s636"
     ]
   },
   {
@@ -9713,58 +6065,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:534"
-    ],
-    "merged_codes": [
-      "s634"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjUzNQ",
-    "gtfs_id": "MARPROM:535",
-    "code": "s635",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Univerzitetni kampus",
-    "lat": 46.564796,
-    "lon": 15.62318,
-    "opposite": "s635",
-    "routes": [
-      {
-        "name": "G5",
-        "color": "#DA1F27"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:534",
       "MARPROM:535"
     ],
     "merged_codes": [
+      "s634",
       "s635"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjUzNg",
-    "gtfs_id": "MARPROM:536",
-    "code": "s636",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "P&R Koroški most",
-    "lat": 46.561176,
-    "lon": 15.627064,
-    "opposite": "s636",
-    "routes": [
-      {
-        "name": "G5",
-        "color": "#DA1F27"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:536"
-    ],
-    "merged_codes": [
-      "s636"
     ]
   },
   {
@@ -9785,10 +6091,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:537"
+      "MARPROM:537",
+      "MARPROM:67"
     ],
     "merged_codes": [
-      "s637"
+      "s637",
+      "s207"
     ]
   },
   {
@@ -9809,10 +6117,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:538"
+      "MARPROM:538",
+      "MARPROM:540"
     ],
     "merged_codes": [
-      "s638"
+      "s638",
+      "s639"
     ]
   },
   {
@@ -9833,82 +6143,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:539"
+      "MARPROM:539",
+      "MARPROM:547"
     ],
     "merged_codes": [
-      "s640"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjU0",
-    "gtfs_id": "MARPROM:54",
-    "code": "s109",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 46.546461,
-    "lon": 15.620128,
-    "opposite": "s109",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:54"
-    ],
-    "merged_codes": [
-      "s109"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjU0MA",
-    "gtfs_id": "MARPROM:540",
-    "code": "s639",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Rošpoh - vrtovi",
-    "lat": 46.608627,
-    "lon": 15.625915,
-    "opposite": "s639",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:540"
-    ],
-    "merged_codes": [
-      "s639"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjU0MQ",
-    "gtfs_id": "MARPROM:541",
-    "code": "s641",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Belokranjska ulica 10",
-    "lat": 46.54384,
-    "lon": 15.65273,
-    "opposite": "s641",
-    "routes": [
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:541"
-    ],
-    "merged_codes": [
-      "s641"
+      "s640",
+      "s647"
     ]
   },
   {
@@ -9933,10 +6173,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:542"
+      "MARPROM:542",
+      "MARPROM:544"
     ],
     "merged_codes": [
-      "s642"
+      "s642",
+      "s644"
     ]
   },
   {
@@ -9964,34 +6206,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjU0NA",
-    "gtfs_id": "MARPROM:544",
-    "code": "s644",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Europark Titov most",
-    "lat": 46.554466,
-    "lon": 15.650609,
-    "opposite": "s644",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:544"
-    ],
-    "merged_codes": [
-      "s644"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjU0NQ",
     "gtfs_id": "MARPROM:545",
     "code": "s645",
@@ -10009,58 +6223,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:545"
-    ],
-    "merged_codes": [
-      "s645"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjU0Ng",
-    "gtfs_id": "MARPROM:546",
-    "code": "s646",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Morski jarek - Rošpoh",
-    "lat": 46.60933,
-    "lon": 15.63847,
-    "opposite": "s646",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:545",
       "MARPROM:546"
     ],
     "merged_codes": [
+      "s645",
       "s646"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjU0Nw",
-    "gtfs_id": "MARPROM:547",
-    "code": "s647",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Morski jarek - Kozjak",
-    "lat": 46.609503,
-    "lon": 15.631009,
-    "opposite": "s647",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:547"
-    ],
-    "merged_codes": [
-      "s647"
     ]
   },
   {
@@ -10085,66 +6253,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:55"
-    ],
-    "merged_codes": [
-      "s113"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjU2",
-    "gtfs_id": "MARPROM:56",
-    "code": "s104",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dravograjska - Sokolska",
-    "lat": 46.557532,
-    "lon": 15.624998,
-    "opposite": "s104",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:55",
       "MARPROM:56"
     ],
     "merged_codes": [
+      "s113",
       "s104"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjU2NA",
-    "gtfs_id": "MARPROM:564",
-    "code": "s648",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Šarhova",
-    "lat": 46.55322,
-    "lon": 15.6173,
-    "opposite": "s648",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:564"
-    ],
-    "merged_codes": [
-      "s648"
     ]
   },
   {
@@ -10169,37 +6283,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:57"
-    ],
-    "merged_codes": [
-      "s356"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjU4",
-    "gtfs_id": "MARPROM:58",
-    "code": "s357",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dupleška - Jarčeva",
-    "lat": 46.532254,
-    "lon": 15.694671,
-    "opposite": "s357",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:57",
       "MARPROM:58"
     ],
     "merged_codes": [
+      "s356",
       "s357"
     ]
   },
@@ -10218,78 +6306,6 @@
       {
         "name": "P12",
         "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:59"
-    ],
-    "merged_codes": [
-      "s342"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY",
-    "gtfs_id": "MARPROM:6",
-    "code": "s215",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Betnavska - Focheva",
-    "lat": 46.546786,
-    "lon": 15.639532,
-    "opposite": "s215",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:6"
-    ],
-    "merged_codes": [
-      "s215"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjYw",
-    "gtfs_id": "MARPROM:60",
-    "code": "s343",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dupleška - kanal",
-    "lat": 46.526052,
-    "lon": 15.701311,
-    "opposite": "s343",
-    "routes": [
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:60"
-    ],
-    "merged_codes": [
-      "s343"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjYx",
-    "gtfs_id": "MARPROM:61",
-    "code": "s344",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dupleška - kanal",
-    "lat": 46.526891,
-    "lon": 15.700068,
-    "opposite": "s344",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
       },
       {
         "name": "P16",
@@ -10297,9 +6313,13 @@
       }
     ],
     "merged_stop_ids": [
+      "MARPROM:59",
+      "MARPROM:60",
       "MARPROM:61"
     ],
     "merged_codes": [
+      "s342",
+      "s343",
       "s344"
     ]
   },
@@ -10329,41 +6349,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:62"
-    ],
-    "merged_codes": [
-      "s360"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjYz",
-    "gtfs_id": "MARPROM:63",
-    "code": "s361",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dupleška - Tezenska",
-    "lat": 46.541218,
-    "lon": 15.683419,
-    "opposite": "s361",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:62",
       "MARPROM:63"
     ],
     "merged_codes": [
+      "s360",
       "s361"
     ]
   },
@@ -10385,58 +6375,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:633"
-    ],
-    "merged_codes": [
-      "s905"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjYzNA",
-    "gtfs_id": "MARPROM:634",
-    "code": "s906",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Glavni trg - Rotovž",
-    "lat": 46.557431,
-    "lon": 15.645841,
-    "opposite": "s906",
-    "routes": [
-      {
-        "name": "G5",
-        "color": "#DA1F27"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:633",
       "MARPROM:634"
     ],
     "merged_codes": [
+      "s905",
       "s906"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjYzNQ",
-    "gtfs_id": "MARPROM:635",
-    "code": "s907",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tržnica - GH Lent",
-    "lat": 46.558601,
-    "lon": 15.641611,
-    "opposite": "s907",
-    "routes": [
-      {
-        "name": "G5",
-        "color": "#DA1F27"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:635"
-    ],
-    "merged_codes": [
-      "s907"
     ]
   },
   {
@@ -10509,10 +6453,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:638"
+      "MARPROM:638",
+      "MARPROM:641"
     ],
     "merged_codes": [
-      "s919"
+      "s919",
+      "s918"
     ]
   },
   {
@@ -10540,34 +6486,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjY0MQ",
-    "gtfs_id": "MARPROM:641",
-    "code": "s918",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pariške komune - Titova",
-    "lat": 46.548101,
-    "lon": 15.648651,
-    "opposite": "s918",
-    "routes": [
-      {
-        "name": "G1",
-        "color": "#323033"
-      },
-      {
-        "name": "P17",
-        "color": "#9C8AC1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:641"
-    ],
-    "merged_codes": [
-      "s918"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjY0Mg",
     "gtfs_id": "MARPROM:642",
     "code": "s921",
@@ -10585,10 +6503,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:642"
+      "MARPROM:642",
+      "MARPROM:645"
     ],
     "merged_codes": [
-      "s921"
+      "s921",
+      "s920"
     ]
   },
   {
@@ -10616,54 +6536,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjY0NA",
-    "gtfs_id": "MARPROM:644",
-    "code": "s914",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Oš Franca Rozmana Staneta",
-    "lat": 46.563141,
-    "lon": 15.655271,
-    "opposite": "s914",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:644"
-    ],
-    "merged_codes": [
-      "s914"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY0NQ",
-    "gtfs_id": "MARPROM:645",
-    "code": "s920",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Zdravstveni dom Tezno",
-    "lat": 46.533271,
-    "lon": 15.674474,
-    "opposite": "s920",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:645"
-    ],
-    "merged_codes": [
-      "s920"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjY0Ng",
     "gtfs_id": "MARPROM:646",
     "code": "s912",
@@ -10685,37 +6557,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:646"
-    ],
-    "merged_codes": [
-      "s912"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY0Nw",
-    "gtfs_id": "MARPROM:647",
-    "code": "s913",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dom pod gorco",
-    "lat": 46.555861,
-    "lon": 15.612571,
-    "opposite": "s913",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:646",
       "MARPROM:647"
     ],
     "merged_codes": [
+      "s912",
       "s913"
     ]
   },
@@ -10745,38 +6591,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:648"
+      "MARPROM:648",
+      "MARPROM:651"
     ],
     "merged_codes": [
-      "s915"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY0OQ",
-    "gtfs_id": "MARPROM:649",
-    "code": "s935",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Turnerjeva",
-    "lat": 46.562925,
-    "lon": 15.630317,
-    "opposite": "s935",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:649"
-    ],
-    "merged_codes": [
-      "s935"
+      "s915",
+      "s916"
     ]
   },
   {
@@ -10840,86 +6660,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjY1MQ",
-    "gtfs_id": "MARPROM:651",
-    "code": "s916",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Maribox",
-    "lat": 46.557144,
-    "lon": 15.652877,
-    "opposite": "s916",
-    "routes": [
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      },
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:651"
-    ],
-    "merged_codes": [
-      "s916"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY1NA",
-    "gtfs_id": "MARPROM:654",
-    "code": "s927",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "MČ Pobrežje",
-    "lat": 46.549011,
-    "lon": 15.667261,
-    "opposite": "s927",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:654"
-    ],
-    "merged_codes": [
-      "s927"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY1NQ",
-    "gtfs_id": "MARPROM:655",
-    "code": "s917",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Mladinska - Vrbanska",
-    "lat": 46.564861,
-    "lon": 15.634671,
-    "opposite": "s917",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:655"
-    ],
-    "merged_codes": [
-      "s917"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjY1Ng",
     "gtfs_id": "MARPROM:656",
     "code": "s924",
@@ -10937,10 +6677,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:656"
+      "MARPROM:656",
+      "MARPROM:659"
     ],
     "merged_codes": [
-      "s924"
+      "s924",
+      "s925"
     ]
   },
   {
@@ -10961,58 +6703,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:657"
-    ],
-    "merged_codes": [
-      "s922"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY1OA",
-    "gtfs_id": "MARPROM:658",
-    "code": "s923",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Teplyevo naselje",
-    "lat": 46.541041,
-    "lon": 15.602081,
-    "opposite": "s923",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:657",
       "MARPROM:658"
     ],
     "merged_codes": [
+      "s922",
       "s923"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY1OQ",
-    "gtfs_id": "MARPROM:659",
-    "code": "s925",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Vrbanska",
-    "lat": 46.562125,
-    "lon": 15.636867,
-    "opposite": "s925",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:659"
-    ],
-    "merged_codes": [
-      "s925"
     ]
   },
   {
@@ -11040,30 +6736,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjY2MA",
-    "gtfs_id": "MARPROM:660",
-    "code": "s926",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Supernova",
-    "lat": 46.545991,
-    "lon": 15.618611,
-    "opposite": "s926",
-    "routes": [
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:660"
-    ],
-    "merged_codes": [
-      "s926"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjY2Ng",
     "gtfs_id": "MARPROM:666",
     "code": "s938",
@@ -11085,30 +6757,6 @@
     ],
     "merged_codes": [
       "s938"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY3",
-    "gtfs_id": "MARPROM:67",
-    "code": "s207",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dvorana Tabor - Gorkega",
-    "lat": 46.549492,
-    "lon": 15.637156,
-    "opposite": "s207",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:67"
-    ],
-    "merged_codes": [
-      "s207"
     ]
   },
   {
@@ -11140,54 +6788,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjY3NA",
-    "gtfs_id": "MARPROM:674",
-    "code": "s940",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Karantanska",
-    "lat": 46.518471,
-    "lon": 15.686901,
-    "opposite": "s940",
-    "routes": [
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:674"
-    ],
-    "merged_codes": [
-      "s940"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY3NQ",
-    "gtfs_id": "MARPROM:675",
-    "code": "s941",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Novo Pobrežje",
-    "lat": 46.548301,
-    "lon": 15.674211,
-    "opposite": "s941",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:675"
-    ],
-    "merged_codes": [
-      "s941"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjY3Ng",
     "gtfs_id": "MARPROM:676",
     "code": "s942",
@@ -11212,30 +6812,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjY3Nw",
-    "gtfs_id": "MARPROM:677",
-    "code": "s943",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Pekre",
-    "lat": 46.548661,
-    "lon": 15.595361,
-    "opposite": "s943",
-    "routes": [
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:677"
-    ],
-    "merged_codes": [
-      "s943"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjY3OA",
     "gtfs_id": "MARPROM:678",
     "code": "s944",
@@ -11253,33 +6829,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:678"
-    ],
-    "merged_codes": [
-      "s944"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY3OQ",
-    "gtfs_id": "MARPROM:679",
-    "code": "s945",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Istrska",
-    "lat": 46.548521,
-    "lon": 15.668721,
-    "opposite": "s945",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:678",
       "MARPROM:679"
     ],
     "merged_codes": [
+      "s944",
       "s945"
     ]
   },
@@ -11305,10 +6859,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:68"
+      "MARPROM:68",
+      "MARPROM:69"
     ],
     "merged_codes": [
-      "s208"
+      "s208",
+      "s209"
     ]
   },
   {
@@ -11336,34 +6892,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjY5",
-    "gtfs_id": "MARPROM:69",
-    "code": "s209",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Dvorana Tabor - Koresova",
-    "lat": 46.549942,
-    "lon": 15.636722,
-    "opposite": "s209",
-    "routes": [
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:69"
-    ],
-    "merged_codes": [
-      "s209"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjc",
     "gtfs_id": "MARPROM:7",
     "code": "s182",
@@ -11381,10 +6909,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:7"
+      "MARPROM:7",
+      "MARPROM:8"
     ],
     "merged_codes": [
-      "s182"
+      "s182",
+      "s183"
     ]
   },
   {
@@ -11405,33 +6935,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:70"
-    ],
-    "merged_codes": [
-      "s200"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjcx",
-    "gtfs_id": "MARPROM:71",
-    "code": "s201",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Engelsova - Šarhova",
-    "lat": 46.548919,
-    "lon": 15.628775,
-    "opposite": "s201",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:70",
       "MARPROM:71"
     ],
     "merged_codes": [
+      "s200",
       "s201"
     ]
   },
@@ -11453,33 +6961,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:72"
-    ],
-    "merged_codes": [
-      "s203"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjcz",
-    "gtfs_id": "MARPROM:73",
-    "code": "s204",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Engelsova - vojašnica",
-    "lat": 46.547295,
-    "lon": 15.625758,
-    "opposite": "s204",
-    "routes": [
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:72",
       "MARPROM:73"
     ],
     "merged_codes": [
+      "s203",
       "s204"
     ]
   },
@@ -11568,30 +7054,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjg",
-    "gtfs_id": "MARPROM:8",
-    "code": "s183",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Betnavska - Goriška",
-    "lat": 46.540358,
-    "lon": 15.637294,
-    "opposite": "s183",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:8"
-    ],
-    "merged_codes": [
-      "s183"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjg0",
     "gtfs_id": "MARPROM:84",
     "code": "s9",
@@ -11649,69 +7111,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:84"
-    ],
-    "merged_codes": [
-      "s9"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjg1",
-    "gtfs_id": "MARPROM:85",
-    "code": "s10",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Glavni trg - Elektro",
-    "lat": 46.557378,
-    "lon": 15.646796,
-    "opposite": "s10",
-    "routes": [
-      {
-        "name": "G2",
-        "color": "#88A1A9"
-      },
-      {
-        "name": "G4",
-        "color": "#1C3564"
-      },
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      },
-      {
-        "name": "P8",
-        "color": "#8EB3DF"
-      },
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      },
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P13",
-        "color": "#8C7174"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:84",
       "MARPROM:85"
     ],
     "merged_codes": [
+      "s9",
       "s10"
     ]
   },
@@ -11737,37 +7141,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:86"
-    ],
-    "merged_codes": [
-      "s210"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjg3",
-    "gtfs_id": "MARPROM:87",
-    "code": "s211",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Gorkega - Preradovičeva",
-    "lat": 46.550584,
-    "lon": 15.639119,
-    "opposite": "s211",
-    "routes": [
-      {
-        "name": "G6",
-        "color": "#1A6734"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:86",
       "MARPROM:87"
     ],
     "merged_codes": [
+      "s210",
       "s211"
     ]
   },
@@ -11797,66 +7175,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:88"
-    ],
-    "merged_codes": [
-      "s22"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjg5",
-    "gtfs_id": "MARPROM:89",
-    "code": "s23",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Univerzitetni kampus 1",
-    "lat": 46.562801,
-    "lon": 15.628989,
-    "opposite": "s23",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:88",
       "MARPROM:89"
     ],
     "merged_codes": [
+      "s22",
       "s23"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjk",
-    "gtfs_id": "MARPROM:9",
-    "code": "s184",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Betnavska - Knafelčeva",
-    "lat": 46.538211,
-    "lon": 15.635715,
-    "opposite": "s184",
-    "routes": [
-      {
-        "name": "P11",
-        "color": "#D5DA76"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:9"
-    ],
-    "merged_codes": [
-      "s184"
     ]
   },
   {
@@ -11893,49 +7217,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:90"
-    ],
-    "merged_codes": [
-      "s29"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjkx",
-    "gtfs_id": "MARPROM:91",
-    "code": "s30",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tretja gimnazija",
-    "lat": 46.560691,
-    "lon": 15.640481,
-    "opposite": "s30",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      },
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      },
-      {
-        "name": "P18",
-        "color": "#C07E65"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:90",
       "MARPROM:91"
     ],
     "merged_codes": [
+      "s29",
       "s30"
     ]
   },
@@ -11969,45 +7255,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:92"
-    ],
-    "merged_codes": [
-      "s25"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjkz",
-    "gtfs_id": "MARPROM:93",
-    "code": "s26",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Gosposvetska - Kosarjeva",
-    "lat": 46.561857,
-    "lon": 15.633332,
-    "opposite": "s26",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      },
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:92",
       "MARPROM:93"
     ],
     "merged_codes": [
+      "s25",
       "s26"
     ]
   },
@@ -12041,45 +7293,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:94"
-    ],
-    "merged_codes": [
-      "s27"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjk1",
-    "gtfs_id": "MARPROM:95",
-    "code": "s28",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Gosposvetska - Vrbanska",
-    "lat": 46.561235,
-    "lon": 15.636851,
-    "opposite": "s28",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      },
-      {
-        "name": "P7",
-        "color": "#8A181A"
-      },
-      {
-        "name": "P15",
-        "color": "#60C3AC"
-      },
-      {
-        "name": "P19",
-        "color": "#F5DD26"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:94",
       "MARPROM:95"
     ],
     "merged_codes": [
+      "s27",
       "s28"
     ]
   },
@@ -12113,41 +7331,11 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:96"
-    ],
-    "merged_codes": [
-      "s298"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjk3",
-    "gtfs_id": "MARPROM:97",
-    "code": "s299",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Greenwich",
-    "lat": 46.554659,
-    "lon": 15.659808,
-    "opposite": "s299",
-    "routes": [
-      {
-        "name": "P9",
-        "color": "#E5861D"
-      },
-      {
-        "name": "P12",
-        "color": "#1480C1"
-      },
-      {
-        "name": "P16",
-        "color": "#D5137B"
-      }
-    ],
-    "merged_stop_ids": [
+      "MARPROM:96",
       "MARPROM:97"
     ],
     "merged_codes": [
+      "s298",
       "s299"
     ]
   }
