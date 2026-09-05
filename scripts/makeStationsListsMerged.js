@@ -104,7 +104,7 @@ async function fetchAndProcessStations() {
         
         const enriched = { ...station, _baseNum: baseNum };
         stopsByNum.set(baseNum, enriched);
-        stopsByNameAndNum.set(`${station.station.name}_${baseNum}`, enriched);
+        stopsByNameAndNum.set(`${station.name}_${baseNum}`, enriched);
       });
 
       const processedStops = stops.map(station => {
@@ -118,8 +118,8 @@ async function fetchAndProcessStations() {
           let stationNum = agency === "lpp" ? (Number(station.code) || parsedIdNum + 1) : parsedIdNum + 1;
 
           if (agency !== "lpp") {
-            const neighborPrev = stopsByNameAndNum.get(`${station.station.name}_${stationNum - 1}`);
-            const neighborNext = stopsByNameAndNum.get(`${station.station.name}_${stationNum + 1}`);
+            const neighborPrev = stopsByNameAndNum.get(`${station.name}_${stationNum - 1}`);
+            const neighborNext = stopsByNameAndNum.get(`${station.name}_${stationNum + 1}`);
             const matchingNeighbor = neighborPrev || neighborNext;
 
             if (matchingNeighbor) {
@@ -157,7 +157,7 @@ async function fetchAndProcessStations() {
       const hubs = [];
       
       for (const station of processedStops) {
-        const normName = station.station.name.trim().toLowerCase();
+        const normName = station.name.trim().toLowerCase();
         
         let foundHub = null;
         // Preverimo, če že obstaja hub z istim imenom, ki je dovolj blizu (< 150m)
