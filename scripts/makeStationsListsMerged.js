@@ -15,7 +15,7 @@ function getDistanceFromLatLonInM(lat1, lon1, lat2, lon2) {
 
 async function fetchAndProcessStations() {
   const API_URL = "https://api.beta.brezavta.si/stops/";
-  const OUT_DIR = "station_lists_merged";
+  const OUT_DIR = "station_lists";
   const LINE_LISTS_DIR = "station_line_lists";
 
   try {
@@ -32,7 +32,6 @@ async function fetchAndProcessStations() {
       console.warn("Opozorilo: Ni bilo mogoče prenesti Github stop_to_routes.json");
     }
 
-    // PREDNALAGANJE SZ.JSON IN IJPP.JSON
     let szKnownIds = {};
     let ijppKnownIds = {};
     try {
@@ -66,7 +65,6 @@ async function fetchAndProcessStations() {
         if (!agencyGroups[agency]) agencyGroups[agency] = [];
         agencyGroups[agency].push(station);
         
-        // DODAJANJE IJPP POSTAJE V LPP SKUPINO (če je ekskluzivno LPP)
         if (agency === "ijpp" && ijppKnownIds[stationIdStr] && ijppKnownIds[stationIdStr].length === 1 && ijppKnownIds[stationIdStr][0] === "1118") {
             if (!agencyGroups["lpp"]) agencyGroups["lpp"] = [];
             agencyGroups["lpp"].push({ ...station });
@@ -104,12 +102,16 @@ async function fetchAndProcessStations() {
         
         const enriched = { ...station, _baseNum: baseNum };
         stopsByNum.set(baseNum, enriched);
-        stopsByNameAndNum.set(`${station.name}_${baseNum}`, enriched);
+        
+        // POPRAVEK: Branje polja 'name' namesto 'stop_name'
+        const sName = station.name || station.stop_name || "";
+        stopsByNameAndNum.set(`${sName}_${baseNum}`, enriched);
       });
 
       const processedStops = stops.map(station => {
         const stationIdStr = station.gtfs_id.split(":")[1];
         const parsedIdNum = parseInt(station.gtfs_id.slice(station.gtfs_id.lastIndexOf(":") + 1));
+        const sName = station.name || station.stop_name || "";
         
         let exists = null;
 
@@ -118,8 +120,8 @@ async function fetchAndProcessStations() {
           let stationNum = agency === "lpp" ? (Number(station.code) || parsedIdNum + 1) : parsedIdNum + 1;
 
           if (agency !== "lpp") {
-            const neighborPrev = stopsByNameAndNum.get(`${station.name}_${stationNum - 1}`);
-            const neighborNext = stopsByNameAndNum.get(`${station.name}_${stationNum + 1}`);
+            const neighborPrev = stopsByNameAndNum.get(`${sName}_${stationNum - 1}`);
+            const neighborNext = stopsByNameAndNum.get(`${sName}_${stationNum + 1}`);
             const matchingNeighbor = neighborPrev || neighborNext;
 
             if (matchingNeighbor) {
@@ -157,14 +159,23 @@ async function fetchAndProcessStations() {
       const hubs = [];
       
       for (const station of processedStops) {
-        const normName = station.name.trim().toLowerCase();
+        // POPRAVEK: Varnostno branje polja 'name' 
+        const stationName = station.name || station.stop_name || "";
+        const normName = stationName.trim().toLowerCase();
+        
+        // POPRAVEK: Varnostno branje lat in lon
+        const sLat = station.lat || station.stop_lat;
+        const sLon = station.lon || station.stop_lon;
         
         let foundHub = null;
-        // Preverimo, če že obstaja hub z istim imenom, ki je dovolj blizu (< 150m)
         for (const hub of hubs) {
           if (hub._normName === normName) {
-            const dist = getDistanceFromLatLonInM(hub.stop_lat, hub.stop_lon, station.stop_lat, station.stop_lon);
-            if (dist < 150) {
+            const hLat = hub.lat || hub.stop_lat;
+            const hLon = hub.lon || hub.stop_lon;
+            
+            const dist = getDistanceFromLatLonInM(hLat, hLon, sLat, sLon);
+            // Povečano na 250m!
+            if (dist < 250) {
               foundHub = hub;
               break;
             }
@@ -189,7 +200,6 @@ async function fetchAndProcessStations() {
             station.routes.forEach(r => routeMap.set(typeof r === 'object' ? r.name : r, r));
             foundHub.routes = Array.from(routeMap.values());
             
-            // Ponovno sortiramo linije po številkah/abecedi
             foundHub.routes.sort((a, b) => {
                 const nameA = typeof a === 'object' ? a.name : a;
                 const nameB = typeof b === 'object' ? b.name : b;
@@ -224,10 +234,8 @@ async function fetchAndProcessStations() {
         }
       }
 
-      // Odstranimo začasno polje `_normName` pred shranjevanjem
       hubs.forEach(hub => delete hub._normName);
 
-      // 5. Zapis končne datoteke
       const outPath = path.join(OUT_DIR, `${agency}.json`);
       await fs.writeFile(outPath, JSON.stringify(hubs, null, 2), "utf-8");
       console.log(`✅ Shranjeno: ${agency}.json (Združeno v ${hubs.length} vozlišč iz originalnih ${processedStops.length} postaj).`);
