@@ -23,6 +23,8 @@ jobs:
 
       - name: Zaženi skripto za prenos postaj
         run: node ./scripts/makeStationsLists.js
+      - name: Zaženi skripto za prenos ZDRUŽENIH postaj
+        run: node ./scripts/makeStationsListsMerged.js
 
       - name: Commit in push sprememb
         run: |
@@ -31,6 +33,7 @@ jobs:
 
           # Dodamo samo mapo station_lists
           git add station_lists/
+          git add station_lists_merged/
 
           # Uporabimo "|| true", da akcija ne odpove, če ni nobenih sprememb v podatkih
           git commit -m "avtomatizacija: posodobljene postaje po agencijah" || true
