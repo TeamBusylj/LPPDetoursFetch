@@ -638,11 +638,13 @@
     ],
     "merged_stop_ids": [
       "Ptuj:1151186",
-      "Ptuj:1151187"
+      "Ptuj:1151187",
+      "Ptuj:9303518"
     ],
     "merged_codes": [
       "15631",
-      "15632"
+      "15632",
+      "15897"
     ]
   },
   {
@@ -1992,30 +1994,6 @@
     ]
   },
   {
-    "id": "U3RvcDpQdHVqOjkzMDM1MTg",
-    "gtfs_id": "Ptuj:9303518",
-    "code": "15897",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Sp. Hajdina trg.",
-    "lat": 46.40842,
-    "lon": 15.84601,
-    "opposite": "15897",
-    "routes": [
-      {
-        "name": "4",
-        "color": "#000000"
-      }
-    ],
-    "merged_stop_ids": [
-      "Ptuj:9303518"
-    ],
-    "merged_codes": [
-      "15897"
-    ]
-  },
-  {
     "id": "U3RvcDpQdHVqOjkzMDM1Nzg",
     "gtfs_id": "Ptuj:9303578",
     "code": "14909",
@@ -2094,7 +2072,7 @@
     "type": "BUS",
     "background_color": "#000000",
     "icon_color": "#FFFFFF",
-    "name": "Zg.Hajdina 8/d",
+    "name": "Zg.Hajdina 8",
     "lat": 46.40517,
     "lon": 15.83869,
     "opposite": "13208",

@@ -154,11 +154,15 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Podpeč/Lj.",
+    "name": "Podpeč",
     "lat": 45.9740576,
     "lon": 14.4204707,
     "opposite": "IJPP:1120981",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "44",
         "color": "#736F93"
@@ -170,7 +174,13 @@
     ],
     "merged_stop_ids": [
       "IJPP:1120981",
-      "IJPP:1120983"
+      "IJPP:1120983",
+      "LPP:184817a9-ca88-4c82-a40b-5768991da3df",
+      "LPP:99b82632-116f-421b-9320-d5a53e522155"
+    ],
+    "merged_codes": [
+      "745051",
+      "745052"
     ]
   },
   {
@@ -1190,7 +1200,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Cesta/Dobrepolju",
+    "name": "Cesta",
     "lat": 45.8580354,
     "lon": 14.6922254,
     "opposite": "IJPP:1124027",
@@ -1392,7 +1402,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Dob/Šentvidu",
+    "name": "Dob",
     "lat": 45.9322159,
     "lon": 14.8610238,
     "opposite": null,
@@ -1947,7 +1957,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Griže/Stični",
+    "name": "Griže",
     "lat": 45.9449916,
     "lon": 14.8252242,
     "opposite": null,
@@ -2347,7 +2357,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Kal/Ambrusu",
+    "name": "Kal",
     "lat": 45.832649,
     "lon": 14.8094007,
     "opposite": "IJPP:1126043",
@@ -2488,7 +2498,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Kurja vas/Šentjoštu",
+    "name": "Kurja vas",
     "lat": 46.0386699,
     "lon": 14.2219846,
     "opposite": null,
@@ -3074,7 +3084,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Nova vas/Žireh",
+    "name": "Nova vas",
     "lat": 46.0473458,
     "lon": 14.1201566,
     "opposite": null,
@@ -3118,7 +3128,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Orel/Žireh",
+    "name": "Orel",
     "lat": 46.0179005,
     "lon": 14.1776189,
     "opposite": null,
@@ -3291,7 +3301,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Plešivica/Logu grad",
+    "name": "Plešivica",
     "lat": 45.9999012,
     "lon": 14.3856545,
     "opposite": "IJPP:1128329",
@@ -3312,7 +3322,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Plešivica/Logu spomenik",
+    "name": "Plešivica",
     "lat": 46.0027566,
     "lon": 14.3803873,
     "opposite": null,
@@ -3334,7 +3344,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Podgora/Verdu",
+    "name": "Podgora",
     "lat": 45.9580355,
     "lon": 14.3203098,
     "opposite": "IJPP:1128413",
@@ -3378,7 +3388,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Podlesec/Žireh",
+    "name": "Podlesec",
     "lat": 46.0263091,
     "lon": 14.1738354,
     "opposite": null,
@@ -3620,7 +3630,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Podpeč/Lj.Jereb",
+    "name": "Podpeč",
     "lat": 45.9665189,
     "lon": 14.4114119,
     "opposite": "IJPP:1128557",
@@ -3646,7 +3656,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Podreber/Polh.G.",
+    "name": "Podreber",
     "lat": 46.060243,
     "lon": 14.3261576,
     "opposite": null,
@@ -3812,7 +3822,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Polica/Viš.G.",
+    "name": "Polica",
     "lat": 45.980654,
     "lon": 14.703914,
     "opposite": null,
@@ -3855,7 +3865,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Vesca/Vodicah",
+    "name": "Vesca",
     "lat": 46.1583628,
     "lon": 14.5039656,
     "opposite": null,
@@ -3992,7 +4002,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Preserje/Krimom",
+    "name": "Preserje",
     "lat": 45.954869,
     "lon": 14.4156281,
     "opposite": null,
@@ -4087,7 +4097,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Razdrto/Šmarju",
+    "name": "Razdrto",
     "lat": 45.977342,
     "lon": 14.6065465,
     "opposite": null,
@@ -4460,7 +4470,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Škocjan/Turjaku",
+    "name": "Škocjan",
     "lat": 45.8845878,
     "lon": 14.6303278,
     "opposite": "IJPP:1129971",
@@ -4482,7 +4492,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Škoflje/Šentvidu",
+    "name": "Škoflje",
     "lat": 45.9379563,
     "lon": 14.8736552,
     "opposite": "IJPP:1129987",
@@ -4706,7 +4716,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Smrečje/Vrh.pri Kapelici",
+    "name": "Smrečje",
     "lat": 46.0196149,
     "lon": 14.1949079,
     "opposite": "IJPP:1130224",
@@ -4728,7 +4738,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Smrečje/Vrhniko",
+    "name": "Smrečje",
     "lat": 46.0133472,
     "lon": 14.1946167,
     "opposite": "IJPP:1130226",
@@ -4749,7 +4759,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Smrečje/Vrhniko pri Mihu",
+    "name": "Smrečje",
     "lat": 46.0206444,
     "lon": 14.2065741,
     "opposite": "IJPP:1130228",
@@ -4771,7 +4781,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Smrečje/Vrhniko Samija",
+    "name": "Smrečje",
     "lat": 46.0185992,
     "lon": 14.2141874,
     "opposite": "IJPP:1130229",
@@ -4814,7 +4824,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Špilar/Šmarju",
+    "name": "Špilar",
     "lat": 45.985335,
     "lon": 14.5942906,
     "opposite": null,
@@ -4880,7 +4890,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "St.trg/Višnji G.",
+    "name": "St.trg",
     "lat": 45.9548212,
     "lon": 14.7516542,
     "opposite": "IJPP:1130629",
@@ -4953,7 +4963,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Studenec/Iv.Gorici",
+    "name": "Studenec",
     "lat": 45.9417724,
     "lon": 14.8129229,
     "opposite": "IJPP:1130817",
@@ -4974,7 +4984,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Suhi Dol/Planino",
+    "name": "Suhi Dol",
     "lat": 46.0453882,
     "lon": 14.2077918,
     "opposite": null,
@@ -5382,7 +5392,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Vojsko/Vodicah",
+    "name": "Vojsko",
     "lat": 46.1493586,
     "lon": 14.4864868,
     "opposite": "IJPP:1131671",
@@ -5558,7 +5568,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Zadvor/Grosupljem",
+    "name": "Zadvor",
     "lat": 45.9445325,
     "lon": 14.6515821,
     "opposite": "IJPP:1131889",
@@ -5601,7 +5611,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Zaklanec/Horjulu",
+    "name": "Zaklanec",
     "lat": 46.0241053,
     "lon": 14.31647,
     "opposite": "IJPP:1131987",
@@ -5665,7 +5675,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Zapotok/Kureščkom K",
+    "name": "Zapotok",
     "lat": 45.8755195,
     "lon": 14.5567379,
     "opposite": "IJPP:1132049",
@@ -5880,7 +5890,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Koseze/Stare",
+    "name": "Koseze",
     "lat": 46.1683065,
     "lon": 14.5385484,
     "opposite": null,
@@ -6148,7 +6158,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Pijava Gor./Smrjenska c.",
+    "name": "Pijava Gor.",
     "lat": 45.9505554,
     "lon": 14.5762675,
     "opposite": "IJPP:1150271",
@@ -6302,7 +6312,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Koseze/Vodicah",
+    "name": "Koseze",
     "lat": 46.1689374,
     "lon": 14.5190614,
     "opposite": "IJPP:1150291",
@@ -6454,7 +6464,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Vodice/Lj.Š",
+    "name": "Vodice",
     "lat": 46.1849652,
     "lon": 14.4955016,
     "opposite": "IJPP:1150922",
@@ -6681,14 +6691,22 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Dolgi most",
+    "name": "Dolgi most",
     "lat": 46.0372781,
     "lon": 14.4673466,
     "opposite": "IJPP:1165631",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       },
       {
         "name": "45",
@@ -6721,7 +6739,13 @@
     ],
     "merged_stop_ids": [
       "IJPP:1165631",
-      "IJPP:1165632"
+      "IJPP:1165632",
+      "LPP:b4b30b45-445a-4f70-bdf5-5ea7cdc98583",
+      "LPP:da656f17-9723-4cbe-a008-823cbad17c28"
+    ],
+    "merged_codes": [
+      "703111",
+      "703112"
     ]
   },
   {
@@ -6731,11 +6755,19 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Friškovec",
+    "name": "Friškovec",
     "lat": 46.0575279,
     "lon": 14.5166279,
     "opposite": "IJPP:1165637",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
       {
         "name": "12D",
         "color": "#183875"
@@ -6743,10 +6775,20 @@
       {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "merged_stop_ids": [
-      "IJPP:1165637"
+      "IJPP:1165637",
+      "LPP:c22879e5-8e90-4540-9a74-5f139208e492",
+      "LPP:f1bc11ca-7516-447a-b826-7051c5306af7"
+    ],
+    "merged_codes": [
+      "301011",
+      "301012"
     ]
   },
   {
@@ -6756,11 +6798,19 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Gornji trg",
+    "name": "Gornji trg",
     "lat": 46.0458989,
     "lon": 14.5061698,
     "opposite": "IJPP:1165640",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -6770,13 +6820,43 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "merged_stop_ids": [
       "IJPP:1165638",
-      "IJPP:1165639"
+      "IJPP:1165639",
+      "LPP:6182f8e8-c45e-4606-b4a4-d909bd44d2cc",
+      "LPP:a378ce5e-57ce-4c52-b219-568674b5cd5e"
+    ],
+    "merged_codes": [
+      "602101",
+      "602102"
     ]
   },
   {
@@ -6828,18 +6908,40 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Hajdrihova",
+    "name": "Hajdrihova",
     "lat": 46.0457837,
     "lon": 14.4901155,
     "opposite": null,
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
       {
         "name": "6B",
         "color": "#6E7073"
       }
     ],
     "merged_stop_ids": [
-      "IJPP:1165644"
+      "IJPP:1165644",
+      "LPP:b59656a4-b6e7-4b87-977c-078c59088a50",
+      "LPP:ef91fd44-5651-4fd4-b6f8-619fdef9da7b"
+    ],
+    "merged_codes": [
+      "602031",
+      "602032"
     ]
   },
   {
@@ -6917,18 +7019,68 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Slovenija avto",
+    "name": "Slovenija avto",
     "lat": 46.0738817,
     "lon": 14.4865909,
     "opposite": "IJPP:1165669",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       }
     ],
     "merged_stop_ids": [
-      "IJPP:1165669"
+      "IJPP:1165669",
+      "LPP:484b5c91-1220-43ba-af79-84e712fcc46b",
+      "LPP:dfde6478-02b5-471b-a470-29cb0e84542f"
+    ],
+    "merged_codes": [
+      "803011",
+      "803012"
     ]
   },
   {
@@ -6938,11 +7090,27 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Tobačna",
+    "name": "Tobačna",
     "lat": 46.0470114,
     "lon": 14.4943859,
     "opposite": null,
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
       {
         "name": "6B",
         "color": "#6E7073"
@@ -6953,7 +7121,13 @@
       }
     ],
     "merged_stop_ids": [
-      "IJPP:1165690"
+      "IJPP:1165690",
+      "LPP:d72032c7-d4b0-4eee-a87c-593985a42266",
+      "LPP:e66e813a-722d-40f8-9ee9-1470d07bc200"
+    ],
+    "merged_codes": [
+      "602041",
+      "602042"
     ]
   },
   {
@@ -7083,7 +7257,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Zagorica/Dobrepolju",
+    "name": "Zagorica",
     "lat": 45.843147,
     "lon": 14.7188611,
     "opposite": "IJPP:1166627",
@@ -7104,7 +7278,7 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Hrušica/Kalcah",
+    "name": "Hrušica",
     "lat": 45.89495,
     "lon": 14.189646,
     "opposite": null,
@@ -7252,11 +7426,31 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Drama/Lj.",
+    "name": "Drama",
     "lat": 46.0487815,
     "lon": 14.5018372,
     "opposite": "IJPP:1167139",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -7266,17 +7460,55 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "merged_stop_ids": [
       "IJPP:1167139",
-      "IJPP:1167140"
+      "IJPP:1167140",
+      "LPP:4062cd22-b67a-4235-9980-0178b7add592",
+      "LPP:fef200e9-4d98-425b-ab14-8110e2aa85d7"
+    ],
+    "merged_codes": [
+      "602022",
+      "602021"
     ]
   },
   {
@@ -10421,11 +10653,31 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ajdovščina/Lj.",
+    "name": "Ajdovščina",
     "lat": 46.0535684,
     "lon": 14.504036,
     "opposite": "IJPP:1167369",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -10435,17 +10687,67 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "merged_stop_ids": [
       "IJPP:1167369",
-      "IJPP:1167370"
+      "IJPP:1167370",
+      "LPP:6efecef0-52ba-4a47-9991-9bab5ce31340",
+      "LPP:a719a87c-4e93-4387-a6d1-2631a487f7e0"
+    ],
+    "merged_codes": [
+      "600021",
+      "600022"
     ]
   },
   {
@@ -11113,18 +11415,32 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Kranjčeva",
+    "name": "Kranjčeva",
     "lat": 46.06921,
     "lon": 14.52588,
     "opposite": "IJPP:1168263",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
       }
     ],
     "merged_stop_ids": [
-      "IJPP:1168263"
+      "IJPP:1168263",
+      "LPP:59ee5f7d-476b-4958-a922-2040a9308f3b",
+      "LPP:e786b2df-34ed-4246-832e-7c3d538ac1f4"
+    ],
+    "merged_codes": [
+      "203212",
+      "203211"
     ]
   },
   {
@@ -11188,11 +11504,19 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Trnovo",
+    "name": "TRNOVO",
     "lat": 46.0409755,
     "lon": 14.5092294,
     "opposite": null,
     "routes": [
+      {
+        "name": "16",
+        "color": "#482972"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -11200,7 +11524,13 @@
     ],
     "merged_stop_ids": [
       "IJPP:1168334",
-      "IJPP:1168335"
+      "IJPP:1168335",
+      "LPP:97788808-915f-4405-b54e-7ec5f95f7330",
+      "LPP:f1d7dbc8-d84b-4550-a3bd-e4748a677e9d"
+    ],
+    "merged_codes": [
+      "602121",
+      "602122"
     ]
   },
   {
@@ -11210,11 +11540,15 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Brod",
+    "name": "BROD",
     "lat": 46.1155196,
     "lon": 14.4626789,
     "opposite": null,
     "routes": [
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -11222,7 +11556,11 @@
     ],
     "merged_stop_ids": [
       "IJPP:1168338",
-      "IJPP:1168339"
+      "IJPP:1168339",
+      "LPP:c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2"
+    ],
+    "merged_codes": [
+      "804121"
     ]
   },
   {
@@ -12918,32 +13256,6 @@
     "merged_codes": [
       "303082",
       "303081"
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6MTg0ODE3YTktY2E4OC00YzgyLWE0MGItNTc2ODk5MWRhM2Rm",
-    "gtfs_id": "LPP:184817a9-ca88-4c82-a40b-5768991da3df",
-    "code": "745051",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Podpeč",
-    "lat": 45.973492,
-    "lon": 14.421047,
-    "opposite": "745052",
-    "routes": [
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:184817a9-ca88-4c82-a40b-5768991da3df",
-      "LPP:99b82632-116f-421b-9320-d5a53e522155"
-    ],
-    "merged_codes": [
-      "745051",
-      "745052"
     ]
   },
   {
@@ -14921,80 +15233,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6NDA2MmNkMjItYjY3YS00MjM1LTk5ODAtMDE3OGI3YWRkNTky",
-    "gtfs_id": "LPP:4062cd22-b67a-4235-9980-0178b7add592",
-    "code": "602022",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Drama",
-    "lat": 46.048771,
-    "lon": 14.501769,
-    "opposite": "602021",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#b23a34"
-      },
-      {
-        "name": "1B",
-        "color": "#b23a34"
-      },
-      {
-        "name": "N1",
-        "color": "#cc4544"
-      },
-      {
-        "name": "2",
-        "color": "#7f7b3f"
-      },
-      {
-        "name": "3",
-        "color": "#7fec30"
-      },
-      {
-        "name": "N3",
-        "color": "#eb6147"
-      },
-      {
-        "name": "N3B",
-        "color": "#eb6147"
-      },
-      {
-        "name": "6",
-        "color": "#88898c"
-      },
-      {
-        "name": "9",
-        "color": "#829fc3"
-      },
-      {
-        "name": "11",
-        "color": "#e2bb46"
-      },
-      {
-        "name": "11B",
-        "color": "#e2bb46"
-      },
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:4062cd22-b67a-4235-9980-0178b7add592",
-      "LPP:fef200e9-4d98-425b-ab14-8110e2aa85d7"
-    ],
-    "merged_codes": [
-      "602022",
-      "602021"
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6NDA2ZDZiYjctMTQ3Yy00ODUzLWE5MTctZTVjNDM3YjAyNWU2",
     "gtfs_id": "LPP:406d6bb7-147c-4853-a917-e5c437b025e6",
     "code": "415051",
@@ -15470,72 +15708,6 @@
     ],
     "merged_codes": [
       "303032"
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6NDg0YjVjOTEtMTIyMC00M2JhLWFmNzktODRlNzEyZmNjNDZi",
-    "gtfs_id": "LPP:484b5c91-1220-43ba-af79-84e712fcc46b",
-    "code": "803011",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Slovenija avto",
-    "lat": 46.073196,
-    "lon": 14.48622,
-    "opposite": "803012",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#b23a34"
-      },
-      {
-        "name": "1B",
-        "color": "#b23a34"
-      },
-      {
-        "name": "N1",
-        "color": "#cc4544"
-      },
-      {
-        "name": "3",
-        "color": "#7fec30"
-      },
-      {
-        "name": "N3",
-        "color": "#eb6147"
-      },
-      {
-        "name": "5",
-        "color": "#8b4d8f"
-      },
-      {
-        "name": "N5",
-        "color": "#a35ca0"
-      },
-      {
-        "name": "8",
-        "color": "#255d9f"
-      },
-      {
-        "name": "18",
-        "color": "#765033"
-      },
-      {
-        "name": "18L",
-        "color": "#765033"
-      },
-      {
-        "name": "22",
-        "color": "#e6a042"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:484b5c91-1220-43ba-af79-84e712fcc46b",
-      "LPP:dfde6478-02b5-471b-a470-29cb0e84542f"
-    ],
-    "merged_codes": [
-      "803011",
-      "803012"
     ]
   },
   {
@@ -16455,36 +16627,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6NTllZTVmN2QtNDc2Yi00OTU4LWE5MjItMjA0MGE5MzA4ZjNi",
-    "gtfs_id": "LPP:59ee5f7d-476b-4958-a922-2040a9308f3b",
-    "code": "203212",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Kranjčeva",
-    "lat": 46.070721,
-    "lon": 14.525866,
-    "opposite": "203211",
-    "routes": [
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      },
-      {
-        "name": "24",
-        "color": "#d4267e"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:59ee5f7d-476b-4958-a922-2040a9308f3b",
-      "LPP:e786b2df-34ed-4246-832e-7c3d538ac1f4"
-    ],
-    "merged_codes": [
-      "203212",
-      "203211"
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6NTlmYWEwZjAtMzRiMS00N2NkLWJhM2EtM2I2ZjBkNjg0YzAw",
     "gtfs_id": "LPP:59faa0f0-34b1-47cd-ba3a-3b6f0d684c00",
     "code": "203151",
@@ -16756,60 +16898,6 @@
     "merged_codes": [
       "204111",
       "204112"
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6NjE4MmY4ZTgtYzQ1ZS00NjA2LWI0YTQtZDkwOWJkNDRkMmNj",
-    "gtfs_id": "LPP:6182f8e8-c45e-4606-b4a4-d909bd44d2cc",
-    "code": "602101",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Gornji trg",
-    "lat": 46.045937,
-    "lon": 14.506128,
-    "opposite": "602102",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#7f7b3f"
-      },
-      {
-        "name": "3",
-        "color": "#7fec30"
-      },
-      {
-        "name": "N3",
-        "color": "#eb6147"
-      },
-      {
-        "name": "N3B",
-        "color": "#eb6147"
-      },
-      {
-        "name": "11",
-        "color": "#e2bb46"
-      },
-      {
-        "name": "11B",
-        "color": "#e2bb46"
-      },
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:6182f8e8-c45e-4606-b4a4-d909bd44d2cc",
-      "LPP:a378ce5e-57ce-4c52-b219-568674b5cd5e"
-    ],
-    "merged_codes": [
-      "602101",
-      "602102"
     ]
   },
   {
@@ -17306,92 +17394,6 @@
     "merged_codes": [
       "404062",
       "404061"
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6NmVmZWNlZjAtNTJiYS00YTQ3LTk5OTEtOWJhYjVjZTMxMzQw",
-    "gtfs_id": "LPP:6efecef0-52ba-4a47-9991-9bab5ce31340",
-    "code": "600021",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Ajdovščina",
-    "lat": 46.053623,
-    "lon": 14.504162,
-    "opposite": "600022",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#b23a34"
-      },
-      {
-        "name": "1B",
-        "color": "#b23a34"
-      },
-      {
-        "name": "N1",
-        "color": "#cc4544"
-      },
-      {
-        "name": "2",
-        "color": "#7f7b3f"
-      },
-      {
-        "name": "3",
-        "color": "#7fec30"
-      },
-      {
-        "name": "N3",
-        "color": "#eb6147"
-      },
-      {
-        "name": "N3B",
-        "color": "#eb6147"
-      },
-      {
-        "name": "6",
-        "color": "#88898c"
-      },
-      {
-        "name": "9",
-        "color": "#829fc3"
-      },
-      {
-        "name": "11",
-        "color": "#e2bb46"
-      },
-      {
-        "name": "11B",
-        "color": "#e2bb46"
-      },
-      {
-        "name": "14",
-        "color": "#da5894"
-      },
-      {
-        "name": "18",
-        "color": "#765033"
-      },
-      {
-        "name": "18L",
-        "color": "#765033"
-      },
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:6efecef0-52ba-4a47-9991-9bab5ce31340",
-      "LPP:a719a87c-4e93-4387-a6d1-2631a487f7e0"
-    ],
-    "merged_codes": [
-      "600021",
-      "600022"
     ]
   },
   {
@@ -18579,36 +18581,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6OTc3ODg4MDgtOTE1Zi00NDA1LWI1NGUtN2VjNWY5NWY3MzMw",
-    "gtfs_id": "LPP:97788808-915f-4405-b54e-7ec5f95f7330",
-    "code": "602121",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "TRNOVO",
-    "lat": 46.040989,
-    "lon": 14.509181,
-    "opposite": "602122",
-    "routes": [
-      {
-        "name": "16",
-        "color": "#482972"
-      },
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:97788808-915f-4405-b54e-7ec5f95f7330",
-      "LPP:f1d7dbc8-d84b-4550-a3bd-e4748a677e9d"
-    ],
-    "merged_codes": [
-      "602121",
-      "602122"
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6OTgwNzU3M2ItODgyMS00MGU0LWI4OTEtYTVjZWE2ZTIzYjNk",
     "gtfs_id": "LPP:9807573b-8821-40e4-b891-a5cea6e23b3d",
     "code": "804011",
@@ -19167,36 +19139,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6YjRiMzBiNDUtNDQ1YS00ZjcwLWJkZjUtNWVhN2NkYzk4NTgz",
-    "gtfs_id": "LPP:b4b30b45-445a-4f70-bdf5-5ea7cdc98583",
-    "code": "703111",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Dolgi most",
-    "lat": 46.0373,
-    "lon": 14.467279,
-    "opposite": "703112",
-    "routes": [
-      {
-        "name": "6",
-        "color": "#88898c"
-      },
-      {
-        "name": "16",
-        "color": "#482972"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:b4b30b45-445a-4f70-bdf5-5ea7cdc98583",
-      "LPP:da656f17-9723-4cbe-a008-823cbad17c28"
-    ],
-    "merged_codes": [
-      "703111",
-      "703112"
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6YjRmZmNiNjUtZTYwZi00NzhkLTgwNmItZTdhZTgzZjFhMzlk",
     "gtfs_id": "LPP:b4ffcb65-e60f-478d-806b-e7ae83f1a39d",
     "code": "804511",
@@ -19296,44 +19238,6 @@
     "merged_codes": [
       "603161",
       "603162"
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6YjU5NjU2YTQtYjZlNy00Yjg3LTk3N2MtMDc4YzU5MDg4YTUw",
-    "gtfs_id": "LPP:b59656a4-b6e7-4b87-977c-078c59088a50",
-    "code": "602031",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Hajdrihova",
-    "lat": 46.045719,
-    "lon": 14.49046,
-    "opposite": "602032",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#b23a34"
-      },
-      {
-        "name": "1B",
-        "color": "#b23a34"
-      },
-      {
-        "name": "N1",
-        "color": "#cc4544"
-      },
-      {
-        "name": "6",
-        "color": "#88898c"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:b59656a4-b6e7-4b87-977c-078c59088a50",
-      "LPP:ef91fd44-5651-4fd4-b6f8-619fdef9da7b"
-    ],
-    "merged_codes": [
-      "602031",
-      "602032"
     ]
   },
   {
@@ -19675,64 +19579,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6YzBmZjM3YzgtYWM2Yy00Mjg0LWFkMzItMGFkMjlmZDMwZGMy",
-    "gtfs_id": "LPP:c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2",
-    "code": "804121",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "BROD",
-    "lat": 46.115513,
-    "lon": 14.462748,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "N1",
-        "color": "#cc4544"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2"
-    ],
-    "merged_codes": [
-      "804121"
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6YzIyODc5ZTUtOGU5MC00NTQwLTlhNzQtNWYxMzkyMDhlNDky",
-    "gtfs_id": "LPP:c22879e5-8e90-4540-9a74-5f139208e492",
-    "code": "301011",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Friškovec",
-    "lat": 46.05743,
-    "lon": 14.518347,
-    "opposite": "301012",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#7f7b3f"
-      },
-      {
-        "name": "9",
-        "color": "#829fc3"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:c22879e5-8e90-4540-9a74-5f139208e492",
-      "LPP:f1bc11ca-7516-447a-b826-7051c5306af7"
-    ],
-    "merged_codes": [
-      "301011",
-      "301012"
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6YzI4Mjc4OTctYjlmZS00YmZjLWI0ZWQtODgwZjExYTIzNTll",
     "gtfs_id": "LPP:c2827897-b9fe-4bfc-b4ed-880f11a2359e",
     "code": "202051",
@@ -20016,44 +19862,6 @@
     ],
     "merged_codes": [
       "515013"
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6ZDcyMDMyYzctZDRiMC00ZWVlLWE4N2MtNTkzOTg1YTQyMjY2",
-    "gtfs_id": "LPP:d72032c7-d4b0-4eee-a87c-593985a42266",
-    "code": "602041",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Tobačna",
-    "lat": 46.047043,
-    "lon": 14.494323,
-    "opposite": "602042",
-    "routes": [
-      {
-        "name": "1",
-        "color": "#b23a34"
-      },
-      {
-        "name": "1B",
-        "color": "#b23a34"
-      },
-      {
-        "name": "N1",
-        "color": "#cc4544"
-      },
-      {
-        "name": "6",
-        "color": "#88898c"
-      }
-    ],
-    "merged_stop_ids": [
-      "LPP:d72032c7-d4b0-4eee-a87c-593985a42266",
-      "LPP:e66e813a-722d-40f8-9ee9-1470d07bc200"
-    ],
-    "merged_codes": [
-      "602041",
-      "602042"
     ]
   },
   {

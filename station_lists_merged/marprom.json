@@ -6518,7 +6518,7 @@
     "type": "BUS",
     "background_color": "#800000",
     "icon_color": "#FFFFFF",
-    "name": "TABOR - Jadranska",
+    "name": "Tabor Jadranska",
     "lat": 46.536917,
     "lon": 15.643153,
     "opposite": "s910",
@@ -6529,10 +6529,12 @@
       }
     ],
     "merged_stop_ids": [
-      "MARPROM:643"
+      "MARPROM:643",
+      "MARPROM:676"
     ],
     "merged_codes": [
-      "s910"
+      "s910",
+      "s942"
     ]
   },
   {
@@ -6785,30 +6787,6 @@
     ],
     "merged_codes": [
       "s939"
-    ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjY3Ng",
-    "gtfs_id": "MARPROM:676",
-    "code": "s942",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Tabor Jadranska",
-    "lat": 46.537261,
-    "lon": 15.643416,
-    "opposite": "s942",
-    "routes": [
-      {
-        "name": "G3",
-        "color": "#6F3A96"
-      }
-    ],
-    "merged_stop_ids": [
-      "MARPROM:676"
-    ],
-    "merged_codes": [
-      "s942"
     ]
   },
   {

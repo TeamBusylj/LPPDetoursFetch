@@ -1653,13 +1653,17 @@
     "type": "BUS",
     "background_color": "#000000",
     "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici",
+    "name": "Šempeter",
     "lat": 45.930328,
     "lon": 13.639393,
     "opposite": "MONG:77",
     "routes": [
       {
         "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
         "color": "#0F9ED5"
       },
       {
@@ -1697,7 +1701,8 @@
     ],
     "merged_stop_ids": [
       "MONG:77",
-      "MONG:78"
+      "MONG:78",
+      "MONG:87"
     ]
   },
   {
@@ -1707,7 +1712,7 @@
     "type": "BUS",
     "background_color": "#000000",
     "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Biotehn.",
+    "name": "Šempeter",
     "lat": 45.93187,
     "lon": 13.644108,
     "opposite": "MONG:79",
@@ -1728,7 +1733,7 @@
     "type": "BUS",
     "background_color": "#000000",
     "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Letrika",
+    "name": "Šempeter",
     "lat": 45.924124,
     "lon": 13.640726,
     "opposite": "MONG:80",
@@ -1770,7 +1775,7 @@
     "type": "BUS",
     "background_color": "#000000",
     "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici N.Letrika",
+    "name": "Šempeter",
     "lat": 45.921562,
     "lon": 13.638484,
     "opposite": "MONG:82",
@@ -1796,7 +1801,7 @@
     "type": "BUS",
     "background_color": "#000000",
     "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici Podmark",
+    "name": "Šempeter",
     "lat": 45.935981,
     "lon": 13.639718,
     "opposite": "MONG:84",
@@ -1850,7 +1855,7 @@
     "type": "BUS",
     "background_color": "#000000",
     "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici bolnica",
+    "name": "Šempeter",
     "lat": 45.933391,
     "lon": 13.63922,
     "opposite": "MONG:86",
@@ -1886,55 +1891,6 @@
     ],
     "merged_stop_ids": [
       "MONG:86"
-    ]
-  },
-  {
-    "id": "U3RvcDpNT05HOjg3",
-    "gtfs_id": "MONG:87",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
-    "name": "Šempeter/Gorici pošta",
-    "lat": 45.92858,
-    "lon": 13.641164,
-    "opposite": "MONG:87",
-    "routes": [
-      {
-        "name": "1A",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1B",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "1C",
-        "color": "#0F9ED5"
-      },
-      {
-        "name": "2A",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2B",
-        "color": "#D42F02"
-      },
-      {
-        "name": "2C",
-        "color": "#D42F02"
-      },
-      {
-        "name": "4C",
-        "color": "#5AC695"
-      },
-      {
-        "name": "4D",
-        "color": "#5AC695"
-      }
-    ],
-    "merged_stop_ids": [
-      "MONG:87"
     ]
   },
   {
