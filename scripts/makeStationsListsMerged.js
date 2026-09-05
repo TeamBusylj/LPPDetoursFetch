@@ -15,7 +15,7 @@ function getDistanceFromLatLonInM(lat1, lon1, lat2, lon2) {
 
 async function fetchAndProcessStations() {
   const API_URL = "https://api.beta.brezavta.si/stops/";
-  const OUT_DIR = "station_lists";
+  const OUT_DIR = "station_lists_merged";
   const LINE_LISTS_DIR = "station_line_lists";
 
   try {
