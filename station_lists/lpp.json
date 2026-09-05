@@ -2416,6 +2416,10 @@
     "opposite": "IJPP:1124787",
     "routes": [
       {
+        "name": "68",
+        "color": "#207C4C"
+      },
+      {
         "name": "72",
         "color": "#41917F"
       }
@@ -4150,6 +4154,10 @@
     "opposite": "IJPP:1127283",
     "routes": [
       {
+        "name": "68",
+        "color": "#207C4C"
+      },
+      {
         "name": "72",
         "color": "#41917F"
       }
@@ -4550,6 +4558,10 @@
     "opposite": null,
     "routes": [
       {
+        "name": "68",
+        "color": "#207C4C"
+      },
+      {
         "name": "72",
         "color": "#41917F"
       }
@@ -4647,6 +4659,10 @@
     "lon": 14.6625126,
     "opposite": null,
     "routes": [
+      {
+        "name": "68",
+        "color": "#207C4C"
+      },
       {
         "name": "72",
         "color": "#41917F"
@@ -7811,6 +7827,10 @@
     "lon": 14.6771325,
     "opposite": null,
     "routes": [
+      {
+        "name": "68",
+        "color": "#207C4C"
+      },
       {
         "name": "72",
         "color": "#41917F"
