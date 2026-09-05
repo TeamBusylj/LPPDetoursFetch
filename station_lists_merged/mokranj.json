@@ -1,0 +1,4222 @@
+[
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEw",
+    "gtfs_id": "MOKranj:10",
+    "code": "12559",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Brdo/Kr.",
+    "lat": 46.27144,
+    "lon": 14.37016,
+    "opposite": "12559",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:10"
+    ],
+    "merged_codes": [
+      "12559"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwMA",
+    "gtfs_id": "MOKranj:100",
+    "code": "17255",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Primskovo ZD",
+    "lat": 46.24699,
+    "lon": 14.37026,
+    "opposite": "17255",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:100"
+    ],
+    "merged_codes": [
+      "17255"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwMQ",
+    "gtfs_id": "MOKranj:101",
+    "code": "17256",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Primskovo GD",
+    "lat": 46.24874,
+    "lon": 14.37351,
+    "opposite": "17256",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:101"
+    ],
+    "merged_codes": [
+      "17256"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwMg",
+    "gtfs_id": "MOKranj:102",
+    "code": "17251",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Vodovodni stolp",
+    "lat": 46.24847,
+    "lon": 14.35953,
+    "opposite": "17251",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:102"
+    ],
+    "merged_codes": [
+      "17251"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwMw",
+    "gtfs_id": "MOKranj:103",
+    "code": "13572",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zgornje Bitnje K",
+    "lat": 46.22194,
+    "lon": 14.33995,
+    "opposite": "13572",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:103"
+    ],
+    "merged_codes": [
+      "13572"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwNA",
+    "gtfs_id": "MOKranj:104",
+    "code": "10062",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Struževo bloki",
+    "lat": 46.25165,
+    "lon": 14.3396,
+    "opposite": "10062",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:104"
+    ],
+    "merged_codes": [
+      "10062"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwNQ",
+    "gtfs_id": "MOKranj:105",
+    "code": "13573",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zgornje Bitnje K",
+    "lat": 46.22206,
+    "lon": 14.33961,
+    "opposite": "13573",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#A54786"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:105"
+    ],
+    "merged_codes": [
+      "13573"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwNg",
+    "gtfs_id": "MOKranj:106",
+    "code": "17252",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Britof/Kr.",
+    "lat": 46.26128,
+    "lon": 14.39037,
+    "opposite": "17252",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:106"
+    ],
+    "merged_codes": [
+      "17252"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwNw",
+    "gtfs_id": "MOKranj:107",
+    "code": "17253",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Britof/Kr.Johanca",
+    "lat": 46.25852,
+    "lon": 14.38448,
+    "opposite": "17253",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:107"
+    ],
+    "merged_codes": [
+      "17253"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwOA",
+    "gtfs_id": "MOKranj:108",
+    "code": "10064",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Struževo bloki",
+    "lat": 46.2517,
+    "lon": 14.3396,
+    "opposite": "10064",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:108"
+    ],
+    "merged_codes": [
+      "10064"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEwOQ",
+    "gtfs_id": "MOKranj:109",
+    "code": "17254",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Primskovo",
+    "lat": 46.24654,
+    "lon": 14.36373,
+    "opposite": "17254",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:109"
+    ],
+    "merged_codes": [
+      "17254"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEx",
+    "gtfs_id": "MOKranj:11",
+    "code": "12319",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj OŠ S.Žagar",
+    "lat": 46.23515,
+    "lon": 14.36002,
+    "opposite": "12319",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:11"
+    ],
+    "merged_codes": [
+      "12319"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExMA",
+    "gtfs_id": "MOKranj:110",
+    "code": "17250",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Gorenje",
+    "lat": 46.25375,
+    "lon": 14.3778,
+    "opposite": "17250",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:110"
+    ],
+    "merged_codes": [
+      "17250"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExMQ",
+    "gtfs_id": "MOKranj:111",
+    "code": "12408",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kokrica žaga",
+    "lat": 46.26204,
+    "lon": 14.36027,
+    "opposite": "12408",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:111"
+    ],
+    "merged_codes": [
+      "12408"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExMg",
+    "gtfs_id": "MOKranj:112",
+    "code": "12409",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj AP",
+    "lat": 46.24597,
+    "lon": 14.35471,
+    "opposite": "12409",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:112"
+    ],
+    "merged_codes": [
+      "12409"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExMw",
+    "gtfs_id": "MOKranj:113",
+    "code": "12366",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Flora",
+    "lat": 46.22532,
+    "lon": 14.32946,
+    "opposite": "12366",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:113"
+    ],
+    "merged_codes": [
+      "12366"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExNA",
+    "gtfs_id": "MOKranj:114",
+    "code": "13575",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Babni vrt vas",
+    "lat": 46.32032,
+    "lon": 14.38204,
+    "opposite": "13575",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:114"
+    ],
+    "merged_codes": [
+      "13575"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExNQ",
+    "gtfs_id": "MOKranj:115",
+    "code": "10067",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Srakovlje",
+    "lat": 46.28066,
+    "lon": 14.36077,
+    "opposite": "10067",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:115"
+    ],
+    "merged_codes": [
+      "10067"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExNg",
+    "gtfs_id": "MOKranj:116",
+    "code": "10069",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Srakovlje",
+    "lat": 46.28071,
+    "lon": 14.36064,
+    "opposite": "10069",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:116"
+    ],
+    "merged_codes": [
+      "10069"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExNw",
+    "gtfs_id": "MOKranj:117",
+    "code": "14592",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče Pražarna",
+    "lat": 46.22503,
+    "lon": 14.33704,
+    "opposite": "14592",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#A54786"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:117"
+    ],
+    "merged_codes": [
+      "14592"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExOA",
+    "gtfs_id": "MOKranj:118",
+    "code": "12571",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Supernova",
+    "lat": 46.24226,
+    "lon": 14.35153,
+    "opposite": "12571",
+    "routes": [
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:118"
+    ],
+    "merged_codes": [
+      "12571"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjExOQ",
+    "gtfs_id": "MOKranj:119",
+    "code": "14595",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče Ješe",
+    "lat": 46.22924,
+    "lon": 14.33978,
+    "opposite": "14595",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#A54786"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:119"
+    ],
+    "merged_codes": [
+      "14595"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyMA",
+    "gtfs_id": "MOKranj:120",
+    "code": "12294",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Novi dom",
+    "lat": 46.23866,
+    "lon": 14.35923,
+    "opposite": "12294",
+    "routes": [
+      {
+        "name": "0",
+        "color": "#58464D"
+      },
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:120"
+    ],
+    "merged_codes": [
+      "12294"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyMQ",
+    "gtfs_id": "MOKranj:121",
+    "code": "12330",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Plinarna",
+    "lat": 46.24308,
+    "lon": 14.37031,
+    "opposite": "12330",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:121"
+    ],
+    "merged_codes": [
+      "12330"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyMg",
+    "gtfs_id": "MOKranj:122",
+    "code": "14596",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče PTT",
+    "lat": 46.23176,
+    "lon": 14.34728,
+    "opposite": "14596",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:122"
+    ],
+    "merged_codes": [
+      "14596"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyMw",
+    "gtfs_id": "MOKranj:123",
+    "code": "14593",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče Pražarna",
+    "lat": 46.22419,
+    "lon": 14.33759,
+    "opposite": "14593",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:123"
+    ],
+    "merged_codes": [
+      "14593"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyNA",
+    "gtfs_id": "MOKranj:124",
+    "code": "12176",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Britof/Kr.",
+    "lat": 46.26024,
+    "lon": 14.38886,
+    "opposite": "12176",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:124"
+    ],
+    "merged_codes": [
+      "12176"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyNQ",
+    "gtfs_id": "MOKranj:125",
+    "code": "12296",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Novi dom",
+    "lat": 46.23876,
+    "lon": 14.35883,
+    "opposite": "12296",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:125"
+    ],
+    "merged_codes": [
+      "12296"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyNg",
+    "gtfs_id": "MOKranj:126",
+    "code": "14594",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče Ješe",
+    "lat": 46.22929,
+    "lon": 14.33999,
+    "opposite": "14594",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:126"
+    ],
+    "merged_codes": [
+      "14594"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyNw",
+    "gtfs_id": "MOKranj:127",
+    "code": "15729",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj ŽP",
+    "lat": 46.23679,
+    "lon": 14.34928,
+    "opposite": "15729",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:127"
+    ],
+    "merged_codes": [
+      "15729"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyOA",
+    "gtfs_id": "MOKranj:128",
+    "code": "12339",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Primskovo GD",
+    "lat": 46.24801,
+    "lon": 14.37252,
+    "opposite": "12339",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:128"
+    ],
+    "merged_codes": [
+      "12339"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEyOQ",
+    "gtfs_id": "MOKranj:129",
+    "code": "12299",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Likozarjeva",
+    "lat": 46.23979,
+    "lon": 14.36253,
+    "opposite": "12299",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#A54786"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:129"
+    ],
+    "merged_codes": [
+      "12299"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEz",
+    "gtfs_id": "MOKranj:13",
+    "code": "12439",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj C.Kokrškega Odreda",
+    "lat": 46.25051,
+    "lon": 14.36079,
+    "opposite": "12439",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:13"
+    ],
+    "merged_codes": [
+      "12439"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzMA",
+    "gtfs_id": "MOKranj:130",
+    "code": "11003",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Mestna knjižnica Kranj",
+    "lat": 46.24226,
+    "lon": 14.35656,
+    "opposite": "11003",
+    "routes": [
+      {
+        "name": "0",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:130"
+    ],
+    "merged_codes": [
+      "11003"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzMQ",
+    "gtfs_id": "MOKranj:131",
+    "code": "12331",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Plinarna",
+    "lat": 46.24244,
+    "lon": 14.37116,
+    "opposite": "12331",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:131"
+    ],
+    "merged_codes": [
+      "12331"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzMg",
+    "gtfs_id": "MOKranj:132",
+    "code": "12337",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Primskovo ZD",
+    "lat": 46.24645,
+    "lon": 14.36955,
+    "opposite": "12337",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:132"
+    ],
+    "merged_codes": [
+      "12337"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzMw",
+    "gtfs_id": "MOKranj:133",
+    "code": "12338",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Qlandia",
+    "lat": 46.23282,
+    "lon": 14.36755,
+    "opposite": "12338",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:133"
+    ],
+    "merged_codes": [
+      "12338"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzNA",
+    "gtfs_id": "MOKranj:134",
+    "code": "14758",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Hrastje/Kr.",
+    "lat": 46.21811,
+    "lon": 14.38569,
+    "opposite": "14758",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:134"
+    ],
+    "merged_codes": [
+      "14758"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzNQ",
+    "gtfs_id": "MOKranj:135",
+    "code": "14755",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Hrastje/Kr. II",
+    "lat": 46.2223,
+    "lon": 14.38059,
+    "opposite": "14755",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:135"
+    ],
+    "merged_codes": [
+      "14755"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzNg",
+    "gtfs_id": "MOKranj:136",
+    "code": "12699",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Žablje",
+    "lat": 46.30692,
+    "lon": 14.38355,
+    "opposite": "12699",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:136"
+    ],
+    "merged_codes": [
+      "12699"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzNw",
+    "gtfs_id": "MOKranj:137",
+    "code": "13430",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče Š",
+    "lat": 46.23364,
+    "lon": 14.34503,
+    "opposite": "13430",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:137"
+    ],
+    "merged_codes": [
+      "13430"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzOA",
+    "gtfs_id": "MOKranj:138",
+    "code": "16709",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj AP",
+    "lat": 46.2458,
+    "lon": 14.35486,
+    "opposite": "16709",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:138"
+    ],
+    "merged_codes": [
+      "16709"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjEzOQ",
+    "gtfs_id": "MOKranj:139",
+    "code": "12344",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Savska cesta",
+    "lat": 46.23472,
+    "lon": 14.35748,
+    "opposite": "12344",
+    "routes": [
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:139"
+    ],
+    "merged_codes": [
+      "12344"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0",
+    "gtfs_id": "MOKranj:14",
+    "code": "10815",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Ilovka Bobovek K",
+    "lat": 46.26965,
+    "lon": 14.36158,
+    "opposite": "10815",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:14"
+    ],
+    "merged_codes": [
+      "10815"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0MA",
+    "gtfs_id": "MOKranj:140",
+    "code": "15733",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Labore Šk.C.",
+    "lat": 46.23191,
+    "lon": 14.35242,
+    "opposite": "15733",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:140"
+    ],
+    "merged_codes": [
+      "15733"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0MQ",
+    "gtfs_id": "MOKranj:141",
+    "code": "15732",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče PTT",
+    "lat": 46.23148,
+    "lon": 14.34673,
+    "opposite": "15732",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:141"
+    ],
+    "merged_codes": [
+      "15732"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0Mg",
+    "gtfs_id": "MOKranj:142",
+    "code": "12345",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Savska cesta",
+    "lat": 46.23481,
+    "lon": 14.35749,
+    "opposite": "12345",
+    "routes": [
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:142"
+    ],
+    "merged_codes": [
+      "12345"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0Mw",
+    "gtfs_id": "MOKranj:143",
+    "code": "16303",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Zlato polje P+R",
+    "lat": 46.2493,
+    "lon": 14.34755,
+    "opposite": "16303",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:143"
+    ],
+    "merged_codes": [
+      "16303"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0NA",
+    "gtfs_id": "MOKranj:144",
+    "code": "12343",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stolpnice",
+    "lat": 46.23259,
+    "lon": 14.36343,
+    "opposite": "12343",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:144"
+    ],
+    "merged_codes": [
+      "12343"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0NQ",
+    "gtfs_id": "MOKranj:145",
+    "code": "16302",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Zlato polje P+R",
+    "lat": 46.25052,
+    "lon": 14.34611,
+    "opposite": "16302",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:145"
+    ],
+    "merged_codes": [
+      "16302"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0Nw",
+    "gtfs_id": "MOKranj:147",
+    "code": "10048",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Rupa",
+    "lat": 46.2567,
+    "lon": 14.3648,
+    "opposite": "10048",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:147"
+    ],
+    "merged_codes": [
+      "10048"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0OA",
+    "gtfs_id": "MOKranj:148",
+    "code": "13438",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Prebačevo I",
+    "lat": 46.21422,
+    "lon": 14.39172,
+    "opposite": "13438",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:148"
+    ],
+    "merged_codes": [
+      "13438"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE0OQ",
+    "gtfs_id": "MOKranj:149",
+    "code": "12346",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Ručigajeva K",
+    "lat": 46.23971,
+    "lon": 14.36761,
+    "opposite": "12346",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:149"
+    ],
+    "merged_codes": [
+      "12346"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE1",
+    "gtfs_id": "MOKranj:15",
+    "code": "10816",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Čirče",
+    "lat": 46.22761,
+    "lon": 14.37125,
+    "opposite": "10816",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:15"
+    ],
+    "merged_codes": [
+      "10816"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE1MA",
+    "gtfs_id": "MOKranj:150",
+    "code": "15734",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj kolodvor",
+    "lat": 46.23844,
+    "lon": 14.34921,
+    "opposite": "15734",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:150"
+    ],
+    "merged_codes": [
+      "15734"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE1MQ",
+    "gtfs_id": "MOKranj:151",
+    "code": "12347",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Ručigajeva K",
+    "lat": 46.23939,
+    "lon": 14.36809,
+    "opposite": "12347",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:151"
+    ],
+    "merged_codes": [
+      "12347"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE2",
+    "gtfs_id": "MOKranj:16",
+    "code": "12432",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Gorenjska oblačila",
+    "lat": 46.25322,
+    "lon": 14.35428,
+    "opposite": "12432",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:16"
+    ],
+    "merged_codes": [
+      "12432"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE3",
+    "gtfs_id": "MOKranj:17",
+    "code": "10770",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Mlaka pri Kranju",
+    "lat": 46.27144,
+    "lon": 14.35078,
+    "opposite": "10770",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:17"
+    ],
+    "merged_codes": [
+      "10770"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE4",
+    "gtfs_id": "MOKranj:18",
+    "code": "12433",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Globus",
+    "lat": 46.24197,
+    "lon": 14.35546,
+    "opposite": "12433",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:18"
+    ],
+    "merged_codes": [
+      "12433"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjE5",
+    "gtfs_id": "MOKranj:19",
+    "code": "10098",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zgornje Bitnje 140",
+    "lat": 46.22379,
+    "lon": 14.33154,
+    "opposite": "10098",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:19"
+    ],
+    "merged_codes": [
+      "10098"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjI",
+    "gtfs_id": "MOKranj:2",
+    "code": "12391",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Hrastje/Kr.",
+    "lat": 46.21804,
+    "lon": 14.38614,
+    "opposite": "12391",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:2"
+    ],
+    "merged_codes": [
+      "12391"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjIw",
+    "gtfs_id": "MOKranj:20",
+    "code": "12554",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Bobovek",
+    "lat": 46.27409,
+    "lon": 14.36419,
+    "opposite": "12554",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:20"
+    ],
+    "merged_codes": [
+      "12554"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjIx",
+    "gtfs_id": "MOKranj:21",
+    "code": "10772",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Mlaka pri Kranju",
+    "lat": 46.27237,
+    "lon": 14.35147,
+    "opposite": "10772",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:21"
+    ],
+    "merged_codes": [
+      "10772"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjIy",
+    "gtfs_id": "MOKranj:22",
+    "code": "9736",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Prebačevo I",
+    "lat": 46.21411,
+    "lon": 14.39232,
+    "opposite": "9736",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:22"
+    ],
+    "merged_codes": [
+      "9736"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjIz",
+    "gtfs_id": "MOKranj:23",
+    "code": "12431",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Iskra Labore",
+    "lat": 46.22621,
+    "lon": 14.35516,
+    "opposite": "12431",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#A54786"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:23"
+    ],
+    "merged_codes": [
+      "12431"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjI0",
+    "gtfs_id": "MOKranj:24",
+    "code": "14697",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Britof/Kr.Johanca",
+    "lat": 46.25834,
+    "lon": 14.38436,
+    "opposite": "14697",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:24"
+    ],
+    "merged_codes": [
+      "14697"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjI1",
+    "gtfs_id": "MOKranj:25",
+    "code": "14730",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Planika",
+    "lat": 46.22868,
+    "lon": 14.36013,
+    "opposite": "14730",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:25"
+    ],
+    "merged_codes": [
+      "14730"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjI2",
+    "gtfs_id": "MOKranj:26",
+    "code": "12437",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Gorenjska oblačila",
+    "lat": 46.25265,
+    "lon": 14.35459,
+    "opposite": "12437",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:26"
+    ],
+    "merged_codes": [
+      "12437"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjI3",
+    "gtfs_id": "MOKranj:27",
+    "code": "12710",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Prebačevo",
+    "lat": 46.21188,
+    "lon": 14.39644,
+    "opposite": "12710",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:27"
+    ],
+    "merged_codes": [
+      "12710"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjI4",
+    "gtfs_id": "MOKranj:28",
+    "code": "10775",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Primskovo na Klancu",
+    "lat": 46.24331,
+    "lon": 14.36516,
+    "opposite": "10775",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:28"
+    ],
+    "merged_codes": [
+      "10775"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjI5",
+    "gtfs_id": "MOKranj:29",
+    "code": "12280",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Likozarjeva",
+    "lat": 46.24033,
+    "lon": 14.36278,
+    "opposite": "12280",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:29"
+    ],
+    "merged_codes": [
+      "12280"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM",
+    "gtfs_id": "MOKranj:3",
+    "code": "10091",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zgornje Bitnje 140",
+    "lat": 46.22384,
+    "lon": 14.33156,
+    "opposite": "10091",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:3"
+    ],
+    "merged_codes": [
+      "10091"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjMw",
+    "gtfs_id": "MOKranj:30",
+    "code": "12560",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Brdo/Kr.",
+    "lat": 46.27119,
+    "lon": 14.36959,
+    "opposite": "12560",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:30"
+    ],
+    "merged_codes": [
+      "12560"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjMwMg",
+    "gtfs_id": "MOKranj:302",
+    "code": "17738",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj OŠ Simona Jenka",
+    "lat": 46.25077,
+    "lon": 14.35822,
+    "opposite": "17738",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:302"
+    ],
+    "merged_codes": [
+      "17738"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjMwMw",
+    "gtfs_id": "MOKranj:303",
+    "code": "17739",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj OŠ Simona Jenka",
+    "lat": 46.25084,
+    "lon": 14.35837,
+    "opposite": "17739",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:303"
+    ],
+    "merged_codes": [
+      "17739"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjMx",
+    "gtfs_id": "MOKranj:31",
+    "code": "12329",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Pokopališče",
+    "lat": 46.23687,
+    "lon": 14.36931,
+    "opposite": "12329",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:31"
+    ],
+    "merged_codes": [
+      "12329"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjMy",
+    "gtfs_id": "MOKranj:32",
+    "code": "12328",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Primskovo",
+    "lat": 46.246,
+    "lon": 14.36439,
+    "opposite": "12328",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:32"
+    ],
+    "merged_codes": [
+      "12328"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjMz",
+    "gtfs_id": "MOKranj:33",
+    "code": "9903",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj ZD",
+    "lat": 46.24966,
+    "lon": 14.35278,
+    "opposite": "9903",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:33"
+    ],
+    "merged_codes": [
+      "9903"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM0",
+    "gtfs_id": "MOKranj:34",
+    "code": "12441",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Dijaški dom",
+    "lat": 46.24897,
+    "lon": 14.35071,
+    "opposite": "12441",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:34"
+    ],
+    "merged_codes": [
+      "12441"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM2",
+    "gtfs_id": "MOKranj:36",
+    "code": "12447",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Iskra Labore",
+    "lat": 46.22588,
+    "lon": 14.35357,
+    "opposite": "12447",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#FFF200"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:36"
+    ],
+    "merged_codes": [
+      "12447"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM3",
+    "gtfs_id": "MOKranj:37",
+    "code": "10071",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje Pokorn",
+    "lat": 46.21169,
+    "lon": 14.33198,
+    "opposite": "10071",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:37"
+    ],
+    "merged_codes": [
+      "10071"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM4",
+    "gtfs_id": "MOKranj:38",
+    "code": "10073",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje Zora",
+    "lat": 46.21423,
+    "lon": 14.33249,
+    "opposite": "10073",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:38"
+    ],
+    "merged_codes": [
+      "10073"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjM5",
+    "gtfs_id": "MOKranj:39",
+    "code": "9921",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Perivnik",
+    "lat": 46.25114,
+    "lon": 14.34228,
+    "opposite": "9921",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:39"
+    ],
+    "merged_codes": [
+      "9921"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ",
+    "gtfs_id": "MOKranj:4",
+    "code": "10093",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zg.Bitnje Jenko",
+    "lat": 46.21882,
+    "lon": 14.33359,
+    "opposite": "10093",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:4"
+    ],
+    "merged_codes": [
+      "10093"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQw",
+    "gtfs_id": "MOKranj:40",
+    "code": "10075",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje most pri Bitencu",
+    "lat": 46.21586,
+    "lon": 14.33328,
+    "opposite": "10075",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:40"
+    ],
+    "merged_codes": [
+      "10075"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQwMg",
+    "gtfs_id": "MOKranj:402",
+    "code": "18402",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Zarica",
+    "lat": 46.22052,
+    "lon": 14.36764,
+    "opposite": "18402",
+    "routes": [
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:402"
+    ],
+    "merged_codes": [
+      "18402"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQx",
+    "gtfs_id": "MOKranj:41",
+    "code": "10074",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje most pri Bitencu",
+    "lat": 46.21588,
+    "lon": 14.33321,
+    "opposite": "10074",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:41"
+    ],
+    "merged_codes": [
+      "10074"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQy",
+    "gtfs_id": "MOKranj:42",
+    "code": "10117",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Žabnica",
+    "lat": 46.19658,
+    "lon": 14.33209,
+    "opposite": "10117",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:42"
+    ],
+    "merged_codes": [
+      "10117"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQz",
+    "gtfs_id": "MOKranj:43",
+    "code": "12416",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kokrica",
+    "lat": 46.26628,
+    "lon": 14.35614,
+    "opposite": "12416",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:43"
+    ],
+    "merged_codes": [
+      "12416"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ0",
+    "gtfs_id": "MOKranj:44",
+    "code": "10759",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Hrastje I",
+    "lat": 46.22499,
+    "lon": 14.37665,
+    "opposite": "10759",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:44"
+    ],
+    "merged_codes": [
+      "10759"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ1",
+    "gtfs_id": "MOKranj:45",
+    "code": "14719",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Labore Šk.C.",
+    "lat": 46.23202,
+    "lon": 14.35245,
+    "opposite": "14719",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:45"
+    ],
+    "merged_codes": [
+      "14719"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ2",
+    "gtfs_id": "MOKranj:46",
+    "code": "12410",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kokrica",
+    "lat": 46.26635,
+    "lon": 14.35603,
+    "opposite": "12410",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:46"
+    ],
+    "merged_codes": [
+      "12410"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ3",
+    "gtfs_id": "MOKranj:47",
+    "code": "13863",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Čadovlje/Golniku K",
+    "lat": 46.30859,
+    "lon": 14.37651,
+    "opposite": "13863",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:47"
+    ],
+    "merged_codes": [
+      "13863"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ4",
+    "gtfs_id": "MOKranj:48",
+    "code": "13866",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Povlje",
+    "lat": 46.32259,
+    "lon": 14.37775,
+    "opposite": "13866",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:48"
+    ],
+    "merged_codes": [
+      "13866"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjQ5",
+    "gtfs_id": "MOKranj:49",
+    "code": "12415",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kitajska restavracija",
+    "lat": 46.22086,
+    "lon": 14.33234,
+    "opposite": "12415",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:49"
+    ],
+    "merged_codes": [
+      "12415"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU",
+    "gtfs_id": "MOKranj:5",
+    "code": "10095",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zg.Bitnje Jenko",
+    "lat": 46.21881,
+    "lon": 14.33364,
+    "opposite": "10095",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:5"
+    ],
+    "merged_codes": [
+      "10095"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUw",
+    "gtfs_id": "MOKranj:50",
+    "code": "14714",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Iskra sp.",
+    "lat": 46.2356,
+    "lon": 14.35306,
+    "opposite": "14714",
+    "routes": [
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:50"
+    ],
+    "merged_codes": [
+      "14714"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUwMg",
+    "gtfs_id": "MOKranj:502",
+    "code": "18521",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Planina otok",
+    "lat": 46.23776,
+    "lon": 14.36492,
+    "opposite": "18521",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:502"
+    ],
+    "merged_codes": [
+      "18521"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUwMw",
+    "gtfs_id": "MOKranj:503",
+    "code": "18509",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Perivnik",
+    "lat": 46.25115,
+    "lon": 14.34222,
+    "opposite": "18509",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:503"
+    ],
+    "merged_codes": [
+      "18509"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUwNA",
+    "gtfs_id": "MOKranj:504",
+    "code": "18522",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj ŽP",
+    "lat": 46.23731,
+    "lon": 14.34939,
+    "opposite": "18522",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:504"
+    ],
+    "merged_codes": [
+      "18522"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUx",
+    "gtfs_id": "MOKranj:51",
+    "code": "13864",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zalog/Goriče",
+    "lat": 46.32652,
+    "lon": 14.35307,
+    "opposite": "13864",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:51"
+    ],
+    "merged_codes": [
+      "13864"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUy",
+    "gtfs_id": "MOKranj:52",
+    "code": "12412",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kokrica žaga",
+    "lat": 46.26192,
+    "lon": 14.3602,
+    "opposite": "12412",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:52"
+    ],
+    "merged_codes": [
+      "12412"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjUz",
+    "gtfs_id": "MOKranj:53",
+    "code": "13865",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Srednja vas/Goriče",
+    "lat": 46.31905,
+    "lon": 14.34741,
+    "opposite": "13865",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:53"
+    ],
+    "merged_codes": [
+      "13865"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU0",
+    "gtfs_id": "MOKranj:54",
+    "code": "12534",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Bauimex",
+    "lat": 46.22763,
+    "lon": 14.32873,
+    "opposite": "12534",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:54"
+    ],
+    "merged_codes": [
+      "12534"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU1",
+    "gtfs_id": "MOKranj:55",
+    "code": "9894",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj V.hrib",
+    "lat": 46.262,
+    "lon": 14.35367,
+    "opposite": "9894",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:55"
+    ],
+    "merged_codes": [
+      "9894"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU2",
+    "gtfs_id": "MOKranj:56",
+    "code": "9895",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj V.hrib",
+    "lat": 46.26197,
+    "lon": 14.35383,
+    "opposite": "9895",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:56"
+    ],
+    "merged_codes": [
+      "9895"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU3",
+    "gtfs_id": "MOKranj:57",
+    "code": "10081",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Struževo KS",
+    "lat": 46.25063,
+    "lon": 14.33803,
+    "opposite": "10081",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:57"
+    ],
+    "merged_codes": [
+      "10081"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU4",
+    "gtfs_id": "MOKranj:58",
+    "code": "10084",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Struževo pod žel.mostom",
+    "lat": 46.24887,
+    "lon": 14.34179,
+    "opposite": "10084",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:58"
+    ],
+    "merged_codes": [
+      "10084"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjU5",
+    "gtfs_id": "MOKranj:59",
+    "code": "9898",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj ZD",
+    "lat": 46.24967,
+    "lon": 14.35299,
+    "opposite": "9898",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:59"
+    ],
+    "merged_codes": [
+      "9898"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY",
+    "gtfs_id": "MOKranj:6",
+    "code": "12273",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Iskra sp.",
+    "lat": 46.23567,
+    "lon": 14.35313,
+    "opposite": "12273",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:6"
+    ],
+    "merged_codes": [
+      "12273"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjYw",
+    "gtfs_id": "MOKranj:60",
+    "code": "13870",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Hraše/Tatinec",
+    "lat": 46.29317,
+    "lon": 14.37403,
+    "opposite": "13870",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:60"
+    ],
+    "merged_codes": [
+      "13870"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjYwMg",
+    "gtfs_id": "MOKranj:602",
+    "code": "18908",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Čirče",
+    "lat": 46.22775,
+    "lon": 14.3708,
+    "opposite": "18908",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:602"
+    ],
+    "merged_codes": [
+      "18908"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjYx",
+    "gtfs_id": "MOKranj:61",
+    "code": "9930",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Predoslje Š",
+    "lat": 46.26573,
+    "lon": 14.38719,
+    "opposite": "9930",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:61"
+    ],
+    "merged_codes": [
+      "9930"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjYy",
+    "gtfs_id": "MOKranj:62",
+    "code": "12429",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Globus",
+    "lat": 46.2422,
+    "lon": 14.35551,
+    "opposite": "12429",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "4",
+        "color": "#EC008C"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:62"
+    ],
+    "merged_codes": [
+      "12429"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjYz",
+    "gtfs_id": "MOKranj:63",
+    "code": "11977",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stolpnice",
+    "lat": 46.23304,
+    "lon": 14.36244,
+    "opposite": "11977",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:63"
+    ],
+    "merged_codes": [
+      "11977"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY0",
+    "gtfs_id": "MOKranj:64",
+    "code": "10645",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Primskovo Dolnov",
+    "lat": 46.24487,
+    "lon": 14.37682,
+    "opposite": "10645",
+    "routes": [
+      {
+        "name": "15",
+        "color": "#131D43"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:64"
+    ],
+    "merged_codes": [
+      "10645"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY1",
+    "gtfs_id": "MOKranj:65",
+    "code": "12705",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Bobovek",
+    "lat": 46.27443,
+    "lon": 14.36415,
+    "opposite": "12705",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:65"
+    ],
+    "merged_codes": [
+      "12705"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY2",
+    "gtfs_id": "MOKranj:66",
+    "code": "13912",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Hrastje I",
+    "lat": 46.22535,
+    "lon": 14.3757,
+    "opposite": "13912",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:66"
+    ],
+    "merged_codes": [
+      "13912"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY3",
+    "gtfs_id": "MOKranj:67",
+    "code": "12427",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj C.Kokrškega Odreda",
+    "lat": 46.25052,
+    "lon": 14.36073,
+    "opposite": "12427",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:67"
+    ],
+    "merged_codes": [
+      "12427"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY4",
+    "gtfs_id": "MOKranj:68",
+    "code": "10768",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Vodovodni stolp",
+    "lat": 46.24817,
+    "lon": 14.36019,
+    "opposite": "10768",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:68"
+    ],
+    "merged_codes": [
+      "10768"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjY5",
+    "gtfs_id": "MOKranj:69",
+    "code": "11978",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Stražišče DD",
+    "lat": 46.23697,
+    "lon": 14.34519,
+    "opposite": "11978",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:69"
+    ],
+    "merged_codes": [
+      "11978"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjc",
+    "gtfs_id": "MOKranj:7",
+    "code": "10097",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Tominčeva 24",
+    "lat": 46.23392,
+    "lon": 14.34094,
+    "opposite": "10097",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:7"
+    ],
+    "merged_codes": [
+      "10097"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjcw",
+    "gtfs_id": "MOKranj:70",
+    "code": "12388",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Hrastje/Kr. II",
+    "lat": 46.22189,
+    "lon": 14.38158,
+    "opposite": "12388",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:70"
+    ],
+    "merged_codes": [
+      "12388"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjcx",
+    "gtfs_id": "MOKranj:71",
+    "code": "12422",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kitajska restavracija",
+    "lat": 46.22084,
+    "lon": 14.33234,
+    "opposite": "12422",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:71"
+    ],
+    "merged_codes": [
+      "12422"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjcy",
+    "gtfs_id": "MOKranj:72",
+    "code": "10087",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Suha",
+    "lat": 46.27301,
+    "lon": 14.39814,
+    "opposite": "10087",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:72"
+    ],
+    "merged_codes": [
+      "10087"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjcz",
+    "gtfs_id": "MOKranj:73",
+    "code": "10123",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Bobovek bloki",
+    "lat": 46.2708,
+    "lon": 14.36172,
+    "opposite": "10123",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:73"
+    ],
+    "merged_codes": [
+      "10123"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjc1",
+    "gtfs_id": "MOKranj:75",
+    "code": "10089",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Zg.Bitnje trgovina",
+    "lat": 46.22104,
+    "lon": 14.33629,
+    "opposite": "10089",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:75"
+    ],
+    "merged_codes": [
+      "10089"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjc2",
+    "gtfs_id": "MOKranj:76",
+    "code": "9928",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Primskovo Mercator",
+    "lat": 46.24226,
+    "lon": 14.37736,
+    "opposite": "9928",
+    "routes": [
+      {
+        "name": "15",
+        "color": "#131D43"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:76"
+    ],
+    "merged_codes": [
+      "9928"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjc3",
+    "gtfs_id": "MOKranj:77",
+    "code": "12303",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj OŠ S.Jenko",
+    "lat": 46.25081,
+    "lon": 14.35835,
+    "opposite": "12303",
+    "routes": [
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:77"
+    ],
+    "merged_codes": [
+      "12303"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjc4",
+    "gtfs_id": "MOKranj:78",
+    "code": "10125",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Predoslje GD",
+    "lat": 46.26807,
+    "lon": 14.38574,
+    "opposite": "10125",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:78"
+    ],
+    "merged_codes": [
+      "10125"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjc5",
+    "gtfs_id": "MOKranj:79",
+    "code": "13910",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Gorenje",
+    "lat": 46.25325,
+    "lon": 14.37754,
+    "opposite": "13910",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:79"
+    ],
+    "merged_codes": [
+      "13910"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg",
+    "gtfs_id": "MOKranj:8",
+    "code": "10096",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Tominčeva 24",
+    "lat": 46.23392,
+    "lon": 14.34233,
+    "opposite": "10096",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:8"
+    ],
+    "merged_codes": [
+      "10096"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjgw",
+    "gtfs_id": "MOKranj:80",
+    "code": "12302",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj OŠ S.Žagar",
+    "lat": 46.23531,
+    "lon": 14.36008,
+    "opposite": "12302",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "3",
+        "color": "#A54786"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:80"
+    ],
+    "merged_codes": [
+      "12302"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjgx",
+    "gtfs_id": "MOKranj:81",
+    "code": "12426",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj AP",
+    "lat": 46.24582,
+    "lon": 14.35453,
+    "opposite": "12426",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "2",
+        "color": "#FFF200"
+      },
+      {
+        "name": "5",
+        "color": "#231F20"
+      },
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:81"
+    ],
+    "merged_codes": [
+      "12426"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjgy",
+    "gtfs_id": "MOKranj:82",
+    "code": "9929",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Predoslje",
+    "lat": 46.2682,
+    "lon": 14.38389,
+    "opposite": "9929",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:82"
+    ],
+    "merged_codes": [
+      "9929"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjgz",
+    "gtfs_id": "MOKranj:83",
+    "code": "12305",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj OŠ S.Jenko",
+    "lat": 46.25074,
+    "lon": 14.35835,
+    "opposite": "12305",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:83"
+    ],
+    "merged_codes": [
+      "12305"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg0",
+    "gtfs_id": "MOKranj:84",
+    "code": "9927",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Predoslje Š",
+    "lat": 46.26563,
+    "lon": 14.3871,
+    "opposite": "9927",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      },
+      {
+        "name": "7",
+        "color": "#F5821F"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:84"
+    ],
+    "merged_codes": [
+      "9927"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg1",
+    "gtfs_id": "MOKranj:85",
+    "code": "9942",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Pševska c.52",
+    "lat": 46.23126,
+    "lon": 14.33586,
+    "opposite": "9942",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:85"
+    ],
+    "merged_codes": [
+      "9942"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg2",
+    "gtfs_id": "MOKranj:86",
+    "code": "10050",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sp.Bitnje pri Bošnjakoviču",
+    "lat": 46.20795,
+    "lon": 14.33256,
+    "opposite": "10050",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:86"
+    ],
+    "merged_codes": [
+      "10050"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg3",
+    "gtfs_id": "MOKranj:87",
+    "code": "9940",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Pševska c.52",
+    "lat": 46.23123,
+    "lon": 14.33579,
+    "opposite": "9940",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:87"
+    ],
+    "merged_codes": [
+      "9940"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg4",
+    "gtfs_id": "MOKranj:88",
+    "code": "10053",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Rupa",
+    "lat": 46.25669,
+    "lon": 14.36488,
+    "opposite": "10053",
+    "routes": [
+      {
+        "name": "6",
+        "color": "#00A650"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:88"
+    ],
+    "merged_codes": [
+      "10053"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjg5",
+    "gtfs_id": "MOKranj:89",
+    "code": "10052",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Rožna ulica",
+    "lat": 46.23317,
+    "lon": 14.33809,
+    "opposite": "10052",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:89"
+    ],
+    "merged_codes": [
+      "10052"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk",
+    "gtfs_id": "MOKranj:9",
+    "code": "12317",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Kranj Planina otok",
+    "lat": 46.23754,
+    "lon": 14.36468,
+    "opposite": "12317",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#00AEEF"
+      },
+      {
+        "name": "11",
+        "color": "#806B64"
+      },
+      {
+        "name": "15",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:9"
+    ],
+    "merged_codes": [
+      "12317"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjkw",
+    "gtfs_id": "MOKranj:90",
+    "code": "12517",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Bauimex",
+    "lat": 46.22761,
+    "lon": 14.32867,
+    "opposite": "12517",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:90"
+    ],
+    "merged_codes": [
+      "12517"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjkx",
+    "gtfs_id": "MOKranj:91",
+    "code": "10614",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Pungert",
+    "lat": 46.23655,
+    "lon": 14.3558,
+    "opposite": "10614",
+    "routes": [
+      {
+        "name": "0",
+        "color": "#58464D"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:91"
+    ],
+    "merged_codes": [
+      "10614"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjky",
+    "gtfs_id": "MOKranj:92",
+    "code": "10057",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje Avto prevoz Hafner",
+    "lat": 46.21302,
+    "lon": 14.33227,
+    "opposite": "10057",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:92"
+    ],
+    "merged_codes": [
+      "10057"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjkz",
+    "gtfs_id": "MOKranj:93",
+    "code": "10056",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Rožna ulica",
+    "lat": 46.23322,
+    "lon": 14.33796,
+    "opposite": "10056",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:93"
+    ],
+    "merged_codes": [
+      "10056"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk0",
+    "gtfs_id": "MOKranj:94",
+    "code": "9934",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Predoslje",
+    "lat": 46.26832,
+    "lon": 14.38381,
+    "opposite": "9934",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#231F20"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:94"
+    ],
+    "merged_codes": [
+      "9934"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk1",
+    "gtfs_id": "MOKranj:95",
+    "code": "12359",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Flora",
+    "lat": 46.22532,
+    "lon": 14.32942,
+    "opposite": "12359",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:95"
+    ],
+    "merged_codes": [
+      "12359"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk2",
+    "gtfs_id": "MOKranj:96",
+    "code": "10059",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sr.Bitnje Avto prevoz Hafner",
+    "lat": 46.21305,
+    "lon": 14.33222,
+    "opposite": "10059",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:96"
+    ],
+    "merged_codes": [
+      "10059"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk3",
+    "gtfs_id": "MOKranj:97",
+    "code": "10058",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Sp.Bitnje pri Bošnjakoviču",
+    "lat": 46.20799,
+    "lon": 14.33259,
+    "opposite": "10058",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#EC008C"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:97"
+    ],
+    "merged_codes": [
+      "10058"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk4",
+    "gtfs_id": "MOKranj:98",
+    "code": "13842",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Tatinec vas",
+    "lat": 46.28859,
+    "lon": 14.36812,
+    "opposite": "13842",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:98"
+    ],
+    "merged_codes": [
+      "13842"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tyYW5qOjk5",
+    "gtfs_id": "MOKranj:99",
+    "code": "13843",
+    "type": "BUS",
+    "background_color": "#AF1A44",
+    "icon_color": "#FFFFFF",
+    "name": "Svarje",
+    "lat": 46.33207,
+    "lon": 14.35085,
+    "opposite": "13843",
+    "routes": [
+      {
+        "name": "14",
+        "color": "#81D4F7"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOKranj:99"
+    ],
+    "merged_codes": [
+      "13843"
+    ]
+  }
+]

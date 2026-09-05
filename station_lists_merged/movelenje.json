@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MQ",
+    "gtfs_id": "MOVelenje:1",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "AC Prapotnik",
+    "lat": 46.360374,
+    "lon": 15.125,
+    "opposite": "MOVelenje:1",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:1"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTA",
+    "gtfs_id": "MOVelenje:10",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Kavče",
+    "lat": 46.348667,
+    "lon": 15.108654,
+    "opposite": "MOVelenje:10",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:10"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTE",
+    "gtfs_id": "MOVelenje:11",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Kavče",
+    "lat": 46.348736,
+    "lon": 15.10873,
+    "opposite": "MOVelenje:11",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:11"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTI",
+    "gtfs_id": "MOVelenje:12",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Konovo K",
+    "lat": 46.369904,
+    "lon": 15.123009,
+    "opposite": "MOVelenje:12",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:12"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTM",
+    "gtfs_id": "MOVelenje:13",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Konovo K",
+    "lat": 46.370148,
+    "lon": 15.122954,
+    "opposite": "MOVelenje:13",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:13"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTQ",
+    "gtfs_id": "MOVelenje:14",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Laze Vrbenjak",
+    "lat": 46.343472,
+    "lon": 15.13104,
+    "opposite": "MOVelenje:14",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:14"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTU",
+    "gtfs_id": "MOVelenje:15",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Laze pri Velenju",
+    "lat": 46.345352,
+    "lon": 15.113383,
+    "opposite": "MOVelenje:15",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:15"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTY",
+    "gtfs_id": "MOVelenje:16",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Laze pri Velenju",
+    "lat": 46.345291,
+    "lon": 15.113394,
+    "opposite": "MOVelenje:16",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:16"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTc",
+    "gtfs_id": "MOVelenje:17",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Ljubljanska cesta 41",
+    "lat": 46.352421,
+    "lon": 15.111995,
+    "opposite": "MOVelenje:17",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:17"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTg",
+    "gtfs_id": "MOVelenje:18",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Ljubljanska cesta 41",
+    "lat": 46.351524,
+    "lon": 15.11151,
+    "opposite": "MOVelenje:18",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:18"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MTk",
+    "gtfs_id": "MOVelenje:19",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Mestni stadion",
+    "lat": 46.372589,
+    "lon": 15.101889,
+    "opposite": "MOVelenje:19",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:19"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Mg",
+    "gtfs_id": "MOVelenje:2",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "AP Velenje",
+    "lat": 46.358589,
+    "lon": 15.118189,
+    "opposite": "MOVelenje:2",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      },
+      {
+        "name": "O",
+        "color": "#f58220"
+      },
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      },
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:2"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MjA",
+    "gtfs_id": "MOVelenje:20",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "NC Interspar",
+    "lat": 46.368919,
+    "lon": 15.130338,
+    "opposite": "MOVelenje:20",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:20"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MjE",
+    "gtfs_id": "MOVelenje:21",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "NC Jager",
+    "lat": 46.365864,
+    "lon": 15.100227,
+    "opposite": "MOVelenje:21",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:21"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MjI",
+    "gtfs_id": "MOVelenje:22",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "NC Merkur",
+    "lat": 46.367821,
+    "lon": 15.094583,
+    "opposite": "MOVelenje:22",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:22"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MjM",
+    "gtfs_id": "MOVelenje:23",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "PC Efenkova",
+    "lat": 46.363171,
+    "lon": 15.123764,
+    "opposite": "MOVelenje:23",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:23"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MjQ",
+    "gtfs_id": "MOVelenje:24",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pesje",
+    "lat": 46.367943,
+    "lon": 15.081788,
+    "opposite": "MOVelenje:24",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:24"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MjU",
+    "gtfs_id": "MOVelenje:25",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pesje - Dom krajanov",
+    "lat": 46.367729,
+    "lon": 15.082906,
+    "opposite": "MOVelenje:25",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:25"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MjY",
+    "gtfs_id": "MOVelenje:26",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pesje - Hartl",
+    "lat": 46.365246,
+    "lon": 15.088624,
+    "opposite": "MOVelenje:26",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:26"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Mjc",
+    "gtfs_id": "MOVelenje:27",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pesje - Hartl",
+    "lat": 46.365475,
+    "lon": 15.088269,
+    "opposite": "MOVelenje:27",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:27"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Mjg",
+    "gtfs_id": "MOVelenje:28",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pesje - podhod",
+    "lat": 46.368511,
+    "lon": 15.083503,
+    "opposite": "MOVelenje:28",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:28"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Mjk",
+    "gtfs_id": "MOVelenje:29",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pirešica",
+    "lat": 46.345535,
+    "lon": 15.160653,
+    "opposite": "MOVelenje:29",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:29"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Mw",
+    "gtfs_id": "MOVelenje:3",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Gorenje",
+    "lat": 46.360195,
+    "lon": 15.097909,
+    "opposite": "MOVelenje:3",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:3"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MzA",
+    "gtfs_id": "MOVelenje:30",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pirešica",
+    "lat": 46.345165,
+    "lon": 15.161681,
+    "opposite": "MOVelenje:30",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:30"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MzE",
+    "gtfs_id": "MOVelenje:31",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Podkraj pri Vel.Pokop.",
+    "lat": 46.360249,
+    "lon": 15.082938,
+    "opposite": "MOVelenje:31",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:31"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MzI",
+    "gtfs_id": "MOVelenje:32",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Podlubela",
+    "lat": 46.385689,
+    "lon": 15.106005,
+    "opposite": "MOVelenje:32",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:32"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MzM",
+    "gtfs_id": "MOVelenje:33",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Podlubela",
+    "lat": 46.385773,
+    "lon": 15.106051,
+    "opposite": "MOVelenje:33",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:33"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MzQ",
+    "gtfs_id": "MOVelenje:34",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pošta",
+    "lat": 46.361046,
+    "lon": 15.118186,
+    "opposite": "MOVelenje:34",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:34"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MzU",
+    "gtfs_id": "MOVelenje:35",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Pošta",
+    "lat": 46.360275,
+    "lon": 15.118345,
+    "opposite": "MOVelenje:35",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:35"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6MzY",
+    "gtfs_id": "MOVelenje:36",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Rudarski dom",
+    "lat": 46.368713,
+    "lon": 15.1041,
+    "opposite": "MOVelenje:36",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:36"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Mzc",
+    "gtfs_id": "MOVelenje:37",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Sp. Laze",
+    "lat": 46.338375,
+    "lon": 15.141947,
+    "opposite": "MOVelenje:37",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:37"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Mzg",
+    "gtfs_id": "MOVelenje:38",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Spodnja Črnova",
+    "lat": 46.322571,
+    "lon": 15.183176,
+    "opposite": "MOVelenje:38",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:38"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Mzk",
+    "gtfs_id": "MOVelenje:39",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Spodnje Arnače",
+    "lat": 46.338676,
+    "lon": 15.111625,
+    "opposite": "MOVelenje:39",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:39"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NA",
+    "gtfs_id": "MOVelenje:4",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Gorenje",
+    "lat": 46.359722,
+    "lon": 15.09897,
+    "opposite": "MOVelenje:4",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:4"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDA",
+    "gtfs_id": "MOVelenje:40",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Spodnje Laze K",
+    "lat": 46.33234,
+    "lon": 15.13077,
+    "opposite": "MOVelenje:40",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:40"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDE",
+    "gtfs_id": "MOVelenje:41",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Spodnje Laze transformator",
+    "lat": 46.341679,
+    "lon": 15.143052,
+    "opposite": "MOVelenje:41",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:41"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDI",
+    "gtfs_id": "MOVelenje:42",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Stari jašek",
+    "lat": 46.371052,
+    "lon": 15.098846,
+    "opposite": "MOVelenje:42",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:42"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDM",
+    "gtfs_id": "MOVelenje:43",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Tomšičeva",
+    "lat": 46.362392,
+    "lon": 15.114025,
+    "opposite": "MOVelenje:43",
+    "routes": [
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:43"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDQ",
+    "gtfs_id": "MOVelenje:44",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Tomšičeva",
+    "lat": 46.362514,
+    "lon": 15.113976,
+    "opposite": "MOVelenje:44",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:44"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDU",
+    "gtfs_id": "MOVelenje:45",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Tržnica",
+    "lat": 46.364784,
+    "lon": 15.109779,
+    "opposite": "MOVelenje:45",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:45"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDY",
+    "gtfs_id": "MOVelenje:46",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Tržnica",
+    "lat": 46.364605,
+    "lon": 15.110682,
+    "opposite": "MOVelenje:46",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:46"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDc",
+    "gtfs_id": "MOVelenje:47",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Tržnica krožišče",
+    "lat": 46.3657,
+    "lon": 15.106587,
+    "opposite": "MOVelenje:47",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:47"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDg",
+    "gtfs_id": "MOVelenje:48",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Turn K",
+    "lat": 46.379173,
+    "lon": 15.112604,
+    "opposite": "MOVelenje:48",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:48"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NDk",
+    "gtfs_id": "MOVelenje:49",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Turn K",
+    "lat": 46.379322,
+    "lon": 15.11237,
+    "opposite": "MOVelenje:49",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:49"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NQ",
+    "gtfs_id": "MOVelenje:5",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Gorica",
+    "lat": 46.356476,
+    "lon": 15.134859,
+    "opposite": "MOVelenje:5",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:5"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTA",
+    "gtfs_id": "MOVelenje:50",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Velenjka",
+    "lat": 46.353287,
+    "lon": 15.125671,
+    "opposite": "MOVelenje:50",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      },
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:50"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTE",
+    "gtfs_id": "MOVelenje:51",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Velenjka",
+    "lat": 46.352798,
+    "lon": 15.127112,
+    "opposite": "MOVelenje:51",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:51"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTI",
+    "gtfs_id": "MOVelenje:52",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Vila Bianca",
+    "lat": 46.357147,
+    "lon": 15.112221,
+    "opposite": "MOVelenje:52",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:52"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTM",
+    "gtfs_id": "MOVelenje:53",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Vinska Gora",
+    "lat": 46.340851,
+    "lon": 15.172384,
+    "opposite": "MOVelenje:53",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:53"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTQ",
+    "gtfs_id": "MOVelenje:54",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Vinska Gora",
+    "lat": 46.341625,
+    "lon": 15.171864,
+    "opposite": "MOVelenje:54",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:54"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTU",
+    "gtfs_id": "MOVelenje:55",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Zgornja Črnova",
+    "lat": 46.347862,
+    "lon": 15.14553,
+    "opposite": "MOVelenje:55",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:55"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTY",
+    "gtfs_id": "MOVelenje:56",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Zgornja Črnova",
+    "lat": 46.348091,
+    "lon": 15.144043,
+    "opposite": "MOVelenje:56",
+    "routes": [
+      {
+        "name": "O",
+        "color": "#f58220"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:56"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTc",
+    "gtfs_id": "MOVelenje:57",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Šalek K",
+    "lat": 46.360703,
+    "lon": 15.124344,
+    "opposite": "MOVelenje:57",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      },
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:57"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTg",
+    "gtfs_id": "MOVelenje:58",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Šalek K",
+    "lat": 46.360779,
+    "lon": 15.12525,
+    "opposite": "MOVelenje:58",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      },
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:58"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NTk",
+    "gtfs_id": "MOVelenje:59",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Šalek Skalca",
+    "lat": 46.366367,
+    "lon": 15.128058,
+    "opposite": "MOVelenje:59",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:59"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Ng",
+    "gtfs_id": "MOVelenje:6",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Gorica K",
+    "lat": 46.356789,
+    "lon": 15.129714,
+    "opposite": "MOVelenje:6",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:6"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NjA",
+    "gtfs_id": "MOVelenje:60",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Šalek Skalca",
+    "lat": 46.366486,
+    "lon": 15.128305,
+    "opposite": "MOVelenje:60",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      },
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:60"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NjE",
+    "gtfs_id": "MOVelenje:61",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Škale Brezovo",
+    "lat": 46.383907,
+    "lon": 15.100166,
+    "opposite": "MOVelenje:61",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:61"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NjI",
+    "gtfs_id": "MOVelenje:62",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Škale Hrastovec K",
+    "lat": 46.382954,
+    "lon": 15.109656,
+    "opposite": "MOVelenje:62",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:62"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NjM",
+    "gtfs_id": "MOVelenje:63",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Škale Hrastovec K",
+    "lat": 46.382935,
+    "lon": 15.109825,
+    "opposite": "MOVelenje:63",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:63"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NjQ",
+    "gtfs_id": "MOVelenje:64",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Škale K",
+    "lat": 46.38596,
+    "lon": 15.094571,
+    "opposite": "MOVelenje:64",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:64"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NjU",
+    "gtfs_id": "MOVelenje:65",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Škale pokopališče",
+    "lat": 46.385242,
+    "lon": 15.098698,
+    "opposite": "MOVelenje:65",
+    "routes": [
+      {
+        "name": "M",
+        "color": "#009cc3"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:65"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6NjY",
+    "gtfs_id": "MOVelenje:66",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Železniška postaja",
+    "lat": 46.361938,
+    "lon": 15.106481,
+    "opposite": "MOVelenje:66",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:66"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Njc",
+    "gtfs_id": "MOVelenje:67",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Železniška postaja",
+    "lat": 46.362495,
+    "lon": 15.106669,
+    "opposite": "MOVelenje:67",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:67"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6Nw",
+    "gtfs_id": "MOVelenje:7",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Gorica K",
+    "lat": 46.356503,
+    "lon": 15.130836,
+    "opposite": "MOVelenje:7",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ed1556"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:7"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6OA",
+    "gtfs_id": "MOVelenje:8",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Gornje Arnače",
+    "lat": 46.336029,
+    "lon": 15.12143,
+    "opposite": "MOVelenje:8",
+    "routes": [
+      {
+        "name": "Z",
+        "color": "#a6b622"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:8"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT1ZlbGVuamU6OQ",
+    "gtfs_id": "MOVelenje:9",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#FAB812",
+    "icon_color": "#FFFFFF",
+    "name": "Iris",
+    "lat": 46.359371,
+    "lon": 15.110661,
+    "opposite": "MOVelenje:9",
+    "routes": [
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      }
+    ],
+    "merged_stop_ids": [
+      "MOVelenje:9"
+    ]
+  }
+]
