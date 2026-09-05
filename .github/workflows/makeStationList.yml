@@ -20,7 +20,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-
+      - name: Debug files
+        run: |
+          pwd
+          ls -la
+          ls -la scripts
+          git status
+          git ls-files scripts/makeStationsListsMerged.js
       - name: Zaženi skripto za prenos postaj
         run: node ./scripts/makeStationsLists.js
       - name: Zaženi skripto za prenos ZDRUŽENIH postaj
