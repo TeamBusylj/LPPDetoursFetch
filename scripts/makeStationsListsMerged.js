@@ -18,20 +18,15 @@ function normalizeName(name) {
   if (!name) return "";
   let n = name.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); 
   
-  // 1. Odstranimo vse za poševnico (npr. "Drama/Lj." -> "drama")
+  // 1. Odstranimo vse za poševnico
   n = n.replace(/\/.*/, "");
-  
-  // 2. Odstranimo vse za vejico (npr. "Kranj, postaja" -> "kranj")
+  // 2. Odstranimo vse za vejico
   n = n.replace(/,.*/, "");
-  
-  // 3. Odstranimo oklepaje (npr. "Bavarski dvor (Kozolec)" -> "Bavarski dvor")
+  // 3. Odstranimo oklepaje
   n = n.replace(/\s*\(.*?\)/g, "");
-  
-  // 4. Odstranimo predpone mest SAMO, če za njimi obstaja še ime postaje!
-  // (npr. "Ljubljana Tobačna" -> "Tobačna", ampak "Ljubljana" ostane "Ljubljana")
+  // 4. Odstranimo predpone mest SAMO, če za njimi obstaja še ime postaje
   n = n.replace(/^(ljubljana|lj\.|mb\.|maribor|koper|kp\.|celje|ce\.)\s+(.+)/, "$2");
-  
-  // 5. Odstranimo vse, kar ni črka ali številka (presledki, pomišljaji...)
+  // 5. Odstranimo vse, kar ni črka ali številka
   return n.replace(/[^a-z0-9]/g, "");
 }
 
@@ -54,6 +49,7 @@ async function fetchAndProcessStations() {
       console.warn("Opozorilo: Ni bilo mogoče prenesti Github stop_to_routes.json");
     }
 
+    // PREDNALAGANJE SZ.JSON IN IJPP.JSON
     let szKnownIds = {};
     let ijppKnownIds = {};
     try {
@@ -87,6 +83,7 @@ async function fetchAndProcessStations() {
         if (!agencyGroups[agency]) agencyGroups[agency] = [];
         agencyGroups[agency].push(station);
         
+        // DODAJANJE IJPP POSTAJE V LPP SKUPINO (če je ekskluzivno LPP)
         if (agency === "ijpp" && ijppKnownIds[stationIdStr] && ijppKnownIds[stationIdStr].length === 1 && ijppKnownIds[stationIdStr][0] === "1118") {
             if (!agencyGroups["lpp"]) agencyGroups["lpp"] = [];
             agencyGroups["lpp"].push({ ...station });
@@ -125,6 +122,7 @@ async function fetchAndProcessStations() {
         const enriched = { ...station, _baseNum: baseNum };
         stopsByNum.set(baseNum, enriched);
         
+        // Popravek za pametno iskanje nasprotne postaje
         const sName = station.name || station.stop_name || "";
         const normNameForOpposite = normalizeName(sName);
         stopsByNameAndNum.set(`${normNameForOpposite}_${baseNum}`, enriched);
@@ -178,26 +176,20 @@ async function fetchAndProcessStations() {
         return resultStation;
       });
 
-      // --- ZDRUŽEVANJE POSTAJ V VOZLIŠČA (HUBS) ---
+      // --- DODAJANJE HUB IDENTIFIKATORJEV (Brez brisanja originalnih postaj) ---
       const hubs = [];
       
+      // 1. Zberemo postaje v navidezne hube
       for (const station of processedStops) {
         const stationName = station.name || station.stop_name || "";
         const normName = normalizeName(stationName);
-        
         const sLat = parseFloat(station.lat || station.stop_lat);
         const sLon = parseFloat(station.lon || station.stop_lon);
         
         let foundHub = null;
         for (const hub of hubs) {
-          // STROGO UJEMANJE normaliziranih imen (100% varno preverjanje)
-          const isNameMatch = (hub._normName === normName);
-
-          if (isNameMatch) {
-            const hLat = parseFloat(hub.lat || hub.stop_lat);
-            const hLon = parseFloat(hub.lon || hub.stop_lon);
-            
-            const dist = getDistanceFromLatLonInM(hLat, hLon, sLat, sLon);
+          if (hub._normName === normName) {
+            const dist = getDistanceFromLatLonInM(hub.lat, hub.lon, sLat, sLon);
             if (dist < 250) {
               foundHub = hub;
               break;
@@ -206,69 +198,40 @@ async function fetchAndProcessStations() {
         }
         
         if (foundHub) {
-          foundHub.merged_stop_ids.push(station.gtfs_id);
-          
-          if (station.code) {
-             if (!foundHub.merged_codes) foundHub.merged_codes = foundHub.code ? [foundHub.code] : [];
-             if (!foundHub.merged_codes.includes(station.code)) {
-                 foundHub.merged_codes.push(station.code);
-             }
-          }
-          
-          if (station.routes) {
-            const routeMap = new Map();
-            (foundHub.routes || []).forEach(r => routeMap.set(typeof r === 'object' ? r.name : r, r));
-            station.routes.forEach(r => routeMap.set(typeof r === 'object' ? r.name : r, r));
-            foundHub.routes = Array.from(routeMap.values());
-            
-            foundHub.routes.sort((a, b) => {
-                const nameA = typeof a === 'object' ? a.name : a;
-                const nameB = typeof b === 'object' ? b.name : b;
-                const numA = parseInt(nameA.replace(/\D/g, ''), 10);
-                const numB = parseInt(nameB.replace(/\D/g, ''), 10);
-                if (!isNaN(numA) && !isNaN(numB)) {
-                    if (numA === numB) return nameA.localeCompare(nameB);
-                    return numA - numB;
-                }
-                if (!isNaN(numA)) return -1;
-                if (!isNaN(numB)) return 1;
-                return nameA.localeCompare(nameB);
-            });
-          }
-          
-          if (station.agencies) {
-            foundHub.agencies = [...new Set([...(foundHub.agencies || []), ...station.agencies])].sort();
-          }
-          
-          // Ohranimo najkrajše in najbolj čisto ime za prikaz v UI (brez poševnic in presledkov na koncu)
-          if (stationName.length < (foundHub.name || foundHub.stop_name).length && !stationName.includes("/")) {
-             foundHub.name = stationName.trim();
-          }
-          
+          foundHub.stations.push(station);
         } else {
-          const newHub = { 
-            ...station, 
-            merged_stop_ids: [station.gtfs_id], 
-            _normName: normName 
-          };
-          
-          // Poskrbimo, da že prvo ustvarjeno vozlišče dobi očiščeno ime za prikaz, če vsebuje poševnico
-          if (stationName.includes("/") || stationName.includes(",")) {
-             newHub.name = stationName.split("/")[0].split(",")[0].trim();
-          }
-
-          if (station.code) {
-             newHub.merged_codes = [station.code];
-          }
-          hubs.push(newHub);
+          hubs.push({
+            _normName: normName,
+            lat: sLat, // Centriramo na prvo najdeno postajo
+            lon: sLon,
+            stations: [station]
+          });
         }
       }
 
-      hubs.forEach(hub => delete hub._normName);
+      // 2. Vsaki postaji pripnemo njene Hub lastnosti
+      for (let hIndex = 0; hIndex < hubs.length; hIndex++) {
+        const hub = hubs[hIndex];
+        const hubId = `hub_${hub._normName}_${hIndex}`; // Unikaten ID za to vozlišče
+        
+        // Zberemo vse ID-je iz vseh postaj v tem hubu
+        const allIds = hub.stations.map(s => s.gtfs_id).filter(Boolean);
+        const allCodes = [...new Set(hub.stations.map(s => s.code).filter(Boolean))];
 
+        for (const station of hub.stations) {
+          station.hub_id = hubId;
+          station.merged_stop_ids = allIds; // Vsebuje ID-je vseh sosednjih postaj v istem hubu
+          if (allCodes.length > 0) {
+            station.merged_codes = allCodes;
+          }
+        }
+      }
+
+      // processedStops ima zdaj izvirno dolžino, ampak so objekti obogateni s hub_id in merged_stop_ids
       const outPath = path.join(OUT_DIR, `${agency}.json`);
-      await fs.writeFile(outPath, JSON.stringify(hubs, null, 2), "utf-8");
-      console.log(`✅ Shranjeno: ${agency}.json (Združeno v ${hubs.length} vozlišč iz originalnih ${processedStops.length} postaj).`);
+      await fs.writeFile(outPath, JSON.stringify(processedStops, null, 2), "utf-8");
+      
+      console.log(`✅ Shranjeno: ${agency}.json (${processedStops.length} postaj z dodeljenimi Hub ID-ji).`);
     }
 
     console.log("Vse agencije so bile uspešno procesirane!");
