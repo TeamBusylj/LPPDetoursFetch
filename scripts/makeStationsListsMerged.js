@@ -210,19 +210,71 @@ async function fetchAndProcessStations() {
       }
 
       // 2. Vsaki postaji pripnemo njene Hub lastnosti
+      // 2. Vsaki postaji pripnemo njene Hub lastnosti in ZDRUŽIMO LINIJE/AGENCIJE
       for (let hIndex = 0; hIndex < hubs.length; hIndex++) {
         const hub = hubs[hIndex];
         const hubId = `hub_${hub._normName}_${hIndex}`; // Unikaten ID za to vozlišče
         
-        // Zberemo vse ID-je iz vseh postaj v tem hubu
+        // Zberemo vse ID-je in Kode
         const allIds = hub.stations.map(s => s.gtfs_id).filter(Boolean);
         const allCodes = [...new Set(hub.stations.map(s => s.code).filter(Boolean))];
+        
+        // Zberemo in unikatno filtriramo vse LINIJE (routes) iz celotnega huba
+        const routeMap = new Map();
+        for (const station of hub.stations) {
+          if (station.routes) {
+            station.routes.forEach(r => routeMap.set(typeof r === 'object' ? r.name : r, r));
+          }
+        }
+        let allRoutes = Array.from(routeMap.values());
+        
+        // Sortiramo linije po številkah/abecedi
+        allRoutes.sort((a, b) => {
+            const nameA = typeof a === 'object' ? a.name : a;
+            const nameB = typeof b === 'object' ? b.name : b;
+            const numA = parseInt(nameA.replace(/\D/g, ''), 10);
+            const numB = parseInt(nameB.replace(/\D/g, ''), 10);
+            if (!isNaN(numA) && !isNaN(numB)) {
+                if (numA === numB) return nameA.localeCompare(nameB);
+                return numA - numB;
+            }
+            if (!isNaN(numA)) return -1;
+            if (!isNaN(numB)) return 1;
+            return nameA.localeCompare(nameB);
+        });
 
+        // Zberemo in unikatno filtriramo vse AGENCIJE (agencies)
+        let allAgencies = [];
+        for (const station of hub.stations) {
+           if (station.agencies) {
+              allAgencies = [...allAgencies, ...station.agencies];
+           }
+        }
+        allAgencies = [...new Set(allAgencies)].sort();
+
+        // 3. Zapišemo obogatene podatke nazaj V VSAKO posamezno postajo v tem hubu
         for (const station of hub.stations) {
           station.hub_id = hubId;
-          station.merged_stop_ids = allIds; // Vsebuje ID-je vseh sosednjih postaj v istem hubu
+          station.merged_stop_ids = allIds;
+          
           if (allCodes.length > 0) {
             station.merged_codes = allCodes;
+          }
+          if (allRoutes.length > 0) {
+             station.routes = allRoutes;
+          }
+          if (allAgencies.length > 0) {
+             station.agencies = allAgencies;
+          }
+          
+          // Ohranimo najkrajše in najbolj čisto ime za prikaz v UI (iz celotnega huba)
+          // To prepreči, da bi uporabnik na UI videl "Drama/Lj." namesto "Drama"
+          for (const s of hub.stations) {
+             const sName = s.name || s.stop_name || "";
+             const currName = station.name || station.stop_name || "";
+             if (sName.length < currName.length && !sName.includes("/")) {
+                station.name = sName.trim();
+             }
           }
         }
       }
