@@ -135,12 +135,28 @@
     "opposite": "12932",
     "routes": [
       {
+        "name": "1",
+        "color": "#0FAF4B"
+      },
+      {
+        "name": "2",
+        "color": "#EE3533"
+      },
+      {
+        "name": "2A",
+        "color": "#00B6F1"
+      },
+      {
         "name": "10",
         "color": "#2C3192"
       },
       {
         "name": "11",
         "color": "#F5ABAD"
+      },
+      {
+        "name": "12",
+        "color": "#911D8B"
       }
     ],
     "hub_id": "hub_barka_3",
@@ -306,6 +322,18 @@
       {
         "name": "2",
         "color": "#EE3533"
+      },
+      {
+        "name": "5",
+        "color": "#8FA3D4"
+      },
+      {
+        "name": "6",
+        "color": "#727274"
+      },
+      {
+        "name": "7",
+        "color": "#005BAB"
       }
     ],
     "hub_id": "hub_markovec_8",
@@ -436,6 +464,10 @@
         "color": "#0FAF4B"
       },
       {
+        "name": "3",
+        "color": "#DBAC6A"
+      },
+      {
         "name": "4",
         "color": "#00BECD"
       },
@@ -477,6 +509,10 @@
       {
         "name": "4",
         "color": "#00BECD"
+      },
+      {
+        "name": "8",
+        "color": "#DBE11F"
       }
     ],
     "hub_id": "hub_mercator_10",
@@ -626,6 +662,14 @@
       {
         "name": "2",
         "color": "#EE3533"
+      },
+      {
+        "name": "3",
+        "color": "#DBAC6A"
+      },
+      {
+        "name": "8",
+        "color": "#DBE11F"
       }
     ],
     "hub_id": "hub_prisoje_14",
@@ -772,6 +816,10 @@
       {
         "name": "2A",
         "color": "#00B6F1"
+      },
+      {
+        "name": "10",
+        "color": "#2C3192"
       }
     ],
     "hub_id": "hub_supernova_16",
@@ -1696,6 +1744,18 @@
       {
         "name": "2",
         "color": "#EE3533"
+      },
+      {
+        "name": "5",
+        "color": "#8FA3D4"
+      },
+      {
+        "name": "6",
+        "color": "#727274"
+      },
+      {
+        "name": "7",
+        "color": "#005BAB"
       }
     ],
     "hub_id": "hub_klaricevaulica_38",
@@ -1794,6 +1854,10 @@
     "lon": 13.709132,
     "opposite": "13322",
     "routes": [
+      {
+        "name": "4",
+        "color": "#00BECD"
+      },
       {
         "name": "5",
         "color": "#8FA3D4"
@@ -2170,6 +2234,10 @@
       {
         "name": "3",
         "color": "#DBAC6A"
+      },
+      {
+        "name": "8",
+        "color": "#DBE11F"
       }
     ],
     "hub_id": "hub_oljcnapotlantana_49",
@@ -2532,6 +2600,10 @@
         "color": "#00B6F1"
       },
       {
+        "name": "3",
+        "color": "#DBAC6A"
+      },
+      {
         "name": "4",
         "color": "#00BECD"
       }
@@ -2643,6 +2715,10 @@
       {
         "name": "2A",
         "color": "#00B6F1"
+      },
+      {
+        "name": "3",
+        "color": "#DBAC6A"
       },
       {
         "name": "4",
@@ -2935,6 +3011,10 @@
         "color": "#00B6F1"
       },
       {
+        "name": "10",
+        "color": "#2C3192"
+      },
+      {
         "name": "11",
         "color": "#F5ABAD"
       },
@@ -3096,6 +3176,10 @@
       {
         "name": "3",
         "color": "#DBAC6A"
+      },
+      {
+        "name": "8",
+        "color": "#DBE11F"
       }
     ],
     "hub_id": "hub_dolinskacesta_5",

@@ -5680,6 +5680,7 @@
     "lon": 13.6391048,
     "opposite": null,
     "agencies": [
+      "1119",
       "1123"
     ],
     "hub_id": "hub_sempeter_163",
@@ -5700,7 +5701,8 @@
     "lon": 13.6411636,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_sempeter_164",
     "merged_stop_ids": [
@@ -6296,7 +6298,8 @@
     "lon": 14.8166174,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119"
     ],
     "hub_id": "hub_ambrus_179",
     "merged_stop_ids": [
@@ -9217,6 +9220,7 @@
     "lon": 15.8928188,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_benediktvslg_256",
@@ -9939,7 +9943,8 @@
     "lon": 13.6246158,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_biljek_276",
     "merged_stop_ids": [
@@ -10007,7 +10012,8 @@
     "lon": 13.6248055,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_biljek_276",
     "merged_stop_ids": [
@@ -13501,7 +13507,8 @@
     "lon": 16.125811,
     "opposite": null,
     "agencies": [
-      "1121"
+      "1121",
+      "1123"
     ],
     "hub_id": "hub_branoslavci_364",
     "merged_stop_ids": [
@@ -14148,6 +14155,7 @@
     "lon": 14.8599229,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119"
     ],
     "hub_id": "hub_bregprizagradcu_379",
@@ -17326,7 +17334,8 @@
     "lon": 13.6678442,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_bukovica_461",
     "merged_stop_ids": [
@@ -19675,7 +19684,8 @@
     "lon": 13.9853756,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_cerknos_525",
     "merged_stop_ids": [
@@ -25629,6 +25639,7 @@
     "lon": 14.8330553,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119"
     ],
     "hub_id": "hub_decjavasprizagradcu_684",
@@ -40622,7 +40633,8 @@
     "lon": 16.0068922,
     "opposite": null,
     "agencies": [
-      "1121"
+      "1121",
+      "1123"
     ],
     "hub_id": "hub_grabonos_1075",
     "merged_stop_ids": [
@@ -42507,6 +42519,7 @@
     "lon": 14.8679368,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119"
     ],
     "hub_id": "hub_grm_1121",
@@ -46769,6 +46782,7 @@
     "lon": 15.9116654,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_ihova_1234",
@@ -57363,7 +57377,8 @@
     "lon": 13.9345464,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_kozina_1513",
     "merged_stop_ids": [
@@ -58936,6 +58951,7 @@
     "lon": 15.5704563,
     "opposite": null,
     "agencies": [
+      "1119",
       "1123"
     ],
     "hub_id": "hub_kriznivrh8_1553",
@@ -65469,7 +65485,8 @@
     "lon": 14.9433161,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_locicaprivranskem_1728",
     "merged_stop_ids": [
@@ -65954,6 +65971,7 @@
     "lon": 14.149072,
     "opposite": null,
     "agencies": [
+      "1118",
       "1123"
     ],
     "hub_id": "hub_log_1740",
@@ -67327,6 +67345,7 @@
     "lon": 15.9581099,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_lomanose5_1776",
@@ -67368,6 +67387,7 @@
     "lon": 15.9475843,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_lomanosebistro_1777",
@@ -67689,6 +67709,7 @@
     "lon": 15.8169493,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_lormanjek_1785",
@@ -69685,7 +69706,8 @@
     "lon": 16.0549098,
     "opposite": null,
     "agencies": [
-      "1121"
+      "1121",
+      "1123"
     ],
     "hub_id": "hub_mnedeljak_1837",
     "merged_stop_ids": [
@@ -72843,6 +72865,7 @@
     "lon": 14.4087899,
     "opposite": null,
     "agencies": [
+      "1118",
       "1123"
     ],
     "hub_id": "hub_medvodenaklancu_1918",
@@ -79536,7 +79559,8 @@
     "lon": 14.9297973,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_obrezija_2095",
     "merged_stop_ids": [
@@ -79558,7 +79582,8 @@
     "lon": 14.9318599,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_obrezija_2095",
     "merged_stop_ids": [
@@ -81518,7 +81543,8 @@
     "lon": 15.3912603,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_ozbalt_2151",
     "merged_stop_ids": [
@@ -84044,7 +84070,9 @@
     "lon": 14.5727639,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_pijavagorica_2215",
     "merged_stop_ids": [
@@ -84066,7 +84094,9 @@
     "lon": 14.5725787,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_pijavagorica_2215",
     "merged_stop_ids": [
@@ -85568,6 +85598,7 @@
     "lon": 15.9290384,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_plitvickivrh_2258",
@@ -88989,6 +89020,7 @@
     "lon": 15.5745907,
     "opposite": null,
     "agencies": [
+      "1119",
       "1123"
     ],
     "hub_id": "hub_podplat_2347",
@@ -89032,7 +89064,8 @@
     "lon": 15.5742875,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_podplat_2347",
     "merged_stop_ids": [
@@ -99893,7 +99926,8 @@
     "lon": 14.061718,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_razdrto_2638",
     "merged_stop_ids": [
@@ -100281,7 +100315,8 @@
     "lon": 14.9060629,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_razpotje_2647",
     "merged_stop_ids": [
@@ -102822,7 +102857,8 @@
     "lon": 15.701224,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_rogatec_2709",
     "merged_stop_ids": [
@@ -103563,6 +103599,7 @@
     "lon": 14.1713708,
     "opposite": null,
     "agencies": [
+      "1118",
       "1123"
     ],
     "hub_id": "hub_rovtek_2731",
@@ -109229,7 +109266,8 @@
     "lon": 14.8451439,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119"
     ],
     "hub_id": "hub_sentvidpristicnik_2878",
     "merged_stop_ids": [
@@ -109250,6 +109288,7 @@
     "lon": 14.8455793,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119"
     ],
     "hub_id": "hub_sentvidpristicnik_2878",
@@ -116199,6 +116238,7 @@
     "lon": 15.5727422,
     "opposite": null,
     "agencies": [
+      "1119",
       "1123"
     ],
     "hub_id": "hub_spbreznica_3063",
@@ -118304,6 +118344,7 @@
     "lon": 15.924533,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_spscavnica_3116",
@@ -118864,6 +118905,7 @@
     "lon": 15.8533517,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_spzerjavci_3132",
@@ -130407,6 +130449,7 @@
     "lon": 15.9066836,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_trstenik_3433",
@@ -132297,6 +132340,7 @@
     "lon": 14.636582,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119"
     ],
     "hub_id": "hub_vlasce_3481",
@@ -143431,6 +143475,7 @@
     "lon": 14.4120755,
     "opposite": null,
     "agencies": [
+      "1118",
       "1123"
     ],
     "hub_id": "hub_zbiljek_3776",
@@ -143476,6 +143521,7 @@
     "lon": 14.4119618,
     "opposite": null,
     "agencies": [
+      "1118",
       "1123"
     ],
     "hub_id": "hub_zbiljek_3776",
@@ -144324,6 +144370,7 @@
     "lon": 15.8767999,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_zenjak_3798",
@@ -148935,6 +148982,7 @@
     "lon": 14.8250963,
     "opposite": null,
     "agencies": [
+      "1119",
       "1123"
     ],
     "hub_id": "hub_zvirce_3917",
@@ -152007,6 +152055,7 @@
     "lon": 16.1516934,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_cezanjevci_4008",
@@ -154134,7 +154183,9 @@
     "lon": 14.5905317,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_vrhnadzelimljami_3627",
     "merged_stop_ids": [
@@ -154300,6 +154351,7 @@
     "lon": 14.7932635,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119"
     ],
     "hub_id": "hub_gabrovceck_972",
@@ -155096,7 +155148,8 @@
     "lon": 14.8640105,
     "opposite": null,
     "agencies": [
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_vidrga_3546",
     "merged_stop_ids": [
@@ -162579,7 +162632,8 @@
     "opposite": null,
     "agencies": [
       "1118",
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_rasica_4293",
     "merged_stop_ids": [
@@ -162601,6 +162655,8 @@
     "lon": 14.6245701,
     "opposite": null,
     "agencies": [
+      "1118",
+      "1119",
       "1123"
     ],
     "hub_id": "hub_rasica_4293",
@@ -162623,6 +162679,8 @@
     "lon": 14.6245757,
     "opposite": null,
     "agencies": [
+      "1118",
+      "1119",
       "1123"
     ],
     "hub_id": "hub_rasica_4293",
@@ -162646,7 +162704,8 @@
     "opposite": null,
     "agencies": [
       "1118",
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_rasica_4293",
     "merged_stop_ids": [
@@ -164469,7 +164528,8 @@
     "lon": 14.5166279,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1123"
     ],
     "hub_id": "hub_friskovec_4343",
     "merged_stop_ids": [
@@ -164591,7 +164651,9 @@
     "lon": 14.4901155,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_hajdrihova_4346",
     "merged_stop_ids": [
@@ -165070,7 +165132,8 @@
     "lon": 14.4865909,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1123"
     ],
     "hub_id": "hub_slovenijaavto_4358",
     "merged_stop_ids": [
@@ -165171,11 +165234,12 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Središka",
+    "name": "Središka",
     "lat": 46.0627301,
     "lon": 14.5248134,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119",
       "1123"
     ],
@@ -165194,11 +165258,12 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Središka",
+    "name": "Središka",
     "lat": 46.0622401,
     "lon": 14.5242646,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119",
       "1123"
     ],
@@ -165508,7 +165573,9 @@
     "lon": 14.4943859,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_tobacna_4367",
     "merged_stop_ids": [
@@ -165593,7 +165660,8 @@
     "opposite": null,
     "agencies": [
       "1118",
-      "1119"
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_viadukt_4369",
     "merged_stop_ids": [
@@ -165924,6 +165992,7 @@
     "lon": 15.511619,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ],
     "hub_id": "hub_rusesc_4377",
@@ -171690,6 +171759,7 @@
     "lon": 14.5753122,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119",
       "1123"
     ],
@@ -177570,7 +177640,9 @@
     "lon": 14.526012,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_srediska_4361",
     "merged_stop_ids": [
@@ -177793,7 +177865,9 @@
     "lon": 14.525025,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119",
+      "1123"
     ],
     "hub_id": "hub_srediska_4361",
     "merged_stop_ids": [
@@ -178465,6 +178539,7 @@
     "lon": 15.8308,
     "opposite": null,
     "agencies": [
+      "1119",
       "1123"
     ],
     "hub_id": "hub_zgravno_4699",
@@ -181503,7 +181578,8 @@
     "lon": 14.428175,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1123"
     ],
     "hub_id": "hub_smlednikos_4797",
     "merged_stop_ids": [
@@ -186545,7 +186621,8 @@
     "lon": 14.8065567,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119"
     ],
     "hub_id": "hub_sticna_4956",
     "merged_stop_ids": [
@@ -186566,7 +186643,8 @@
     "lon": 14.8065126,
     "opposite": null,
     "agencies": [
-      "1118"
+      "1118",
+      "1119"
     ],
     "hub_id": "hub_sticna_4956",
     "merged_stop_ids": [
@@ -187602,6 +187680,7 @@
     "lon": 14.8062243,
     "opposite": null,
     "agencies": [
+      "1118",
       "1119"
     ],
     "hub_id": "hub_sticna_4956",

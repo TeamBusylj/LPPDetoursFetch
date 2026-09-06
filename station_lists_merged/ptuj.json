@@ -57,6 +57,10 @@
         "color": "#0F871B"
       },
       {
+        "name": "2",
+        "color": "#FF7F00"
+      },
+      {
         "name": "5",
         "color": "#3127A4"
       }
@@ -83,6 +87,10 @@
     "lon": 15.8784,
     "opposite": "14858",
     "routes": [
+      {
+        "name": "1",
+        "color": "#0F871B"
+      },
       {
         "name": "2",
         "color": "#FF7F00"
@@ -279,6 +287,10 @@
     "opposite": "15517",
     "routes": [
       {
+        "name": "1",
+        "color": "#0F871B"
+      },
+      {
         "name": "3",
         "color": "#0FB3D4"
       }
@@ -337,6 +349,10 @@
       {
         "name": "2",
         "color": "#FF7F00"
+      },
+      {
+        "name": "5",
+        "color": "#3127A4"
       }
     ],
     "hub_id": "hub_ptujssc_7",
@@ -1240,6 +1256,10 @@
     "opposite": "13291",
     "routes": [
       {
+        "name": "1",
+        "color": "#0F871B"
+      },
+      {
         "name": "2",
         "color": "#FF7F00"
       }
@@ -1859,6 +1879,10 @@
       {
         "name": "2",
         "color": "#FF7F00"
+      },
+      {
+        "name": "5",
+        "color": "#3127A4"
       }
     ],
     "hub_id": "hub_zupanciceva10_47",
@@ -2223,6 +2247,10 @@
     "opposite": "15861",
     "routes": [
       {
+        "name": "2",
+        "color": "#FF7F00"
+      },
+      {
         "name": "5",
         "color": "#3127A4"
       }
@@ -2359,6 +2387,10 @@
     "lon": 15.86757,
     "opposite": "9298",
     "routes": [
+      {
+        "name": "1",
+        "color": "#0F871B"
+      },
       {
         "name": "2",
         "color": "#FF7F00"
@@ -2793,7 +2825,7 @@
     "type": "BUS",
     "background_color": "#000000",
     "icon_color": "#FFFFFF",
-    "name": "Sp. Hajdina trg.",
+    "name": "Sp.Hajdina trg.",
     "lat": 46.40842,
     "lon": 15.84601,
     "opposite": "15897",

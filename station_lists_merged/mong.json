@@ -12,6 +12,10 @@
     "opposite": "MONG:1",
     "routes": [
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
@@ -55,6 +59,14 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
@@ -90,11 +102,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -129,11 +149,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -172,6 +200,14 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
@@ -207,11 +243,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -247,6 +291,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -289,6 +341,14 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
@@ -324,11 +384,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -351,7 +419,31 @@
     "opposite": "MONG:18",
     "routes": [
       {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
+      },
+      {
         "name": "4A",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -422,6 +514,14 @@
     "routes": [
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       }
     ],
@@ -504,11 +604,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -548,6 +656,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -632,8 +748,24 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
       }
     ],
     "hub_id": "hub_novagoricaelektrog_10",
@@ -667,6 +799,18 @@
       {
         "name": "1C",
         "color": "#0F9ED5"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3C",
+        "color": "#8F1DAE"
       }
     ],
     "hub_id": "hub_novagoricaelektrog_10",
@@ -689,6 +833,18 @@
     "lon": 13.638239,
     "opposite": "MONG:28",
     "routes": [
+      {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
       {
         "name": "3A",
         "color": "#8F1DAE"
@@ -723,7 +879,27 @@
     "opposite": "MONG:29",
     "routes": [
       {
+        "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1C",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "3A",
+        "color": "#8F1DAE"
+      },
+      {
         "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
+        "name": "3C",
         "color": "#8F1DAE"
       }
     ],
@@ -747,6 +923,10 @@
     "lon": 13.664167,
     "opposite": "MONG:3",
     "routes": [
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
       {
         "name": "5",
         "color": "#FFC000"
@@ -772,6 +952,10 @@
     "routes": [
       {
         "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
         "color": "#0F9ED5"
       },
       {
@@ -826,6 +1010,10 @@
         "color": "#8F1DAE"
       },
       {
+        "name": "3B",
+        "color": "#8F1DAE"
+      },
+      {
         "name": "3C",
         "color": "#8F1DAE"
       }
@@ -850,6 +1038,10 @@
     "routes": [
       {
         "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
         "color": "#0F9ED5"
       },
       {
@@ -957,11 +1149,19 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       },
       {
@@ -992,6 +1192,10 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
       },
@@ -1009,6 +1213,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -1059,6 +1271,14 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
@@ -1098,11 +1318,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -1157,11 +1385,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -1215,6 +1451,10 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
       },
@@ -1240,6 +1480,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -1301,6 +1549,10 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
       }
@@ -1340,6 +1592,14 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
@@ -1375,11 +1635,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -1418,11 +1686,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -1462,6 +1738,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -1592,11 +1876,19 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       },
       {
@@ -1639,6 +1931,14 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
@@ -1666,6 +1966,10 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
       },
@@ -1683,6 +1987,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -1737,11 +2049,19 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       },
       {
@@ -1772,6 +2092,10 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
       },
@@ -1789,6 +2113,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -1842,6 +2174,10 @@
     "routes": [
       {
         "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
         "color": "#0F9ED5"
       },
       {
@@ -2054,11 +2390,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -2113,6 +2457,10 @@
     "routes": [
       {
         "name": "1A",
+        "color": "#0F9ED5"
+      },
+      {
+        "name": "1B",
         "color": "#0F9ED5"
       },
       {
@@ -2304,6 +2652,10 @@
       {
         "name": "4B",
         "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
       }
     ],
     "hub_id": "hub_vrtojba_36",
@@ -2331,6 +2683,10 @@
       {
         "name": "2B",
         "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
       },
       {
         "name": "4C",
@@ -2394,11 +2750,19 @@
         "color": "#5AC695"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -2451,6 +2815,10 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       }
@@ -2484,6 +2852,10 @@
       {
         "name": "4B",
         "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
       }
     ],
     "hub_id": "hub_vrtojbabife_40",
@@ -2511,6 +2883,10 @@
       {
         "name": "2B",
         "color": "#D42F02"
+      },
+      {
+        "name": "4B",
+        "color": "#5AC695"
       },
       {
         "name": "4C",
@@ -2545,6 +2921,10 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
         "color": "#5AC695"
       }
     ],
@@ -2631,6 +3011,10 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
       },
@@ -2648,6 +3032,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -2679,6 +3071,10 @@
         "color": "#0F9ED5"
       },
       {
+        "name": "1B",
+        "color": "#0F9ED5"
+      },
+      {
         "name": "1C",
         "color": "#0F9ED5"
       },
@@ -2695,11 +3091,19 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -2761,6 +3165,14 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
@@ -2800,6 +3212,10 @@
         "color": "#5AC695"
       },
       {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
         "name": "4E",
         "color": "#5AC695"
       }
@@ -2835,7 +3251,15 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -2887,6 +3311,10 @@
       {
         "name": "2C",
         "color": "#D42F02"
+      },
+      {
+        "name": "4E",
+        "color": "#5AC695"
       }
     ],
     "hub_id": "hub_sempeter_47",
@@ -2929,6 +3357,14 @@
       },
       {
         "name": "4B",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4C",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4D",
         "color": "#5AC695"
       },
       {
@@ -2975,11 +3411,19 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],
@@ -3072,11 +3516,19 @@
         "color": "#D42F02"
       },
       {
+        "name": "4B",
+        "color": "#5AC695"
+      },
+      {
         "name": "4C",
         "color": "#5AC695"
       },
       {
         "name": "4D",
+        "color": "#5AC695"
+      },
+      {
+        "name": "4E",
         "color": "#5AC695"
       }
     ],

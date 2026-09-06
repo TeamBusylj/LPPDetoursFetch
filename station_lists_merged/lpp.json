@@ -236,11 +236,15 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Podpeč/Lj.",
+    "name": "Podpeč",
     "lat": 45.9740576,
     "lon": 14.4204707,
     "opposite": "IJPP:1120981",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "44",
         "color": "#736F93"
@@ -269,11 +273,15 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Podpeč/Lj.",
+    "name": "Podpeč",
     "lat": 45.9732825,
     "lon": 14.4207859,
     "opposite": "IJPP:1120983",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "44",
         "color": "#736F93"
@@ -312,8 +320,24 @@
         "color": "#5BAF20"
       },
       {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       },
       {
         "name": "60",
@@ -343,6 +367,18 @@
     "lon": 14.5170184,
     "opposite": "IJPP:1121459",
     "routes": [
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
       {
         "name": "21D",
         "color": "#3C8C3C"
@@ -374,6 +410,18 @@
     "opposite": "IJPP:1121461",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
         "name": "21D",
         "color": "#3C8C3C"
       }
@@ -404,8 +452,20 @@
     "opposite": null,
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
         "name": "21D",
         "color": "#3C8C3C"
+      },
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ],
     "hub_id": "hub_sava_8",
@@ -435,8 +495,20 @@
     "opposite": "IJPP:1121463",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
         "name": "21D",
         "color": "#3C8C3C"
+      },
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ],
     "hub_id": "hub_sava_8",
@@ -466,8 +538,16 @@
     "opposite": "IJPP:1121473",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "21D",
         "color": "#3C8C3C"
+      },
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ],
     "hub_id": "hub_kolodvorcrnuce_9",
@@ -495,8 +575,16 @@
     "opposite": null,
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "21D",
         "color": "#3C8C3C"
+      },
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ],
     "hub_id": "hub_kolodvorcrnuce_9",
@@ -524,8 +612,16 @@
     "opposite": "IJPP:1121483",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "21D",
         "color": "#3C8C3C"
+      },
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ],
     "hub_id": "hub_crnuce_10",
@@ -643,8 +739,24 @@
     "opposite": "IJPP:1121505",
     "routes": [
       {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_flajsmanova_13",
@@ -669,8 +781,28 @@
     "opposite": null,
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_solajarse_14",
@@ -698,8 +830,28 @@
     "opposite": "IJPP:1121513",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_solajarse_14",
@@ -727,8 +879,24 @@
     "opposite": null,
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_jarse_15",
@@ -756,8 +924,24 @@
     "opposite": "IJPP:1121523",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_jarse_15",
@@ -815,6 +999,10 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
         "name": "82",
         "color": "#207C4C"
       },
@@ -854,6 +1042,10 @@
       {
         "name": "3G",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       },
       {
         "name": "82",
@@ -1267,6 +1459,10 @@
     "opposite": "IJPP:1123503",
     "routes": [
       {
+        "name": "45",
+        "color": "#207C4C"
+      },
+      {
         "name": "49",
         "color": "#207C4C"
       }
@@ -1291,6 +1487,10 @@
     "lon": 14.3619397,
     "opposite": "IJPP:1123506",
     "routes": [
+      {
+        "name": "45",
+        "color": "#207C4C"
+      },
       {
         "name": "49",
         "color": "#207C4C"
@@ -2567,6 +2767,10 @@
     "opposite": "IJPP:1124497",
     "routes": [
       {
+        "name": "51",
+        "color": "#5D77A9"
+      },
+      {
         "name": "56",
         "color": "#6F280D"
       }
@@ -3089,6 +3293,10 @@
     "opposite": "IJPP:1124785",
     "routes": [
       {
+        "name": "68",
+        "color": "#207C4C"
+      },
+      {
         "name": "72",
         "color": "#41917F"
       }
@@ -3436,6 +3644,10 @@
       {
         "name": "69",
         "color": "#207C4C"
+      },
+      {
+        "name": "76",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_glogovicak_72",
@@ -3503,6 +3715,10 @@
     "opposite": "IJPP:1125287",
     "routes": [
       {
+        "name": "44",
+        "color": "#736F93"
+      },
+      {
         "name": "45",
         "color": "#207C4C"
       }
@@ -3526,6 +3742,10 @@
     "lon": 14.3791739,
     "opposite": null,
     "routes": [
+      {
+        "name": "44",
+        "color": "#736F93"
+      },
       {
         "name": "45",
         "color": "#207C4C"
@@ -3556,6 +3776,10 @@
       },
       {
         "name": "69",
+        "color": "#207C4C"
+      },
+      {
+        "name": "76",
         "color": "#207C4C"
       }
     ],
@@ -6003,6 +6227,10 @@
     "opposite": "IJPP:1128247",
     "routes": [
       {
+        "name": "78",
+        "color": "#B06A67"
+      },
+      {
         "name": "82",
         "color": "#207C4C"
       },
@@ -7478,6 +7706,10 @@
       {
         "name": "44",
         "color": "#736F93"
+      },
+      {
+        "name": "45",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_preserje_161",
@@ -7696,6 +7928,10 @@
       {
         "name": "51",
         "color": "#5D77A9"
+      },
+      {
+        "name": "56",
+        "color": "#6F280D"
       }
     ],
     "hub_id": "hub_razorik_166",
@@ -7717,6 +7953,10 @@
     "lon": 14.4247597,
     "opposite": "IJPP:1129289",
     "routes": [
+      {
+        "name": "51",
+        "color": "#5D77A9"
+      },
       {
         "name": "56",
         "color": "#6F280D"
@@ -9814,6 +10054,10 @@
     "opposite": "IJPP:1131392",
     "routes": [
       {
+        "name": "71",
+        "color": "#5D77A9"
+      },
+      {
         "name": "78",
         "color": "#B06A67"
       }
@@ -9840,6 +10084,10 @@
       {
         "name": "71",
         "color": "#5D77A9"
+      },
+      {
+        "name": "78",
+        "color": "#B06A67"
       }
     ],
     "hub_id": "hub_vmlacevo_214",
@@ -9864,6 +10112,10 @@
       {
         "name": "71",
         "color": "#5D77A9"
+      },
+      {
+        "name": "78",
+        "color": "#B06A67"
       }
     ],
     "hub_id": "hub_vmlacevo_214",
@@ -11909,6 +12161,10 @@
       {
         "name": "44",
         "color": "#736F93"
+      },
+      {
+        "name": "45",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_goricicapodkrimom_74",
@@ -11930,6 +12186,10 @@
     "lon": 14.5765723,
     "opposite": "IJPP:1150709",
     "routes": [
+      {
+        "name": "82",
+        "color": "#207C4C"
+      },
       {
         "name": "84",
         "color": "#207C4C"
@@ -12308,6 +12568,18 @@
     "opposite": "IJPP:1151629",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
         "name": "21D",
         "color": "#3C8C3C"
       }
@@ -12392,6 +12664,10 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
         "name": "82",
         "color": "#207C4C"
       }
@@ -12463,6 +12739,10 @@
     "lon": 14.6590823,
     "opposite": "IJPP:1164995",
     "routes": [
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
       {
         "name": "68",
         "color": "#207C4C"
@@ -12574,14 +12854,22 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Dolgi most",
+    "name": "Dolgi most",
     "lat": 46.0372781,
     "lon": 14.4673466,
     "opposite": "IJPP:1165631",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       },
       {
         "name": "45",
@@ -12631,14 +12919,22 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Dolgi most",
+    "name": "Dolgi most",
     "lat": 46.0367505,
     "lon": 14.4652629,
     "opposite": null,
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       },
       {
         "name": "45",
@@ -12688,11 +12984,19 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Friškovec",
+    "name": "Friškovec",
     "lat": 46.0575279,
     "lon": 14.5166279,
     "opposite": "IJPP:1165637",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
       {
         "name": "12D",
         "color": "#183875"
@@ -12700,6 +13004,10 @@
       {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_friskovec_278",
@@ -12720,11 +13028,19 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Gornji trg",
+    "name": "Gornji trg",
     "lat": 46.0458989,
     "lon": 14.5061698,
     "opposite": "IJPP:1165640",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -12734,8 +13050,32 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_gornjitrg_279",
@@ -12757,11 +13097,19 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Gornji trg",
+    "name": "Gornji trg",
     "lat": 46.0457572,
     "lon": 14.5064466,
     "opposite": "IJPP:1165639",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -12771,8 +13119,32 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_gornjitrg_279",
@@ -12880,11 +13252,27 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Hajdrihova",
+    "name": "Hajdrihova",
     "lat": 46.0457837,
     "lon": 14.4901155,
     "opposite": null,
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
       {
         "name": "6B",
         "color": "#6E7073"
@@ -13048,14 +13436,58 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Slovenija avto",
+    "name": "Slovenija avto",
     "lat": 46.0738817,
     "lon": 14.4865909,
     "opposite": "IJPP:1165669",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       }
     ],
     "hub_id": "hub_slovenijaavto_284",
@@ -13076,11 +13508,27 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Tobačna",
+    "name": "Tobačna",
     "lat": 46.0470114,
     "lon": 14.4943859,
     "opposite": null,
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
       {
         "name": "6B",
         "color": "#6E7073"
@@ -13116,6 +13564,10 @@
       {
         "name": "3G",
         "color": "#5BAF20"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "12D",
@@ -13555,11 +14007,31 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Drama/Lj.",
+    "name": "Drama",
     "lat": 46.0487815,
     "lon": 14.5018372,
     "opposite": "IJPP:1167139",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -13569,12 +14041,44 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_drama_297",
@@ -13596,11 +14100,31 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Drama/Lj.",
+    "name": "Drama",
     "lat": 46.0495255,
     "lon": 14.5025084,
     "opposite": "IJPP:1167142",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -13610,12 +14134,44 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_drama_297",
@@ -13643,8 +14199,20 @@
     "opposite": "IJPP:1167141",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       }
     ],
     "hub_id": "hub_gornjirudnik_298",
@@ -13672,8 +14240,20 @@
     "opposite": "IJPP:1167144",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       }
     ],
     "hub_id": "hub_gornjirudnik_298",
@@ -13701,8 +14281,24 @@
     "opposite": "IJPP:1167143",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_kovinarska_299",
@@ -13730,8 +14326,24 @@
     "opposite": "IJPP:1167146",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_kovinarska_299",
@@ -13759,6 +14371,14 @@
     "opposite": "IJPP:1167145",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
       },
@@ -13767,8 +14387,32 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_krizanke_300",
@@ -13796,6 +14440,14 @@
     "opposite": null,
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
       },
@@ -13804,8 +14456,32 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_krizanke_300",
@@ -13833,8 +14509,24 @@
     "opposite": "IJPP:1167147",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_litostroj_301",
@@ -13863,8 +14555,28 @@
     "opposite": null,
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_litostrojska_302",
@@ -13894,8 +14606,28 @@
     "opposite": "IJPP:1167151",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_litostrojska_302",
@@ -13925,8 +14657,20 @@
     "opposite": "IJPP:1167153",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       }
     ],
     "hub_id": "hub_peruzzijeva_303",
@@ -13954,8 +14698,20 @@
     "opposite": "IJPP:1167156",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       }
     ],
     "hub_id": "hub_peruzzijeva_303",
@@ -13983,6 +14739,26 @@
     "opposite": "IJPP:1167155",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
       },
@@ -13991,12 +14767,56 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_posta_304",
@@ -14021,6 +14841,22 @@
     "opposite": "IJPP:1167158",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
       },
@@ -14029,12 +14865,56 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_konzorcij_305",
@@ -14059,12 +14939,40 @@
     "opposite": "IJPP:1167157",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_privoz_306",
@@ -14092,12 +15000,40 @@
     "opposite": null,
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_privoz_306",
@@ -14125,8 +15061,44 @@
     "opposite": "IJPP:1167161",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
       },
       {
         "name": "25",
@@ -14158,8 +15130,44 @@
     "opposite": "IJPP:1167164",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
       },
       {
         "name": "25",
@@ -14327,6 +15335,18 @@
     "opposite": "IJPP:1167169",
     "routes": [
       {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
         "name": "15",
         "color": "#8A1D79"
       }
@@ -14355,6 +15375,18 @@
     "lon": 14.4610813,
     "opposite": null,
     "routes": [
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -14385,6 +15417,18 @@
     "opposite": "IJPP:1167173",
     "routes": [
       {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
         "name": "15",
         "color": "#8A1D79"
       }
@@ -14413,6 +15457,18 @@
     "lon": 14.4627498,
     "opposite": "IJPP:1167176",
     "routes": [
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -14443,6 +15499,18 @@
     "opposite": "IJPP:1167175",
     "routes": [
       {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
         "name": "15",
         "color": "#8A1D79"
       }
@@ -14471,6 +15539,18 @@
     "lon": 14.461747,
     "opposite": "IJPP:1167178",
     "routes": [
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -14501,6 +15581,10 @@
     "opposite": null,
     "routes": [
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "15",
         "color": "#8A1D79"
       }
@@ -14528,6 +15612,10 @@
     "opposite": "IJPP:1167179",
     "routes": [
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "15",
         "color": "#8A1D79"
       }
@@ -14554,6 +15642,18 @@
     "lon": 14.4620101,
     "opposite": null,
     "routes": [
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -14583,6 +15683,18 @@
     "lon": 14.4616545,
     "opposite": "IJPP:1167183",
     "routes": [
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -14866,20 +15978,96 @@
     "opposite": "IJPP:1167198",
     "routes": [
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
         "name": "3G",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
       },
       {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       },
       {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       },
       {
         "name": "51",
@@ -14892,6 +16080,10 @@
       {
         "name": "60",
         "color": "#9AA769"
+      },
+      {
+        "name": "SŽ",
+        "color": "#666666"
       }
     ],
     "hub_id": "hub_bavarskidvor_323",
@@ -14919,20 +16111,96 @@
     "opposite": "IJPP:1167197",
     "routes": [
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
         "name": "3G",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
       },
       {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       },
       {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       },
       {
         "name": "51",
@@ -14945,6 +16213,10 @@
       {
         "name": "60",
         "color": "#9AA769"
+      },
+      {
+        "name": "SŽ",
+        "color": "#666666"
       }
     ],
     "hub_id": "hub_bavarskidvor_323",
@@ -14971,6 +16243,22 @@
     "lon": 14.4988041,
     "opposite": null,
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
       {
         "name": "6B",
         "color": "#6E7073"
@@ -15001,6 +16289,22 @@
     "opposite": "IJPP:1167199",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       }
@@ -15030,8 +16334,16 @@
     "opposite": null,
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       }
     ],
     "hub_id": "hub_bonifacija_325",
@@ -15059,8 +16371,16 @@
     "opposite": "IJPP:1167203",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       }
     ],
     "hub_id": "hub_bonifacija_325",
@@ -15134,8 +16454,52 @@
     "opposite": "IJPP:1167207",
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_bezigrad_327",
@@ -15167,8 +16531,44 @@
         "color": "#5BAF20"
       },
       {
+        "name": "6B",
+        "color": "#6E7073"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       },
       {
         "name": "60",
@@ -15204,12 +16604,64 @@
         "color": "#5BAF20"
       },
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
         "name": "12D",
         "color": "#183875"
       },
       {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
       },
       {
         "name": "60",
@@ -15241,12 +16693,72 @@
     "opposite": "IJPP:1167211",
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_razstavisce_328",
@@ -15526,6 +17038,10 @@
     "opposite": "IJPP:1167229",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -15554,6 +17070,10 @@
     "lon": 14.5104297,
     "opposite": "IJPP:1167232",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -15584,6 +17104,10 @@
     "opposite": "IJPP:1167231",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -15612,6 +17136,10 @@
     "lon": 14.5112982,
     "opposite": "IJPP:1167234",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -15642,6 +17170,10 @@
     "opposite": "IJPP:1167233",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -15670,6 +17202,10 @@
     "lon": 14.5117142,
     "opposite": "IJPP:1167236",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -15700,6 +17236,10 @@
     "opposite": "IJPP:1167235",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -15728,6 +17268,10 @@
     "lon": 14.5125362,
     "opposite": "IJPP:1167238",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -15758,8 +17302,20 @@
     "opposite": "IJPP:1167237",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       }
     ],
     "hub_id": "hub_akademija_339",
@@ -15787,8 +17343,20 @@
     "opposite": null,
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       }
     ],
     "hub_id": "hub_akademija_339",
@@ -15815,6 +17383,10 @@
     "lon": 14.5120872,
     "opposite": null,
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -15845,6 +17417,14 @@
     "opposite": "IJPP:1167267",
     "routes": [
       {
+        "name": "16",
+        "color": "#482972"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -15873,6 +17453,14 @@
     "lon": 14.5050433,
     "opposite": null,
     "routes": [
+      {
+        "name": "16",
+        "color": "#482972"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -15903,8 +17491,28 @@
     "opposite": "IJPP:1167271",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       }
     ],
     "hub_id": "hub_astra_342",
@@ -15932,8 +17540,28 @@
     "opposite": "IJPP:1167274",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       }
     ],
     "hub_id": "hub_astra_342",
@@ -15960,6 +17588,10 @@
     "lon": 14.5151054,
     "opposite": "IJPP:1167276",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -15990,6 +17622,10 @@
     "opposite": "IJPP:1167275",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -16019,8 +17655,20 @@
     "opposite": null,
     "routes": [
       {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       }
     ],
     "hub_id": "hub_savskestolpnice_344",
@@ -16048,8 +17696,20 @@
     "opposite": "IJPP:1167277",
     "routes": [
       {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       }
     ],
     "hub_id": "hub_savskestolpnice_344",
@@ -16076,6 +17736,10 @@
     "lon": 14.5298062,
     "opposite": "IJPP:1167284",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -16106,6 +17770,10 @@
     "opposite": "IJPP:1167283",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -16134,6 +17802,10 @@
     "lon": 14.5319008,
     "opposite": "IJPP:1167286",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -16164,6 +17836,10 @@
     "opposite": "IJPP:1167285",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -16193,6 +17869,10 @@
     "opposite": null,
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
       }
@@ -16218,6 +17898,18 @@
     "lon": 14.4596531,
     "opposite": "IJPP:1167289",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -16252,6 +17944,22 @@
     "opposite": "IJPP:1167292",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16280,6 +17988,22 @@
     "lon": 14.4693682,
     "opposite": "IJPP:1167291",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16310,6 +18034,22 @@
     "opposite": "IJPP:1167294",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16338,6 +18078,22 @@
     "lon": 14.4711022,
     "opposite": "IJPP:1167293",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16368,6 +18124,22 @@
     "opposite": "IJPP:1167296",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16396,6 +18168,18 @@
     "lon": 14.4773922,
     "opposite": "IJPP:1167295",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16426,6 +18210,18 @@
     "opposite": "IJPP:1167298",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16454,6 +18250,18 @@
     "lon": 14.48022,
     "opposite": "IJPP:1167297",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16484,6 +18292,18 @@
     "opposite": "IJPP:1167300",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16513,12 +18333,28 @@
     "opposite": "IJPP:1167299",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
         "name": "12D",
         "color": "#183875"
       },
       {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
+      },
+      {
+        "name": "SŽ",
+        "color": "#666666"
       }
     ],
     "hub_id": "hub_kolodvor_353",
@@ -16546,12 +18382,28 @@
     "opposite": "IJPP:1167302",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
         "name": "12D",
         "color": "#183875"
       },
       {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
+      },
+      {
+        "name": "SŽ",
+        "color": "#666666"
       }
     ],
     "hub_id": "hub_kolodvor_353",
@@ -16578,6 +18430,10 @@
     "lon": 14.5192037,
     "opposite": "IJPP:1167304",
     "routes": [
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16608,6 +18464,10 @@
     "opposite": "IJPP:1167303",
     "routes": [
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16636,6 +18496,30 @@
     "lon": 14.5207598,
     "opposite": "IJPP:1167306",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16666,6 +18550,30 @@
     "opposite": "IJPP:1167305",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16694,6 +18602,30 @@
     "lon": 14.5281554,
     "opposite": "IJPP:1167308",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16724,6 +18656,30 @@
     "opposite": "IJPP:1167307",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16752,6 +18708,30 @@
     "lon": 14.5345688,
     "opposite": "IJPP:1167310",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16782,6 +18762,30 @@
     "opposite": "IJPP:1167309",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16810,6 +18814,34 @@
     "lon": 14.5399255,
     "opposite": "IJPP:1167312",
     "routes": [
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16840,6 +18872,34 @@
     "opposite": "IJPP:1167311",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16868,6 +18928,18 @@
     "lon": 14.5533469,
     "opposite": "IJPP:1167314",
     "routes": [
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16898,6 +18970,18 @@
     "opposite": "IJPP:1167313",
     "routes": [
       {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16926,6 +19010,18 @@
     "lon": 14.5591719,
     "opposite": "IJPP:1167316",
     "routes": [
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -16956,6 +19052,18 @@
     "opposite": "IJPP:1167315",
     "routes": [
       {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -16985,6 +19093,26 @@
     "opposite": "IJPP:1167318",
     "routes": [
       {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -17012,6 +19140,18 @@
     "lon": 14.5640828,
     "opposite": "IJPP:1167320",
     "routes": [
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -17042,6 +19182,18 @@
     "opposite": "IJPP:1167319",
     "routes": [
       {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -17071,6 +19223,18 @@
     "opposite": "IJPP:1167322",
     "routes": [
       {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -17099,8 +19263,24 @@
     "opposite": "IJPP:1167324",
     "routes": [
       {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_studenec_364",
@@ -17128,8 +19308,24 @@
     "opposite": "IJPP:1167323",
     "routes": [
       {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_studenec_364",
@@ -17157,8 +19353,28 @@
     "opposite": null,
     "routes": [
       {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_polje_365",
@@ -17188,8 +19404,28 @@
     "opposite": "IJPP:1167325",
     "routes": [
       {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_polje_365",
@@ -17218,6 +19454,10 @@
     "lon": 14.5835881,
     "opposite": "IJPP:1167330",
     "routes": [
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -17248,6 +19488,10 @@
     "opposite": "IJPP:1167329",
     "routes": [
       {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -17276,6 +19520,10 @@
     "lon": 14.5831402,
     "opposite": "IJPP:1167332",
     "routes": [
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -17306,6 +19554,10 @@
     "opposite": "IJPP:1167331",
     "routes": [
       {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -17335,6 +19587,14 @@
     "opposite": null,
     "routes": [
       {
+        "name": "10",
+        "color": "#d11116"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -17363,8 +19623,44 @@
     "opposite": null,
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
       },
       {
         "name": "25",
@@ -17373,6 +19669,10 @@
       {
         "name": "60",
         "color": "#9AA769"
+      },
+      {
+        "name": "SŽ",
+        "color": "#666666"
       }
     ],
     "hub_id": "hub_gosposvetska_369",
@@ -17400,6 +19700,18 @@
     "opposite": null,
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "25",
         "color": "#2387bc"
       }
@@ -17426,6 +19738,18 @@
     "lon": 14.4823353,
     "opposite": "IJPP:1167341",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "25",
         "color": "#2387bc"
@@ -17522,8 +19846,16 @@
     "opposite": "IJPP:1167355",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       }
     ],
     "hub_id": "hub_podvoznapot_372",
@@ -17549,8 +19881,16 @@
     "opposite": null,
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       }
     ],
     "hub_id": "hub_podvoznapot_372",
@@ -17660,11 +20000,31 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ajdovščina/Lj.",
+    "name": "Ajdovščina",
     "lat": 46.0535684,
     "lon": 14.504036,
     "opposite": "IJPP:1167369",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -17674,12 +20034,56 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_ajdovscina_376",
@@ -17701,11 +20105,31 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ajdovščina/Lj.",
+    "name": "Ajdovščina",
     "lat": 46.0539839,
     "lon": 14.5044448,
     "opposite": "IJPP:1167372",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
       {
         "name": "3B",
         "color": "#5BAF20"
@@ -17715,12 +20139,56 @@
         "color": "#5BAF20"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
       },
       {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "14",
+        "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_ajdovscina_376",
@@ -17817,8 +20285,44 @@
     "opposite": "IJPP:1167388",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3B",
         "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
+      },
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "7",
+        "color": "#47acd1"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
       },
       {
         "name": "25",
@@ -17827,6 +20331,10 @@
       {
         "name": "60",
         "color": "#9AA769"
+      },
+      {
+        "name": "SŽ",
+        "color": "#666666"
       }
     ],
     "hub_id": "hub_gosposvetska_369",
@@ -17853,6 +20361,10 @@
     "lon": 14.512112,
     "opposite": null,
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -17885,6 +20397,10 @@
       {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_srediska_378",
@@ -18076,8 +20592,16 @@
     "opposite": "IJPP:1167487",
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "21D",
         "color": "#3C8C3C"
+      },
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ],
     "hub_id": "hub_crnuce_10",
@@ -18105,6 +20629,10 @@
       {
         "name": "12D",
         "color": "#183875"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_srediska_378",
@@ -18373,6 +20901,10 @@
       {
         "name": "25",
         "color": "#2387bc"
+      },
+      {
+        "name": "30",
+        "color": "#8AC09D"
       }
     ],
     "hub_id": "hub_medvodeobracalisce_389",
@@ -18988,14 +21520,22 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Kranjčeva",
+    "name": "Kranjčeva",
     "lat": 46.06921,
     "lon": 14.52588,
     "opposite": "IJPP:1168263",
     "routes": [
       {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
         "name": "19I",
         "color": "#B96F89"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
       }
     ],
     "hub_id": "hub_kranjceva_406",
@@ -19021,6 +21561,10 @@
     "lon": 14.5276991,
     "opposite": "IJPP:1168305",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -19050,6 +21594,10 @@
     "lon": 14.5276593,
     "opposite": null,
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -19120,11 +21668,19 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Trnovo",
+    "name": "TRNOVO",
     "lat": 46.0409755,
     "lon": 14.5092294,
     "opposite": null,
     "routes": [
+      {
+        "name": "16",
+        "color": "#482972"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -19149,11 +21705,19 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Trnovo",
+    "name": "TRNOVO",
     "lat": 46.0419308,
     "lon": 14.5099112,
     "opposite": "IJPP:1168335",
     "routes": [
+      {
+        "name": "16",
+        "color": "#482972"
+      },
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
       {
         "name": "19I",
         "color": "#B96F89"
@@ -19178,11 +21742,15 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Brod",
+    "name": "BROD",
     "lat": 46.1155196,
     "lon": 14.4626789,
     "opposite": null,
     "routes": [
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -19205,11 +21773,15 @@
     "type": "BUS",
     "background_color": "#004E96",
     "icon_color": "#FFFFFF",
-    "name": "Ljubljana Brod",
+    "name": "BROD",
     "lat": 46.1156238,
     "lon": 14.4624348,
     "opposite": "IJPP:1168339",
     "routes": [
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "15",
         "color": "#8A1D79"
@@ -19346,8 +21918,20 @@
     "opposite": null,
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "6B",
         "color": "#6E7073"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_zelezna_286",
@@ -19397,6 +21981,30 @@
       {
         "name": "3G",
         "color": "#5BAF20"
+      },
+      {
+        "name": "68",
+        "color": "#207C4C"
+      },
+      {
+        "name": "69",
+        "color": "#207C4C"
+      },
+      {
+        "name": "71",
+        "color": "#5D77A9"
+      },
+      {
+        "name": "72",
+        "color": "#41917F"
+      },
+      {
+        "name": "73",
+        "color": "#D9AC08"
+      },
+      {
+        "name": "78",
+        "color": "#B06A67"
       }
     ],
     "hub_id": "hub_grosuplje_76",
@@ -19684,6 +22292,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_tabor_314",
@@ -19951,6 +22563,10 @@
         "color": "#88898c"
       },
       {
+        "name": "21D",
+        "color": "#3C8C3C"
+      },
+      {
         "name": "28",
         "color": "#b7b937"
       }
@@ -20019,8 +22635,16 @@
         "color": "#b23a34"
       },
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       }
     ],
     "hub_id": "hub_askerceva_324",
@@ -20157,6 +22781,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
         "name": "5",
         "color": "#8b4d8f"
       },
@@ -20171,6 +22799,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "SŽ",
+        "color": "#666666"
       }
     ],
     "hub_id": "hub_tivoli_434",
@@ -20605,6 +23237,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_brodarjevtrg_359",
@@ -20723,6 +23359,10 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_aleja_370",
@@ -20996,6 +23636,18 @@
       {
         "name": "10",
         "color": "#d11116"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
       }
     ],
     "hub_id": "hub_agrokombinatska_459",
@@ -21195,8 +23847,24 @@
         "color": "#b23a34"
       },
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       },
       {
         "name": "5",
@@ -21209,6 +23877,14 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -21300,6 +23976,14 @@
       {
         "name": "11B",
         "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_chengdujska_363",
@@ -21363,6 +24047,14 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "44",
+        "color": "#736F93"
+      },
+      {
+        "name": "45",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_podpec_5",
@@ -21487,6 +24179,10 @@
       {
         "name": "7",
         "color": "#47acd1"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
       }
     ],
     "hub_id": "hub_novejarsesm_470",
@@ -21582,6 +24278,10 @@
       {
         "name": "N5",
         "color": "#a35ca0"
+      },
+      {
+        "name": "23",
+        "color": "#5ea653"
       }
     ],
     "hub_id": "hub_podkamnogorico_473",
@@ -21606,6 +24306,14 @@
     "lon": 14.608483,
     "opposite": "404083",
     "routes": [
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
       {
         "name": "26",
         "color": "#1f1d1d"
@@ -21671,6 +24379,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_novezale_346",
@@ -21813,6 +24525,10 @@
         "color": "#d895a9"
       },
       {
+        "name": "19I",
+        "color": "#B96F89"
+      },
+      {
         "name": "22",
         "color": "#e6a042"
       }
@@ -21844,6 +24560,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_iskimost_335",
@@ -22015,6 +24735,10 @@
         "color": "#d4267e"
       },
       {
+        "name": "25",
+        "color": "#2387bc"
+      },
+      {
         "name": "27",
         "color": "#589786"
       }
@@ -22110,6 +24834,10 @@
       {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_kodrova_483",
@@ -22145,6 +24873,10 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_dravlje_351",
@@ -22248,6 +24980,10 @@
       {
         "name": "11",
         "color": "#e2bb46"
+      },
+      {
+        "name": "21D",
+        "color": "#3C8C3C"
       }
     ],
     "hub_id": "hub_jezica_7",
@@ -22309,6 +25045,10 @@
       {
         "name": "1B",
         "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
       }
     ],
     "hub_id": "hub_mestnilog_487",
@@ -22395,6 +25135,10 @@
     "lon": 14.604608,
     "opposite": null,
     "routes": [
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
       {
         "name": "26",
         "color": "#1f1d1d"
@@ -22541,6 +25285,10 @@
     "opposite": "204211",
     "routes": [
       {
+        "name": "10",
+        "color": "#d11116"
+      },
+      {
         "name": "11",
         "color": "#e2bb46"
       },
@@ -22652,6 +25400,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -22670,6 +25426,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -22738,6 +25498,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_chengdujska_363",
@@ -22766,6 +25530,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_nazalah_345",
@@ -23095,6 +25863,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_velikistradon_341",
@@ -23122,8 +25894,24 @@
     "opposite": "600012",
     "routes": [
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "2",
         "color": "#7f7b3f"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
+        "color": "#eb6147"
       },
       {
         "name": "N5",
@@ -23132,6 +25920,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -23174,6 +25966,10 @@
         "color": "#d895a9"
       },
       {
+        "name": "19I",
+        "color": "#B96F89"
+      },
+      {
         "name": "20",
         "color": "#3a794b"
       },
@@ -23182,8 +25978,24 @@
         "color": "#3a734b"
       },
       {
+        "name": "25",
+        "color": "#2387bc"
+      },
+      {
         "name": "27",
         "color": "#589786"
+      },
+      {
+        "name": "51",
+        "color": "#5D77A9"
+      },
+      {
+        "name": "56",
+        "color": "#6F280D"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -23215,8 +26027,20 @@
     "opposite": null,
     "routes": [
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3B",
         "color": "#eb6147"
+      },
+      {
+        "name": "82",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_skofljicaspica_273",
@@ -23251,6 +26075,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_naklancu_313",
@@ -23277,6 +26105,14 @@
     "lon": 14.455667,
     "opposite": null,
     "routes": [
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
       {
         "name": "23",
         "color": "#5ea653"
@@ -23311,6 +26147,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
       }
     ],
     "hub_id": "hub_tovornikolodvor_489",
@@ -23366,6 +26206,18 @@
     "lon": 14.477067,
     "opposite": "603143",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "16",
         "color": "#482972"
@@ -23452,8 +26304,24 @@
     "opposite": "403042",
     "routes": [
       {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
         "name": "13",
         "color": "#c9cc54"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
       }
     ],
     "hub_id": "hub_stepanjavas_504",
@@ -23586,6 +26454,10 @@
         "color": "#d895a9"
       },
       {
+        "name": "19I",
+        "color": "#B96F89"
+      },
+      {
         "name": "22",
         "color": "#e6a042"
       }
@@ -23642,6 +26514,26 @@
     "opposite": null,
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
         "name": "18L",
         "color": "#765033"
       }
@@ -23681,8 +26573,20 @@
         "color": "#829fc3"
       },
       {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
+      },
+      {
         "name": "27",
         "color": "#589786"
+      },
+      {
+        "name": "SŽ",
+        "color": "#666666"
       }
     ],
     "hub_id": "hub_kolodvor_353",
@@ -23764,8 +26668,16 @@
     "opposite": "100021",
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -23780,6 +26692,14 @@
         "color": "#e2bb46"
       },
       {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
         "name": "13",
         "color": "#c9cc54"
       },
@@ -23788,8 +26708,20 @@
         "color": "#da5894"
       },
       {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -23798,6 +26730,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_razstavisce_328",
@@ -23827,6 +26763,10 @@
       {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_novopolje_367",
@@ -23937,6 +26877,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_iskimost_335",
@@ -23970,6 +26914,10 @@
       {
         "name": "1B",
         "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
       }
     ],
     "hub_id": "hub_krimska_512",
@@ -24017,6 +26965,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_klinicnicenter_355",
@@ -24104,6 +27056,14 @@
       {
         "name": "1B",
         "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       }
     ],
     "hub_id": "hub_tbilisijska_503",
@@ -24244,6 +27204,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_potnafuzine_361",
@@ -24365,6 +27329,14 @@
     "opposite": "404084",
     "routes": [
       {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
         "name": "26",
         "color": "#1f1d1d"
       }
@@ -24398,6 +27370,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "23",
+        "color": "#5ea653"
       }
     ],
     "hub_id": "hub_kamnagorica_521",
@@ -24481,6 +27457,10 @@
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -24690,8 +27670,32 @@
     "opposite": "100012",
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
+      },
+      {
         "name": "27",
         "color": "#589786"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_navje_6",
@@ -24724,6 +27728,10 @@
       {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_zadobrova_368",
@@ -24833,6 +27841,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_tomacevo_347",
@@ -24867,6 +27879,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_tacenskimost_316",
@@ -24999,12 +28015,24 @@
         "color": "#b23a34"
       },
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "2",
         "color": "#7f7b3f"
       },
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -25017,6 +28045,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -25033,6 +28065,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -25150,6 +28186,18 @@
     "lon": 14.477324,
     "opposite": "603144",
     "routes": [
+      {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
       {
         "name": "16",
         "color": "#482972"
@@ -25301,6 +28349,14 @@
     "lon": 14.539114,
     "opposite": "403022",
     "routes": [
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
       {
         "name": "9",
         "color": "#829fc3"
@@ -25614,6 +28670,10 @@
         "color": "#b23a34"
       },
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "16",
         "color": "#482972"
       }
@@ -25643,6 +28703,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_barje_340",
@@ -25742,6 +28806,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -25756,6 +28824,14 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
       },
       {
         "name": "22",
@@ -25961,6 +29037,14 @@
     "opposite": "103182",
     "routes": [
       {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
         "name": "24",
         "color": "#d4267e"
       }
@@ -26083,6 +29167,10 @@
       {
         "name": "7",
         "color": "#47acd1"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
       },
       {
         "name": "24",
@@ -26211,6 +29299,14 @@
         "color": "#88898c"
       },
       {
+        "name": "8",
+        "color": "#255d9f"
+      },
+      {
+        "name": "21D",
+        "color": "#3C8C3C"
+      },
+      {
         "name": "28",
         "color": "#b7b937"
       }
@@ -26242,8 +29338,20 @@
     "opposite": null,
     "routes": [
       {
+        "name": "6",
+        "color": "#88898c"
+      },
+      {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "21D",
+        "color": "#3C8C3C"
+      },
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ],
     "hub_id": "hub_sava_8",
@@ -26364,6 +29472,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_livada_338",
@@ -26589,6 +29701,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "23",
+        "color": "#5ea653"
       }
     ],
     "hub_id": "hub_kamnagorica_521",
@@ -26618,6 +29734,18 @@
       {
         "name": "10",
         "color": "#d11116"
+      },
+      {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
       }
     ],
     "hub_id": "hub_agrokombinatska_459",
@@ -26649,6 +29777,10 @@
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -26874,6 +30006,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
         "name": "5",
         "color": "#8b4d8f"
       },
@@ -26888,6 +30028,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_staracerkev_307",
@@ -27006,6 +30150,14 @@
       {
         "name": "N5",
         "color": "#a35ca0"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
       }
     ],
     "hub_id": "hub_kodeljevo_541",
@@ -27098,6 +30250,10 @@
       },
       {
         "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "N3B",
         "color": "#eb6147"
       }
     ],
@@ -27274,6 +30430,14 @@
     "lon": 14.525866,
     "opposite": "203211",
     "routes": [
+      {
+        "name": "19B",
+        "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
+      },
       {
         "name": "24",
         "color": "#d4267e"
@@ -27568,8 +30732,24 @@
     "opposite": "504101",
     "routes": [
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3B",
         "color": "#eb6147"
+      },
+      {
+        "name": "82",
+        "color": "#207C4C"
+      },
+      {
+        "name": "461",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_skofljicapetkovsek_17",
@@ -27630,6 +30810,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_topniska_343",
@@ -27677,6 +30861,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -27687,6 +30879,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -27715,6 +30911,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -27774,6 +30974,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -27821,6 +31025,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_podgora_349",
@@ -27881,6 +31089,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -27974,6 +31186,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_preglovtrg_360",
@@ -28036,6 +31252,10 @@
         "color": "#d895a9"
       },
       {
+        "name": "19I",
+        "color": "#B96F89"
+      },
+      {
         "name": "22",
         "color": "#e6a042"
       }
@@ -28087,6 +31307,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_trznicamoste_357",
@@ -28203,6 +31427,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -28221,6 +31453,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -28639,6 +31875,10 @@
         "color": "#88898c"
       },
       {
+        "name": "21D",
+        "color": "#3C8C3C"
+      },
+      {
         "name": "28",
         "color": "#b7b937"
       }
@@ -28678,6 +31918,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -28765,6 +32009,10 @@
       {
         "name": "9",
         "color": "#829fc3"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_poliklinika_354",
@@ -28798,6 +32046,10 @@
       {
         "name": "1B",
         "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
       }
     ],
     "hub_id": "hub_jadranska_599",
@@ -28889,6 +32141,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_ilovica_337",
@@ -28974,6 +32230,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -29044,6 +32304,14 @@
       {
         "name": "7",
         "color": "#47acd1"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       },
       {
         "name": "24",
@@ -29143,6 +32411,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "21D",
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -29355,6 +32627,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -29365,6 +32645,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -29393,6 +32677,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -29546,6 +32834,10 @@
       {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_poljekolodvor_366",
@@ -29579,6 +32871,10 @@
       {
         "name": "1B",
         "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
       },
       {
         "name": "16",
@@ -29624,6 +32920,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -29642,6 +32942,14 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -29801,6 +33109,14 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "24",
+        "color": "#d4267e"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -30056,6 +33372,10 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_dravlje_351",
@@ -30184,6 +33504,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_barje_340",
@@ -30291,6 +33615,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_podgora_349",
@@ -30386,6 +33714,10 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_kompas_352",
@@ -30466,6 +33798,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_trznicamoste_357",
@@ -30528,6 +33864,10 @@
       {
         "name": "7",
         "color": "#47acd1"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
       },
       {
         "name": "24",
@@ -30648,6 +33988,14 @@
     "opposite": null,
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "9",
+        "color": "#829fc3"
+      },
+      {
         "name": "11",
         "color": "#e2bb46"
       },
@@ -30666,6 +34014,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_zaloska_358",
@@ -30703,6 +34055,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_rusjanovtrg_362",
@@ -30802,6 +34158,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_tacenskimost_316",
@@ -30889,6 +34249,14 @@
       {
         "name": "9",
         "color": "#829fc3"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -30981,6 +34349,14 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_zaloska_358",
@@ -31113,6 +34489,22 @@
       {
         "name": "11B",
         "color": "#e2bb46"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_potnafuzine_361",
@@ -31236,6 +34628,10 @@
         "color": "#829fc3"
       },
       {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
         "name": "24",
         "color": "#d4267e"
       }
@@ -31294,6 +34690,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -31360,8 +34760,16 @@
     "opposite": "100011",
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "11B",
         "color": "#e2bb46"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
       },
       {
         "name": "18",
@@ -31374,6 +34782,10 @@
       {
         "name": "27",
         "color": "#589786"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_navje_6",
@@ -31437,6 +34849,14 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_vizmarje_348",
@@ -31631,6 +35051,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -32088,6 +35512,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -32106,6 +35534,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -32166,6 +35598,14 @@
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
       },
       {
         "name": "18",
@@ -32286,6 +35726,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_tomacevska_407",
@@ -32312,6 +35756,10 @@
     "lon": 14.604475,
     "opposite": "404091",
     "routes": [
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
       {
         "name": "26",
         "color": "#1f1d1d"
@@ -32379,6 +35827,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_topniska_343",
@@ -32650,12 +36102,36 @@
     "opposite": "502022",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
         "name": "11",
         "color": "#e2bb46"
       },
       {
         "name": "11B",
         "color": "#e2bb46"
+      },
+      {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
       }
     ],
     "hub_id": "hub_cukrarna_646",
@@ -32689,6 +36165,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_velikistradon_341",
@@ -32784,6 +36264,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_trnovo_409",
@@ -32879,6 +36363,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_tomacevska_407",
@@ -32906,7 +36394,23 @@
     "opposite": null,
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
         "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
         "color": "#765033"
       }
     ],
@@ -33010,6 +36514,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -33028,6 +36536,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_staracerkev_307",
@@ -33054,6 +36566,10 @@
     "lon": 14.46512,
     "opposite": "803182",
     "routes": [
+      {
+        "name": "22",
+        "color": "#e6a042"
+      },
       {
         "name": "23",
         "color": "#5ea653"
@@ -33086,6 +36602,14 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "44",
+        "color": "#736F93"
+      },
+      {
+        "name": "45",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_podpec_5",
@@ -33158,6 +36682,14 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_vizmarje_348",
@@ -33187,6 +36719,14 @@
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
       },
       {
         "name": "8",
@@ -33230,6 +36770,10 @@
       {
         "name": "9",
         "color": "#829fc3"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_poliklinika_354",
@@ -33257,8 +36801,16 @@
     "opposite": "404201",
     "routes": [
       {
+        "name": "13",
+        "color": "#c9cc54"
+      },
+      {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "26",
+        "color": "#1f1d1d"
       }
     ],
     "hub_id": "hub_sostro2_561",
@@ -33347,12 +36899,24 @@
         "color": "#7f7b3f"
       },
       {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
+      },
+      {
         "name": "11",
         "color": "#e2bb46"
       },
       {
         "name": "11B",
         "color": "#e2bb46"
+      },
+      {
+        "name": "13",
+        "color": "#c9cc54"
       },
       {
         "name": "20",
@@ -33497,6 +37061,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       }
     ],
     "hub_id": "hub_askerceva_324",
@@ -33551,8 +37119,24 @@
     "opposite": "504102",
     "routes": [
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3B",
         "color": "#eb6147"
+      },
+      {
+        "name": "82",
+        "color": "#207C4C"
+      },
+      {
+        "name": "461",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_skofljicapetkovsek_17",
@@ -33646,6 +37230,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -33693,6 +37281,10 @@
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
       },
       {
         "name": "5",
@@ -33905,6 +37497,10 @@
         "color": "#47acd1"
       },
       {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
         "name": "22",
         "color": "#e6a042"
       },
@@ -33945,6 +37541,10 @@
       {
         "name": "7",
         "color": "#47acd1"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
       },
       {
         "name": "22",
@@ -34021,6 +37621,10 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "16",
+        "color": "#482972"
       }
     ],
     "hub_id": "hub_tbilisijska_503",
@@ -34049,6 +37653,10 @@
     "lon": 14.605268,
     "opposite": "204212",
     "routes": [
+      {
+        "name": "10",
+        "color": "#d11116"
+      },
       {
         "name": "11",
         "color": "#e2bb46"
@@ -34217,6 +37825,10 @@
         "color": "#d895a9"
       },
       {
+        "name": "19I",
+        "color": "#B96F89"
+      },
+      {
         "name": "22",
         "color": "#e6a042"
       }
@@ -34285,6 +37897,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -34303,6 +37923,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -34406,6 +38030,10 @@
       {
         "name": "26",
         "color": "#1f1d1d"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_vevce_655",
@@ -34518,6 +38146,10 @@
       {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_zadobrova_368",
@@ -34552,12 +38184,24 @@
         "color": "#b23a34"
       },
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "2",
         "color": "#7f7b3f"
       },
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -34570,6 +38214,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -34598,6 +38246,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -34658,6 +38310,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "28",
+        "color": "#b7b937"
       }
     ],
     "hub_id": "hub_rogovilc_579",
@@ -34950,6 +38606,10 @@
     "opposite": "202014",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
         "name": "27",
         "color": "#589786"
       }
@@ -34983,6 +38643,10 @@
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -35146,6 +38810,10 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_kompas_352",
@@ -35312,8 +38980,40 @@
         "color": "#88898c"
       },
       {
+        "name": "6B",
+        "color": "#6E7073"
+      },
+      {
         "name": "16",
         "color": "#482972"
+      },
+      {
+        "name": "45",
+        "color": "#207C4C"
+      },
+      {
+        "name": "46",
+        "color": "#207C4C"
+      },
+      {
+        "name": "47",
+        "color": "#207C4C"
+      },
+      {
+        "name": "48",
+        "color": "#207C4C"
+      },
+      {
+        "name": "51",
+        "color": "#5D77A9"
+      },
+      {
+        "name": "54",
+        "color": "#207C4C"
+      },
+      {
+        "name": "56",
+        "color": "#6F280D"
       }
     ],
     "hub_id": "hub_dolgimost_277",
@@ -35496,6 +39196,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       }
     ],
     "hub_id": "hub_hajdrihova_281",
@@ -35706,6 +39410,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -35716,6 +39428,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -35744,6 +39460,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -35925,6 +39645,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_novezale_346",
@@ -35954,6 +39678,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_ilovica_337",
@@ -36223,6 +39951,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_preglovtrg_360",
@@ -36335,6 +40067,10 @@
         "color": "#88898c"
       },
       {
+        "name": "21D",
+        "color": "#3C8C3C"
+      },
+      {
         "name": "28",
         "color": "#b7b937"
       }
@@ -36370,6 +40106,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -36388,6 +40132,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -36473,6 +40221,10 @@
     "opposite": "202091",
     "routes": [
       {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
         "name": "27",
         "color": "#589786"
       }
@@ -36551,6 +40303,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_rusjanovtrg_362",
@@ -36580,6 +40336,10 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_brod_410",
@@ -36667,6 +40427,14 @@
     "opposite": "504031",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
         "name": "N3B",
         "color": "#eb6147"
       }
@@ -36702,6 +40470,14 @@
       {
         "name": "9",
         "color": "#829fc3"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -36759,6 +40535,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -36844,7 +40624,23 @@
     "opposite": "103201",
     "routes": [
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
         "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
         "color": "#765033"
       }
     ],
@@ -36998,6 +40794,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_prusnikova_350",
@@ -37178,6 +40978,10 @@
         "color": "#7f7b3f"
       },
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -37192,6 +40996,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -37234,6 +41042,10 @@
         "color": "#d895a9"
       },
       {
+        "name": "19I",
+        "color": "#B96F89"
+      },
+      {
         "name": "20",
         "color": "#3a794b"
       },
@@ -37242,8 +41054,24 @@
         "color": "#3a734b"
       },
       {
+        "name": "25",
+        "color": "#2387bc"
+      },
+      {
         "name": "27",
         "color": "#589786"
+      },
+      {
+        "name": "51",
+        "color": "#5D77A9"
+      },
+      {
+        "name": "56",
+        "color": "#6F280D"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -37345,6 +41173,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_lahovapot_336",
@@ -37490,6 +41322,10 @@
       {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_poljekolodvor_366",
@@ -37635,6 +41471,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_livada_338",
@@ -37689,12 +41529,24 @@
     "opposite": "101032",
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
+      },
+      {
         "name": "7",
         "color": "#47acd1"
       },
       {
         "name": "11B",
         "color": "#e2bb46"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -37719,6 +41571,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_bezigrad_327",
@@ -37775,6 +41631,10 @@
       {
         "name": "7",
         "color": "#47acd1"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_yulon_558",
@@ -37963,6 +41823,10 @@
     "opposite": "202013",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
         "name": "27",
         "color": "#589786"
       }
@@ -38116,6 +41980,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_tabor_314",
@@ -38238,6 +42106,10 @@
       {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_novopolje_367",
@@ -38267,6 +42139,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_nazalah_345",
@@ -38441,6 +42317,10 @@
     "opposite": "502021",
     "routes": [
       {
+        "name": "2",
+        "color": "#7f7b3f"
+      },
+      {
         "name": "5",
         "color": "#8b4d8f"
       },
@@ -38449,8 +42329,24 @@
         "color": "#a35ca0"
       },
       {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
         "name": "13",
         "color": "#c9cc54"
+      },
+      {
+        "name": "20",
+        "color": "#3a794b"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
       }
     ],
     "hub_id": "hub_cukrarna_646",
@@ -38554,6 +42450,14 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
+      },
+      {
+        "name": "48P",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_tobacna_285",
@@ -38797,6 +42701,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_lahovapot_336",
@@ -38919,6 +42827,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_kosmaceva_312",
@@ -38952,6 +42864,10 @@
       {
         "name": "1B",
         "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
       }
     ],
     "hub_id": "hub_gerbiceva_645",
@@ -39033,6 +42949,10 @@
       {
         "name": "13",
         "color": "#c9cc54"
+      },
+      {
+        "name": "26",
+        "color": "#1f1d1d"
       }
     ],
     "hub_id": "hub_sostro_490",
@@ -39091,8 +43011,40 @@
         "color": "#88898c"
       },
       {
+        "name": "6B",
+        "color": "#6E7073"
+      },
+      {
         "name": "16",
         "color": "#482972"
+      },
+      {
+        "name": "45",
+        "color": "#207C4C"
+      },
+      {
+        "name": "46",
+        "color": "#207C4C"
+      },
+      {
+        "name": "47",
+        "color": "#207C4C"
+      },
+      {
+        "name": "48",
+        "color": "#207C4C"
+      },
+      {
+        "name": "51",
+        "color": "#5D77A9"
+      },
+      {
+        "name": "54",
+        "color": "#207C4C"
+      },
+      {
+        "name": "56",
+        "color": "#6F280D"
       }
     ],
     "hub_id": "hub_dolgimost_277",
@@ -39300,6 +43252,10 @@
       {
         "name": "11",
         "color": "#e2bb46"
+      },
+      {
+        "name": "21D",
+        "color": "#3C8C3C"
       }
     ],
     "hub_id": "hub_jezica_7",
@@ -39330,6 +43286,10 @@
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -39416,6 +43376,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_bolnica_356",
@@ -39457,6 +43421,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_prusnikova_350",
@@ -39484,8 +43452,36 @@
     "opposite": "803011",
     "routes": [
       {
+        "name": "1",
+        "color": "#b23a34"
+      },
+      {
+        "name": "1B",
+        "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "N3",
+        "color": "#eb6147"
+      },
+      {
+        "name": "5",
+        "color": "#8b4d8f"
+      },
+      {
+        "name": "N5",
+        "color": "#a35ca0"
       },
       {
         "name": "8",
@@ -39498,6 +43494,10 @@
       {
         "name": "18L",
         "color": "#765033"
+      },
+      {
+        "name": "22",
+        "color": "#e6a042"
       }
     ],
     "hub_id": "hub_slovenijaavto_284",
@@ -39760,6 +43760,10 @@
       {
         "name": "1B",
         "color": "#b23a34"
+      },
+      {
+        "name": "N1",
+        "color": "#cc4544"
       }
     ],
     "hub_id": "hub_koprska_670",
@@ -39903,8 +43907,20 @@
         "color": "#b23a34"
       },
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
+      },
+      {
+        "name": "48P",
+        "color": "#207C4C"
       }
     ],
     "hub_id": "hub_tobacna_285",
@@ -39931,12 +43947,36 @@
     "opposite": "101031",
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
+      },
+      {
         "name": "7",
         "color": "#47acd1"
       },
       {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
         "name": "13",
         "color": "#c9cc54"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
+      },
+      {
+        "name": "18L",
+        "color": "#765033"
       },
       {
         "name": "20",
@@ -39949,6 +43989,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_bezigrad_327",
@@ -39986,6 +44030,10 @@
       {
         "name": "N3B",
         "color": "#eb6147"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_strelisce_689",
@@ -40013,6 +44061,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "24",
@@ -40250,8 +44302,28 @@
     "opposite": null,
     "routes": [
       {
+        "name": "11",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "11B",
+        "color": "#e2bb46"
+      },
+      {
+        "name": "20Z",
+        "color": "#3a734b"
+      },
+      {
         "name": "24",
         "color": "#d4267e"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
+      },
+      {
+        "name": "27",
+        "color": "#589786"
       }
     ],
     "hub_id": "hub_polje_365",
@@ -40345,6 +44417,10 @@
       {
         "name": "N1",
         "color": "#cc4544"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_martinova_315",
@@ -40573,6 +44649,10 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -40591,6 +44671,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -41112,8 +45196,16 @@
         "color": "#b23a34"
       },
       {
+        "name": "N1",
+        "color": "#cc4544"
+      },
+      {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       }
     ],
     "hub_id": "hub_hajdrihova_281",
@@ -41201,6 +45293,10 @@
     "lon": 14.525023,
     "opposite": "202092",
     "routes": [
+      {
+        "name": "12D",
+        "color": "#183875"
+      },
       {
         "name": "27",
         "color": "#589786"
@@ -41409,6 +45505,14 @@
         "color": "#829fc3"
       },
       {
+        "name": "12D",
+        "color": "#183875"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
+      },
+      {
         "name": "27",
         "color": "#589786"
       }
@@ -41437,8 +45541,16 @@
     "opposite": "602121",
     "routes": [
       {
+        "name": "16",
+        "color": "#482972"
+      },
+      {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       }
     ],
     "hub_id": "hub_trnovo_409",
@@ -41610,8 +45722,16 @@
     "opposite": "100022",
     "routes": [
       {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -41628,6 +45748,10 @@
       {
         "name": "11B",
         "color": "#e2bb46"
+      },
+      {
+        "name": "12D",
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -41650,12 +45774,20 @@
         "color": "#d895a9"
       },
       {
+        "name": "19I",
+        "color": "#B96F89"
+      },
+      {
         "name": "20",
         "color": "#3a794b"
       },
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "60",
+        "color": "#9AA769"
       }
     ],
     "hub_id": "hub_razstavisce_328",
@@ -41732,6 +45864,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_klinicnicenter_355",
@@ -41792,6 +45928,10 @@
       {
         "name": "3",
         "color": "#7fec30"
+      },
+      {
+        "name": "3B",
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -41864,6 +46004,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_naklancu_313",
@@ -41922,8 +46066,16 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
       },
       {
         "name": "18L",
@@ -42127,6 +46279,10 @@
       {
         "name": "20Z",
         "color": "#3a734b"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_bolnica_356",
@@ -42195,6 +46351,10 @@
       {
         "name": "8",
         "color": "#255d9f"
+      },
+      {
+        "name": "15",
+        "color": "#8A1D79"
       }
     ],
     "hub_id": "hub_kosmaceva_312",
@@ -42484,6 +46644,10 @@
       {
         "name": "22",
         "color": "#e6a042"
+      },
+      {
+        "name": "25",
+        "color": "#2387bc"
       }
     ],
     "hub_id": "hub_brodarjevtrg_359",
@@ -42531,6 +46695,14 @@
         "color": "#7fec30"
       },
       {
+        "name": "3B",
+        "color": "#5BAF20"
+      },
+      {
+        "name": "3G",
+        "color": "#5BAF20"
+      },
+      {
         "name": "N3",
         "color": "#eb6147"
       },
@@ -42541,6 +46713,10 @@
       {
         "name": "6",
         "color": "#88898c"
+      },
+      {
+        "name": "6B",
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -42557,6 +46733,10 @@
       {
         "name": "19B",
         "color": "#d895a9"
+      },
+      {
+        "name": "19I",
+        "color": "#B96F89"
       },
       {
         "name": "27",

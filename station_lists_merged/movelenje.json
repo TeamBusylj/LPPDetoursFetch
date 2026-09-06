@@ -892,6 +892,10 @@
     "opposite": "MOVelenje:43",
     "routes": [
       {
+        "name": "R",
+        "color": "#ffdb00"
+      },
+      {
         "name": "S",
         "color": "#000000"
       }
@@ -1119,6 +1123,10 @@
       {
         "name": "O",
         "color": "#f58220"
+      },
+      {
+        "name": "R",
+        "color": "#ffdb00"
       }
     ],
     "hub_id": "hub_velenjka_33",
@@ -1263,7 +1271,7 @@
       },
       {
         "name": "R",
-        "color": "#ed1556"
+        "color": "#ffdb00"
       },
       {
         "name": "S",
@@ -1322,6 +1330,14 @@
       {
         "name": "M",
         "color": "#009cc3"
+      },
+      {
+        "name": "R",
+        "color": "#ffdb00"
+      },
+      {
+        "name": "S",
+        "color": "#000000"
       }
     ],
     "hub_id": "hub_salekskalca_38",
