@@ -143,7 +143,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -321,7 +321,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -363,7 +363,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -489,7 +489,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -623,7 +623,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -677,7 +677,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "#58464D"
+        "color": "#3E140C"
       },
       {
         "name": "1",
@@ -697,7 +697,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -735,7 +735,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -889,7 +889,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "#58464D"
+        "color": "#3E140C"
       }
     ],
     "merged_stop_ids": [
@@ -1045,7 +1045,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -1179,7 +1179,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -1329,7 +1329,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -1679,7 +1679,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -1731,7 +1731,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -1781,7 +1781,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -2159,7 +2159,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -2403,7 +2403,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#131D43"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -2557,7 +2557,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#131D43"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -2585,7 +2585,7 @@
       },
       {
         "name": "15",
-        "color": "#58464D"
+        "color": "#101849"
       }
     ],
     "merged_stop_ids": [
@@ -2755,7 +2755,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "#58464D"
+        "color": "#3E140C"
       }
     ],
     "merged_stop_ids": [
