@@ -24,6 +24,7 @@
         "color": "#DBAC6A"
       }
     ],
+    "hub_id": "hub_bolizola_0",
     "merged_stop_ids": [
       "MOKoper:1121020"
     ],
@@ -64,6 +65,7 @@
         "color": "#2C3192"
       }
     ],
+    "hub_id": "hub_koper_1",
     "merged_stop_ids": [
       "MOKoper:1121103"
     ],
@@ -112,6 +114,7 @@
         "color": "#F38221"
       }
     ],
+    "hub_id": "hub_banka_2",
     "merged_stop_ids": [
       "MOKoper:1121104"
     ],
@@ -132,30 +135,15 @@
     "opposite": "12932",
     "routes": [
       {
-        "name": "1",
-        "color": "#0FAF4B"
-      },
-      {
-        "name": "2",
-        "color": "#EE3533"
-      },
-      {
-        "name": "2A",
-        "color": "#00B6F1"
-      },
-      {
         "name": "10",
         "color": "#2C3192"
       },
       {
         "name": "11",
         "color": "#F5ABAD"
-      },
-      {
-        "name": "12",
-        "color": "#911D8B"
       }
     ],
+    "hub_id": "hub_barka_3",
     "merged_stop_ids": [
       "MOKoper:1121106",
       "MOKoper:1166808"
@@ -186,6 +174,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_cebelnjak_4",
     "merged_stop_ids": [
       "MOKoper:1121111"
     ],
@@ -214,6 +203,7 @@
         "color": "#DBE11F"
       }
     ],
+    "hub_id": "hub_dolinskacesta_5",
     "merged_stop_ids": [
       "MOKoper:1121112",
       "MOKoper:9201780"
@@ -252,6 +242,7 @@
         "color": "#F38221"
       }
     ],
+    "hub_id": "hub_lesnina_6",
     "merged_stop_ids": [
       "MOKoper:1121124"
     ],
@@ -292,6 +283,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_mandrac_7",
     "merged_stop_ids": [
       "MOKoper:1121127"
     ],
@@ -314,6 +306,33 @@
       {
         "name": "2",
         "color": "#EE3533"
+      }
+    ],
+    "hub_id": "hub_markovec_8",
+    "merged_stop_ids": [
+      "MOKoper:1121129",
+      "MOKoper:1121130"
+    ],
+    "merged_codes": [
+      "12977",
+      "12845"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExMjExMzA",
+    "gtfs_id": "MOKoper:1121130",
+    "code": "12845",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Markovec",
+    "lat": 45.539575,
+    "lon": 13.711925,
+    "opposite": "12845",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#EE3533"
       },
       {
         "name": "5",
@@ -328,6 +347,7 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_markovec_8",
     "merged_stop_ids": [
       "MOKoper:1121129",
       "MOKoper:1121130"
@@ -358,6 +378,38 @@
         "color": "#DBAC6A"
       }
     ],
+    "hub_id": "hub_markovecs_9",
+    "merged_stop_ids": [
+      "MOKoper:1121133",
+      "MOKoper:1121134"
+    ],
+    "merged_codes": [
+      "15548",
+      "15554"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExMjExMzQ",
+    "gtfs_id": "MOKoper:1121134",
+    "code": "15554",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Markovec Š",
+    "lat": 45.54298,
+    "lon": 13.71245,
+    "opposite": "15554",
+    "routes": [
+      {
+        "name": "2A",
+        "color": "#00B6F1"
+      },
+      {
+        "name": "3",
+        "color": "#DBAC6A"
+      }
+    ],
+    "hub_id": "hub_markovecs_9",
     "merged_stop_ids": [
       "MOKoper:1121133",
       "MOKoper:1121134"
@@ -384,10 +436,6 @@
         "color": "#0FAF4B"
       },
       {
-        "name": "3",
-        "color": "#DBAC6A"
-      },
-      {
         "name": "4",
         "color": "#00BECD"
       },
@@ -396,6 +444,42 @@
         "color": "#DBE11F"
       }
     ],
+    "hub_id": "hub_mercator_10",
+    "merged_stop_ids": [
+      "MOKoper:1121135",
+      "MOKoper:1121136"
+    ],
+    "merged_codes": [
+      "15524",
+      "15525"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExMjExMzY",
+    "gtfs_id": "MOKoper:1121136",
+    "code": "15525",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Mercator",
+    "lat": 45.52998,
+    "lon": 13.73332,
+    "opposite": "15525",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#0FAF4B"
+      },
+      {
+        "name": "3",
+        "color": "#DBAC6A"
+      },
+      {
+        "name": "4",
+        "color": "#00BECD"
+      }
+    ],
+    "hub_id": "hub_mercator_10",
     "merged_stop_ids": [
       "MOKoper:1121135",
       "MOKoper:1121136"
@@ -426,6 +510,7 @@
         "color": "#DBAC6A"
       }
     ],
+    "hub_id": "hub_naddolinsko_11",
     "merged_stop_ids": [
       "MOKoper:1121141"
     ],
@@ -454,6 +539,38 @@
         "color": "#00BECD"
       }
     ],
+    "hub_id": "hub_olmo_12",
+    "merged_stop_ids": [
+      "MOKoper:1121147",
+      "MOKoper:1121148"
+    ],
+    "merged_codes": [
+      "15530",
+      "15527"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExMjExNDg",
+    "gtfs_id": "MOKoper:1121148",
+    "code": "15527",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Olmo",
+    "lat": 45.53125,
+    "lon": 13.72725,
+    "opposite": "15527",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#0FAF4B"
+      },
+      {
+        "name": "4",
+        "color": "#00BECD"
+      }
+    ],
+    "hub_id": "hub_olmo_12",
     "merged_stop_ids": [
       "MOKoper:1121147",
       "MOKoper:1121148"
@@ -484,6 +601,7 @@
         "color": "#00BECD"
       }
     ],
+    "hub_id": "hub_olmok_13",
     "merged_stop_ids": [
       "MOKoper:1121149",
       "MOKoper:1164728"
@@ -508,6 +626,33 @@
       {
         "name": "2",
         "color": "#EE3533"
+      }
+    ],
+    "hub_id": "hub_prisoje_14",
+    "merged_stop_ids": [
+      "MOKoper:1121151",
+      "MOKoper:1121152"
+    ],
+    "merged_codes": [
+      "15532",
+      "15549"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExMjExNTI",
+    "gtfs_id": "MOKoper:1121152",
+    "code": "15549",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Prisoje",
+    "lat": 45.53585,
+    "lon": 13.72619,
+    "opposite": "15549",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#EE3533"
       },
       {
         "name": "3",
@@ -518,6 +663,7 @@
         "color": "#DBE11F"
       }
     ],
+    "hub_id": "hub_prisoje_14",
     "merged_stop_ids": [
       "MOKoper:1121151",
       "MOKoper:1121152"
@@ -556,6 +702,7 @@
         "color": "#F38221"
       }
     ],
+    "hub_id": "hub_stadion_15",
     "merged_stop_ids": [
       "MOKoper:1121157"
     ],
@@ -592,6 +739,42 @@
         "color": "#2C3192"
       }
     ],
+    "hub_id": "hub_supernova_16",
+    "merged_stop_ids": [
+      "MOKoper:1121158",
+      "MOKoper:1121159"
+    ],
+    "merged_codes": [
+      "15535",
+      "15533"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExMjExNTk",
+    "gtfs_id": "MOKoper:1121159",
+    "code": "15533",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Supernova",
+    "lat": 45.544414,
+    "lon": 13.738331,
+    "opposite": "15533",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#0FAF4B"
+      },
+      {
+        "name": "2",
+        "color": "#EE3533"
+      },
+      {
+        "name": "2A",
+        "color": "#00B6F1"
+      }
+    ],
+    "hub_id": "hub_supernova_16",
     "merged_stop_ids": [
       "MOKoper:1121158",
       "MOKoper:1121159"
@@ -618,6 +801,7 @@
         "color": "#DBE11F"
       }
     ],
+    "hub_id": "hub_tomos_17",
     "merged_stop_ids": [
       "MOKoper:1121164"
     ],
@@ -654,6 +838,7 @@
         "color": "#911D8B"
       }
     ],
+    "hub_id": "hub_trgbrolo_18",
     "merged_stop_ids": [
       "MOKoper:1121170"
     ],
@@ -682,6 +867,38 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_zusternaiii_19",
+    "merged_stop_ids": [
+      "MOKoper:1121177",
+      "MOKoper:1121178"
+    ],
+    "merged_codes": [
+      "12518",
+      "12519"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExMjExNzg",
+    "gtfs_id": "MOKoper:1121178",
+    "code": "12519",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Žusterna III",
+    "lat": 45.54377,
+    "lon": 13.7047,
+    "opposite": "12519",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#8FA3D4"
+      },
+      {
+        "name": "6",
+        "color": "#727274"
+      }
+    ],
+    "hub_id": "hub_zusternaiii_19",
     "merged_stop_ids": [
       "MOKoper:1121177",
       "MOKoper:1121178"
@@ -708,6 +925,7 @@
         "color": "#0FAF4B"
       }
     ],
+    "hub_id": "hub_kampelnovakik_20",
     "merged_stop_ids": [
       "MOKoper:1126112"
     ],
@@ -732,6 +950,7 @@
         "color": "#2C3192"
       }
     ],
+    "hub_id": "hub_srmingorcii_21",
     "merged_stop_ids": [
       "MOKoper:1164712"
     ],
@@ -756,6 +975,7 @@
         "color": "#2C3192"
       }
     ],
+    "hub_id": "hub_srmingorciii_22",
     "merged_stop_ids": [
       "MOKoper:1164713"
     ],
@@ -780,6 +1000,7 @@
         "color": "#2C3192"
       }
     ],
+    "hub_id": "hub_srmingorci_23",
     "merged_stop_ids": [
       "MOKoper:1164714"
     ],
@@ -816,6 +1037,46 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_pasarela_24",
+    "merged_stop_ids": [
+      "MOKoper:1164718",
+      "MOKoper:1164720"
+    ],
+    "merged_codes": [
+      "10685",
+      "15282"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjA",
+    "gtfs_id": "MOKoper:1164720",
+    "code": "15282",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Pasarela",
+    "lat": 45.539277,
+    "lon": 13.723308,
+    "opposite": "15282",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#EE3533"
+      },
+      {
+        "name": "2A",
+        "color": "#00B6F1"
+      },
+      {
+        "name": "4",
+        "color": "#00BECD"
+      },
+      {
+        "name": "11",
+        "color": "#F5ABAD"
+      }
+    ],
+    "hub_id": "hub_pasarela_24",
     "merged_stop_ids": [
       "MOKoper:1164718",
       "MOKoper:1164720"
@@ -858,6 +1119,50 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_semedelatunel_25",
+    "merged_stop_ids": [
+      "MOKoper:1164721",
+      "MOKoper:1164722"
+    ],
+    "merged_codes": [
+      "10702",
+      "10705"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjI",
+    "gtfs_id": "MOKoper:1164722",
+    "code": "10705",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Semedela-tunel",
+    "lat": 45.54295,
+    "lon": 13.71741,
+    "opposite": "10705",
+    "routes": [
+      {
+        "name": "4",
+        "color": "#00BECD"
+      },
+      {
+        "name": "5",
+        "color": "#8FA3D4"
+      },
+      {
+        "name": "6",
+        "color": "#727274"
+      },
+      {
+        "name": "9",
+        "color": "#F38221"
+      },
+      {
+        "name": "11",
+        "color": "#F5ABAD"
+      }
+    ],
+    "hub_id": "hub_semedelatunel_25",
     "merged_stop_ids": [
       "MOKoper:1164721",
       "MOKoper:1164722"
@@ -896,11 +1201,43 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_zusternaparkirisce_26",
     "merged_stop_ids": [
       "MOKoper:1164723"
     ],
     "merged_codes": [
       "10707"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjQ3Mjg",
+    "gtfs_id": "MOKoper:1164728",
+    "code": "13893",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Olmo K",
+    "lat": 45.534,
+    "lon": 13.72842,
+    "opposite": "13893",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#0FAF4B"
+      },
+      {
+        "name": "4",
+        "color": "#00BECD"
+      }
+    ],
+    "hub_id": "hub_olmok_13",
+    "merged_stop_ids": [
+      "MOKoper:1121149",
+      "MOKoper:1164728"
+    ],
+    "merged_codes": [
+      "15528",
+      "13893"
     ]
   },
   {
@@ -920,6 +1257,7 @@
         "color": "#DBAC6A"
       }
     ],
+    "hub_id": "hub_olmoeden_27",
     "merged_stop_ids": [
       "MOKoper:1164733"
     ],
@@ -948,6 +1286,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_dolgareber_28",
     "merged_stop_ids": [
       "MOKoper:1164735"
     ],
@@ -976,6 +1315,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_izletniskapot_29",
     "merged_stop_ids": [
       "MOKoper:1164736"
     ],
@@ -1032,6 +1372,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_zelenipark_30",
     "merged_stop_ids": [
       "MOKoper:1164968"
     ],
@@ -1080,6 +1421,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_svanavn_31",
     "merged_stop_ids": [
       "MOKoper:1165267"
     ],
@@ -1120,6 +1462,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_bankai_32",
     "merged_stop_ids": [
       "MOKoper:1166293"
     ],
@@ -1160,6 +1503,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_beblerjevaulica_33",
     "merged_stop_ids": [
       "MOKoper:1166294"
     ],
@@ -1188,6 +1532,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_beblerjevaulicak_34",
     "merged_stop_ids": [
       "MOKoper:1166295"
     ],
@@ -1212,6 +1557,34 @@
         "color": "#EE3533"
       }
     ],
+    "hub_id": "hub_semedelskirazgledi_35",
+    "merged_stop_ids": [
+      "MOKoper:1166296",
+      "MOKoper:1166297"
+    ],
+    "merged_codes": [
+      "15547",
+      "13549"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYyOTc",
+    "gtfs_id": "MOKoper:1166297",
+    "code": "13549",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Semedelski razgledi",
+    "lat": 45.53587,
+    "lon": 13.72218,
+    "opposite": "13549",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#EE3533"
+      }
+    ],
+    "hub_id": "hub_semedelskirazgledi_35",
     "merged_stop_ids": [
       "MOKoper:1166296",
       "MOKoper:1166297"
@@ -1246,6 +1619,7 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_ulicaiiprekomorskebrigade_36",
     "merged_stop_ids": [
       "MOKoper:1166298"
     ],
@@ -1270,6 +1644,34 @@
         "color": "#0FAF4B"
       }
     ],
+    "hub_id": "hub_bosamarinkapelca_37",
+    "merged_stop_ids": [
+      "MOKoper:1166299",
+      "MOKoper:1166300"
+    ],
+    "merged_codes": [
+      "13550",
+      "13319"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDA",
+    "gtfs_id": "MOKoper:1166300",
+    "code": "13319",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Bošamarin Kapelca",
+    "lat": 45.52145,
+    "lon": 13.74304,
+    "opposite": "13319",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#0FAF4B"
+      }
+    ],
+    "hub_id": "hub_bosamarinkapelca_37",
     "merged_stop_ids": [
       "MOKoper:1166299",
       "MOKoper:1166300"
@@ -1294,6 +1696,33 @@
       {
         "name": "2",
         "color": "#EE3533"
+      }
+    ],
+    "hub_id": "hub_klaricevaulica_38",
+    "merged_stop_ids": [
+      "MOKoper:1166301",
+      "MOKoper:1166302"
+    ],
+    "merged_codes": [
+      "15179",
+      "13320"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDI",
+    "gtfs_id": "MOKoper:1166302",
+    "code": "13320",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Klaričeva ulica",
+    "lat": 45.53682,
+    "lon": 13.71672,
+    "opposite": "13320",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#EE3533"
       },
       {
         "name": "5",
@@ -1308,6 +1737,7 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_klaricevaulica_38",
     "merged_stop_ids": [
       "MOKoper:1166301",
       "MOKoper:1166302"
@@ -1342,6 +1772,38 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_zusterna_39",
+    "merged_stop_ids": [
+      "MOKoper:1166303",
+      "MOKoper:1166304"
+    ],
+    "merged_codes": [
+      "13323",
+      "13322"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYzMDQ",
+    "gtfs_id": "MOKoper:1166304",
+    "code": "13322",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Žusterna",
+    "lat": 45.546434,
+    "lon": 13.709132,
+    "opposite": "13322",
+    "routes": [
+      {
+        "name": "5",
+        "color": "#8FA3D4"
+      },
+      {
+        "name": "6",
+        "color": "#727274"
+      }
+    ],
+    "hub_id": "hub_zusterna_39",
     "merged_stop_ids": [
       "MOKoper:1166303",
       "MOKoper:1166304"
@@ -1396,6 +1858,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_kosovelovtrg_40",
     "merged_stop_ids": [
       "MOKoper:1166305"
     ],
@@ -1436,6 +1899,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_kozlovicevaulica_41",
     "merged_stop_ids": [
       "MOKoper:1166306"
     ],
@@ -1468,6 +1932,7 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_kraljevaulica_42",
     "merged_stop_ids": [
       "MOKoper:1166307"
     ],
@@ -1500,6 +1965,7 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_kraljevaulicak_43",
     "merged_stop_ids": [
       "MOKoper:1166308"
     ],
@@ -1528,6 +1994,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_kroznacesta_44",
     "merged_stop_ids": [
       "MOKoper:1166309"
     ],
@@ -1556,6 +2023,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_kroznacestak_45",
     "merged_stop_ids": [
       "MOKoper:1166310"
     ],
@@ -1596,6 +2064,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_kvedrovacesta_46",
     "merged_stop_ids": [
       "MOKoper:1166312"
     ],
@@ -1620,6 +2089,34 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_novaulica_47",
+    "merged_stop_ids": [
+      "MOKoper:1166315",
+      "MOKoper:1166316"
+    ],
+    "merged_codes": [
+      "13331",
+      "15606"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTY",
+    "gtfs_id": "MOKoper:1166316",
+    "code": "15606",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Nova ulica",
+    "lat": 45.54093,
+    "lon": 13.71839,
+    "opposite": "15606",
+    "routes": [
+      {
+        "name": "7",
+        "color": "#005BAB"
+      }
+    ],
+    "hub_id": "hub_novaulica_47",
     "merged_stop_ids": [
       "MOKoper:1166315",
       "MOKoper:1166316"
@@ -1650,6 +2147,7 @@
         "color": "#DBAC6A"
       }
     ],
+    "hub_id": "hub_novaulicak_48",
     "merged_stop_ids": [
       "MOKoper:1166317"
     ],
@@ -1672,12 +2170,40 @@
       {
         "name": "3",
         "color": "#DBAC6A"
+      }
+    ],
+    "hub_id": "hub_oljcnapotlantana_49",
+    "merged_stop_ids": [
+      "MOKoper:1166318",
+      "MOKoper:1166319"
+    ],
+    "merged_codes": [
+      "13335",
+      "13334"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYzMTk",
+    "gtfs_id": "MOKoper:1166319",
+    "code": "13334",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Oljčna pot Lantana",
+    "lat": 45.53317,
+    "lon": 13.72203,
+    "opposite": "13334",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#DBAC6A"
       },
       {
         "name": "8",
         "color": "#DBE11F"
       }
     ],
+    "hub_id": "hub_oljcnapotlantana_49",
     "merged_stop_ids": [
       "MOKoper:1166318",
       "MOKoper:1166319"
@@ -1708,6 +2234,7 @@
         "color": "#00BECD"
       }
     ],
+    "hub_id": "hub_partizanskaulica_50",
     "merged_stop_ids": [
       "MOKoper:1166320"
     ],
@@ -1748,6 +2275,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_potniskiterminal_51",
     "merged_stop_ids": [
       "MOKoper:1166321"
     ],
@@ -1776,6 +2304,7 @@
         "color": "#DBE11F"
       }
     ],
+    "hub_id": "hub_prisojepodgarazo_52",
     "merged_stop_ids": [
       "MOKoper:1166322"
     ],
@@ -1800,6 +2329,7 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_rozmanovaulica_53",
     "merged_stop_ids": [
       "MOKoper:1166323"
     ],
@@ -1824,6 +2354,7 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_rozmanovaulicaii_54",
     "merged_stop_ids": [
       "MOKoper:1166325"
     ],
@@ -1848,6 +2379,7 @@
         "color": "#DBAC6A"
       }
     ],
+    "hub_id": "hub_rozmanovaulicas_55",
     "merged_stop_ids": [
       "MOKoper:1166326"
     ],
@@ -1872,6 +2404,7 @@
         "color": "#005BAB"
       }
     ],
+    "hub_id": "hub_srebrnicevaulica_56",
     "merged_stop_ids": [
       "MOKoper:1166327"
     ],
@@ -1908,6 +2441,7 @@
         "color": "#911D8B"
       }
     ],
+    "hub_id": "hub_svana_57",
     "merged_stop_ids": [
       "MOKoper:1166328"
     ],
@@ -1936,6 +2470,38 @@
         "color": "#00BECD"
       }
     ],
+    "hub_id": "hub_salaramarket_58",
+    "merged_stop_ids": [
+      "MOKoper:1166330",
+      "MOKoper:1166331"
+    ],
+    "merged_codes": [
+      "15175",
+      "13310"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzE",
+    "gtfs_id": "MOKoper:1166331",
+    "code": "13310",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Šalara market",
+    "lat": 45.5294,
+    "lon": 13.73864,
+    "opposite": "13310",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#0FAF4B"
+      },
+      {
+        "name": "4",
+        "color": "#00BECD"
+      }
+    ],
+    "hub_id": "hub_salaramarket_58",
     "merged_stop_ids": [
       "MOKoper:1166330",
       "MOKoper:1166331"
@@ -1966,6 +2532,41 @@
         "color": "#00B6F1"
       },
       {
+        "name": "4",
+        "color": "#00BECD"
+      }
+    ],
+    "hub_id": "hub_tomsicevaulica_59",
+    "merged_stop_ids": [
+      "MOKoper:1166332",
+      "MOKoper:1166333"
+    ],
+    "merged_codes": [
+      "15176",
+      "13312"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzM",
+    "gtfs_id": "MOKoper:1166333",
+    "code": "13312",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Tomšičeva ulica",
+    "lat": 45.537755,
+    "lon": 13.726966,
+    "opposite": "13312",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#EE3533"
+      },
+      {
+        "name": "2A",
+        "color": "#00B6F1"
+      },
+      {
         "name": "3",
         "color": "#DBAC6A"
       },
@@ -1974,6 +2575,7 @@
         "color": "#00BECD"
       }
     ],
+    "hub_id": "hub_tomsicevaulica_59",
     "merged_stop_ids": [
       "MOKoper:1166332",
       "MOKoper:1166333"
@@ -2012,6 +2614,42 @@
         "color": "#00BECD"
       }
     ],
+    "hub_id": "hub_tomsicevaulicak_60",
+    "merged_stop_ids": [
+      "MOKoper:1166334",
+      "MOKoper:1166335"
+    ],
+    "merged_codes": [
+      "15545",
+      "15177"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjYzMzU",
+    "gtfs_id": "MOKoper:1166335",
+    "code": "15177",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Tomšičeva ulica K",
+    "lat": 45.535966,
+    "lon": 13.728965,
+    "opposite": "15177",
+    "routes": [
+      {
+        "name": "2",
+        "color": "#EE3533"
+      },
+      {
+        "name": "2A",
+        "color": "#00B6F1"
+      },
+      {
+        "name": "4",
+        "color": "#00BECD"
+      }
+    ],
+    "hub_id": "hub_tomsicevaulicak_60",
     "merged_stop_ids": [
       "MOKoper:1166334",
       "MOKoper:1166335"
@@ -2038,6 +2676,7 @@
         "color": "#DBE11F"
       }
     ],
+    "hub_id": "hub_ulica15maja_61",
     "merged_stop_ids": [
       "MOKoper:1166336"
     ],
@@ -2066,6 +2705,7 @@
         "color": "#DBAC6A"
       }
     ],
+    "hub_id": "hub_ulicavenapilona_62",
     "merged_stop_ids": [
       "MOKoper:1166337"
     ],
@@ -2094,6 +2734,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_zusternabazen_63",
     "merged_stop_ids": [
       "MOKoper:1166338"
     ],
@@ -2122,6 +2763,7 @@
         "color": "#DBE11F"
       }
     ],
+    "hub_id": "hub_rozmanovaulicai_64",
     "merged_stop_ids": [
       "MOKoper:1166349"
     ],
@@ -2178,6 +2820,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_trznica_65",
     "merged_stop_ids": [
       "MOKoper:1166354"
     ],
@@ -2218,6 +2861,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_markoveccenterzagradom_66",
     "merged_stop_ids": [
       "MOKoper:1166377"
     ],
@@ -2258,11 +2902,55 @@
         "color": "#911D8B"
       }
     ],
+    "hub_id": "hub_phsonce_67",
     "merged_stop_ids": [
       "MOKoper:1166807"
     ],
     "merged_codes": [
       "15319"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjExNjY4MDg",
+    "gtfs_id": "MOKoper:1166808",
+    "code": "11215",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Barka",
+    "lat": 45.54646,
+    "lon": 13.73803,
+    "opposite": "11215",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#0FAF4B"
+      },
+      {
+        "name": "2",
+        "color": "#EE3533"
+      },
+      {
+        "name": "2A",
+        "color": "#00B6F1"
+      },
+      {
+        "name": "11",
+        "color": "#F5ABAD"
+      },
+      {
+        "name": "12",
+        "color": "#911D8B"
+      }
+    ],
+    "hub_id": "hub_barka_3",
+    "merged_stop_ids": [
+      "MOKoper:1121106",
+      "MOKoper:1166808"
+    ],
+    "merged_codes": [
+      "12932",
+      "11215"
     ]
   },
   {
@@ -2282,6 +2970,7 @@
         "color": "#0FAF4B"
       }
     ],
+    "hub_id": "hub_naddolinskocesto_68",
     "merged_stop_ids": [
       "MOKoper:1166821"
     ],
@@ -2322,6 +3011,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_svanapt_69",
     "merged_stop_ids": [
       "MOKoper:1166833"
     ],
@@ -2350,6 +3040,7 @@
         "color": "#727274"
       }
     ],
+    "hub_id": "hub_molet_70",
     "merged_stop_ids": [
       "MOKoper:1166929"
     ],
@@ -2382,11 +3073,39 @@
         "color": "#00B6F1"
       }
     ],
+    "hub_id": "hub_luka_71",
     "merged_stop_ids": [
       "MOKoper:1167020"
     ],
     "merged_codes": [
       "10430"
+    ]
+  },
+  {
+    "id": "U3RvcDpNT0tvcGVyOjkyMDE3ODA",
+    "gtfs_id": "MOKoper:9201780",
+    "code": "14713",
+    "type": "BUS",
+    "background_color": "#000000",
+    "icon_color": "#FFFFFF",
+    "name": "Dolinska cesta",
+    "lat": 45.53087,
+    "lon": 13.72397,
+    "opposite": "14713",
+    "routes": [
+      {
+        "name": "3",
+        "color": "#DBAC6A"
+      }
+    ],
+    "hub_id": "hub_dolinskacesta_5",
+    "merged_stop_ids": [
+      "MOKoper:1121112",
+      "MOKoper:9201780"
+    ],
+    "merged_codes": [
+      "14952",
+      "14713"
     ]
   },
   {
@@ -2406,6 +3125,7 @@
         "color": "#F5ABAD"
       }
     ],
+    "hub_id": "hub_cimospr_72",
     "merged_stop_ids": [
       "MOKoper:STOP_1777308522906"
     ]

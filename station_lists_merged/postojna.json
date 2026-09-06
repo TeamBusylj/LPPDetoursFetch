@@ -16,6 +16,7 @@
         "color": "#FD4097"
       }
     ],
+    "hub_id": "hub_zagon_0",
     "merged_stop_ids": [
       "Postojna:6azi"
     ]
@@ -27,7 +28,7 @@
     "type": "BUS",
     "background_color": "#a92c30",
     "icon_color": "#FFFFFF",
-    "name": "Park pri pošti",
+    "name": "Park pri pošti/Hotel Kras",
     "lat": 45.774846,
     "lon": 14.213219,
     "opposite": "Postojna:7cmf",
@@ -41,6 +42,7 @@
         "color": "#FD4097"
       }
     ],
+    "hub_id": "hub_parkpriposti_1",
     "merged_stop_ids": [
       "Postojna:7cmf"
     ]
@@ -62,6 +64,7 @@
         "color": "#f8e71c"
       }
     ],
+    "hub_id": "hub_velikiotok_2",
     "merged_stop_ids": [
       "Postojna:cl7o"
     ]
@@ -95,6 +98,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_poljane_3",
     "merged_stop_ids": [
       "Postojna:eptk"
     ]
@@ -116,6 +120,7 @@
         "color": "#f8e71c"
       }
     ],
+    "hub_id": "hub_inkubator_4",
     "merged_stop_ids": [
       "Postojna:gyta"
     ]
@@ -141,6 +146,7 @@
         "color": "#165f7b"
       }
     ],
+    "hub_id": "hub_tus_5",
     "merged_stop_ids": [
       "Postojna:ldxb"
     ]
@@ -162,6 +168,7 @@
         "color": "#f8e71c"
       }
     ],
+    "hub_id": "hub_parkjama_6",
     "merged_stop_ids": [
       "Postojna:lhsc"
     ]
@@ -191,6 +198,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_javorniskapot_7",
     "merged_stop_ids": [
       "Postojna:o0h0"
     ]
@@ -220,6 +228,7 @@
         "color": "#FD4097"
       }
     ],
+    "hub_id": "hub_zelezniskapostaja_8",
     "merged_stop_ids": [
       "Postojna:o8hp"
     ]
@@ -237,14 +246,11 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
         "name": "3",
         "color": "#d0021b"
       }
     ],
+    "hub_id": "hub_supernova_9",
     "merged_stop_ids": [
       "Postojna:osm=3867408558",
       "Postojna:osm=4958167443"
@@ -271,6 +277,7 @@
         "color": "#FD4097"
       }
     ],
+    "hub_id": "hub_risovec_10",
     "merged_stop_ids": [
       "Postojna:osm=4226867800"
     ],
@@ -303,6 +310,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_zalog_11",
     "merged_stop_ids": [
       "Postojna:osm=4924890971"
     ],
@@ -331,6 +339,7 @@
         "color": "#d0021b"
       }
     ],
+    "hub_id": "hub_liv_12",
     "merged_stop_ids": [
       "Postojna:osm=4931348807"
     ],
@@ -359,6 +368,7 @@
         "color": "#d0021b"
       }
     ],
+    "hub_id": "hub_industrijskacona_13",
     "merged_stop_ids": [
       "Postojna:osm=4931400603"
     ],
@@ -383,11 +393,39 @@
         "color": "#7ed321"
       }
     ],
+    "hub_id": "hub_kazarje_14",
     "merged_stop_ids": [
       "Postojna:osm=4958167442"
     ],
     "merged_codes": [
       "osm=4958167442"
+    ]
+  },
+  {
+    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mw",
+    "gtfs_id": "Postojna:osm=4958167443",
+    "code": "osm=4958167443",
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Supernova",
+    "lat": 45.770037,
+    "lon": 14.197657,
+    "opposite": "Postojna:yghz",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#7ed321"
+      }
+    ],
+    "hub_id": "hub_supernova_9",
+    "merged_stop_ids": [
+      "Postojna:osm=3867408558",
+      "Postojna:osm=4958167443"
+    ],
+    "merged_codes": [
+      "osm=3867408558",
+      "osm=4958167443"
     ]
   },
   {
@@ -411,6 +449,7 @@
         "color": "#f8e71c"
       }
     ],
+    "hub_id": "hub_spar_15",
     "merged_stop_ids": [
       "Postojna:osm=4958167444"
     ],
@@ -463,6 +502,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_spodnjiburger_16",
     "merged_stop_ids": [
       "Postojna:osm=4958177298"
     ],
@@ -499,6 +539,7 @@
         "color": "#55b1e3"
       }
     ],
+    "hub_id": "hub_mercator_17",
     "merged_stop_ids": [
       "Postojna:osm=4958182330"
     ],
@@ -535,6 +576,7 @@
         "color": "#55b1e3"
       }
     ],
+    "hub_id": "hub_sportnipark_18",
     "merged_stop_ids": [
       "Postojna:osm=4958182331"
     ],
@@ -571,6 +613,7 @@
         "color": "#55b1e3"
       }
     ],
+    "hub_id": "hub_jamska_19",
     "merged_stop_ids": [
       "Postojna:osm=4958182332"
     ],
@@ -623,6 +666,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_knjiznica_20",
     "merged_stop_ids": [
       "Postojna:osm=4958193305"
     ],
@@ -651,6 +695,7 @@
         "color": "#f8e71c"
       }
     ],
+    "hub_id": "hub_zdravstvenidom_21",
     "merged_stop_ids": [
       "Postojna:osm=4958193319"
     ],
@@ -691,6 +736,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_primorka_22",
     "merged_stop_ids": [
       "Postojna:osm=4958198723"
     ],
@@ -731,6 +777,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_kulturnidom_23",
     "merged_stop_ids": [
       "Postojna:osm=4958198724"
     ],
@@ -771,6 +818,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_zgornjiburger_24",
     "merged_stop_ids": [
       "Postojna:osm=4958205376"
     ],
@@ -811,6 +859,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_muzej_25",
     "merged_stop_ids": [
       "Postojna:osm=4958205377"
     ],
@@ -851,6 +900,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_vojkova_26",
     "merged_stop_ids": [
       "Postojna:osm=4958210441"
     ],
@@ -891,6 +941,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_podkolodvorom_27",
     "merged_stop_ids": [
       "Postojna:osm=4958210442"
     ],
@@ -931,6 +982,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_kremenca_28",
     "merged_stop_ids": [
       "Postojna:osm=4958214090"
     ],
@@ -971,6 +1023,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_domstarejsih_29",
     "merged_stop_ids": [
       "Postojna:osm=4958214091"
     ],
@@ -1011,6 +1064,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_pivska_30",
     "merged_stop_ids": [
       "Postojna:osm=4958217945"
     ],
@@ -1031,10 +1085,6 @@
     "opposite": "Postojna:yghz",
     "routes": [
       {
-        "name": "1",
-        "color": "#7ed321"
-      },
-      {
         "name": "3",
         "color": "#d0021b"
       },
@@ -1051,6 +1101,34 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_solskicenter_31",
+    "merged_stop_ids": [
+      "Postojna:osm=4958217946",
+      "Postojna:osm=4958217947"
+    ],
+    "merged_codes": [
+      "osm=4958217946",
+      "osm=4958217947"
+    ]
+  },
+  {
+    "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Nw",
+    "gtfs_id": "Postojna:osm=4958217947",
+    "code": "osm=4958217947",
+    "type": "BUS",
+    "background_color": "#a92c30",
+    "icon_color": "#FFFFFF",
+    "name": "Šolski center",
+    "lat": 45.770017,
+    "lon": 14.212469,
+    "opposite": "Postojna:yghz",
+    "routes": [
+      {
+        "name": "1",
+        "color": "#7ed321"
+      }
+    ],
+    "hub_id": "hub_solskicenter_31",
     "merged_stop_ids": [
       "Postojna:osm=4958217946",
       "Postojna:osm=4958217947"
@@ -1077,6 +1155,7 @@
         "color": "#FD4097"
       }
     ],
+    "hub_id": "hub_hotelkras_32",
     "merged_stop_ids": [
       "Postojna:osm=5133710962"
     ],
@@ -1125,6 +1204,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_volariceva_33",
     "merged_stop_ids": [
       "Postojna:osm=5197223202"
     ],
@@ -1157,6 +1237,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_staravas_34",
     "merged_stop_ids": [
       "Postojna:osm=5243476130"
     ],
@@ -1181,6 +1262,7 @@
         "color": "#FD4097"
       }
     ],
+    "hub_id": "hub_predjama_35",
     "merged_stop_ids": [
       "Postojna:pbeu"
     ]
@@ -1206,6 +1288,7 @@
         "color": "#165f7b"
       }
     ],
+    "hub_id": "hub_kolodvorska_36",
     "merged_stop_ids": [
       "Postojna:sfpn"
     ]
@@ -1239,6 +1322,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_podjelovico_37",
     "merged_stop_ids": [
       "Postojna:syx4"
     ]
@@ -1276,6 +1360,7 @@
         "color": "#54f2e8"
       }
     ],
+    "hub_id": "hub_vilkakledeta_38",
     "merged_stop_ids": [
       "Postojna:togf"
     ]
@@ -1301,6 +1386,7 @@
         "color": "#165f7b"
       }
     ],
+    "hub_id": "hub_pretnerjeva_39",
     "merged_stop_ids": [
       "Postojna:uxro"
     ]
@@ -1326,6 +1412,7 @@
         "color": "#FD4097"
       }
     ],
+    "hub_id": "hub_postojnskajama_40",
     "merged_stop_ids": [
       "Postojna:yghz"
     ]

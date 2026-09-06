@@ -16,6 +16,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_breziceobcina_0",
     "merged_stop_ids": [
       "Brezice:10"
     ]
@@ -34,9 +35,10 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#6C91F8"
+        "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_brezicegimnazija_1",
     "merged_stop_ids": [
       "Brezice:11",
       "Brezice:16"
@@ -56,9 +58,10 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#6C91F8"
+        "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_brezicestadion_2",
     "merged_stop_ids": [
       "Brezice:12",
       "Brezice:15"
@@ -81,6 +84,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_breziceintermarket_3",
     "merged_stop_ids": [
       "Brezice:13"
     ]
@@ -102,8 +106,55 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_cestabratovmilavcev_4",
     "merged_stop_ids": [
       "Brezice:14"
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE1",
+    "gtfs_id": "Brezice:15",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#218FF1",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice stadion",
+    "lat": 45.9119,
+    "lon": 15.59051,
+    "opposite": "Brezice:15",
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ],
+    "hub_id": "hub_brezicestadion_2",
+    "merged_stop_ids": [
+      "Brezice:12",
+      "Brezice:15"
+    ]
+  },
+  {
+    "id": "U3RvcDpCcmV6aWNlOjE2",
+    "gtfs_id": "Brezice:16",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#218FF1",
+    "icon_color": "#FFFFFF",
+    "name": "Brežice gimnazija",
+    "lat": 45.90775,
+    "lon": 15.59126,
+    "opposite": "Brezice:16",
+    "routes": [
+      {
+        "name": "N/A",
+        "color": "#6C91F8"
+      }
+    ],
+    "hub_id": "hub_brezicegimnazija_1",
+    "merged_stop_ids": [
+      "Brezice:11",
+      "Brezice:16"
     ]
   },
   {
@@ -123,6 +174,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_brezicezdravstvenidom_5",
     "merged_stop_ids": [
       "Brezice:17"
     ]
@@ -144,6 +196,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_maistrova_6",
     "merged_stop_ids": [
       "Brezice:18"
     ]
@@ -165,6 +218,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_breziceap_7",
     "merged_stop_ids": [
       "Brezice:19"
     ]
@@ -186,6 +240,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_murnova_8",
     "merged_stop_ids": [
       "Brezice:2"
     ]
@@ -207,6 +262,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_kregarjeva_9",
     "merged_stop_ids": [
       "Brezice:3"
     ]
@@ -228,6 +284,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_prezihova1_10",
     "merged_stop_ids": [
       "Brezice:4"
     ]
@@ -249,6 +306,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_prezihova2_11",
     "merged_stop_ids": [
       "Brezice:5"
     ]
@@ -270,6 +328,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_trdinova_12",
     "merged_stop_ids": [
       "Brezice:6"
     ]
@@ -291,6 +350,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_pokopalisce_13",
     "merged_stop_ids": [
       "Brezice:7"
     ]
@@ -312,6 +372,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_cankarjeva_14",
     "merged_stop_ids": [
       "Brezice:8"
     ]
@@ -333,6 +394,7 @@
         "color": "#38CC3F"
       }
     ],
+    "hub_id": "hub_brezicemarket_15",
     "merged_stop_ids": [
       "Brezice:9"
     ]

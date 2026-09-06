@@ -16,6 +16,7 @@
         "color": "#D39A5E"
       }
     ],
+    "hub_id": "hub_krskoapostaja_0",
     "merged_stop_ids": [
       "MOKrsko:1"
     ]
@@ -37,6 +38,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskodrustvogluhih_1",
     "merged_stop_ids": [
       "MOKrsko:10"
     ]
@@ -58,6 +60,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskozaton_2",
     "merged_stop_ids": [
       "MOKrsko:11"
     ]
@@ -79,6 +82,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskosinkovec_3",
     "merged_stop_ids": [
       "MOKrsko:12"
     ]
@@ -100,6 +104,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_krskospodnjigricpokopalisca_4",
     "merged_stop_ids": [
       "MOKrsko:13"
     ]
@@ -121,6 +126,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_leskovecprikrskemkvoglar_5",
     "merged_stop_ids": [
       "MOKrsko:14"
     ]
@@ -142,6 +148,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_krskogricplut_6",
     "merged_stop_ids": [
       "MOKrsko:15"
     ]
@@ -163,6 +170,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_krskozdravstvenidom_7",
     "merged_stop_ids": [
       "MOKrsko:16"
     ]
@@ -184,6 +192,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_krskokovinarska_8",
     "merged_stop_ids": [
       "MOKrsko:17"
     ]
@@ -205,6 +214,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_krskotrgovskicenter_9",
     "merged_stop_ids": [
       "MOKrsko:18"
     ]
@@ -226,6 +236,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_leskovecprikrskempokopalisce_10",
     "merged_stop_ids": [
       "MOKrsko:19"
     ]
@@ -247,6 +258,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskosumi_11",
     "merged_stop_ids": [
       "MOKrsko:2"
     ]
@@ -268,6 +280,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_leskovecprikrskemposta_12",
     "merged_stop_ids": [
       "MOKrsko:20"
     ]
@@ -289,6 +302,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_leskovecprikrskemcerkev_13",
     "merged_stop_ids": [
       "MOKrsko:21"
     ]
@@ -310,6 +324,7 @@
         "color": "#000000"
       }
     ],
+    "hub_id": "hub_leskovecprikrskemgmajna_14",
     "merged_stop_ids": [
       "MOKrsko:22"
     ]
@@ -331,6 +346,7 @@
         "color": "#D39A5E"
       }
     ],
+    "hub_id": "hub_narpelap_15",
     "merged_stop_ids": [
       "MOKrsko:23"
     ]
@@ -352,6 +368,7 @@
         "color": "#D39A5E"
       }
     ],
+    "hub_id": "hub_trskagora49_16",
     "merged_stop_ids": [
       "MOKrsko:24"
     ]
@@ -373,6 +390,7 @@
         "color": "#D39A5E"
       }
     ],
+    "hub_id": "hub_narpelkontejnerji_17",
     "merged_stop_ids": [
       "MOKrsko:25"
     ]
@@ -394,6 +412,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskoresa_18",
     "merged_stop_ids": [
       "MOKrsko:26"
     ]
@@ -415,6 +434,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_kremenodcep_19",
     "merged_stop_ids": [
       "MOKrsko:27"
     ]
@@ -436,6 +456,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_kremen9a_20",
     "merged_stop_ids": [
       "MOKrsko:28"
     ]
@@ -457,6 +478,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_kremenloke_21",
     "merged_stop_ids": [
       "MOKrsko:29"
     ]
@@ -478,6 +500,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_bucerca_22",
     "merged_stop_ids": [
       "MOKrsko:30"
     ]
@@ -499,6 +522,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_bucercaodcep_23",
     "merged_stop_ids": [
       "MOKrsko:31"
     ]
@@ -520,6 +544,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_sremic_24",
     "merged_stop_ids": [
       "MOKrsko:32"
     ]
@@ -541,6 +566,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_sremicradej_25",
     "merged_stop_ids": [
       "MOKrsko:33"
     ]
@@ -562,6 +588,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_trilucke_26",
     "merged_stop_ids": [
       "MOKrsko:34"
     ]
@@ -583,6 +610,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_sremicgozd_27",
     "merged_stop_ids": [
       "MOKrsko:35"
     ]
@@ -604,6 +632,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskoapolon_28",
     "merged_stop_ids": [
       "MOKrsko:36"
     ]
@@ -625,6 +654,7 @@
         "color": "#467EDF"
       }
     ],
+    "hub_id": "hub_sremicbozic_29",
     "merged_stop_ids": [
       "MOKrsko:37"
     ]
@@ -646,6 +676,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskoosnovnasolajurijadalmatina_30",
     "merged_stop_ids": [
       "MOKrsko:4"
     ]
@@ -667,6 +698,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskocankarjeva_31",
     "merged_stop_ids": [
       "MOKrsko:5"
     ]
@@ -688,6 +720,7 @@
         "color": "#D39A5E"
       }
     ],
+    "hub_id": "hub_krskomost_32",
     "merged_stop_ids": [
       "MOKrsko:6"
     ]
@@ -709,6 +742,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskohocevarjevtrg_33",
     "merged_stop_ids": [
       "MOKrsko:7"
     ]
@@ -730,6 +764,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_mestnaobcinakrsko_34",
     "merged_stop_ids": [
       "MOKrsko:8"
     ]
@@ -751,6 +786,7 @@
         "color": "#28C36C"
       }
     ],
+    "hub_id": "hub_krskoavtoline_35",
     "merged_stop_ids": [
       "MOKrsko:9"
     ]
