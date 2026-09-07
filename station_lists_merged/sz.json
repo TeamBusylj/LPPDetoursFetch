@@ -2116,7 +2116,8 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "MV"
+      "MV",
+      "RG"
     ],
     "hub_id": "hub_rimsketoplice_104",
     "merged_stop_ids": [
@@ -2310,7 +2311,8 @@
     "lon": 15.5981248,
     "opposite": null,
     "agencies": [
-      "LPV"
+      "LPV",
+      "RG"
     ],
     "hub_id": "hub_slovenskabistrica_113",
     "merged_stop_ids": [
@@ -2491,7 +2493,8 @@
     "lon": 15.770491,
     "opposite": null,
     "agencies": [
-      "LPV"
+      "LPV",
+      "RG"
     ],
     "hub_id": "hub_strnisce_122",
     "merged_stop_ids": [

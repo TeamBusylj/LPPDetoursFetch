@@ -1505,6 +1505,10 @@
       {
         "name": "G4",
         "color": "#1C3564"
+      },
+      {
+        "name": "P8",
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_lesarskasola_34",
@@ -2821,12 +2825,7 @@
     "lat": 46.568666,
     "lon": 15.614559,
     "opposite": "s72",
-    "routes": [
-      {
-        "name": "G5",
-        "color": "#DA1F27"
-      }
-    ],
+    "routes": [],
     "hub_id": "hub_mariborskiotok_59",
     "merged_stop_ids": [
       "MARPROM:193"

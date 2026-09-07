@@ -37416,21 +37416,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjU5Mjk",
-    "gtfs_id": "IJPP:1125929",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Jernej pri Ločah K",
-    "lat": 46.3263553,
-    "lon": 15.5125752,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjU5MzA",
     "gtfs_id": "IJPP:1125930",
     "code": null,
@@ -40792,21 +40777,6 @@
     "opposite": null,
     "agencies": [
       "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjYyNTg",
-    "gtfs_id": "IJPP:1126258",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Koble",
-    "lat": 46.3158895,
-    "lon": 15.5025033,
-    "opposite": null,
-    "agencies": [
-      "1119"
     ]
   },
   {
@@ -111149,21 +111119,6 @@
     "opposite": null,
     "agencies": [
       "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMzI0NDU",
-    "gtfs_id": "IJPP:1132445",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Zlatoper",
-    "lat": 46.4972515,
-    "lon": 15.0971006,
-    "opposite": null,
-    "agencies": [
-      "1119"
     ]
   },
   {

@@ -146,7 +146,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjvodovodnistolp_3",
@@ -387,7 +387,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjprimskovo_8",
@@ -430,7 +430,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjosszagar_9",
@@ -559,7 +559,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjap_12",
@@ -725,7 +725,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjsupernova_17",
@@ -781,7 +781,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "#3E140C"
+        "color": "#30001B"
       },
       {
         "name": "1",
@@ -801,7 +801,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjnovidom_19",
@@ -840,7 +840,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjplinarna_20",
@@ -972,7 +972,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "#3E140C"
+        "color": "#30001B"
       },
       {
         "name": "1",
@@ -992,7 +992,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjnovidom_19",
@@ -1186,7 +1186,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "#3E140C"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_mestnaknjiznicakranj_25",
@@ -1223,7 +1223,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjplinarna_20",
@@ -1454,7 +1454,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjap_12",
@@ -1487,7 +1487,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjsavskacesta_31",
@@ -1621,7 +1621,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjsavskacesta_31",
@@ -1691,7 +1691,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjstolpnice_35",
@@ -1873,7 +1873,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjkolodvor_40",
@@ -2028,6 +2028,10 @@
       {
         "name": "14",
         "color": "#81D4F7"
+      },
+      {
+        "name": "15",
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjglobus_43",
@@ -2552,7 +2556,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjpokopalisce_51",
@@ -2597,7 +2601,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjprimskovo_8",
@@ -2652,7 +2656,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjzd_52",
@@ -2703,7 +2707,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjdijaskidom_53",
@@ -3254,7 +3258,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjplaninaotok_67",
@@ -3599,7 +3603,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjzd_52",
@@ -3777,6 +3781,10 @@
       {
         "name": "14",
         "color": "#81D4F7"
+      },
+      {
+        "name": "15",
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjglobus_43",
@@ -3819,7 +3827,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjstolpnice_35",
@@ -3846,7 +3854,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_primskovodolnov_76",
@@ -3980,7 +3988,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjvodovodnistolp_3",
@@ -4196,7 +4204,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_primskovomercator_82",
@@ -4225,7 +4233,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjossjenko_83",
@@ -4367,7 +4375,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjosszagar_9",
@@ -4426,7 +4434,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjap_12",
@@ -4494,7 +4502,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjossjenko_83",
@@ -4711,7 +4719,7 @@
       },
       {
         "name": "15",
-        "color": "#101849"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_kranjplaninaotok_67",
@@ -4765,7 +4773,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "#3E140C"
+        "color": "#30001B"
       }
     ],
     "hub_id": "hub_pungert_89",

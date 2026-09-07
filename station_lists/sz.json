@@ -1700,7 +1700,8 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "MV"
+      "MV",
+      "RG"
     ]
   },
   {
@@ -1858,7 +1859,8 @@
     "lon": 15.5981248,
     "opposite": null,
     "agencies": [
-      "LPV"
+      "LPV",
+      "RG"
     ]
   },
   {
@@ -2003,7 +2005,8 @@
     "lon": 15.770491,
     "opposite": null,
     "agencies": [
-      "LPV"
+      "LPV",
+      "RG"
     ]
   },
   {
