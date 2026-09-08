@@ -1891,8 +1891,8 @@
     "background_color": "#800000",
     "icon_color": "#FFFFFF",
     "name": "Avtobusna postaja",
-    "lat": 46.560211,
-    "lon": 15.656321,
+    "lat": 46.558713,
+    "lon": 15.655748,
     "opposite": "s1",
     "routes": [
       {
@@ -1944,19 +1944,6 @@
         "color": "#F5DD26"
       }
     ]
-  },
-  {
-    "id": "U3RvcDpNQVJQUk9NOjE5Mw",
-    "gtfs_id": "MARPROM:193",
-    "code": "s72",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Mariborski otok",
-    "lat": 46.568666,
-    "lon": 15.614559,
-    "opposite": "s72",
-    "routes": []
   },
   {
     "id": "U3RvcDpNQVJQUk9NOjE5NA",
@@ -8471,7 +8458,7 @@
     "type": "BUS",
     "background_color": "#800000",
     "icon_color": "#FFFFFF",
-    "name": "Teplyevo naselje",
+    "name": "Teplyjevo naselje",
     "lat": 46.541041,
     "lon": 15.602081,
     "opposite": "s923",

@@ -1,271 +1,5 @@
 [
   {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk0MjY",
-    "gtfs_id": "CELEBUS:1000039426",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Zg.Polule Lovski dom %28PL%29",
-    "lat": 46.221727,
-    "lon": 15.249179,
-    "opposite": "CELEBUS:1000039426",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_zgpolulelovskidom28pl29_0",
-    "merged_stop_ids": [
-      "CELEBUS:1000039426"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk0NTM",
-    "gtfs_id": "CELEBUS:1000039453",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Maistrova-Lovska koča K. %28PL%29",
-    "lat": 46.224356,
-    "lon": 15.255631,
-    "opposite": "CELEBUS:1000039453",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_maistrovalovskakocak28pl29_1",
-    "merged_stop_ids": [
-      "CELEBUS:1000039453"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk1MDU",
-    "gtfs_id": "CELEBUS:1000039505",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Zg.Polule Belej %28PL%29",
-    "lat": 46.218542,
-    "lon": 15.254108,
-    "opposite": "CELEBUS:1000039505",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_zgpolulebelej28pl29_2",
-    "merged_stop_ids": [
-      "CELEBUS:1000039505"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk1NDI",
-    "gtfs_id": "CELEBUS:1000039542",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Lisce-Anski vrh %28PL%29",
-    "lat": 46.225658,
-    "lon": 15.247007,
-    "opposite": "CELEBUS:1000039542",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_lisceanskivrh28pl29_3",
-    "merged_stop_ids": [
-      "CELEBUS:1000039542"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk1OTE",
-    "gtfs_id": "CELEBUS:1000039591",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Lisce 2 %28PL%29",
-    "lat": 46.22676,
-    "lon": 15.251166,
-    "opposite": "CELEBUS:1000039591",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_lisce228pl29_4",
-    "merged_stop_ids": [
-      "CELEBUS:1000039591"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk1OTg",
-    "gtfs_id": "CELEBUS:1000039598",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju Kragolnik %28PL%29",
-    "lat": 46.220924,
-    "lon": 15.235278,
-    "opposite": "CELEBUS:1000039598",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_kosnica_5",
-    "merged_stop_ids": [
-      "CELEBUS:1000039598"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk2MzM",
-    "gtfs_id": "CELEBUS:1000039633",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju Križ %28PL%29",
-    "lat": 46.207844,
-    "lon": 15.241584,
-    "opposite": "CELEBUS:1000039633",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_kosnica_6",
-    "merged_stop_ids": [
-      "CELEBUS:1000039633",
-      "CELEBUS:1126388",
-      "CELEBUS:1126389"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk2NDY",
-    "gtfs_id": "CELEBUS:1000039646",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Lisce-Anski vrh kapela %28PL%29",
-    "lat": 46.223743,
-    "lon": 15.244858,
-    "opposite": "CELEBUS:1000039646",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_lisceanskivrhkapela28pl29_7",
-    "merged_stop_ids": [
-      "CELEBUS:1000039646"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk2NTY",
-    "gtfs_id": "CELEBUS:1000039656",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju Igrišče %28PL%29",
-    "lat": 46.215485,
-    "lon": 15.236513,
-    "opposite": "CELEBUS:1000039656",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_kosnica_8",
-    "merged_stop_ids": [
-      "CELEBUS:1000039656"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk2NjQ",
-    "gtfs_id": "CELEBUS:1000039664",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju 62 %28PL%29",
-    "lat": 46.221098,
-    "lon": 15.240376,
-    "opposite": "CELEBUS:1000039664",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_kosnica_9",
-    "merged_stop_ids": [
-      "CELEBUS:1000039664"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk3Mjg",
-    "gtfs_id": "CELEBUS:1000039728",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju Cvetrežnik %28PL%29",
-    "lat": 46.213346,
-    "lon": 15.239438,
-    "opposite": "CELEBUS:1000039728",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_kosnica_10",
-    "merged_stop_ids": [
-      "CELEBUS:1000039728"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNDAyMDI",
-    "gtfs_id": "CELEBUS:1000040202",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Zg.Polule %28PL%29",
-    "lat": 46.2164346,
-    "lon": 15.2485809,
-    "opposite": "CELEBUS:1000040202",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_zgpolule28pl29_11",
-    "merged_stop_ids": [
-      "CELEBUS:1000040202"
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjEwMDAwNDQyMzI",
     "gtfs_id": "CELEBUS:1000044232",
     "code": null,
@@ -282,7 +16,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_bukovzlakgobeck28pl29_12",
+    "hub_id": "hub_bukovzlakgobeck28pl29_0",
     "merged_stop_ids": [
       "CELEBUS:1000044232",
       "CELEBUS:1000051431"
@@ -305,7 +39,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_trnovljeobrtnacona_13",
+    "hub_id": "hub_trnovljeobrtnacona_1",
     "merged_stop_ids": [
       "CELEBUS:1000044258",
       "CELEBUS:1000044259"
@@ -328,7 +62,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_trnovljeobrtnacona_13",
+    "hub_id": "hub_trnovljeobrtnacona_1",
     "merged_stop_ids": [
       "CELEBUS:1000044258",
       "CELEBUS:1000044259"
@@ -351,7 +85,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_obrtnaconalava_14",
+    "hub_id": "hub_obrtnaconalava_2",
     "merged_stop_ids": [
       "CELEBUS:1000051217",
       "CELEBUS:1000051218"
@@ -374,7 +108,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_obrtnaconalava_14",
+    "hub_id": "hub_obrtnaconalava_2",
     "merged_stop_ids": [
       "CELEBUS:1000051217",
       "CELEBUS:1000051218"
@@ -397,7 +131,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_zacretacprikljucek_15",
+    "hub_id": "hub_zacretacprikljucek_3",
     "merged_stop_ids": [
       "CELEBUS:1000051372"
     ]
@@ -419,7 +153,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_trnovljeetra_16",
+    "hub_id": "hub_trnovljeetra_4",
     "merged_stop_ids": [
       "CELEBUS:1000051377"
     ]
@@ -441,7 +175,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_bukovzlakgobeck28pl29_12",
+    "hub_id": "hub_bukovzlakgobeck28pl29_0",
     "merged_stop_ids": [
       "CELEBUS:1000044232",
       "CELEBUS:1000051431"
@@ -462,13 +196,9 @@
       {
         "name": "6",
         "color": "#6eb0ad"
-      },
-      {
-        "name": "8",
-        "color": "#b7906b"
       }
     ],
-    "hub_id": "hub_bregmost_17",
+    "hub_id": "hub_bregmost_5",
     "merged_stop_ids": [
       "CELEBUS:1123877",
       "CELEBUS:1123878"
@@ -493,13 +223,9 @@
       {
         "name": "6",
         "color": "#6eb0ad"
-      },
-      {
-        "name": "8",
-        "color": "#b7906b"
       }
     ],
-    "hub_id": "hub_bregmost_17",
+    "hub_id": "hub_bregmost_5",
     "merged_stop_ids": [
       "CELEBUS:1123877",
       "CELEBUS:1123878"
@@ -522,10 +248,6 @@
     "opposite": "16210_49876",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
       },
@@ -546,15 +268,11 @@
         "color": "#a97c50"
       },
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_celeiapark_18",
+    "hub_id": "hub_celeiapark_6",
     "merged_stop_ids": [
       "CELEBUS:1123880",
       "CELEBUS:1167021"
@@ -577,23 +295,15 @@
     "opposite": "16205_23566",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_copovacetis_19",
+    "hub_id": "hub_copovacetis_7",
     "merged_stop_ids": [
       "CELEBUS:1123881",
       "CELEBUS:1123882"
@@ -616,23 +326,15 @@
     "opposite": "16205_23567",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_copovacetis_19",
+    "hub_id": "hub_copovacetis_7",
     "merged_stop_ids": [
       "CELEBUS:1123881",
       "CELEBUS:1123882"
@@ -663,7 +365,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_kersnikovabol_20",
+    "hub_id": "hub_kersnikovabol_8",
     "merged_stop_ids": [
       "CELEBUS:1123893",
       "CELEBUS:1123894"
@@ -694,7 +396,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_kersnikovabol_20",
+    "hub_id": "hub_kersnikovabol_8",
     "merged_stop_ids": [
       "CELEBUS:1123893",
       "CELEBUS:1123894"
@@ -721,7 +423,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_kidulcink_21",
+    "hub_id": "hub_kidulcink_9",
     "merged_stop_ids": [
       "CELEBUS:1123895",
       "CELEBUS:1123896"
@@ -744,7 +446,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_kidulcink_21",
+    "hub_id": "hub_kidulcink_9",
     "merged_stop_ids": [
       "CELEBUS:1123895",
       "CELEBUS:1123896"
@@ -767,7 +469,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_kidulemo_22",
+    "hub_id": "hub_kidulemo_10",
     "merged_stop_ids": [
       "CELEBUS:1123897",
       "CELEBUS:1123898"
@@ -790,7 +492,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_kidulemo_22",
+    "hub_id": "hub_kidulemo_10",
     "merged_stop_ids": [
       "CELEBUS:1123897",
       "CELEBUS:1123898"
@@ -813,7 +515,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_kidulstc_23",
+    "hub_id": "hub_kidulstc_11",
     "merged_stop_ids": [
       "CELEBUS:1123899",
       "CELEBUS:1123900"
@@ -836,7 +538,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_kidulstc_23",
+    "hub_id": "hub_kidulstc_11",
     "merged_stop_ids": [
       "CELEBUS:1123899",
       "CELEBUS:1123900"
@@ -863,7 +565,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_kladivar_24",
+    "hub_id": "hub_kladivar_12",
     "merged_stop_ids": [
       "CELEBUS:1123901",
       "CELEBUS:1123902"
@@ -894,7 +596,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_kladivar_24",
+    "hub_id": "hub_kladivar_12",
     "merged_stop_ids": [
       "CELEBUS:1123901",
       "CELEBUS:1123902"
@@ -917,19 +619,11 @@
     "opposite": "16184_23588",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_lava_25",
+    "hub_id": "hub_lava_13",
     "merged_stop_ids": [
       "CELEBUS:1123903",
       "CELEBUS:1123904"
@@ -952,19 +646,11 @@
     "opposite": "16184_23589",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_lava_25",
+    "hub_id": "hub_lava_13",
     "merged_stop_ids": [
       "CELEBUS:1123903",
       "CELEBUS:1123904"
@@ -987,19 +673,11 @@
     "opposite": "16183_23590",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_lavamost_26",
+    "hub_id": "hub_lavamost_14",
     "merged_stop_ids": [
       "CELEBUS:1123905",
       "CELEBUS:1168763"
@@ -1023,17 +701,9 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ],
-    "hub_id": "hub_citycenter_27",
+    "hub_id": "hub_citycenter_15",
     "merged_stop_ids": [
       "CELEBUS:1123909",
       "CELEBUS:1123910"
@@ -1058,17 +728,9 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ],
-    "hub_id": "hub_citycenter_27",
+    "hub_id": "hub_citycenter_15",
     "merged_stop_ids": [
       "CELEBUS:1123909",
       "CELEBUS:1123910"
@@ -1093,13 +755,9 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ],
-    "hub_id": "hub_gaberje_28",
+    "hub_id": "hub_gaberje_16",
     "merged_stop_ids": [
       "CELEBUS:1123911",
       "CELEBUS:1123912"
@@ -1124,13 +782,9 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ],
-    "hub_id": "hub_gaberje_28",
+    "hub_id": "hub_gaberje_16",
     "merged_stop_ids": [
       "CELEBUS:1123911",
       "CELEBUS:1123912"
@@ -1153,10 +807,6 @@
     "opposite": "16177_23598",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
       },
@@ -1173,15 +823,11 @@
         "color": "#26aae1"
       },
       {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
         "name": "7",
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_metropol_29",
+    "hub_id": "hub_metropol_17",
     "merged_stop_ids": [
       "CELEBUS:1123913"
     ],
@@ -1208,13 +854,9 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_novavas_30",
+    "hub_id": "hub_novavas_18",
     "merged_stop_ids": [
       "CELEBUS:1123915",
       "CELEBUS:1167040"
@@ -1243,13 +885,9 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_novavask_31",
+    "hub_id": "hub_novavask_19",
     "merged_stop_ids": [
       "CELEBUS:1123916",
       "CELEBUS:1123917"
@@ -1278,13 +916,9 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_novavask_31",
+    "hub_id": "hub_novavask_19",
     "merged_stop_ids": [
       "CELEBUS:1123916",
       "CELEBUS:1123917"
@@ -1311,7 +945,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_podgradomm_32",
+    "hub_id": "hub_podgradomm_20",
     "merged_stop_ids": [
       "CELEBUS:1123922",
       "CELEBUS:1123923"
@@ -1338,7 +972,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_podgradomm_32",
+    "hub_id": "hub_podgradomm_20",
     "merged_stop_ids": [
       "CELEBUS:1123922",
       "CELEBUS:1123923"
@@ -1361,24 +995,20 @@
     "opposite": "16166_23611",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
+        "name": "1B",
+        "color": "#559384"
       },
       {
         "name": "2A",
         "color": "#ffcb04"
       },
       {
+        "name": "2B",
+        "color": "#ffd44f"
+      },
+      {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "5",
-        "color": "#c2de94"
       },
       {
         "name": "6",
@@ -1389,23 +1019,11 @@
         "color": "#a97c50"
       },
       {
-        "name": "8",
-        "color": "#b7906b"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
-      },
-      {
-        "name": "11",
-        "color": "#f9c5d2"
       }
     ],
-    "hub_id": "hub_zp_33",
+    "hub_id": "hub_zp_21",
     "merged_stop_ids": [
       "CELEBUS:1123926",
       "CELEBUS:1123927"
@@ -1428,24 +1046,20 @@
     "opposite": "16166_23612",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
+        "name": "1B",
+        "color": "#559384"
       },
       {
         "name": "2A",
         "color": "#ffcb04"
       },
       {
+        "name": "2B",
+        "color": "#ffd44f"
+      },
+      {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "5",
-        "color": "#c2de94"
       },
       {
         "name": "6",
@@ -1456,23 +1070,11 @@
         "color": "#a97c50"
       },
       {
-        "name": "8",
-        "color": "#b7906b"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
-      },
-      {
-        "name": "11",
-        "color": "#f9c5d2"
       }
     ],
-    "hub_id": "hub_zp_33",
+    "hub_id": "hub_zp_21",
     "merged_stop_ids": [
       "CELEBUS:1123926",
       "CELEBUS:1123927"
@@ -1499,7 +1101,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_goricaprismartnemkoz_34",
+    "hub_id": "hub_goricaprismartnemkoz_22",
     "merged_stop_ids": [
       "CELEBUS:1125261",
       "CELEBUS:1125262"
@@ -1522,7 +1124,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_goricaprismartnemkoz_34",
+    "hub_id": "hub_goricaprismartnemkoz_22",
     "merged_stop_ids": [
       "CELEBUS:1125261",
       "CELEBUS:1125262"
@@ -1545,57 +1147,9 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_goricaprismartnempres_35",
+    "hub_id": "hub_goricaprismartnempres_23",
     "merged_stop_ids": [
       "CELEBUS:1125263"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjYzODg",
-    "gtfs_id": "CELEBUS:1126388",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju",
-    "lat": 46.2073427,
-    "lon": 15.2418498,
-    "opposite": "CELEBUS:1126388",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_kosnica_6",
-    "merged_stop_ids": [
-      "CELEBUS:1000039633",
-      "CELEBUS:1126388",
-      "CELEBUS:1126389"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjYzODk",
-    "gtfs_id": "CELEBUS:1126389",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju",
-    "lat": 46.2071992,
-    "lon": 15.240788,
-    "opposite": "CELEBUS:1126389",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_kosnica_6",
-    "merged_stop_ids": [
-      "CELEBUS:1000039633",
-      "CELEBUS:1126388",
-      "CELEBUS:1126389"
     ]
   },
   {
@@ -1611,15 +1165,11 @@
     "opposite": "CELEBUS:1126930",
     "routes": [
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnagd_36",
+    "hub_id": "hub_ljubecnagd_24",
     "merged_stop_ids": [
       "CELEBUS:1126930"
     ]
@@ -1641,7 +1191,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnanadvoz_37",
+    "hub_id": "hub_ljubecnanadvoz_25",
     "merged_stop_ids": [
       "CELEBUS:1126935",
       "CELEBUS:1126936"
@@ -1664,7 +1214,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnanadvoz_37",
+    "hub_id": "hub_ljubecnanadvoz_25",
     "merged_stop_ids": [
       "CELEBUS:1126935",
       "CELEBUS:1126936"
@@ -1683,15 +1233,11 @@
     "opposite": "CELEBUS:1126937",
     "routes": [
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnaopekarna_38",
+    "hub_id": "hub_ljubecnaopekarna_26",
     "merged_stop_ids": [
       "CELEBUS:1126937",
       "CELEBUS:1126938"
@@ -1710,15 +1256,11 @@
     "opposite": "CELEBUS:1126938",
     "routes": [
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnaopekarna_38",
+    "hub_id": "hub_ljubecnaopekarna_26",
     "merged_stop_ids": [
       "CELEBUS:1126937",
       "CELEBUS:1126938"
@@ -1741,7 +1283,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnapodpecan_39",
+    "hub_id": "hub_ljubecnapodpecan_27",
     "merged_stop_ids": [
       "CELEBUS:1126939",
       "CELEBUS:1126940"
@@ -1764,7 +1306,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnapodpecan_39",
+    "hub_id": "hub_ljubecnapodpecan_27",
     "merged_stop_ids": [
       "CELEBUS:1126939",
       "CELEBUS:1126940"
@@ -1787,7 +1329,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnaropan_40",
+    "hub_id": "hub_ljubecnaropan_28",
     "merged_stop_ids": [
       "CELEBUS:1126941",
       "CELEBUS:1126942"
@@ -1810,7 +1352,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnaropan_40",
+    "hub_id": "hub_ljubecnaropan_28",
     "merged_stop_ids": [
       "CELEBUS:1126941",
       "CELEBUS:1126942"
@@ -1833,7 +1375,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnasumer_41",
+    "hub_id": "hub_ljubecnasumer_29",
     "merged_stop_ids": [
       "CELEBUS:1126945"
     ]
@@ -1855,7 +1397,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_lopata_42",
+    "hub_id": "hub_lopata_30",
     "merged_stop_ids": [
       "CELEBUS:1127118",
       "CELEBUS:1127119"
@@ -1882,7 +1424,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_lopata_42",
+    "hub_id": "hub_lopata_30",
     "merged_stop_ids": [
       "CELEBUS:1127118",
       "CELEBUS:1127119"
@@ -1909,7 +1451,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_lopata_43",
+    "hub_id": "hub_lopata_31",
     "merged_stop_ids": [
       "CELEBUS:1127120",
       "CELEBUS:1127121"
@@ -1936,7 +1478,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_lopata_43",
+    "hub_id": "hub_lopata_31",
     "merged_stop_ids": [
       "CELEBUS:1127120",
       "CELEBUS:1127121"
@@ -1963,7 +1505,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_zacret_44",
+    "hub_id": "hub_zacret_32",
     "merged_stop_ids": [
       "CELEBUS:1131871",
       "CELEBUS:1131872"
@@ -1986,7 +1528,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_zacret_44",
+    "hub_id": "hub_zacret_32",
     "merged_stop_ids": [
       "CELEBUS:1131871",
       "CELEBUS:1131872"
@@ -2009,7 +1551,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_zacretk_45",
+    "hub_id": "hub_zacretk_33",
     "merged_stop_ids": [
       "CELEBUS:1131873",
       "CELEBUS:1131874"
@@ -2032,7 +1574,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_zacretk_45",
+    "hub_id": "hub_zacretk_33",
     "merged_stop_ids": [
       "CELEBUS:1131873",
       "CELEBUS:1131874"
@@ -2053,13 +1595,9 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_zghudinjaulfranzrtev_46",
+    "hub_id": "hub_zghudinjaulfranzrtev_34",
     "merged_stop_ids": [
       "CELEBUS:1151957"
     ],
@@ -2084,7 +1622,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_lokroveccercnik_47",
+    "hub_id": "hub_lokroveccercnik_35",
     "merged_stop_ids": [
       "CELEBUS:1162594"
     ],
@@ -2107,13 +1645,9 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_mercatorcenter_48",
+    "hub_id": "hub_mercatorcenter_36",
     "merged_stop_ids": [
       "CELEBUS:1162888"
     ],
@@ -2138,7 +1672,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_podjavorskovaul_49",
+    "hub_id": "hub_podjavorskovaul_37",
     "merged_stop_ids": [
       "CELEBUS:1162889"
     ],
@@ -2163,7 +1697,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_ostroznogd_50",
+    "hub_id": "hub_ostroznogd_38",
     "merged_stop_ids": [
       "CELEBUS:1166390"
     ],
@@ -2188,7 +1722,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_ostroznoantloga_51",
+    "hub_id": "hub_ostroznoantloga_39",
     "merged_stop_ids": [
       "CELEBUS:1166393"
     ],
@@ -2217,7 +1751,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_ostroznovedenik_52",
+    "hub_id": "hub_ostroznovedenik_40",
     "merged_stop_ids": [
       "CELEBUS:1166394",
       "CELEBUS:1166395"
@@ -2248,7 +1782,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_ostroznovedenik_52",
+    "hub_id": "hub_ostroznovedenik_40",
     "merged_stop_ids": [
       "CELEBUS:1166394",
       "CELEBUS:1166395"
@@ -2273,13 +1807,9 @@
       {
         "name": "6",
         "color": "#6eb0ad"
-      },
-      {
-        "name": "8",
-        "color": "#b7906b"
       }
     ],
-    "hub_id": "hub_polule_53",
+    "hub_id": "hub_polule_41",
     "merged_stop_ids": [
       "CELEBUS:1166396",
       "CELEBUS:1166397"
@@ -2300,13 +1830,9 @@
       {
         "name": "6",
         "color": "#6eb0ad"
-      },
-      {
-        "name": "8",
-        "color": "#b7906b"
       }
     ],
-    "hub_id": "hub_polule_53",
+    "hub_id": "hub_polule_41",
     "merged_stop_ids": [
       "CELEBUS:1166396",
       "CELEBUS:1166397"
@@ -2327,17 +1853,9 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ],
-    "hub_id": "hub_sphudinja_54",
+    "hub_id": "hub_sphudinja_42",
     "merged_stop_ids": [
       "CELEBUS:1166406",
       "CELEBUS:1166407"
@@ -2362,17 +1880,9 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ],
-    "hub_id": "hub_sphudinja_54",
+    "hub_id": "hub_sphudinja_42",
     "merged_stop_ids": [
       "CELEBUS:1166406",
       "CELEBUS:1166407"
@@ -2399,7 +1909,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_zagrad_55",
+    "hub_id": "hub_zagrad_43",
     "merged_stop_ids": [
       "CELEBUS:1166410"
     ],
@@ -2424,7 +1934,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradgostilna_56",
+    "hub_id": "hub_zagradgostilna_44",
     "merged_stop_ids": [
       "CELEBUS:1166411",
       "CELEBUS:1166412"
@@ -2451,7 +1961,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradgostilna_56",
+    "hub_id": "hub_zagradgostilna_44",
     "merged_stop_ids": [
       "CELEBUS:1166411",
       "CELEBUS:1166412"
@@ -2478,7 +1988,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradzicna_57",
+    "hub_id": "hub_zagradzicna_45",
     "merged_stop_ids": [
       "CELEBUS:1166415",
       "CELEBUS:1166416"
@@ -2505,7 +2015,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradzicna_57",
+    "hub_id": "hub_zagradzicna_45",
     "merged_stop_ids": [
       "CELEBUS:1166415",
       "CELEBUS:1166416"
@@ -2532,7 +2042,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_zghudinja_58",
+    "hub_id": "hub_zghudinja_46",
     "merged_stop_ids": [
       "CELEBUS:1166418"
     ],
@@ -2557,7 +2067,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_ostroznofazarinc_59",
+    "hub_id": "hub_ostroznofazarinc_47",
     "merged_stop_ids": [
       "CELEBUS:1166783",
       "CELEBUS:1166784"
@@ -2584,7 +2094,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_ostroznofazarinc_59",
+    "hub_id": "hub_ostroznofazarinc_47",
     "merged_stop_ids": [
       "CELEBUS:1166783",
       "CELEBUS:1166784"
@@ -2611,7 +2121,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_skofjavasetol_60",
+    "hub_id": "hub_skofjavasetol_48",
     "merged_stop_ids": [
       "CELEBUS:1166787",
       "CELEBUS:1166788"
@@ -2638,7 +2148,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_skofjavasetol_60",
+    "hub_id": "hub_skofjavasetol_48",
     "merged_stop_ids": [
       "CELEBUS:1166787",
       "CELEBUS:1166788"
@@ -2646,28 +2156,6 @@
     "merged_codes": [
       "12945_49834",
       "12945_49835"
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjY4Njk",
-    "gtfs_id": "CELEBUS:1166869",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Tremerje obr.",
-    "lat": 46.195335,
-    "lon": 15.230505,
-    "opposite": "CELEBUS:1166869",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ],
-    "hub_id": "hub_tremerjeobr_61",
-    "merged_stop_ids": [
-      "CELEBUS:1166869"
     ]
   },
   {
@@ -2682,10 +2170,6 @@
     "lon": 15.267591,
     "opposite": "16210_49949",
     "routes": [
-      {
-        "name": "1A",
-        "color": "#18826f"
-      },
       {
         "name": "1B",
         "color": "#559384"
@@ -2707,15 +2191,11 @@
         "color": "#a97c50"
       },
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_celeiapark_18",
+    "hub_id": "hub_celeiapark_6",
     "merged_stop_ids": [
       "CELEBUS:1123880",
       "CELEBUS:1167021"
@@ -2740,13 +2220,9 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_novavaslidl_62",
+    "hub_id": "hub_novavaslidl_49",
     "merged_stop_ids": [
       "CELEBUS:1167037"
     ],
@@ -2771,7 +2247,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_dobrovapricelju_63",
+    "hub_id": "hub_dobrovapricelju_50",
     "merged_stop_ids": [
       "CELEBUS:1167038"
     ],
@@ -2798,13 +2274,9 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_novavas_30",
+    "hub_id": "hub_novavas_18",
     "merged_stop_ids": [
       "CELEBUS:1123915",
       "CELEBUS:1167040"
@@ -2831,7 +2303,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_lopata_64",
+    "hub_id": "hub_lopata_51",
     "merged_stop_ids": [
       "CELEBUS:1167042"
     ],
@@ -2856,7 +2328,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_medlogkapelica_65",
+    "hub_id": "hub_medlogkapelica_52",
     "merged_stop_ids": [
       "CELEBUS:1167043"
     ],
@@ -2881,7 +2353,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_medlog_66",
+    "hub_id": "hub_medlog_53",
     "merged_stop_ids": [
       "CELEBUS:1167044"
     ],
@@ -2906,7 +2378,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_babno_67",
+    "hub_id": "hub_babno_54",
     "merged_stop_ids": [
       "CELEBUS:1167045"
     ],
@@ -2931,7 +2403,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_babnokravanja_68",
+    "hub_id": "hub_babnokravanja_55",
     "merged_stop_ids": [
       "CELEBUS:1167046",
       "CELEBUS:1168487"
@@ -2957,7 +2429,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_loznicabloki_69",
+    "hub_id": "hub_loznicabloki_56",
     "merged_stop_ids": [
       "CELEBUS:1167047"
     ],
@@ -2982,7 +2454,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_slance_70",
+    "hub_id": "hub_slance_57",
     "merged_stop_ids": [
       "CELEBUS:1167693",
       "CELEBUS:1167694"
@@ -3005,7 +2477,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_slance_70",
+    "hub_id": "hub_slance_57",
     "merged_stop_ids": [
       "CELEBUS:1167693",
       "CELEBUS:1167694"
@@ -3023,10 +2495,6 @@
     "lon": 15.2643003,
     "opposite": "16193_48860",
     "routes": [
-      {
-        "name": "1A",
-        "color": "#18826f"
-      },
       {
         "name": "1B",
         "color": "#559384"
@@ -3048,7 +2516,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_gimnazija_71",
+    "hub_id": "hub_gimnazija_58",
     "merged_stop_ids": [
       "CELEBUS:1168363"
     ],
@@ -3075,13 +2543,9 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_novavastrgovina_72",
+    "hub_id": "hub_novavastrgovina_59",
     "merged_stop_ids": [
       "CELEBUS:1168364",
       "CELEBUS:1168365"
@@ -3110,13 +2574,9 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_novavastrgovina_72",
+    "hub_id": "hub_novavastrgovina_59",
     "merged_stop_ids": [
       "CELEBUS:1168364",
       "CELEBUS:1168365"
@@ -3143,7 +2603,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_lokroveck_73",
+    "hub_id": "hub_lokroveck_60",
     "merged_stop_ids": [
       "CELEBUS:1168367"
     ],
@@ -3168,7 +2628,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_trnovljepriceljugaji_74",
+    "hub_id": "hub_trnovljepriceljugaji_61",
     "merged_stop_ids": [
       "CELEBUS:1168368",
       "CELEBUS:1168369"
@@ -3191,7 +2651,7 @@
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_trnovljepriceljugaji_74",
+    "hub_id": "hub_trnovljepriceljugaji_61",
     "merged_stop_ids": [
       "CELEBUS:1168368",
       "CELEBUS:1168369"
@@ -3214,7 +2674,7 @@
         "color": "#ffd44f"
       }
     ],
-    "hub_id": "hub_dobrovak28celje29_75",
+    "hub_id": "hub_dobrovak28celje29_62",
     "merged_stop_ids": [
       "CELEBUS:1168468"
     ]
@@ -3236,7 +2696,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradstrelisce_76",
+    "hub_id": "hub_zagradstrelisce_63",
     "merged_stop_ids": [
       "CELEBUS:1168472",
       "CELEBUS:1168475"
@@ -3259,7 +2719,7 @@
         "color": "#6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradstrelisce_76",
+    "hub_id": "hub_zagradstrelisce_63",
     "merged_stop_ids": [
       "CELEBUS:1168472",
       "CELEBUS:1168475"
@@ -3278,23 +2738,15 @@
     "opposite": "CELEBUS:1168479",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_copovatransformator_77",
+    "hub_id": "hub_copovatransformator_64",
     "merged_stop_ids": [
       "CELEBUS:1168479",
       "CELEBUS:1168480"
@@ -3313,23 +2765,15 @@
     "opposite": "CELEBUS:1168480",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_copovatransformator_77",
+    "hub_id": "hub_copovatransformator_64",
     "merged_stop_ids": [
       "CELEBUS:1168479",
       "CELEBUS:1168480"
@@ -3352,7 +2796,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_smarjetapriceljuprekorje_78",
+    "hub_id": "hub_smarjetapriceljuprekorje_65",
     "merged_stop_ids": [
       "CELEBUS:1168481",
       "CELEBUS:1168482"
@@ -3375,7 +2819,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_smarjetapriceljuprekorje_78",
+    "hub_id": "hub_smarjetapriceljuprekorje_65",
     "merged_stop_ids": [
       "CELEBUS:1168481",
       "CELEBUS:1168482"
@@ -3398,7 +2842,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_smarjeta_79",
+    "hub_id": "hub_smarjeta_66",
     "merged_stop_ids": [
       "CELEBUS:1168483",
       "CELEBUS:1168484"
@@ -3421,7 +2865,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_smarjeta_79",
+    "hub_id": "hub_smarjeta_66",
     "merged_stop_ids": [
       "CELEBUS:1168483",
       "CELEBUS:1168484"
@@ -3444,7 +2888,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_ostroznoirmancnik_80",
+    "hub_id": "hub_ostroznoirmancnik_67",
     "merged_stop_ids": [
       "CELEBUS:1168485",
       "CELEBUS:1168486"
@@ -3467,7 +2911,7 @@
         "color": "#559384"
       }
     ],
-    "hub_id": "hub_ostroznoirmancnik_80",
+    "hub_id": "hub_ostroznoirmancnik_67",
     "merged_stop_ids": [
       "CELEBUS:1168485",
       "CELEBUS:1168486"
@@ -3490,7 +2934,7 @@
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_babnokravanja_68",
+    "hub_id": "hub_babnokravanja_55",
     "merged_stop_ids": [
       "CELEBUS:1167046",
       "CELEBUS:1168487"
@@ -3516,7 +2960,7 @@
         "color": "#26aae1"
       }
     ],
-    "hub_id": "hub_skofjavas_81",
+    "hub_id": "hub_skofjavas_68",
     "merged_stop_ids": [
       "CELEBUS:1168488"
     ]
@@ -3534,15 +2978,11 @@
     "opposite": "CELEBUS:1168690",
     "routes": [
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
     ],
-    "hub_id": "hub_ljubecnaos_82",
+    "hub_id": "hub_ljubecnaos_69",
     "merged_stop_ids": [
       "CELEBUS:1168690"
     ]
@@ -3560,23 +3000,15 @@
     "opposite": "CELEBUS:1168761",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_glazija_83",
+    "hub_id": "hub_glazija_70",
     "merged_stop_ids": [
       "CELEBUS:1168761",
       "CELEBUS:1168762"
@@ -3595,23 +3027,15 @@
     "opposite": "CELEBUS:1168762",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
         "color": "#a97c50"
       }
     ],
-    "hub_id": "hub_glazija_83",
+    "hub_id": "hub_glazija_70",
     "merged_stop_ids": [
       "CELEBUS:1168761",
       "CELEBUS:1168762"
@@ -3630,19 +3054,11 @@
     "opposite": "CELEBUS:1168763",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ],
-    "hub_id": "hub_lavamost_26",
+    "hub_id": "hub_lavamost_14",
     "merged_stop_ids": [
       "CELEBUS:1123905",
       "CELEBUS:1168763"

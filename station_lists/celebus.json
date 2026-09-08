@@ -1,221 +1,5 @@
 [
   {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk0MjY",
-    "gtfs_id": "CELEBUS:1000039426",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Zg.Polule Lovski dom %28PL%29",
-    "lat": 46.221727,
-    "lon": 15.249179,
-    "opposite": "CELEBUS:1000039426",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk0NTM",
-    "gtfs_id": "CELEBUS:1000039453",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Maistrova-Lovska koča K. %28PL%29",
-    "lat": 46.224356,
-    "lon": 15.255631,
-    "opposite": "CELEBUS:1000039453",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk1MDU",
-    "gtfs_id": "CELEBUS:1000039505",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Zg.Polule Belej %28PL%29",
-    "lat": 46.218542,
-    "lon": 15.254108,
-    "opposite": "CELEBUS:1000039505",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk1NDI",
-    "gtfs_id": "CELEBUS:1000039542",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Lisce-Anski vrh %28PL%29",
-    "lat": 46.225658,
-    "lon": 15.247007,
-    "opposite": "CELEBUS:1000039542",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk1OTE",
-    "gtfs_id": "CELEBUS:1000039591",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Lisce 2 %28PL%29",
-    "lat": 46.22676,
-    "lon": 15.251166,
-    "opposite": "CELEBUS:1000039591",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk1OTg",
-    "gtfs_id": "CELEBUS:1000039598",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju Kragolnik %28PL%29",
-    "lat": 46.220924,
-    "lon": 15.235278,
-    "opposite": "CELEBUS:1000039598",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk2MzM",
-    "gtfs_id": "CELEBUS:1000039633",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju Križ %28PL%29",
-    "lat": 46.207844,
-    "lon": 15.241584,
-    "opposite": "CELEBUS:1000039633",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk2NDY",
-    "gtfs_id": "CELEBUS:1000039646",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Lisce-Anski vrh kapela %28PL%29",
-    "lat": 46.223743,
-    "lon": 15.244858,
-    "opposite": "CELEBUS:1000039646",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk2NTY",
-    "gtfs_id": "CELEBUS:1000039656",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju Igrišče %28PL%29",
-    "lat": 46.215485,
-    "lon": 15.236513,
-    "opposite": "CELEBUS:1000039656",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk2NjQ",
-    "gtfs_id": "CELEBUS:1000039664",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju 62 %28PL%29",
-    "lat": 46.221098,
-    "lon": 15.240376,
-    "opposite": "CELEBUS:1000039664",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwMzk3Mjg",
-    "gtfs_id": "CELEBUS:1000039728",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju Cvetrežnik %28PL%29",
-    "lat": 46.213346,
-    "lon": 15.239438,
-    "opposite": "CELEBUS:1000039728",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNDAyMDI",
-    "gtfs_id": "CELEBUS:1000040202",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Zg.Polule %28PL%29",
-    "lat": 46.2164346,
-    "lon": 15.2485809,
-    "opposite": "CELEBUS:1000040202",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjEwMDAwNDQyMzI",
     "gtfs_id": "CELEBUS:1000044232",
     "code": null,
@@ -374,10 +158,6 @@
       {
         "name": "6",
         "color": "#6eb0ad"
-      },
-      {
-        "name": "8",
-        "color": "#b7906b"
       }
     ]
   },
@@ -396,10 +176,6 @@
       {
         "name": "6",
         "color": "#6eb0ad"
-      },
-      {
-        "name": "8",
-        "color": "#b7906b"
       }
     ]
   },
@@ -420,10 +196,6 @@
         "color": "#26aae1"
       },
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
@@ -442,16 +214,8 @@
     "opposite": "16205_23566",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
@@ -472,16 +236,8 @@
     "opposite": "16205_23567",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
@@ -698,16 +454,8 @@
     "opposite": "16184_23588",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -724,16 +472,8 @@
     "opposite": "16184_23589",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -750,16 +490,8 @@
     "opposite": "16183_23590",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -778,14 +510,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ]
   },
@@ -804,14 +528,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ]
   },
@@ -830,10 +546,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ]
   },
@@ -852,10 +564,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ]
   },
@@ -872,10 +580,6 @@
     "opposite": "16177_23598",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
       },
@@ -890,10 +594,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
@@ -920,10 +620,6 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -946,10 +642,6 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -972,10 +664,6 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -1028,20 +716,12 @@
     "opposite": "16166_23611",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "2A",
         "color": "#ffcb04"
       },
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "5",
-        "color": "#c2de94"
       },
       {
         "name": "6",
@@ -1052,20 +732,8 @@
         "color": "#a97c50"
       },
       {
-        "name": "8",
-        "color": "#b7906b"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
-      },
-      {
-        "name": "11",
-        "color": "#f9c5d2"
       }
     ]
   },
@@ -1082,24 +750,20 @@
     "opposite": "16166_23612",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
+        "name": "1B",
+        "color": "#559384"
       },
       {
         "name": "2A",
         "color": "#ffcb04"
       },
       {
+        "name": "2B",
+        "color": "#ffd44f"
+      },
+      {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "5",
-        "color": "#c2de94"
       },
       {
         "name": "6",
@@ -1110,20 +774,8 @@
         "color": "#a97c50"
       },
       {
-        "name": "8",
-        "color": "#b7906b"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
-      },
-      {
-        "name": "11",
-        "color": "#f9c5d2"
       }
     ]
   },
@@ -1182,42 +834,6 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExMjYzODg",
-    "gtfs_id": "CELEBUS:1126388",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju",
-    "lat": 46.2073427,
-    "lon": 15.2418498,
-    "opposite": "CELEBUS:1126388",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjYzODk",
-    "gtfs_id": "CELEBUS:1126389",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Košnica/Celju",
-    "lat": 46.2071992,
-    "lon": 15.240788,
-    "opposite": "CELEBUS:1126389",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExMjY5MzA",
     "gtfs_id": "CELEBUS:1126930",
     "code": null,
@@ -1229,10 +845,6 @@
     "lon": 15.318852,
     "opposite": "CELEBUS:1126930",
     "routes": [
-      {
-        "name": "9",
-        "color": "#0b3863"
-      },
       {
         "name": "10",
         "color": "#f15645"
@@ -1288,10 +900,6 @@
     "opposite": "CELEBUS:1126937",
     "routes": [
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
@@ -1309,10 +917,6 @@
     "lon": 15.3203429,
     "opposite": "CELEBUS:1126938",
     "routes": [
-      {
-        "name": "9",
-        "color": "#0b3863"
-      },
       {
         "name": "10",
         "color": "#f15645"
@@ -1568,10 +1172,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -1608,10 +1208,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -1742,10 +1338,6 @@
       {
         "name": "6",
         "color": "#6eb0ad"
-      },
-      {
-        "name": "8",
-        "color": "#b7906b"
       }
     ]
   },
@@ -1764,14 +1356,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       }
     ]
   },
@@ -1790,10 +1374,6 @@
       {
         "name": "3",
         "color": "#26aae1"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -1978,24 +1558,6 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjY4Njk",
-    "gtfs_id": "CELEBUS:1166869",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Tremerje obr.",
-    "lat": 46.195335,
-    "lon": 15.230505,
-    "opposite": "CELEBUS:1166869",
-    "routes": [
-      {
-        "name": "8",
-        "color": "#b7906b"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExNjcwMjE",
     "gtfs_id": "CELEBUS:1167021",
     "code": "16210_49949",
@@ -2007,10 +1569,6 @@
     "lon": 15.267591,
     "opposite": "16210_49949",
     "routes": [
-      {
-        "name": "1A",
-        "color": "#18826f"
-      },
       {
         "name": "1B",
         "color": "#559384"
@@ -2030,10 +1588,6 @@
       {
         "name": "7",
         "color": "#a97c50"
-      },
-      {
-        "name": "9",
-        "color": "#0b3863"
       },
       {
         "name": "10",
@@ -2056,10 +1610,6 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -2096,10 +1646,6 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -2260,10 +1806,6 @@
     "opposite": "16193_48860",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
       },
@@ -2304,10 +1846,6 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -2330,10 +1868,6 @@
       {
         "name": "2B",
         "color": "#ffd44f"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   },
@@ -2458,16 +1992,8 @@
     "opposite": "CELEBUS:1168479",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
@@ -2488,16 +2014,8 @@
     "opposite": "CELEBUS:1168480",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
@@ -2662,10 +2180,6 @@
     "opposite": "CELEBUS:1168690",
     "routes": [
       {
-        "name": "9",
-        "color": "#0b3863"
-      },
-      {
         "name": "10",
         "color": "#f15645"
       }
@@ -2684,16 +2198,8 @@
     "opposite": "CELEBUS:1168761",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
@@ -2714,16 +2220,8 @@
     "opposite": "CELEBUS:1168762",
     "routes": [
       {
-        "name": "1A",
-        "color": "#18826f"
-      },
-      {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       },
       {
         "name": "7",
@@ -2746,10 +2244,6 @@
       {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "4",
-        "color": "#ad5078"
       }
     ]
   }

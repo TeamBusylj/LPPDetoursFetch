@@ -2741,8 +2741,8 @@
     "background_color": "#800000",
     "icon_color": "#FFFFFF",
     "name": "Avtobusna postaja",
-    "lat": 46.560211,
-    "lon": 15.656321,
+    "lat": 46.558713,
+    "lon": 15.655748,
     "opposite": "s1",
     "routes": [
       {
@@ -2815,26 +2815,6 @@
     ]
   },
   {
-    "id": "U3RvcDpNQVJQUk9NOjE5Mw",
-    "gtfs_id": "MARPROM:193",
-    "code": "s72",
-    "type": "BUS",
-    "background_color": "#800000",
-    "icon_color": "#FFFFFF",
-    "name": "Mariborski otok",
-    "lat": 46.568666,
-    "lon": 15.614559,
-    "opposite": "s72",
-    "routes": [],
-    "hub_id": "hub_mariborskiotok_59",
-    "merged_stop_ids": [
-      "MARPROM:193"
-    ],
-    "merged_codes": [
-      "s72"
-    ]
-  },
-  {
     "id": "U3RvcDpNQVJQUk9NOjE5NA",
     "gtfs_id": "MARPROM:194",
     "code": "s60",
@@ -2851,7 +2831,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_mariborskiotokhe_60",
+    "hub_id": "hub_mariborskiotokhe_59",
     "merged_stop_ids": [
       "MARPROM:194",
       "MARPROM:195"
@@ -2878,7 +2858,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_mariborskiotokhe_60",
+    "hub_id": "hub_mariborskiotokhe_59",
     "merged_stop_ids": [
       "MARPROM:194",
       "MARPROM:195"
@@ -2905,7 +2885,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_marles_61",
+    "hub_id": "hub_marles_60",
     "merged_stop_ids": [
       "MARPROM:196"
     ],
@@ -2930,7 +2910,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_melje_62",
+    "hub_id": "hub_melje_61",
     "merged_stop_ids": [
       "MARPROM:198"
     ],
@@ -2959,7 +2939,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_prlek_63",
+    "hub_id": "hub_prlek_62",
     "merged_stop_ids": [
       "MARPROM:199",
       "MARPROM:200"
@@ -2986,7 +2966,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_strazun_64",
+    "hub_id": "hub_strazun_63",
     "merged_stop_ids": [
       "MARPROM:2",
       "MARPROM:3"
@@ -3017,7 +2997,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_prlek_63",
+    "hub_id": "hub_prlek_62",
     "merged_stop_ids": [
       "MARPROM:199",
       "MARPROM:200"
@@ -3048,7 +3028,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_meljskatrgovina_65",
+    "hub_id": "hub_meljskatrgovina_64",
     "merged_stop_ids": [
       "MARPROM:201",
       "MARPROM:202"
@@ -3079,7 +3059,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_meljskatrgovina_65",
+    "hub_id": "hub_meljskatrgovina_64",
     "merged_stop_ids": [
       "MARPROM:201",
       "MARPROM:202"
@@ -3106,7 +3086,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_meljskihribmost_66",
+    "hub_id": "hub_meljskihribmost_65",
     "merged_stop_ids": [
       "MARPROM:203",
       "MARPROM:204"
@@ -3133,7 +3113,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_meljskihribmost_66",
+    "hub_id": "hub_meljskihribmost_65",
     "merged_stop_ids": [
       "MARPROM:203",
       "MARPROM:204"
@@ -3160,7 +3140,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_metava_67",
+    "hub_id": "hub_metava_66",
     "merged_stop_ids": [
       "MARPROM:205"
     ],
@@ -3185,7 +3165,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_metavaduplekkrizisce_68",
+    "hub_id": "hub_metavaduplekkrizisce_67",
     "merged_stop_ids": [
       "MARPROM:206",
       "MARPROM:207"
@@ -3212,7 +3192,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_metavaduplekkrizisce_68",
+    "hub_id": "hub_metavaduplekkrizisce_67",
     "merged_stop_ids": [
       "MARPROM:206",
       "MARPROM:207"
@@ -3239,7 +3219,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_metavaodcep_69",
+    "hub_id": "hub_metavaodcep_68",
     "merged_stop_ids": [
       "MARPROM:208",
       "MARPROM:209"
@@ -3266,7 +3246,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_metavaodcep_69",
+    "hub_id": "hub_metavaodcep_68",
     "merged_stop_ids": [
       "MARPROM:208",
       "MARPROM:209"
@@ -3293,7 +3273,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_bresternicaodcep_70",
+    "hub_id": "hub_bresternicaodcep_69",
     "merged_stop_ids": [
       "MARPROM:21",
       "MARPROM:22"
@@ -3482,7 +3462,7 @@
         "color": "#1C3564"
       }
     ],
-    "hub_id": "hub_napoljanahatletskistadion_71",
+    "hub_id": "hub_napoljanahatletskistadion_70",
     "merged_stop_ids": [
       "MARPROM:212",
       "MARPROM:213"
@@ -3509,7 +3489,7 @@
         "color": "#1C3564"
       }
     ],
-    "hub_id": "hub_napoljanahatletskistadion_71",
+    "hub_id": "hub_napoljanahatletskistadion_70",
     "merged_stop_ids": [
       "MARPROM:212",
       "MARPROM:213"
@@ -3536,7 +3516,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_naprehodu_72",
+    "hub_id": "hub_naprehodu_71",
     "merged_stop_ids": [
       "MARPROM:214"
     ],
@@ -3561,7 +3541,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_nadvoz_73",
+    "hub_id": "hub_nadvoz_72",
     "merged_stop_ids": [
       "MARPROM:215"
     ],
@@ -3586,7 +3566,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_nasipnacizerl_74",
+    "hub_id": "hub_nasipnacizerl_73",
     "merged_stop_ids": [
       "MARPROM:216"
     ],
@@ -3611,7 +3591,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_nasipnasnaga_75",
+    "hub_id": "hub_nasipnasnaga_74",
     "merged_stop_ids": [
       "MARPROM:217",
       "MARPROM:218"
@@ -3638,7 +3618,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_nasipnasnaga_75",
+    "hub_id": "hub_nasipnasnaga_74",
     "merged_stop_ids": [
       "MARPROM:217",
       "MARPROM:218"
@@ -3665,7 +3645,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_nebovai_76",
+    "hub_id": "hub_nebovai_75",
     "merged_stop_ids": [
       "MARPROM:219",
       "MARPROM:220"
@@ -3692,7 +3672,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_bresternicaodcep_70",
+    "hub_id": "hub_bresternicaodcep_69",
     "merged_stop_ids": [
       "MARPROM:21",
       "MARPROM:22"
@@ -3719,7 +3699,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_nebovai_76",
+    "hub_id": "hub_nebovai_75",
     "merged_stop_ids": [
       "MARPROM:219",
       "MARPROM:220"
@@ -3746,7 +3726,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_nebovaii_77",
+    "hub_id": "hub_nebovaii_76",
     "merged_stop_ids": [
       "MARPROM:221",
       "MARPROM:222"
@@ -3773,7 +3753,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_nebovaii_77",
+    "hub_id": "hub_nebovaii_76",
     "merged_stop_ids": [
       "MARPROM:221",
       "MARPROM:222"
@@ -3804,7 +3784,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_novavas2_78",
+    "hub_id": "hub_novavas2_77",
     "merged_stop_ids": [
       "MARPROM:223",
       "MARPROM:224"
@@ -3835,7 +3815,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_novavas2_78",
+    "hub_id": "hub_novavas2_77",
     "merged_stop_ids": [
       "MARPROM:223",
       "MARPROM:224"
@@ -3862,7 +3842,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_novak_79",
+    "hub_id": "hub_novak_78",
     "merged_stop_ids": [
       "MARPROM:225",
       "MARPROM:226"
@@ -3889,7 +3869,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_novak_79",
+    "hub_id": "hub_novak_78",
     "merged_stop_ids": [
       "MARPROM:225",
       "MARPROM:226"
@@ -3916,7 +3896,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_osborcevzasevernomejo_80",
+    "hub_id": "hub_osborcevzasevernomejo_79",
     "merged_stop_ids": [
       "MARPROM:227",
       "MARPROM:228"
@@ -3943,7 +3923,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_osborcevzasevernomejo_80",
+    "hub_id": "hub_osborcevzasevernomejo_79",
     "merged_stop_ids": [
       "MARPROM:227",
       "MARPROM:228"
@@ -3970,7 +3950,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_obribniku_81",
+    "hub_id": "hub_obribniku_80",
     "merged_stop_ids": [
       "MARPROM:229",
       "MARPROM:443"
@@ -3997,7 +3977,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_bresternicarondo_82",
+    "hub_id": "hub_bresternicarondo_81",
     "merged_stop_ids": [
       "MARPROM:23",
       "MARPROM:24"
@@ -4024,7 +4004,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_oreskonabrezje1_83",
+    "hub_id": "hub_oreskonabrezje1_82",
     "merged_stop_ids": [
       "MARPROM:230",
       "MARPROM:231"
@@ -4051,7 +4031,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_oreskonabrezje1_83",
+    "hub_id": "hub_oreskonabrezje1_82",
     "merged_stop_ids": [
       "MARPROM:230",
       "MARPROM:231"
@@ -4078,7 +4058,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_osojnikova_84",
+    "hub_id": "hub_osojnikova_83",
     "merged_stop_ids": [
       "MARPROM:235"
     ],
@@ -4103,7 +4083,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_osojnikovatvdpartizan_85",
+    "hub_id": "hub_osojnikovatvdpartizan_84",
     "merged_stop_ids": [
       "MARPROM:236"
     ],
@@ -4132,7 +4112,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_osdragakobala_86",
+    "hub_id": "hub_osdragakobala_85",
     "merged_stop_ids": [
       "MARPROM:238",
       "MARPROM:239"
@@ -4163,7 +4143,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_osdragakobala_86",
+    "hub_id": "hub_osdragakobala_85",
     "merged_stop_ids": [
       "MARPROM:238",
       "MARPROM:239"
@@ -4190,7 +4170,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_bresternicarondo_82",
+    "hub_id": "hub_bresternicarondo_81",
     "merged_stop_ids": [
       "MARPROM:23",
       "MARPROM:24"
@@ -4221,7 +4201,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_centergustavasiliha_87",
+    "hub_id": "hub_centergustavasiliha_86",
     "merged_stop_ids": [
       "MARPROM:240",
       "MARPROM:241"
@@ -4252,7 +4232,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_centergustavasiliha_87",
+    "hub_id": "hub_centergustavasiliha_86",
     "merged_stop_ids": [
       "MARPROM:240",
       "MARPROM:241"
@@ -4283,7 +4263,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_osludvikapliberska_88",
+    "hub_id": "hub_osludvikapliberska_87",
     "merged_stop_ids": [
       "MARPROM:242",
       "MARPROM:243"
@@ -4314,7 +4294,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_osludvikapliberska_88",
+    "hub_id": "hub_osludvikapliberska_87",
     "merged_stop_ids": [
       "MARPROM:242",
       "MARPROM:243"
@@ -4341,7 +4321,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_osmaksadurjave_89",
+    "hub_id": "hub_osmaksadurjave_88",
     "merged_stop_ids": [
       "MARPROM:244",
       "MARPROM:245"
@@ -4368,7 +4348,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_osmaksadurjave_89",
+    "hub_id": "hub_osmaksadurjave_88",
     "merged_stop_ids": [
       "MARPROM:244",
       "MARPROM:245"
@@ -4395,7 +4375,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_ostabor1_90",
+    "hub_id": "hub_ostabor1_89",
     "merged_stop_ids": [
       "MARPROM:246",
       "MARPROM:247"
@@ -4422,7 +4402,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_ostabor1_90",
+    "hub_id": "hub_ostabor1_89",
     "merged_stop_ids": [
       "MARPROM:246",
       "MARPROM:247"
@@ -4465,7 +4445,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_pekre_91",
+    "hub_id": "hub_pekre_90",
     "merged_stop_ids": [
       "MARPROM:248",
       "MARPROM:249",
@@ -4512,7 +4492,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_pekre_91",
+    "hub_id": "hub_pekre_90",
     "merged_stop_ids": [
       "MARPROM:248",
       "MARPROM:249",
@@ -4547,7 +4527,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_brezje_92",
+    "hub_id": "hub_brezje_91",
     "merged_stop_ids": [
       "MARPROM:25",
       "MARPROM:26"
@@ -4590,7 +4570,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_pekre_91",
+    "hub_id": "hub_pekre_90",
     "merged_stop_ids": [
       "MARPROM:248",
       "MARPROM:249",
@@ -4641,7 +4621,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_pobreskaeuropark_93",
+    "hub_id": "hub_pobreskaeuropark_92",
     "merged_stop_ids": [
       "MARPROM:251",
       "MARPROM:252"
@@ -4688,7 +4668,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_pobreskaeuropark_93",
+    "hub_id": "hub_pobreskaeuropark_92",
     "merged_stop_ids": [
       "MARPROM:251",
       "MARPROM:252"
@@ -4715,7 +4695,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_pohorskamladalipa_94",
+    "hub_id": "hub_pohorskamladalipa_93",
     "merged_stop_ids": [
       "MARPROM:253",
       "MARPROM:254"
@@ -4742,7 +4722,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_pohorskamladalipa_94",
+    "hub_id": "hub_pohorskamladalipa_93",
     "merged_stop_ids": [
       "MARPROM:253",
       "MARPROM:254"
@@ -4769,7 +4749,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_pohorskaposta_95",
+    "hub_id": "hub_pohorskaposta_94",
     "merged_stop_ids": [
       "MARPROM:255",
       "MARPROM:256"
@@ -4796,7 +4776,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_pohorskaposta_95",
+    "hub_id": "hub_pohorskaposta_94",
     "merged_stop_ids": [
       "MARPROM:255",
       "MARPROM:256"
@@ -4823,7 +4803,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskakarantanska_96",
+    "hub_id": "hub_ptujskakarantanska_95",
     "merged_stop_ids": [
       "MARPROM:257"
     ],
@@ -4848,7 +4828,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_karantanska_97",
+    "hub_id": "hub_karantanska_96",
     "merged_stop_ids": [
       "MARPROM:258",
       "MARPROM:674"
@@ -4875,7 +4855,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_pokopdobravavhod_98",
+    "hub_id": "hub_pokopdobravavhod_97",
     "merged_stop_ids": [
       "MARPROM:259",
       "MARPROM:260"
@@ -4906,7 +4886,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_brezje_92",
+    "hub_id": "hub_brezje_91",
     "merged_stop_ids": [
       "MARPROM:25",
       "MARPROM:26"
@@ -4933,7 +4913,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_pokopdobravavhod_98",
+    "hub_id": "hub_pokopdobravavhod_97",
     "merged_stop_ids": [
       "MARPROM:259",
       "MARPROM:260"
@@ -4960,7 +4940,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_pokopaliscedobrava_99",
+    "hub_id": "hub_pokopaliscedobrava_98",
     "merged_stop_ids": [
       "MARPROM:261"
     ],
@@ -4985,7 +4965,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_pokopaliscepobrezje_100",
+    "hub_id": "hub_pokopaliscepobrezje_99",
     "merged_stop_ids": [
       "MARPROM:262",
       "MARPROM:263"
@@ -5012,7 +4992,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_pokopaliscepobrezje_100",
+    "hub_id": "hub_pokopaliscepobrezje_99",
     "merged_stop_ids": [
       "MARPROM:262",
       "MARPROM:263"
@@ -5039,7 +5019,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_postnicenter_101",
+    "hub_id": "hub_postnicenter_100",
     "merged_stop_ids": [
       "MARPROM:264"
     ],
@@ -5064,7 +5044,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_conateznocrpalka_102",
+    "hub_id": "hub_conateznocrpalka_101",
     "merged_stop_ids": [
       "MARPROM:265",
       "MARPROM:266"
@@ -5091,7 +5071,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_conateznocrpalka_102",
+    "hub_id": "hub_conateznocrpalka_101",
     "merged_stop_ids": [
       "MARPROM:265",
       "MARPROM:266"
@@ -5118,7 +5098,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_conateznootp_103",
+    "hub_id": "hub_conateznootp_102",
     "merged_stop_ids": [
       "MARPROM:269",
       "MARPROM:270"
@@ -5145,7 +5125,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_celestrina_104",
+    "hub_id": "hub_celestrina_103",
     "merged_stop_ids": [
       "MARPROM:27",
       "MARPROM:28"
@@ -5172,7 +5152,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_conateznootp_103",
+    "hub_id": "hub_conateznootp_102",
     "merged_stop_ids": [
       "MARPROM:269",
       "MARPROM:270"
@@ -5199,7 +5179,7 @@
         "color": "#88A1A9"
       }
     ],
-    "hub_id": "hub_prolbrigadferkova_105",
+    "hub_id": "hub_prolbrigadferkova_104",
     "merged_stop_ids": [
       "MARPROM:273"
     ],
@@ -5236,7 +5216,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_prolbrigadkardeljeva_106",
+    "hub_id": "hub_prolbrigadkardeljeva_105",
     "merged_stop_ids": [
       "MARPROM:274",
       "MARPROM:275"
@@ -5275,7 +5255,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_prolbrigadkardeljeva_106",
+    "hub_id": "hub_prolbrigadkardeljeva_105",
     "merged_stop_ids": [
       "MARPROM:274",
       "MARPROM:275"
@@ -5310,7 +5290,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_prolbrigadlekarna_107",
+    "hub_id": "hub_prolbrigadlekarna_106",
     "merged_stop_ids": [
       "MARPROM:276",
       "MARPROM:277"
@@ -5345,7 +5325,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_prolbrigadlekarna_107",
+    "hub_id": "hub_prolbrigadlekarna_106",
     "merged_stop_ids": [
       "MARPROM:276",
       "MARPROM:277"
@@ -5380,7 +5360,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_prolbrigadljubljan_108",
+    "hub_id": "hub_prolbrigadljubljan_107",
     "merged_stop_ids": [
       "MARPROM:278",
       "MARPROM:279"
@@ -5415,7 +5395,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_prolbrigadljubljan_108",
+    "hub_id": "hub_prolbrigadljubljan_107",
     "merged_stop_ids": [
       "MARPROM:278",
       "MARPROM:279"
@@ -5442,7 +5422,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_celestrina_104",
+    "hub_id": "hub_celestrina_103",
     "merged_stop_ids": [
       "MARPROM:27",
       "MARPROM:28"
@@ -5485,7 +5465,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_supernova_109",
+    "hub_id": "hub_supernova_108",
     "merged_stop_ids": [
       "MARPROM:280",
       "MARPROM:397",
@@ -5520,7 +5500,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_prolbrigadtrzaska_110",
+    "hub_id": "hub_prolbrigadtrzaska_109",
     "merged_stop_ids": [
       "MARPROM:281"
     ],
@@ -5557,7 +5537,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_prolbrigadvojasnica_111",
+    "hub_id": "hub_prolbrigadvojasnica_110",
     "merged_stop_ids": [
       "MARPROM:282",
       "MARPROM:283"
@@ -5596,7 +5576,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_prolbrigadvojasnica_111",
+    "hub_id": "hub_prolbrigadvojasnica_110",
     "merged_stop_ids": [
       "MARPROM:282",
       "MARPROM:283"
@@ -5631,7 +5611,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskaspelina_112",
+    "hub_id": "hub_ptujskaspelina_111",
     "merged_stop_ids": [
       "MARPROM:284",
       "MARPROM:285"
@@ -5666,7 +5646,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskaspelina_112",
+    "hub_id": "hub_ptujskaspelina_111",
     "merged_stop_ids": [
       "MARPROM:284",
       "MARPROM:285"
@@ -5701,7 +5681,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskahitracesta_113",
+    "hub_id": "hub_ptujskahitracesta_112",
     "merged_stop_ids": [
       "MARPROM:286",
       "MARPROM:287"
@@ -5736,7 +5716,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskahitracesta_113",
+    "hub_id": "hub_ptujskahitracesta_112",
     "merged_stop_ids": [
       "MARPROM:286",
       "MARPROM:287"
@@ -5771,7 +5751,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskakovinar_114",
+    "hub_id": "hub_ptujskakovinar_113",
     "merged_stop_ids": [
       "MARPROM:288",
       "MARPROM:289"
@@ -5806,7 +5786,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskakovinar_114",
+    "hub_id": "hub_ptujskakovinar_113",
     "merged_stop_ids": [
       "MARPROM:288",
       "MARPROM:289"
@@ -5833,7 +5813,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_cestavrospoh115_115",
+    "hub_id": "hub_cestavrospoh115_114",
     "merged_stop_ids": [
       "MARPROM:29",
       "MARPROM:30"
@@ -5868,7 +5848,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskaposta_116",
+    "hub_id": "hub_ptujskaposta_115",
     "merged_stop_ids": [
       "MARPROM:290",
       "MARPROM:291"
@@ -5903,7 +5883,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskaposta_116",
+    "hub_id": "hub_ptujskaposta_115",
     "merged_stop_ids": [
       "MARPROM:290",
       "MARPROM:291"
@@ -5934,7 +5914,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskaconatezno_117",
+    "hub_id": "hub_ptujskaconatezno_116",
     "merged_stop_ids": [
       "MARPROM:292",
       "MARPROM:293"
@@ -5965,7 +5945,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskaconatezno_117",
+    "hub_id": "hub_ptujskaconatezno_116",
     "merged_stop_ids": [
       "MARPROM:292",
       "MARPROM:293"
@@ -6000,7 +5980,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_ptujskatrzaska_118",
+    "hub_id": "hub_ptujskatrzaska_117",
     "merged_stop_ids": [
       "MARPROM:294"
     ],
@@ -6025,7 +6005,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_radvanjskaantoliciceva_119",
+    "hub_id": "hub_radvanjskaantoliciceva_118",
     "merged_stop_ids": [
       "MARPROM:295",
       "MARPROM:296"
@@ -6052,7 +6032,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_radvanjskaantoliciceva_119",
+    "hub_id": "hub_radvanjskaantoliciceva_118",
     "merged_stop_ids": [
       "MARPROM:295",
       "MARPROM:296"
@@ -6079,7 +6059,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_radvanjskaborstnikova_120",
+    "hub_id": "hub_radvanjskaborstnikova_119",
     "merged_stop_ids": [
       "MARPROM:297",
       "MARPROM:298"
@@ -6106,7 +6086,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_radvanjskaborstnikova_120",
+    "hub_id": "hub_radvanjskaborstnikova_119",
     "merged_stop_ids": [
       "MARPROM:297",
       "MARPROM:298"
@@ -6133,7 +6113,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_radvanjskatrgovina_121",
+    "hub_id": "hub_radvanjskatrgovina_120",
     "merged_stop_ids": [
       "MARPROM:299",
       "MARPROM:300"
@@ -6160,7 +6140,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_strazun_64",
+    "hub_id": "hub_strazun_63",
     "merged_stop_ids": [
       "MARPROM:2",
       "MARPROM:3"
@@ -6187,7 +6167,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_cestavrospoh115_115",
+    "hub_id": "hub_cestavrospoh115_114",
     "merged_stop_ids": [
       "MARPROM:29",
       "MARPROM:30"
@@ -6214,7 +6194,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_radvanjskatrgovina_121",
+    "hub_id": "hub_radvanjskatrgovina_120",
     "merged_stop_ids": [
       "MARPROM:299",
       "MARPROM:300"
@@ -6241,7 +6221,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_radvanjskavojasnica_122",
+    "hub_id": "hub_radvanjskavojasnica_121",
     "merged_stop_ids": [
       "MARPROM:301",
       "MARPROM:302"
@@ -6268,7 +6248,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_radvanjskavojasnica_122",
+    "hub_id": "hub_radvanjskavojasnica_121",
     "merged_stop_ids": [
       "MARPROM:301",
       "MARPROM:302"
@@ -6295,7 +6275,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_razlagovaepf_123",
+    "hub_id": "hub_razlagovaepf_122",
     "merged_stop_ids": [
       "MARPROM:303"
     ],
@@ -6320,7 +6300,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_razvanje_124",
+    "hub_id": "hub_razvanje_123",
     "merged_stop_ids": [
       "MARPROM:304"
     ],
@@ -6345,7 +6325,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_razvanjegd_125",
+    "hub_id": "hub_razvanjegd_124",
     "merged_stop_ids": [
       "MARPROM:305",
       "MARPROM:306"
@@ -6372,7 +6352,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_razvanjegd_125",
+    "hub_id": "hub_razvanjegd_124",
     "merged_stop_ids": [
       "MARPROM:305",
       "MARPROM:306"
@@ -6399,7 +6379,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_razvanjevrtnarstvo_126",
+    "hub_id": "hub_razvanjevrtnarstvo_125",
     "merged_stop_ids": [
       "MARPROM:307",
       "MARPROM:308"
@@ -6426,7 +6406,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_razvanjevrtnarstvo_126",
+    "hub_id": "hub_razvanjevrtnarstvo_125",
     "merged_stop_ids": [
       "MARPROM:307",
       "MARPROM:308"
@@ -6453,7 +6433,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_cestavrospoh65_127",
+    "hub_id": "hub_cestavrospoh65_126",
     "merged_stop_ids": [
       "MARPROM:31",
       "MARPROM:32"
@@ -6480,7 +6460,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_rospoh_128",
+    "hub_id": "hub_rospoh_127",
     "merged_stop_ids": [
       "MARPROM:312"
     ],
@@ -6505,7 +6485,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_rospohhojnik_129",
+    "hub_id": "hub_rospohhojnik_128",
     "merged_stop_ids": [
       "MARPROM:313",
       "MARPROM:314"
@@ -6532,7 +6512,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_rospohhojnik_129",
+    "hub_id": "hub_rospohhojnik_128",
     "merged_stop_ids": [
       "MARPROM:313",
       "MARPROM:314"
@@ -6559,7 +6539,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_rospohodcepurban_130",
+    "hub_id": "hub_rospohodcepurban_129",
     "merged_stop_ids": [
       "MARPROM:315",
       "MARPROM:316"
@@ -6586,7 +6566,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_rospohodcepurban_130",
+    "hub_id": "hub_rospohodcepurban_129",
     "merged_stop_ids": [
       "MARPROM:315",
       "MARPROM:316"
@@ -6613,7 +6593,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_ruperce_131",
+    "hub_id": "hub_ruperce_130",
     "merged_stop_ids": [
       "MARPROM:317",
       "MARPROM:318"
@@ -6640,7 +6620,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_ruperce_131",
+    "hub_id": "hub_ruperce_130",
     "merged_stop_ids": [
       "MARPROM:317",
       "MARPROM:318"
@@ -6667,7 +6647,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_cestavrospoh65_127",
+    "hub_id": "hub_cestavrospoh65_126",
     "merged_stop_ids": [
       "MARPROM:31",
       "MARPROM:32"
@@ -6694,7 +6674,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_smetanovatehfakul_132",
+    "hub_id": "hub_smetanovatehfakul_131",
     "merged_stop_ids": [
       "MARPROM:322"
     ],
@@ -6719,7 +6699,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_streliskaulpohodr_133",
+    "hub_id": "hub_streliskaulpohodr_132",
     "merged_stop_ids": [
       "MARPROM:326",
       "MARPROM:327"
@@ -6746,7 +6726,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_streliskaulpohodr_133",
+    "hub_id": "hub_streliskaulpohodr_132",
     "merged_stop_ids": [
       "MARPROM:326",
       "MARPROM:327"
@@ -6773,7 +6753,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskahofer_134",
+    "hub_id": "hub_sentiljskahofer_133",
     "merged_stop_ids": [
       "MARPROM:329"
     ],
@@ -6806,7 +6786,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_cestaxivdivizije_135",
+    "hub_id": "hub_cestaxivdivizije_134",
     "merged_stop_ids": [
       "MARPROM:33",
       "MARPROM:34"
@@ -6833,7 +6813,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_studenci_136",
+    "hub_id": "hub_studenci_135",
     "merged_stop_ids": [
       "MARPROM:330",
       "MARPROM:331"
@@ -6860,7 +6840,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_studenci_136",
+    "hub_id": "hub_studenci_135",
     "merged_stop_ids": [
       "MARPROM:330",
       "MARPROM:331"
@@ -6887,7 +6867,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_svenskovaulica40_137",
+    "hub_id": "hub_svenskovaulica40_136",
     "merged_stop_ids": [
       "MARPROM:332",
       "MARPROM:333"
@@ -6914,7 +6894,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_svenskovaulica40_137",
+    "hub_id": "hub_svenskovaulica40_136",
     "merged_stop_ids": [
       "MARPROM:332",
       "MARPROM:333"
@@ -6945,7 +6925,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_sarhova_138",
+    "hub_id": "hub_sarhova_137",
     "merged_stop_ids": [
       "MARPROM:334",
       "MARPROM:564"
@@ -6976,7 +6956,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_sarhovaposta_139",
+    "hub_id": "hub_sarhovaposta_138",
     "merged_stop_ids": [
       "MARPROM:335",
       "MARPROM:336"
@@ -7007,7 +6987,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_sarhovaposta_139",
+    "hub_id": "hub_sarhovaposta_138",
     "merged_stop_ids": [
       "MARPROM:335",
       "MARPROM:336"
@@ -7038,7 +7018,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskamedved_140",
+    "hub_id": "hub_sentiljskamedved_139",
     "merged_stop_ids": [
       "MARPROM:337",
       "MARPROM:338"
@@ -7069,7 +7049,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskamedved_140",
+    "hub_id": "hub_sentiljskamedved_139",
     "merged_stop_ids": [
       "MARPROM:337",
       "MARPROM:338"
@@ -7100,7 +7080,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskapocehovska_141",
+    "hub_id": "hub_sentiljskapocehovska_140",
     "merged_stop_ids": [
       "MARPROM:339",
       "MARPROM:351"
@@ -7135,7 +7115,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_cestaxivdivizije_135",
+    "hub_id": "hub_cestaxivdivizije_134",
     "merged_stop_ids": [
       "MARPROM:33",
       "MARPROM:34"
@@ -7166,7 +7146,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskatmikosaki_142",
+    "hub_id": "hub_sentiljskatmikosaki_141",
     "merged_stop_ids": [
       "MARPROM:340",
       "MARPROM:460"
@@ -7197,7 +7177,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskaveterinar_143",
+    "hub_id": "hub_sentiljskaveterinar_142",
     "merged_stop_ids": [
       "MARPROM:341",
       "MARPROM:461"
@@ -7224,7 +7204,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_subicevavrtec_144",
+    "hub_id": "hub_subicevavrtec_143",
     "merged_stop_ids": [
       "MARPROM:346"
     ],
@@ -7261,7 +7241,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_ukctabor_145",
+    "hub_id": "hub_ukctabor_144",
     "merged_stop_ids": [
       "MARPROM:347"
     ],
@@ -7290,7 +7270,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_eleclerc_146",
+    "hub_id": "hub_eleclerc_145",
     "merged_stop_ids": [
       "MARPROM:348"
     ],
@@ -7319,7 +7299,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_fontana_147",
+    "hub_id": "hub_fontana_146",
     "merged_stop_ids": [
       "MARPROM:349",
       "MARPROM:350"
@@ -7346,7 +7326,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_colnarna_148",
+    "hub_id": "hub_colnarna_147",
     "merged_stop_ids": [
       "MARPROM:35",
       "MARPROM:36"
@@ -7377,7 +7357,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_fontana_147",
+    "hub_id": "hub_fontana_146",
     "merged_stop_ids": [
       "MARPROM:349",
       "MARPROM:350"
@@ -7408,7 +7388,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskapocehovska_141",
+    "hub_id": "hub_sentiljskapocehovska_140",
     "merged_stop_ids": [
       "MARPROM:339",
       "MARPROM:351"
@@ -7435,7 +7415,7 @@
         "color": "#323033"
       }
     ],
-    "hub_id": "hub_tezenskadobrava_149",
+    "hub_id": "hub_tezenskadobrava_148",
     "merged_stop_ids": [
       "MARPROM:352"
     ],
@@ -7460,7 +7440,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_teznodomstobcanov_150",
+    "hub_id": "hub_teznodomstobcanov_149",
     "merged_stop_ids": [
       "MARPROM:353",
       "MARPROM:354"
@@ -7487,7 +7467,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_teznodomstobcanov_150",
+    "hub_id": "hub_teznodomstobcanov_149",
     "merged_stop_ids": [
       "MARPROM:353",
       "MARPROM:354"
@@ -7518,7 +7498,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_titovanasipna_151",
+    "hub_id": "hub_titovanasipna_150",
     "merged_stop_ids": [
       "MARPROM:355",
       "MARPROM:356"
@@ -7549,7 +7529,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_titovanasipna_151",
+    "hub_id": "hub_titovanasipna_150",
     "merged_stop_ids": [
       "MARPROM:355",
       "MARPROM:356"
@@ -7636,7 +7616,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_cityzdravstvenidom_152",
+    "hub_id": "hub_cityzdravstvenidom_151",
     "merged_stop_ids": [
       "MARPROM:358",
       "MARPROM:359"
@@ -7723,7 +7703,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_cityzdravstvenidom_152",
+    "hub_id": "hub_cityzdravstvenidom_151",
     "merged_stop_ids": [
       "MARPROM:358",
       "MARPROM:359"
@@ -7750,7 +7730,7 @@
         "color": "#60C3AC"
       }
     ],
-    "hub_id": "hub_colnarna_148",
+    "hub_id": "hub_colnarna_147",
     "merged_stop_ids": [
       "MARPROM:35",
       "MARPROM:36"
@@ -7777,7 +7757,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_trcovagricek_153",
+    "hub_id": "hub_trcovagricek_152",
     "merged_stop_ids": [
       "MARPROM:360",
       "MARPROM:361"
@@ -7804,7 +7784,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_trcovagricek_153",
+    "hub_id": "hub_trcovagricek_152",
     "merged_stop_ids": [
       "MARPROM:360",
       "MARPROM:361"
@@ -7831,7 +7811,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_trcova31_154",
+    "hub_id": "hub_trcova31_153",
     "merged_stop_ids": [
       "MARPROM:362",
       "MARPROM:363"
@@ -7858,7 +7838,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_trcova31_154",
+    "hub_id": "hub_trcova31_153",
     "merged_stop_ids": [
       "MARPROM:362",
       "MARPROM:363"
@@ -7885,7 +7865,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_trgovskicentermerkur_155",
+    "hub_id": "hub_trgovskicentermerkur_154",
     "merged_stop_ids": [
       "MARPROM:364"
     ],
@@ -7914,7 +7894,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskacarinarnica_156",
+    "hub_id": "hub_trzaskacarinarnica_155",
     "merged_stop_ids": [
       "MARPROM:365",
       "MARPROM:366"
@@ -7945,7 +7925,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskacarinarnica_156",
+    "hub_id": "hub_trzaskacarinarnica_155",
     "merged_stop_ids": [
       "MARPROM:365",
       "MARPROM:366"
@@ -7976,7 +7956,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskaptujska_157",
+    "hub_id": "hub_trzaskaptujska_156",
     "merged_stop_ids": [
       "MARPROM:367"
     ],
@@ -8001,7 +7981,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_trzaskacestabauhaus_158",
+    "hub_id": "hub_trzaskacestabauhaus_157",
     "merged_stop_ids": [
       "MARPROM:368",
       "MARPROM:369"
@@ -8028,7 +8008,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_trzaskacestabauhaus_158",
+    "hub_id": "hub_trzaskacestabauhaus_157",
     "merged_stop_ids": [
       "MARPROM:368",
       "MARPROM:369"
@@ -8055,7 +8035,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_crnogorskaul23_159",
+    "hub_id": "hub_crnogorskaul23_158",
     "merged_stop_ids": [
       "MARPROM:37",
       "MARPROM:38"
@@ -8086,7 +8066,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskacestalesnina_160",
+    "hub_id": "hub_trzaskacestalesnina_159",
     "merged_stop_ids": [
       "MARPROM:370",
       "MARPROM:371"
@@ -8117,7 +8097,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskacestalesnina_160",
+    "hub_id": "hub_trzaskacestalesnina_159",
     "merged_stop_ids": [
       "MARPROM:370",
       "MARPROM:371"
@@ -8148,7 +8128,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskacestarutar_161",
+    "hub_id": "hub_trzaskacestarutar_160",
     "merged_stop_ids": [
       "MARPROM:372",
       "MARPROM:373"
@@ -8179,7 +8159,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskacestarutar_161",
+    "hub_id": "hub_trzaskacestarutar_160",
     "merged_stop_ids": [
       "MARPROM:372",
       "MARPROM:373"
@@ -8210,7 +8190,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskavodovodna_162",
+    "hub_id": "hub_trzaskavodovodna_161",
     "merged_stop_ids": [
       "MARPROM:374",
       "MARPROM:375"
@@ -8241,7 +8221,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskavodovodna_162",
+    "hub_id": "hub_trzaskavodovodna_161",
     "merged_stop_ids": [
       "MARPROM:374",
       "MARPROM:375"
@@ -8272,7 +8252,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_ulevelovsebetnava_163",
+    "hub_id": "hub_ulevelovsebetnava_162",
     "merged_stop_ids": [
       "MARPROM:376",
       "MARPROM:377"
@@ -8303,7 +8283,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_ulevelovsebetnava_163",
+    "hub_id": "hub_ulevelovsebetnava_162",
     "merged_stop_ids": [
       "MARPROM:376",
       "MARPROM:377"
@@ -8334,7 +8314,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_ulevelovseenerget_164",
+    "hub_id": "hub_ulevelovseenerget_163",
     "merged_stop_ids": [
       "MARPROM:378",
       "MARPROM:379"
@@ -8365,7 +8345,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_ulevelovseenerget_164",
+    "hub_id": "hub_ulevelovseenerget_163",
     "merged_stop_ids": [
       "MARPROM:378",
       "MARPROM:379"
@@ -8392,7 +8372,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_crnogorskaul23_159",
+    "hub_id": "hub_crnogorskaul23_158",
     "merged_stop_ids": [
       "MARPROM:37",
       "MARPROM:38"
@@ -8419,7 +8399,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_ulevelovsebetnavskigozd_165",
+    "hub_id": "hub_ulevelovsebetnavskigozd_164",
     "merged_stop_ids": [
       "MARPROM:380",
       "MARPROM:381"
@@ -8446,7 +8426,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_ulevelovsebetnavskigozd_165",
+    "hub_id": "hub_ulevelovsebetnavskigozd_164",
     "merged_stop_ids": [
       "MARPROM:380",
       "MARPROM:381"
@@ -8473,7 +8453,7 @@
         "color": "#1C3564"
       }
     ],
-    "hub_id": "hub_ulpariskekomune_166",
+    "hub_id": "hub_ulpariskekomune_165",
     "merged_stop_ids": [
       "MARPROM:382",
       "MARPROM:383"
@@ -8500,7 +8480,7 @@
         "color": "#1C3564"
       }
     ],
-    "hub_id": "hub_ulpariskekomune_166",
+    "hub_id": "hub_ulpariskekomune_165",
     "merged_stop_ids": [
       "MARPROM:382",
       "MARPROM:383"
@@ -8531,7 +8511,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_ulvvlahovicas31_167",
+    "hub_id": "hub_ulvvlahovicas31_166",
     "merged_stop_ids": [
       "MARPROM:384",
       "MARPROM:385"
@@ -8562,7 +8542,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_ulvvlahovicas31_167",
+    "hub_id": "hub_ulvvlahovicas31_166",
     "merged_stop_ids": [
       "MARPROM:384",
       "MARPROM:385"
@@ -8593,7 +8573,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_novopobrezje_168",
+    "hub_id": "hub_novopobrezje_167",
     "merged_stop_ids": [
       "MARPROM:386",
       "MARPROM:387",
@@ -8626,7 +8606,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_novopobrezje_168",
+    "hub_id": "hub_novopobrezje_167",
     "merged_stop_ids": [
       "MARPROM:386",
       "MARPROM:387",
@@ -8655,7 +8635,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_ulicaherojavojka_169",
+    "hub_id": "hub_ulicaherojavojka_168",
     "merged_stop_ids": [
       "MARPROM:388"
     ],
@@ -8680,7 +8660,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_waldorfskasola_170",
+    "hub_id": "hub_waldorfskasola_169",
     "merged_stop_ids": [
       "MARPROM:389",
       "MARPROM:390"
@@ -8719,7 +8699,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_cufarjevadomstobc_171",
+    "hub_id": "hub_cufarjevadomstobc_170",
     "merged_stop_ids": [
       "MARPROM:39",
       "MARPROM:40"
@@ -8746,7 +8726,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_waldorfskasola_170",
+    "hub_id": "hub_waldorfskasola_169",
     "merged_stop_ids": [
       "MARPROM:389",
       "MARPROM:390"
@@ -8773,7 +8753,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_osjankapadeznika_172",
+    "hub_id": "hub_osjankapadeznika_171",
     "merged_stop_ids": [
       "MARPROM:391",
       "MARPROM:392"
@@ -8800,7 +8780,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_osjankapadeznika_172",
+    "hub_id": "hub_osjankapadeznika_171",
     "merged_stop_ids": [
       "MARPROM:391",
       "MARPROM:392"
@@ -8827,7 +8807,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_mitnica_173",
+    "hub_id": "hub_mitnica_172",
     "merged_stop_ids": [
       "MARPROM:393",
       "MARPROM:394"
@@ -8854,7 +8834,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_mitnica_173",
+    "hub_id": "hub_mitnica_172",
     "merged_stop_ids": [
       "MARPROM:393",
       "MARPROM:394"
@@ -8881,7 +8861,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_kamniskidrevored_174",
+    "hub_id": "hub_kamniskidrevored_173",
     "merged_stop_ids": [
       "MARPROM:395",
       "MARPROM:396"
@@ -8908,7 +8888,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_kamniskidrevored_174",
+    "hub_id": "hub_kamniskidrevored_173",
     "merged_stop_ids": [
       "MARPROM:395",
       "MARPROM:396"
@@ -8951,7 +8931,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_supernova_109",
+    "hub_id": "hub_supernova_108",
     "merged_stop_ids": [
       "MARPROM:280",
       "MARPROM:397",
@@ -8982,7 +8962,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_vzpenjaca_175",
+    "hub_id": "hub_vzpenjaca_174",
     "merged_stop_ids": [
       "MARPROM:398"
     ],
@@ -9007,7 +8987,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_zagrebskacsd_176",
+    "hub_id": "hub_zagrebskacsd_175",
     "merged_stop_ids": [
       "MARPROM:399",
       "MARPROM:400"
@@ -9034,7 +9014,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_belokranjskaulica10_177",
+    "hub_id": "hub_belokranjskaulica10_176",
     "merged_stop_ids": [
       "MARPROM:4",
       "MARPROM:541"
@@ -9073,7 +9053,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_cufarjevadomstobc_171",
+    "hub_id": "hub_cufarjevadomstobc_170",
     "merged_stop_ids": [
       "MARPROM:39",
       "MARPROM:40"
@@ -9100,7 +9080,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_zagrebskacsd_176",
+    "hub_id": "hub_zagrebskacsd_175",
     "merged_stop_ids": [
       "MARPROM:399",
       "MARPROM:400"
@@ -9127,7 +9107,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_zagrebskakovinar_178",
+    "hub_id": "hub_zagrebskakovinar_177",
     "merged_stop_ids": [
       "MARPROM:401",
       "MARPROM:402"
@@ -9154,7 +9134,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_zagrebskakovinar_178",
+    "hub_id": "hub_zagrebskakovinar_177",
     "merged_stop_ids": [
       "MARPROM:401",
       "MARPROM:402"
@@ -9181,7 +9161,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_zgduplek_179",
+    "hub_id": "hub_zgduplek_178",
     "merged_stop_ids": [
       "MARPROM:403"
     ],
@@ -9206,7 +9186,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_zimicaodcep_180",
+    "hub_id": "hub_zimicaodcep_179",
     "merged_stop_ids": [
       "MARPROM:404",
       "MARPROM:405"
@@ -9233,7 +9213,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_zimicaodcep_180",
+    "hub_id": "hub_zimicaodcep_179",
     "merged_stop_ids": [
       "MARPROM:404",
       "MARPROM:405"
@@ -9260,7 +9240,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_zolajevatsc_181",
+    "hub_id": "hub_zolajevatsc_180",
     "merged_stop_ids": [
       "MARPROM:406",
       "MARPROM:407"
@@ -9287,7 +9267,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_zolajevatsc_181",
+    "hub_id": "hub_zolajevatsc_180",
     "merged_stop_ids": [
       "MARPROM:406",
       "MARPROM:407"
@@ -9314,7 +9294,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovci_182",
+    "hub_id": "hub_zrkovci_181",
     "merged_stop_ids": [
       "MARPROM:408"
     ],
@@ -9339,7 +9319,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskagasilskidom_183",
+    "hub_id": "hub_zrkovskagasilskidom_182",
     "merged_stop_ids": [
       "MARPROM:409",
       "MARPROM:411"
@@ -9382,7 +9362,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_cufarjevatvdpartizan_184",
+    "hub_id": "hub_cufarjevatvdpartizan_183",
     "merged_stop_ids": [
       "MARPROM:41",
       "MARPROM:42"
@@ -9409,7 +9389,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskagasilskidom_183",
+    "hub_id": "hub_zrkovskagasilskidom_182",
     "merged_stop_ids": [
       "MARPROM:409",
       "MARPROM:411"
@@ -9436,7 +9416,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskanagorci54_185",
+    "hub_id": "hub_zrkovskanagorci54_184",
     "merged_stop_ids": [
       "MARPROM:412",
       "MARPROM:413"
@@ -9463,7 +9443,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskanagorci54_185",
+    "hub_id": "hub_zrkovskanagorci54_184",
     "merged_stop_ids": [
       "MARPROM:412",
       "MARPROM:413"
@@ -9490,7 +9470,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskanagorci65_186",
+    "hub_id": "hub_zrkovskanagorci65_185",
     "merged_stop_ids": [
       "MARPROM:414",
       "MARPROM:415"
@@ -9517,7 +9497,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskanagorci65_186",
+    "hub_id": "hub_zrkovskanagorci65_185",
     "merged_stop_ids": [
       "MARPROM:414",
       "MARPROM:415"
@@ -9544,7 +9524,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskanaterasi_187",
+    "hub_id": "hub_zrkovskanaterasi_186",
     "merged_stop_ids": [
       "MARPROM:416",
       "MARPROM:417"
@@ -9571,7 +9551,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskanaterasi_187",
+    "hub_id": "hub_zrkovskanaterasi_186",
     "merged_stop_ids": [
       "MARPROM:416",
       "MARPROM:417"
@@ -9598,7 +9578,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskatrgovina_188",
+    "hub_id": "hub_zrkovskatrgovina_187",
     "merged_stop_ids": [
       "MARPROM:418",
       "MARPROM:419"
@@ -9625,7 +9605,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskatrgovina_188",
+    "hub_id": "hub_zrkovskatrgovina_187",
     "merged_stop_ids": [
       "MARPROM:418",
       "MARPROM:419"
@@ -9668,7 +9648,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_cufarjevatvdpartizan_184",
+    "hub_id": "hub_cufarjevatvdpartizan_183",
     "merged_stop_ids": [
       "MARPROM:41",
       "MARPROM:42"
@@ -9695,7 +9675,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskacesta_189",
+    "hub_id": "hub_zrkovskacesta_188",
     "merged_stop_ids": [
       "MARPROM:420",
       "MARPROM:421"
@@ -9722,7 +9702,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovskacesta_189",
+    "hub_id": "hub_zrkovskacesta_188",
     "merged_stop_ids": [
       "MARPROM:420",
       "MARPROM:421"
@@ -9749,7 +9729,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_zveznaulica_190",
+    "hub_id": "hub_zveznaulica_189",
     "merged_stop_ids": [
       "MARPROM:422",
       "MARPROM:442"
@@ -9784,7 +9764,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_zpmaribor_191",
+    "hub_id": "hub_zpmaribor_190",
     "merged_stop_ids": [
       "MARPROM:423",
       "MARPROM:424"
@@ -9819,7 +9799,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_zpmaribor_191",
+    "hub_id": "hub_zpmaribor_190",
     "merged_stop_ids": [
       "MARPROM:423",
       "MARPROM:424"
@@ -9846,7 +9826,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_zpstudenci_192",
+    "hub_id": "hub_zpstudenci_191",
     "merged_stop_ids": [
       "MARPROM:425",
       "MARPROM:426"
@@ -9873,7 +9853,7 @@
         "color": "#8EB3DF"
       }
     ],
-    "hub_id": "hub_zpstudenci_192",
+    "hub_id": "hub_zpstudenci_191",
     "merged_stop_ids": [
       "MARPROM:425",
       "MARPROM:426"
@@ -9900,7 +9880,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_zptezno_193",
+    "hub_id": "hub_zptezno_192",
     "merged_stop_ids": [
       "MARPROM:427",
       "MARPROM:428"
@@ -9927,7 +9907,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_zptezno_193",
+    "hub_id": "hub_zptezno_192",
     "merged_stop_ids": [
       "MARPROM:427",
       "MARPROM:428"
@@ -9954,7 +9934,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_kamenskova_194",
+    "hub_id": "hub_kamenskova_193",
     "merged_stop_ids": [
       "MARPROM:429",
       "MARPROM:434"
@@ -9981,7 +9961,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dogose_195",
+    "hub_id": "hub_dogose_194",
     "merged_stop_ids": [
       "MARPROM:43"
     ],
@@ -10006,7 +9986,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_mladinskavrbanska_196",
+    "hub_id": "hub_mladinskavrbanska_195",
     "merged_stop_ids": [
       "MARPROM:432",
       "MARPROM:655"
@@ -10037,7 +10017,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_turnerjeva_197",
+    "hub_id": "hub_turnerjeva_196",
     "merged_stop_ids": [
       "MARPROM:433",
       "MARPROM:649"
@@ -10064,7 +10044,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_kamenskova_194",
+    "hub_id": "hub_kamenskova_193",
     "merged_stop_ids": [
       "MARPROM:429",
       "MARPROM:434"
@@ -10091,7 +10071,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_mcpobrezje_198",
+    "hub_id": "hub_mcpobrezje_197",
     "merged_stop_ids": [
       "MARPROM:435",
       "MARPROM:654"
@@ -10122,7 +10102,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dogosegasilskidom_199",
+    "hub_id": "hub_dogosegasilskidom_198",
     "merged_stop_ids": [
       "MARPROM:44",
       "MARPROM:45"
@@ -10176,7 +10156,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_zveznaulica_190",
+    "hub_id": "hub_zveznaulica_189",
     "merged_stop_ids": [
       "MARPROM:422",
       "MARPROM:442"
@@ -10203,7 +10183,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_obribniku_81",
+    "hub_id": "hub_obribniku_80",
     "merged_stop_ids": [
       "MARPROM:229",
       "MARPROM:443"
@@ -10315,7 +10295,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_lackovauljelencevih_200",
+    "hub_id": "hub_lackovauljelencevih_199",
     "merged_stop_ids": [
       "MARPROM:448",
       "MARPROM:449"
@@ -10342,7 +10322,7 @@
         "color": "#F7B1CA"
       }
     ],
-    "hub_id": "hub_lackovauljelencevih_200",
+    "hub_id": "hub_lackovauljelencevih_199",
     "merged_stop_ids": [
       "MARPROM:448",
       "MARPROM:449"
@@ -10373,7 +10353,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dogosegasilskidom_199",
+    "hub_id": "hub_dogosegasilskidom_198",
     "merged_stop_ids": [
       "MARPROM:44",
       "MARPROM:45"
@@ -10400,7 +10380,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_trcova168_201",
+    "hub_id": "hub_trcova168_200",
     "merged_stop_ids": [
       "MARPROM:450",
       "MARPROM:451"
@@ -10427,7 +10407,7 @@
         "color": "#7BC258"
       }
     ],
-    "hub_id": "hub_trcova168_201",
+    "hub_id": "hub_trcova168_200",
     "merged_stop_ids": [
       "MARPROM:450",
       "MARPROM:451"
@@ -10470,7 +10450,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_osbojanailicha_202",
+    "hub_id": "hub_osbojanailicha_201",
     "merged_stop_ids": [
       "MARPROM:452"
     ],
@@ -10511,7 +10491,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_mladinskamuzejmaribor_203",
+    "hub_id": "hub_mladinskamuzejmaribor_202",
     "merged_stop_ids": [
       "MARPROM:453"
     ],
@@ -10536,7 +10516,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dogosepolje_204",
+    "hub_id": "hub_dogosepolje_203",
     "merged_stop_ids": [
       "MARPROM:46",
       "MARPROM:47"
@@ -10567,7 +10547,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskatmikosaki_142",
+    "hub_id": "hub_sentiljskatmikosaki_141",
     "merged_stop_ids": [
       "MARPROM:340",
       "MARPROM:460"
@@ -10598,7 +10578,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_sentiljskaveterinar_143",
+    "hub_id": "hub_sentiljskaveterinar_142",
     "merged_stop_ids": [
       "MARPROM:341",
       "MARPROM:461"
@@ -10625,7 +10605,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_botanicnivrt_205",
+    "hub_id": "hub_botanicnivrt_204",
     "merged_stop_ids": [
       "MARPROM:462"
     ],
@@ -10677,7 +10657,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_podruznicaosnovnasolafrancetapreserna_206",
+    "hub_id": "hub_podruznicaosnovnasolafrancetapreserna_205",
     "merged_stop_ids": [
       "MARPROM:464"
     ],
@@ -10702,7 +10682,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dogosepolje_204",
+    "hub_id": "hub_dogosepolje_203",
     "merged_stop_ids": [
       "MARPROM:46",
       "MARPROM:47"
@@ -10733,7 +10713,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_dogoskavrtec_207",
+    "hub_id": "hub_dogoskavrtec_206",
     "merged_stop_ids": [
       "MARPROM:48",
       "MARPROM:49"
@@ -10764,7 +10744,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_dogoskavrtec_207",
+    "hub_id": "hub_dogoskavrtec_206",
     "merged_stop_ids": [
       "MARPROM:48",
       "MARPROM:49"
@@ -10791,7 +10771,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_betnavskafocheva_208",
+    "hub_id": "hub_betnavskafocheva_207",
     "merged_stop_ids": [
       "MARPROM:5",
       "MARPROM:6"
@@ -10818,7 +10798,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_dravograjska_209",
+    "hub_id": "hub_dravograjska_208",
     "merged_stop_ids": [
       "MARPROM:50",
       "MARPROM:51"
@@ -10845,7 +10825,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_dravograjska_209",
+    "hub_id": "hub_dravograjska_208",
     "merged_stop_ids": [
       "MARPROM:50",
       "MARPROM:51"
@@ -10880,7 +10860,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_prometnasolamaribor_210",
+    "hub_id": "hub_prometnasolamaribor_209",
     "merged_stop_ids": [
       "MARPROM:52",
       "MARPROM:53"
@@ -10907,7 +10887,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovcipolje_211",
+    "hub_id": "hub_zrkovcipolje_210",
     "merged_stop_ids": [
       "MARPROM:527",
       "MARPROM:528"
@@ -10934,7 +10914,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_zrkovcipolje_211",
+    "hub_id": "hub_zrkovcipolje_210",
     "merged_stop_ids": [
       "MARPROM:527",
       "MARPROM:528"
@@ -10969,7 +10949,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_prometnasolamaribor_210",
+    "hub_id": "hub_prometnasolamaribor_209",
     "merged_stop_ids": [
       "MARPROM:52",
       "MARPROM:53"
@@ -10996,7 +10976,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_prkoroskimost_212",
+    "hub_id": "hub_prkoroskimost_211",
     "merged_stop_ids": [
       "MARPROM:533",
       "MARPROM:536"
@@ -11023,7 +11003,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_univerzitetnikampus_213",
+    "hub_id": "hub_univerzitetnikampus_212",
     "merged_stop_ids": [
       "MARPROM:534",
       "MARPROM:535"
@@ -11050,7 +11030,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_univerzitetnikampus_213",
+    "hub_id": "hub_univerzitetnikampus_212",
     "merged_stop_ids": [
       "MARPROM:534",
       "MARPROM:535"
@@ -11077,7 +11057,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_prkoroskimost_212",
+    "hub_id": "hub_prkoroskimost_211",
     "merged_stop_ids": [
       "MARPROM:533",
       "MARPROM:536"
@@ -11104,7 +11084,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_dvoranataborgorkega_214",
+    "hub_id": "hub_dvoranataborgorkega_213",
     "merged_stop_ids": [
       "MARPROM:537",
       "MARPROM:67"
@@ -11131,7 +11111,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_rospohvrtovi_215",
+    "hub_id": "hub_rospohvrtovi_214",
     "merged_stop_ids": [
       "MARPROM:538",
       "MARPROM:540"
@@ -11158,7 +11138,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_morskijarekkozjak_216",
+    "hub_id": "hub_morskijarekkozjak_215",
     "merged_stop_ids": [
       "MARPROM:539",
       "MARPROM:547"
@@ -11201,7 +11181,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_supernova_109",
+    "hub_id": "hub_supernova_108",
     "merged_stop_ids": [
       "MARPROM:280",
       "MARPROM:397",
@@ -11232,7 +11212,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_rospohvrtovi_215",
+    "hub_id": "hub_rospohvrtovi_214",
     "merged_stop_ids": [
       "MARPROM:538",
       "MARPROM:540"
@@ -11259,7 +11239,7 @@
         "color": "#8C7174"
       }
     ],
-    "hub_id": "hub_belokranjskaulica10_177",
+    "hub_id": "hub_belokranjskaulica10_176",
     "merged_stop_ids": [
       "MARPROM:4",
       "MARPROM:541"
@@ -11290,7 +11270,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_europarktitovmost_217",
+    "hub_id": "hub_europarktitovmost_216",
     "merged_stop_ids": [
       "MARPROM:542",
       "MARPROM:544"
@@ -11317,7 +11297,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_trzaskaptujska_218",
+    "hub_id": "hub_trzaskaptujska_217",
     "merged_stop_ids": [
       "MARPROM:543"
     ],
@@ -11346,7 +11326,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_europarktitovmost_217",
+    "hub_id": "hub_europarktitovmost_216",
     "merged_stop_ids": [
       "MARPROM:542",
       "MARPROM:544"
@@ -11373,7 +11353,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_morskijarekrospoh_219",
+    "hub_id": "hub_morskijarekrospoh_218",
     "merged_stop_ids": [
       "MARPROM:545",
       "MARPROM:546"
@@ -11400,7 +11380,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_morskijarekrospoh_219",
+    "hub_id": "hub_morskijarekrospoh_218",
     "merged_stop_ids": [
       "MARPROM:545",
       "MARPROM:546"
@@ -11427,7 +11407,7 @@
         "color": "#8A181A"
       }
     ],
-    "hub_id": "hub_morskijarekkozjak_216",
+    "hub_id": "hub_morskijarekkozjak_215",
     "merged_stop_ids": [
       "MARPROM:539",
       "MARPROM:547"
@@ -11458,7 +11438,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_dravograjskasokolska_220",
+    "hub_id": "hub_dravograjskasokolska_219",
     "merged_stop_ids": [
       "MARPROM:55",
       "MARPROM:56"
@@ -11489,7 +11469,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_dravograjskasokolska_220",
+    "hub_id": "hub_dravograjskasokolska_219",
     "merged_stop_ids": [
       "MARPROM:55",
       "MARPROM:56"
@@ -11520,7 +11500,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_sarhova_138",
+    "hub_id": "hub_sarhova_137",
     "merged_stop_ids": [
       "MARPROM:334",
       "MARPROM:564"
@@ -11551,7 +11531,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dupleskajarceva_221",
+    "hub_id": "hub_dupleskajarceva_220",
     "merged_stop_ids": [
       "MARPROM:57",
       "MARPROM:58"
@@ -11582,7 +11562,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dupleskajarceva_221",
+    "hub_id": "hub_dupleskajarceva_220",
     "merged_stop_ids": [
       "MARPROM:57",
       "MARPROM:58"
@@ -11613,7 +11593,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dupleskakanal_222",
+    "hub_id": "hub_dupleskakanal_221",
     "merged_stop_ids": [
       "MARPROM:59",
       "MARPROM:60",
@@ -11642,7 +11622,7 @@
         "color": "#D5DA76"
       }
     ],
-    "hub_id": "hub_betnavskafocheva_208",
+    "hub_id": "hub_betnavskafocheva_207",
     "merged_stop_ids": [
       "MARPROM:5",
       "MARPROM:6"
@@ -11673,7 +11653,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dupleskakanal_222",
+    "hub_id": "hub_dupleskakanal_221",
     "merged_stop_ids": [
       "MARPROM:59",
       "MARPROM:60",
@@ -11706,7 +11686,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dupleskakanal_222",
+    "hub_id": "hub_dupleskakanal_221",
     "merged_stop_ids": [
       "MARPROM:59",
       "MARPROM:60",
@@ -11743,7 +11723,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dupleskatezenska_223",
+    "hub_id": "hub_dupleskatezenska_222",
     "merged_stop_ids": [
       "MARPROM:62",
       "MARPROM:63"
@@ -11778,7 +11758,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_dupleskatezenska_223",
+    "hub_id": "hub_dupleskatezenska_222",
     "merged_stop_ids": [
       "MARPROM:62",
       "MARPROM:63"
@@ -11805,7 +11785,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_glavnitrgrotovz_224",
+    "hub_id": "hub_glavnitrgrotovz_223",
     "merged_stop_ids": [
       "MARPROM:633",
       "MARPROM:634"
@@ -11832,7 +11812,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_glavnitrgrotovz_224",
+    "hub_id": "hub_glavnitrgrotovz_223",
     "merged_stop_ids": [
       "MARPROM:633",
       "MARPROM:634"
@@ -11886,7 +11866,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_ukceuropark_225",
+    "hub_id": "hub_ukceuropark_224",
     "merged_stop_ids": [
       "MARPROM:636"
     ],
@@ -11911,7 +11891,7 @@
         "color": "#DA1F27"
       }
     ],
-    "hub_id": "hub_europark_226",
+    "hub_id": "hub_europark_225",
     "merged_stop_ids": [
       "MARPROM:637"
     ],
@@ -11940,7 +11920,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_pariskekomunetitova_227",
+    "hub_id": "hub_pariskekomunetitova_226",
     "merged_stop_ids": [
       "MARPROM:638",
       "MARPROM:641"
@@ -11967,7 +11947,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_dupleskacesta239_228",
+    "hub_id": "hub_dupleskacesta239_227",
     "merged_stop_ids": [
       "MARPROM:64"
     ],
@@ -11996,7 +11976,7 @@
         "color": "#9C8AC1"
       }
     ],
-    "hub_id": "hub_pariskekomunetitova_227",
+    "hub_id": "hub_pariskekomunetitova_226",
     "merged_stop_ids": [
       "MARPROM:638",
       "MARPROM:641"
@@ -12023,7 +12003,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_zdravstvenidomtezno_229",
+    "hub_id": "hub_zdravstvenidomtezno_228",
     "merged_stop_ids": [
       "MARPROM:642",
       "MARPROM:645"
@@ -12050,7 +12030,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_taborjadranska_230",
+    "hub_id": "hub_taborjadranska_229",
     "merged_stop_ids": [
       "MARPROM:643",
       "MARPROM:676"
@@ -12104,7 +12084,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_zdravstvenidomtezno_229",
+    "hub_id": "hub_zdravstvenidomtezno_228",
     "merged_stop_ids": [
       "MARPROM:642",
       "MARPROM:645"
@@ -12135,7 +12115,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_dompodgorco_231",
+    "hub_id": "hub_dompodgorco_230",
     "merged_stop_ids": [
       "MARPROM:646",
       "MARPROM:647"
@@ -12166,7 +12146,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_dompodgorco_231",
+    "hub_id": "hub_dompodgorco_230",
     "merged_stop_ids": [
       "MARPROM:646",
       "MARPROM:647"
@@ -12201,7 +12181,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_maribox_232",
+    "hub_id": "hub_maribox_231",
     "merged_stop_ids": [
       "MARPROM:648",
       "MARPROM:651"
@@ -12232,7 +12212,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_turnerjeva_197",
+    "hub_id": "hub_turnerjeva_196",
     "merged_stop_ids": [
       "MARPROM:433",
       "MARPROM:649"
@@ -12259,7 +12239,7 @@
         "color": "#E5861D"
       }
     ],
-    "hub_id": "hub_dupleskacesta245_233",
+    "hub_id": "hub_dupleskacesta245_232",
     "merged_stop_ids": [
       "MARPROM:65"
     ],
@@ -12296,7 +12276,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_cankarjeva_234",
+    "hub_id": "hub_cankarjeva_233",
     "merged_stop_ids": [
       "MARPROM:650"
     ],
@@ -12329,7 +12309,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_maribox_232",
+    "hub_id": "hub_maribox_231",
     "merged_stop_ids": [
       "MARPROM:648",
       "MARPROM:651"
@@ -12356,7 +12336,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_mcpobrezje_198",
+    "hub_id": "hub_mcpobrezje_197",
     "merged_stop_ids": [
       "MARPROM:435",
       "MARPROM:654"
@@ -12383,7 +12363,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_mladinskavrbanska_196",
+    "hub_id": "hub_mladinskavrbanska_195",
     "merged_stop_ids": [
       "MARPROM:432",
       "MARPROM:655"
@@ -12410,7 +12390,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_vrbanska_235",
+    "hub_id": "hub_vrbanska_234",
     "merged_stop_ids": [
       "MARPROM:656",
       "MARPROM:659"
@@ -12437,14 +12417,12 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_teplyevonaselje_236",
+    "hub_id": "hub_teplyevonaselje_235",
     "merged_stop_ids": [
-      "MARPROM:657",
-      "MARPROM:658"
+      "MARPROM:657"
     ],
     "merged_codes": [
-      "s922",
-      "s923"
+      "s922"
     ]
   },
   {
@@ -12454,7 +12432,7 @@
     "type": "BUS",
     "background_color": "#800000",
     "icon_color": "#FFFFFF",
-    "name": "Teplyevo naselje",
+    "name": "Teplyjevo naselje",
     "lat": 46.541041,
     "lon": 15.602081,
     "opposite": "s923",
@@ -12464,13 +12442,11 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_teplyevonaselje_236",
+    "hub_id": "hub_teplyjevonaselje_236",
     "merged_stop_ids": [
-      "MARPROM:657",
       "MARPROM:658"
     ],
     "merged_codes": [
-      "s922",
       "s923"
     ]
   },
@@ -12491,7 +12467,7 @@
         "color": "#C07E65"
       }
     ],
-    "hub_id": "hub_vrbanska_235",
+    "hub_id": "hub_vrbanska_234",
     "merged_stop_ids": [
       "MARPROM:656",
       "MARPROM:659"
@@ -12559,7 +12535,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_supernova_109",
+    "hub_id": "hub_supernova_108",
     "merged_stop_ids": [
       "MARPROM:280",
       "MARPROM:397",
@@ -12615,7 +12591,7 @@
         "color": "#1A6734"
       }
     ],
-    "hub_id": "hub_dvoranataborgorkega_214",
+    "hub_id": "hub_dvoranataborgorkega_213",
     "merged_stop_ids": [
       "MARPROM:537",
       "MARPROM:67"
@@ -12671,7 +12647,7 @@
         "color": "#1480C1"
       }
     ],
-    "hub_id": "hub_karantanska_97",
+    "hub_id": "hub_karantanska_96",
     "merged_stop_ids": [
       "MARPROM:258",
       "MARPROM:674"
@@ -12702,7 +12678,7 @@
         "color": "#D5137B"
       }
     ],
-    "hub_id": "hub_novopobrezje_168",
+    "hub_id": "hub_novopobrezje_167",
     "merged_stop_ids": [
       "MARPROM:386",
       "MARPROM:387",
@@ -12731,7 +12707,7 @@
         "color": "#6F3A96"
       }
     ],
-    "hub_id": "hub_taborjadranska_230",
+    "hub_id": "hub_taborjadranska_229",
     "merged_stop_ids": [
       "MARPROM:643",
       "MARPROM:676"
@@ -12774,7 +12750,7 @@
         "color": "#F5DD26"
       }
     ],
-    "hub_id": "hub_pekre_91",
+    "hub_id": "hub_pekre_90",
     "merged_stop_ids": [
       "MARPROM:248",
       "MARPROM:249",
