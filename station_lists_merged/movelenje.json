@@ -13,7 +13,7 @@
     "routes": [
       {
         "name": "R",
-        "color": "#ffdb00"
+        "color": "#ed1556"
       },
       {
         "name": "S",
@@ -275,7 +275,7 @@
       },
       {
         "name": "R",
-        "color": "#ed1556"
+        "color": "#ffdb00"
       },
       {
         "name": "S",
@@ -1069,7 +1069,7 @@
     "routes": [
       {
         "name": "R",
-        "color": "#ffdb00"
+        "color": "#ed1556"
       },
       {
         "name": "S",
@@ -1360,7 +1360,7 @@
     "routes": [
       {
         "name": "R",
-        "color": "#ffdb00"
+        "color": "#ed1556"
       },
       {
         "name": "S",
@@ -1584,7 +1584,7 @@
     "routes": [
       {
         "name": "R",
-        "color": "#ffdb00"
+        "color": "#ed1556"
       },
       {
         "name": "S",

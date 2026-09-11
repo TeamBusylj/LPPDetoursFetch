@@ -72,7 +72,6 @@
     "lon": 15.5899577,
     "opposite": null,
     "agencies": [
-      "EC",
       "LPV",
       "RG"
     ],
@@ -372,7 +371,6 @@
     "lon": 14.8251564,
     "opposite": null,
     "agencies": [
-      "EC",
       "IC",
       "LPV",
       "MV",
@@ -611,7 +609,6 @@
       "BUS",
       "LP",
       "LPV",
-      "MV",
       "RG"
     ],
     "hub_id": "hub_skofjaloka_28",
@@ -4147,9 +4144,9 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "EC",
       "IC",
-      "LPV"
+      "LPV",
+      "RG"
     ],
     "hub_id": "hub_brezovica_205",
     "merged_stop_ids": [
@@ -4169,9 +4166,9 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "EC",
       "IC",
-      "LPV"
+      "LPV",
+      "RG"
     ],
     "hub_id": "hub_notranjegorice_206",
     "merged_stop_ids": [
@@ -4191,9 +4188,9 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "EC",
       "IC",
-      "LPV"
+      "LPV",
+      "RG"
     ],
     "hub_id": "hub_preserje_207",
     "merged_stop_ids": [
@@ -4213,7 +4210,6 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "EC",
       "EN",
       "IC",
       "LPV",
@@ -4238,7 +4234,6 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "EC",
       "IC",
       "LPV",
       "RG"
@@ -4260,7 +4255,6 @@
     "lon": 14.3131858,
     "opposite": null,
     "agencies": [
-      "EC",
       "IC",
       "LPV",
       "RG"
@@ -4282,7 +4276,6 @@
     "lon": 14.2217205,
     "opposite": null,
     "agencies": [
-      "EC",
       "EN",
       "IC",
       "LPV",
@@ -4306,9 +4299,9 @@
     "lon": 14.1856409,
     "opposite": null,
     "agencies": [
-      "EC",
       "IC",
-      "LPV"
+      "LPV",
+      "RG"
     ],
     "hub_id": "hub_prestranek_212",
     "merged_stop_ids": [
@@ -4328,9 +4321,9 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "EC",
       "IC",
-      "LPV"
+      "LPV",
+      "RG"
     ],
     "hub_id": "hub_tivoli_213",
     "merged_stop_ids": [
@@ -4349,7 +4342,6 @@
     "lon": 14.1912579,
     "opposite": null,
     "agencies": [
-      "EC",
       "EN",
       "IC",
       "LPV",
@@ -5321,10 +5313,10 @@
     "lon": 14.2359738,
     "opposite": null,
     "agencies": [
-      "EC",
       "EN",
       "LPV",
-      "MV"
+      "MV",
+      "RG"
     ],
     "hub_id": "hub_ilirskabistrica_263",
     "merged_stop_ids": [
@@ -5382,9 +5374,9 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "EC",
       "IC",
-      "LPV"
+      "LPV",
+      "RG"
     ],
     "hub_id": "hub_dolgimost_266",
     "merged_stop_ids": [
