@@ -13,7 +13,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#467EDF"
+        "color": "#000000"
       }
     ],
     "hub_id": "hub_krskoapostaja_0",
@@ -101,7 +101,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#000000"
+        "color": "#28C36C"
       }
     ],
     "hub_id": "hub_krskospodnjigricpokopalisca_4",
@@ -123,7 +123,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#000000"
+        "color": "#28C36C"
       }
     ],
     "hub_id": "hub_leskovecprikrskemkvoglar_5",
@@ -145,7 +145,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#000000"
+        "color": "#28C36C"
       }
     ],
     "hub_id": "hub_krskogricplut_6",
@@ -167,7 +167,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#000000"
+        "color": "#28C36C"
       }
     ],
     "hub_id": "hub_krskozdravstvenidom_7",
@@ -409,7 +409,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#28C36C"
+        "color": "#467EDF"
       }
     ],
     "hub_id": "hub_krskoresa_18",
@@ -673,7 +673,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#28C36C"
+        "color": "#467EDF"
       }
     ],
     "hub_id": "hub_krskoosnovnasolajurijadalmatina_30",
@@ -717,7 +717,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#D39A5E"
+        "color": "#28C36C"
       }
     ],
     "hub_id": "hub_krskomost_32",

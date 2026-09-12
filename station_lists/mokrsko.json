@@ -13,7 +13,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#467EDF"
+        "color": "#000000"
       }
     ]
   },
@@ -85,7 +85,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#000000"
+        "color": "#28C36C"
       }
     ]
   },
@@ -103,7 +103,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#000000"
+        "color": "#28C36C"
       }
     ]
   },
@@ -121,7 +121,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#000000"
+        "color": "#28C36C"
       }
     ]
   },
@@ -139,7 +139,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#000000"
+        "color": "#28C36C"
       }
     ]
   },
@@ -337,7 +337,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#28C36C"
+        "color": "#467EDF"
       }
     ]
   },
@@ -553,7 +553,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#28C36C"
+        "color": "#467EDF"
       }
     ]
   },
@@ -589,7 +589,7 @@
     "routes": [
       {
         "name": "N/A",
-        "color": "#D39A5E"
+        "color": "#28C36C"
       }
     ]
   },
