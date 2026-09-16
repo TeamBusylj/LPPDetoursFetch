@@ -1922,7 +1922,6 @@
       "IC",
       "ICS",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ]
@@ -2053,7 +2052,6 @@
     "agencies": [
       "IC",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ]
@@ -2602,7 +2600,6 @@
       "IC",
       "LP",
       "LPV",
-      "LRG",
       "MO",
       "MV",
       "RG"
@@ -2653,7 +2650,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ]
@@ -2688,7 +2684,6 @@
     "agencies": [
       "IC",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ]
@@ -2786,7 +2781,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ]
@@ -2805,7 +2799,6 @@
     "agencies": [
       "IC",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ]
@@ -2823,7 +2816,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "RG"
     ]
   },
@@ -2840,7 +2832,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "RG"
     ]
   },
@@ -2857,7 +2848,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "RG"
     ]
   },
@@ -2874,7 +2864,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "RG"
     ]
   },
@@ -2892,7 +2881,6 @@
     "agencies": [
       "IC",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ]

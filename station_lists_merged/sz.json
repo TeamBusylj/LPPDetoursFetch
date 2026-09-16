@@ -2390,7 +2390,6 @@
       "IC",
       "ICS",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ],
@@ -2553,7 +2552,6 @@
     "agencies": [
       "IC",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ],
@@ -3242,7 +3240,6 @@
       "IC",
       "LP",
       "LPV",
-      "LRG",
       "MO",
       "MV",
       "RG"
@@ -3305,7 +3302,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ],
@@ -3348,7 +3344,6 @@
     "agencies": [
       "IC",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ],
@@ -3470,7 +3465,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ],
@@ -3493,7 +3487,6 @@
     "agencies": [
       "IC",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ],
@@ -3515,7 +3508,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "RG"
     ],
     "hub_id": "hub_puconci_173",
@@ -3536,7 +3528,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "RG"
     ],
     "hub_id": "hub_mackovci_174",
@@ -3557,7 +3548,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "RG"
     ],
     "hub_id": "hub_gornjipetrovci_175",
@@ -3578,7 +3568,6 @@
     "opposite": null,
     "agencies": [
       "LPV",
-      "LRG",
       "RG"
     ],
     "hub_id": "hub_salovci_176",
@@ -3600,7 +3589,6 @@
     "agencies": [
       "IC",
       "LPV",
-      "LRG",
       "MV",
       "RG"
     ],

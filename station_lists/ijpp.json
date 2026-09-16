@@ -70744,6 +70744,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjg5MDc",
+    "gtfs_id": "IJPP:1128907",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Prevalje Fara",
+    "lat": 46.5491865,
+    "lon": 14.9273388,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjg5MDg",
+    "gtfs_id": "IJPP:1128908",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Prevalje Fara",
+    "lat": 46.5489571,
+    "lon": 14.928293,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjg5MDk",
     "gtfs_id": "IJPP:1128909",
     "code": null,
@@ -70768,6 +70798,36 @@
     "name": "Prevalje Flajmiž",
     "lat": 46.5460362,
     "lon": 14.9239818,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjg5MTE",
+    "gtfs_id": "IJPP:1128911",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Prevalje Peči",
+    "lat": 46.5485353,
+    "lon": 14.9230577,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjg5MTI",
+    "gtfs_id": "IJPP:1128912",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Prevalje Peči",
+    "lat": 46.5482191,
+    "lon": 14.9221928,
     "opposite": null,
     "agencies": [
       "1119"
