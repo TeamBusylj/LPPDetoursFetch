@@ -13,7 +13,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskaknafelceva_0",
@@ -40,7 +40,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_grusova_1",
@@ -65,7 +65,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_grusova1_2",
@@ -92,7 +92,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_grusova1_2",
@@ -119,7 +119,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamnicahipodrom_3",
@@ -146,7 +146,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamnicahipodrom_3",
@@ -173,11 +173,11 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_kamnicakrizisce_4",
@@ -204,11 +204,11 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_kamnicakrizisce_4",
@@ -235,7 +235,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskametelkova_5",
@@ -262,11 +262,11 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamnica_6",
@@ -291,7 +291,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamnicasola_7",
@@ -318,7 +318,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamnicasola_7",
@@ -345,7 +345,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamnicatrgovina_8",
@@ -372,7 +372,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamnicatrgovina_8",
@@ -399,7 +399,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_kardeljevaborstnikova_9",
@@ -426,7 +426,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_kardeljevaborstnikova_9",
@@ -453,7 +453,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_kardeljevaknafelceva_10",
@@ -480,7 +480,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_kardeljevaknafelceva_10",
@@ -507,7 +507,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_kardeljevacesta49_11",
@@ -532,7 +532,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskametelkova_5",
@@ -559,7 +559,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_kavciceva_12",
@@ -586,7 +586,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_kavciceva_12",
@@ -613,7 +613,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_knezar_13",
@@ -640,7 +640,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_knezar_13",
@@ -667,7 +667,7 @@
     "routes": [
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_limbuskaobvoznica_14",
@@ -692,7 +692,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_koroskapristan_15",
@@ -717,7 +717,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_osfrancetapreserna_16",
@@ -744,7 +744,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_koroskiveter_17",
@@ -771,7 +771,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_koroskiveter_17",
@@ -798,7 +798,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_trznicaghlent_18",
@@ -825,7 +825,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_koroskavratamirnizaliv_19",
@@ -852,7 +852,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_koroskavratamirnizaliv_19",
@@ -879,7 +879,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_kosdolpodvinogradi_20",
@@ -904,7 +904,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_kosakistiskalnica_21",
@@ -929,7 +929,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_kosaskidol_22",
@@ -954,7 +954,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_kosaskidolvzavoju_23",
@@ -979,7 +979,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_kovacic_24",
@@ -1006,7 +1006,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_osfrancetapreserna_16",
@@ -1033,7 +1033,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_kovacic_24",
@@ -1060,7 +1060,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_kraljevicamarkaulica_25",
@@ -1087,7 +1087,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_kraljevicamarkaulica_25",
@@ -1114,23 +1114,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_krekova_26",
@@ -1155,23 +1155,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_krekovaobcina_27",
@@ -1196,7 +1196,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_kronaveter_28",
@@ -1223,7 +1223,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_kronaveter_28",
@@ -1250,11 +1250,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_mctezno_29",
@@ -1283,11 +1283,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_mctezno_29",
@@ -1316,11 +1316,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_mctezno_29",
@@ -1349,7 +1349,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskigrad_30",
@@ -1376,11 +1376,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_lackovamladalipa_31",
@@ -1407,7 +1407,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_lackovanagorco_32",
@@ -1434,15 +1434,15 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_lackovastaralipa_33",
@@ -1469,15 +1469,15 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_lackovastaralipa_33",
@@ -1504,11 +1504,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_lesarskasola_34",
@@ -1533,7 +1533,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_lesjakova1_35",
@@ -1560,7 +1560,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_lesjakova2_36",
@@ -1587,15 +1587,15 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_limbus_37",
@@ -1622,15 +1622,15 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_limbus_37",
@@ -1657,15 +1657,15 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_limbusposta_38",
@@ -1692,7 +1692,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskigrad_30",
@@ -1719,15 +1719,15 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_limbusposta_38",
@@ -1754,15 +1754,15 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_limbuskalesarska_39",
@@ -1789,15 +1789,15 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_limbuskalesarska_39",
@@ -1824,7 +1824,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_limbuskapekrska_40",
@@ -1851,7 +1851,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_limbuskapekrska_40",
@@ -1878,7 +1878,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_limbuskarondo_41",
@@ -1903,7 +1903,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_limbuska47_42",
@@ -1930,7 +1930,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_limbuska47_42",
@@ -1957,7 +1957,7 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       }
     ],
     "hub_id": "hub_ljubljanskafocheva_43",
@@ -1984,7 +1984,7 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       }
     ],
     "hub_id": "hub_ljubljanskafocheva_43",
@@ -2011,7 +2011,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_bezjakova_44",
@@ -2038,11 +2038,11 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       }
     ],
     "hub_id": "hub_ljubljanskaiigimn_45",
@@ -2069,11 +2069,11 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       }
     ],
     "hub_id": "hub_ljubljanskaiigimn_45",
@@ -2100,7 +2100,7 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       }
     ],
     "hub_id": "hub_ljubljanskastolpnica_46",
@@ -2127,7 +2127,7 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       }
     ],
     "hub_id": "hub_ljubljanskastolpnica_46",
@@ -2154,15 +2154,15 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_ljubljanskatcmercator_47",
@@ -2189,15 +2189,15 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_ljubljanskatcmercator_47",
@@ -2224,7 +2224,7 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       }
     ],
     "hub_id": "hub_novavas_48",
@@ -2251,7 +2251,7 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       }
     ],
     "hub_id": "hub_novavas_48",
@@ -2278,7 +2278,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_lorber_49",
@@ -2305,7 +2305,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_lorber_49",
@@ -2332,7 +2332,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_bresternica_50",
@@ -2357,27 +2357,27 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_ukcpobreska_51",
@@ -2404,27 +2404,27 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_ukcpobreska_51",
@@ -2451,11 +2451,11 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       }
     ],
     "hub_id": "hub_ukcmagdalenskipark_52",
@@ -2480,7 +2480,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_osfrancarozmanastaneta_53",
@@ -2507,7 +2507,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_makedonska_54",
@@ -2534,7 +2534,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_makedonska_54",
@@ -2561,7 +2561,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_malecnikodceptrcova_55",
@@ -2590,7 +2590,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_malecnikodceptrcova_55",
@@ -2619,7 +2619,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_malecnikodceptrcova_55",
@@ -2648,7 +2648,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_malecniktrgovina_56",
@@ -2675,7 +2675,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_malecniktrgovina_56",
@@ -2702,27 +2702,27 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_ukc_57",
@@ -2747,59 +2747,59 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_avtobusnapostaja_58",
@@ -2828,7 +2828,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_mariborskiotokhe_59",
@@ -2855,7 +2855,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_mariborskiotokhe_59",
@@ -2882,7 +2882,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_marles_60",
@@ -2907,7 +2907,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_melje_61",
@@ -2932,11 +2932,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_prlek_62",
@@ -2963,7 +2963,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_strazun_63",
@@ -2990,11 +2990,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_prlek_62",
@@ -3021,11 +3021,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_meljskatrgovina_64",
@@ -3052,11 +3052,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_meljskatrgovina_64",
@@ -3083,7 +3083,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_meljskihribmost_65",
@@ -3110,7 +3110,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_meljskihribmost_65",
@@ -3137,7 +3137,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_metava_66",
@@ -3162,7 +3162,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_metavaduplekkrizisce_67",
@@ -3189,7 +3189,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_metavaduplekkrizisce_67",
@@ -3216,7 +3216,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_metavaodcep_68",
@@ -3243,7 +3243,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_metavaodcep_68",
@@ -3270,7 +3270,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_bresternicaodcep_69",
@@ -3297,59 +3297,59 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_avtobusnapostaja_58",
@@ -3378,59 +3378,59 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_avtobusnapostaja_58",
@@ -3459,7 +3459,7 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       }
     ],
     "hub_id": "hub_napoljanahatletskistadion_70",
@@ -3486,7 +3486,7 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       }
     ],
     "hub_id": "hub_napoljanahatletskistadion_70",
@@ -3513,7 +3513,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_naprehodu_71",
@@ -3538,7 +3538,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_nadvoz_72",
@@ -3563,7 +3563,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_nasipnacizerl_73",
@@ -3588,7 +3588,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_nasipnasnaga_74",
@@ -3615,7 +3615,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_nasipnasnaga_74",
@@ -3642,7 +3642,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_nebovai_75",
@@ -3669,7 +3669,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_bresternicaodcep_69",
@@ -3696,7 +3696,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_nebovai_75",
@@ -3723,7 +3723,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_nebovaii_76",
@@ -3750,7 +3750,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_nebovaii_76",
@@ -3777,11 +3777,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_novavas2_77",
@@ -3808,11 +3808,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_novavas2_77",
@@ -3839,7 +3839,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_novak_78",
@@ -3866,7 +3866,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_novak_78",
@@ -3893,7 +3893,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_osborcevzasevernomejo_79",
@@ -3920,7 +3920,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_osborcevzasevernomejo_79",
@@ -3947,7 +3947,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_obribniku_80",
@@ -3974,7 +3974,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_bresternicarondo_81",
@@ -4001,7 +4001,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_oreskonabrezje1_82",
@@ -4028,7 +4028,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_oreskonabrezje1_82",
@@ -4055,7 +4055,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_osojnikova_83",
@@ -4080,7 +4080,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_osojnikovatvdpartizan_84",
@@ -4105,11 +4105,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_osdragakobala_85",
@@ -4136,11 +4136,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_osdragakobala_85",
@@ -4167,7 +4167,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_bresternicarondo_81",
@@ -4194,11 +4194,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_centergustavasiliha_86",
@@ -4225,11 +4225,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_centergustavasiliha_86",
@@ -4256,11 +4256,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_osludvikapliberska_87",
@@ -4287,11 +4287,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_osludvikapliberska_87",
@@ -4318,7 +4318,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_osmaksadurjave_88",
@@ -4345,7 +4345,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_osmaksadurjave_88",
@@ -4372,7 +4372,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_ostabor1_89",
@@ -4399,7 +4399,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_ostabor1_89",
@@ -4426,23 +4426,23 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_pekre_90",
@@ -4473,23 +4473,23 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_pekre_90",
@@ -4520,11 +4520,11 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_brezje_91",
@@ -4551,23 +4551,23 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_pekre_90",
@@ -4598,27 +4598,27 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_pobreskaeuropark_92",
@@ -4645,27 +4645,27 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_pobreskaeuropark_92",
@@ -4692,7 +4692,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_pohorskamladalipa_93",
@@ -4719,7 +4719,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_pohorskamladalipa_93",
@@ -4746,7 +4746,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_pohorskaposta_94",
@@ -4773,7 +4773,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_pohorskaposta_94",
@@ -4800,7 +4800,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskakarantanska_95",
@@ -4825,7 +4825,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_karantanska_96",
@@ -4852,7 +4852,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_pokopdobravavhod_97",
@@ -4879,11 +4879,11 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_brezje_91",
@@ -4910,7 +4910,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_pokopdobravavhod_97",
@@ -4937,7 +4937,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_pokopaliscedobrava_98",
@@ -4962,7 +4962,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_pokopaliscepobrezje_99",
@@ -4989,7 +4989,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_pokopaliscepobrezje_99",
@@ -5016,7 +5016,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_postnicenter_100",
@@ -5041,7 +5041,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_conateznocrpalka_101",
@@ -5068,7 +5068,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_conateznocrpalka_101",
@@ -5095,7 +5095,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_conateznootp_102",
@@ -5122,7 +5122,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_celestrina_103",
@@ -5149,7 +5149,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_conateznootp_102",
@@ -5176,7 +5176,7 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       }
     ],
     "hub_id": "hub_prolbrigadferkova_104",
@@ -5201,19 +5201,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_prolbrigadkardeljeva_105",
@@ -5240,19 +5240,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_prolbrigadkardeljeva_105",
@@ -5279,15 +5279,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_prolbrigadlekarna_106",
@@ -5314,15 +5314,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_prolbrigadlekarna_106",
@@ -5349,15 +5349,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_prolbrigadljubljan_107",
@@ -5384,15 +5384,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_prolbrigadljubljan_107",
@@ -5419,7 +5419,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_celestrina_103",
@@ -5446,23 +5446,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_supernova_108",
@@ -5493,11 +5493,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_prolbrigadtrzaska_109",
@@ -5522,19 +5522,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_prolbrigadvojasnica_110",
@@ -5561,19 +5561,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_prolbrigadvojasnica_110",
@@ -5600,15 +5600,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskaspelina_111",
@@ -5635,15 +5635,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskaspelina_111",
@@ -5670,15 +5670,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskahitracesta_112",
@@ -5705,15 +5705,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskahitracesta_112",
@@ -5740,15 +5740,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskakovinar_113",
@@ -5775,15 +5775,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskakovinar_113",
@@ -5810,7 +5810,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_cestavrospoh115_114",
@@ -5837,15 +5837,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskaposta_115",
@@ -5872,15 +5872,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskaposta_115",
@@ -5907,11 +5907,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskaconatezno_116",
@@ -5938,11 +5938,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskaconatezno_116",
@@ -5969,15 +5969,15 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_ptujskatrzaska_117",
@@ -6002,7 +6002,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_radvanjskaantoliciceva_118",
@@ -6029,7 +6029,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_radvanjskaantoliciceva_118",
@@ -6056,7 +6056,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_radvanjskaborstnikova_119",
@@ -6083,7 +6083,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_radvanjskaborstnikova_119",
@@ -6110,7 +6110,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_radvanjskatrgovina_120",
@@ -6137,7 +6137,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_strazun_63",
@@ -6164,7 +6164,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_cestavrospoh115_114",
@@ -6191,7 +6191,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_radvanjskatrgovina_120",
@@ -6218,7 +6218,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_radvanjskavojasnica_121",
@@ -6245,7 +6245,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_radvanjskavojasnica_121",
@@ -6272,7 +6272,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_razlagovaepf_122",
@@ -6297,7 +6297,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_razvanje_123",
@@ -6322,7 +6322,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_razvanjegd_124",
@@ -6349,7 +6349,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_razvanjegd_124",
@@ -6376,7 +6376,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_razvanjevrtnarstvo_125",
@@ -6403,7 +6403,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_razvanjevrtnarstvo_125",
@@ -6430,7 +6430,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_cestavrospoh65_126",
@@ -6457,7 +6457,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_rospoh_127",
@@ -6482,7 +6482,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_rospohhojnik_128",
@@ -6509,7 +6509,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_rospohhojnik_128",
@@ -6536,7 +6536,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_rospohodcepurban_129",
@@ -6563,7 +6563,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_rospohodcepurban_129",
@@ -6590,7 +6590,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_ruperce_130",
@@ -6617,7 +6617,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_ruperce_130",
@@ -6644,7 +6644,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_cestavrospoh65_126",
@@ -6671,7 +6671,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_smetanovatehfakul_131",
@@ -6696,7 +6696,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_streliskaulpohodr_132",
@@ -6723,7 +6723,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_streliskaulpohodr_132",
@@ -6750,7 +6750,7 @@
     "routes": [
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskahofer_133",
@@ -6775,15 +6775,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_cestaxivdivizije_134",
@@ -6810,7 +6810,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_studenci_135",
@@ -6837,7 +6837,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_studenci_135",
@@ -6864,7 +6864,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_svenskovaulica40_136",
@@ -6891,7 +6891,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_svenskovaulica40_136",
@@ -6918,11 +6918,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_sarhova_137",
@@ -6949,11 +6949,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_sarhovaposta_138",
@@ -6980,11 +6980,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_sarhovaposta_138",
@@ -7011,11 +7011,11 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskamedved_139",
@@ -7042,11 +7042,11 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskamedved_139",
@@ -7073,11 +7073,11 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskapocehovska_140",
@@ -7104,15 +7104,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_cestaxivdivizije_134",
@@ -7139,11 +7139,11 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskatmikosaki_141",
@@ -7170,11 +7170,11 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskaveterinar_142",
@@ -7201,7 +7201,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_subicevavrtec_143",
@@ -7226,19 +7226,19 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_ukctabor_144",
@@ -7263,11 +7263,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_eleclerc_145",
@@ -7292,11 +7292,11 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_fontana_146",
@@ -7323,7 +7323,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_colnarna_147",
@@ -7350,11 +7350,11 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_fontana_146",
@@ -7381,11 +7381,11 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskapocehovska_140",
@@ -7412,7 +7412,7 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       }
     ],
     "hub_id": "hub_tezenskadobrava_148",
@@ -7437,7 +7437,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_teznodomstobcanov_149",
@@ -7464,7 +7464,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_teznodomstobcanov_149",
@@ -7491,11 +7491,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_titovanasipna_150",
@@ -7522,11 +7522,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_titovanasipna_150",
@@ -7553,67 +7553,67 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_cityzdravstvenidom_151",
@@ -7640,67 +7640,67 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_cityzdravstvenidom_151",
@@ -7727,7 +7727,7 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       }
     ],
     "hub_id": "hub_colnarna_147",
@@ -7754,7 +7754,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_trcovagricek_152",
@@ -7781,7 +7781,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_trcovagricek_152",
@@ -7808,7 +7808,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_trcova31_153",
@@ -7835,7 +7835,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_trcova31_153",
@@ -7862,7 +7862,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_trgovskicentermerkur_154",
@@ -7887,11 +7887,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskacarinarnica_155",
@@ -7918,11 +7918,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskacarinarnica_155",
@@ -7949,11 +7949,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskaptujska_156",
@@ -7978,7 +7978,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_trzaskacestabauhaus_157",
@@ -8005,7 +8005,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_trzaskacestabauhaus_157",
@@ -8032,7 +8032,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_crnogorskaul23_158",
@@ -8059,11 +8059,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskacestalesnina_159",
@@ -8090,11 +8090,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskacestalesnina_159",
@@ -8121,11 +8121,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskacestarutar_160",
@@ -8152,11 +8152,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskacestarutar_160",
@@ -8183,11 +8183,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskavodovodna_161",
@@ -8214,11 +8214,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskavodovodna_161",
@@ -8245,11 +8245,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_ulevelovsebetnava_162",
@@ -8276,11 +8276,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_ulevelovsebetnava_162",
@@ -8307,11 +8307,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_ulevelovseenerget_163",
@@ -8338,11 +8338,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_ulevelovseenerget_163",
@@ -8369,7 +8369,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_crnogorskaul23_158",
@@ -8396,7 +8396,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_ulevelovsebetnavskigozd_164",
@@ -8423,7 +8423,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_ulevelovsebetnavskigozd_164",
@@ -8450,7 +8450,7 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       }
     ],
     "hub_id": "hub_ulpariskekomune_165",
@@ -8477,7 +8477,7 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       }
     ],
     "hub_id": "hub_ulpariskekomune_165",
@@ -8504,11 +8504,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_ulvvlahovicas31_166",
@@ -8535,11 +8535,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_ulvvlahovicas31_166",
@@ -8566,11 +8566,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_novopobrezje_167",
@@ -8599,11 +8599,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_novopobrezje_167",
@@ -8632,7 +8632,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_ulicaherojavojka_168",
@@ -8657,7 +8657,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_waldorfskasola_169",
@@ -8684,19 +8684,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_cufarjevadomstobc_170",
@@ -8723,7 +8723,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_waldorfskasola_169",
@@ -8750,7 +8750,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_osjankapadeznika_171",
@@ -8777,7 +8777,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_osjankapadeznika_171",
@@ -8804,7 +8804,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_mitnica_172",
@@ -8831,7 +8831,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_mitnica_172",
@@ -8858,7 +8858,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamniskidrevored_173",
@@ -8885,7 +8885,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_kamniskidrevored_173",
@@ -8912,23 +8912,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_supernova_108",
@@ -8959,7 +8959,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_vzpenjaca_174",
@@ -8984,7 +8984,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_zagrebskacsd_175",
@@ -9011,7 +9011,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_belokranjskaulica10_176",
@@ -9038,19 +9038,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_cufarjevadomstobc_170",
@@ -9077,7 +9077,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_zagrebskacsd_175",
@@ -9104,7 +9104,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_zagrebskakovinar_177",
@@ -9131,7 +9131,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_zagrebskakovinar_177",
@@ -9158,7 +9158,7 @@
     "routes": [
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_zgduplek_178",
@@ -9183,7 +9183,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_zimicaodcep_179",
@@ -9210,7 +9210,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_zimicaodcep_179",
@@ -9237,7 +9237,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_zolajevatsc_180",
@@ -9264,7 +9264,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_zolajevatsc_180",
@@ -9291,7 +9291,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovci_181",
@@ -9316,7 +9316,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskagasilskidom_182",
@@ -9343,23 +9343,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_cufarjevatvdpartizan_183",
@@ -9386,7 +9386,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskagasilskidom_182",
@@ -9413,7 +9413,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskanagorci54_184",
@@ -9440,7 +9440,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskanagorci54_184",
@@ -9467,7 +9467,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskanagorci65_185",
@@ -9494,7 +9494,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskanagorci65_185",
@@ -9521,7 +9521,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskanaterasi_186",
@@ -9548,7 +9548,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskanaterasi_186",
@@ -9575,7 +9575,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskatrgovina_187",
@@ -9602,7 +9602,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskatrgovina_187",
@@ -9629,23 +9629,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_cufarjevatvdpartizan_183",
@@ -9672,7 +9672,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskacesta_188",
@@ -9699,7 +9699,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovskacesta_188",
@@ -9726,7 +9726,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_zveznaulica_189",
@@ -9753,15 +9753,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_zpmaribor_190",
@@ -9788,15 +9788,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_zpmaribor_190",
@@ -9823,7 +9823,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_zpstudenci_191",
@@ -9850,7 +9850,7 @@
     "routes": [
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       }
     ],
     "hub_id": "hub_zpstudenci_191",
@@ -9877,7 +9877,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_zptezno_192",
@@ -9904,7 +9904,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_zptezno_192",
@@ -9931,7 +9931,7 @@
     "routes": [
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_kamenskova_193",
@@ -9958,7 +9958,7 @@
     "routes": [
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dogose_194",
@@ -9983,7 +9983,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_mladinskavrbanska_195",
@@ -10010,11 +10010,11 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_turnerjeva_196",
@@ -10041,7 +10041,7 @@
     "routes": [
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_kamenskova_193",
@@ -10068,7 +10068,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_mcpobrezje_197",
@@ -10095,11 +10095,11 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dogosegasilskidom_198",
@@ -10126,7 +10126,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_lesjakova2_36",
@@ -10153,7 +10153,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_zveznaulica_189",
@@ -10180,7 +10180,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_obribniku_80",
@@ -10207,7 +10207,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_bezjakova_44",
@@ -10234,7 +10234,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_lackovanagorco_32",
@@ -10261,11 +10261,11 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_lackovamladalipa_31",
@@ -10292,7 +10292,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_lackovauljelencevih_199",
@@ -10319,7 +10319,7 @@
     "routes": [
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       }
     ],
     "hub_id": "hub_lackovauljelencevih_199",
@@ -10346,11 +10346,11 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dogosegasilskidom_198",
@@ -10377,7 +10377,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_trcova168_200",
@@ -10404,7 +10404,7 @@
     "routes": [
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       }
     ],
     "hub_id": "hub_trcova168_200",
@@ -10431,23 +10431,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_osbojanailicha_201",
@@ -10472,23 +10472,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_mladinskamuzejmaribor_202",
@@ -10513,7 +10513,7 @@
     "routes": [
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dogosepolje_203",
@@ -10540,11 +10540,11 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskatmikosaki_141",
@@ -10571,11 +10571,11 @@
     "routes": [
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_sentiljskaveterinar_142",
@@ -10602,7 +10602,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_botanicnivrt_204",
@@ -10627,7 +10627,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_lesjakova1_35",
@@ -10654,7 +10654,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_podruznicaosnovnasolafrancetapreserna_205",
@@ -10679,7 +10679,7 @@
     "routes": [
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dogosepolje_203",
@@ -10706,11 +10706,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_dogoskavrtec_206",
@@ -10737,11 +10737,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_dogoskavrtec_206",
@@ -10768,7 +10768,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskafocheva_207",
@@ -10795,7 +10795,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_dravograjska_208",
@@ -10822,7 +10822,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_dravograjska_208",
@@ -10849,15 +10849,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_prometnasolamaribor_209",
@@ -10884,7 +10884,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovcipolje_210",
@@ -10911,7 +10911,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_zrkovcipolje_210",
@@ -10938,15 +10938,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_prometnasolamaribor_209",
@@ -10973,7 +10973,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_prkoroskimost_211",
@@ -11000,7 +11000,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_univerzitetnikampus_212",
@@ -11027,7 +11027,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_univerzitetnikampus_212",
@@ -11054,7 +11054,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_prkoroskimost_211",
@@ -11081,7 +11081,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_dvoranataborgorkega_213",
@@ -11108,7 +11108,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_rospohvrtovi_214",
@@ -11135,7 +11135,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_morskijarekkozjak_215",
@@ -11162,23 +11162,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_supernova_108",
@@ -11209,7 +11209,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_rospohvrtovi_214",
@@ -11236,7 +11236,7 @@
     "routes": [
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       }
     ],
     "hub_id": "hub_belokranjskaulica10_176",
@@ -11263,11 +11263,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_europarktitovmost_216",
@@ -11294,7 +11294,7 @@
     "routes": [
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskaptujska_217",
@@ -11319,11 +11319,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_europarktitovmost_216",
@@ -11350,7 +11350,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_morskijarekrospoh_218",
@@ -11377,7 +11377,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_morskijarekrospoh_218",
@@ -11404,7 +11404,7 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       }
     ],
     "hub_id": "hub_morskijarekkozjak_215",
@@ -11431,11 +11431,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_dravograjskasokolska_219",
@@ -11462,11 +11462,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_dravograjskasokolska_219",
@@ -11493,11 +11493,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_sarhova_137",
@@ -11524,11 +11524,11 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dupleskajarceva_220",
@@ -11555,11 +11555,11 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dupleskajarceva_220",
@@ -11586,11 +11586,11 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dupleskakanal_221",
@@ -11619,7 +11619,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskafocheva_207",
@@ -11646,11 +11646,11 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dupleskakanal_221",
@@ -11679,11 +11679,11 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dupleskakanal_221",
@@ -11712,15 +11712,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dupleskatezenska_222",
@@ -11747,15 +11747,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_dupleskatezenska_222",
@@ -11782,7 +11782,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_glavnitrgrotovz_223",
@@ -11809,7 +11809,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_glavnitrgrotovz_223",
@@ -11836,7 +11836,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_trznicaghlent_18",
@@ -11863,7 +11863,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_ukceuropark_224",
@@ -11888,7 +11888,7 @@
     "routes": [
       {
         "name": "G5",
-        "color": "#000000"
+        "color": "#DA1F27"
       }
     ],
     "hub_id": "hub_europark_225",
@@ -11913,11 +11913,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_pariskekomunetitova_226",
@@ -11944,7 +11944,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_dupleskacesta239_227",
@@ -11969,11 +11969,11 @@
     "routes": [
       {
         "name": "G1",
-        "color": "#000000"
+        "color": "#323033"
       },
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_pariskekomunetitova_226",
@@ -12000,7 +12000,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_zdravstvenidomtezno_228",
@@ -12027,7 +12027,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_taborjadranska_229",
@@ -12054,7 +12054,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_osfrancarozmanastaneta_53",
@@ -12081,7 +12081,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_zdravstvenidomtezno_228",
@@ -12108,11 +12108,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_dompodgorco_230",
@@ -12139,11 +12139,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_dompodgorco_230",
@@ -12170,15 +12170,15 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_maribox_231",
@@ -12205,11 +12205,11 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_turnerjeva_196",
@@ -12236,7 +12236,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_dupleskacesta245_232",
@@ -12261,19 +12261,19 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_cankarjeva_233",
@@ -12298,15 +12298,15 @@
     "routes": [
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_maribox_231",
@@ -12333,7 +12333,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_mcpobrezje_197",
@@ -12360,7 +12360,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_mladinskavrbanska_195",
@@ -12387,7 +12387,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_vrbanska_234",
@@ -12414,7 +12414,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_teplyevonaselje_235",
@@ -12439,7 +12439,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_teplyjevonaselje_236",
@@ -12464,7 +12464,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_vrbanska_234",
@@ -12491,7 +12491,7 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       }
     ],
     "hub_id": "hub_dupleskacesta255_237",
@@ -12516,23 +12516,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_supernova_108",
@@ -12563,7 +12563,7 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       }
     ],
     "hub_id": "hub_napoljanahprometnasola_238",
@@ -12588,7 +12588,7 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       }
     ],
     "hub_id": "hub_dvoranataborgorkega_213",
@@ -12615,11 +12615,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_limubskalesarskasola_239",
@@ -12644,7 +12644,7 @@
     "routes": [
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       }
     ],
     "hub_id": "hub_karantanska_96",
@@ -12671,11 +12671,11 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_novopobrezje_167",
@@ -12704,7 +12704,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_taborjadranska_229",
@@ -12731,23 +12731,23 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P14",
-        "color": "#000000"
+        "color": "#F7B1CA"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_pekre_90",
@@ -12778,7 +12778,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_istrska_240",
@@ -12805,7 +12805,7 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       }
     ],
     "hub_id": "hub_istrska_240",
@@ -12832,11 +12832,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_dvoranataborkoresova_241",
@@ -12863,7 +12863,7 @@
     "routes": [
       {
         "name": "P17",
-        "color": "#000000"
+        "color": "#9C8AC1"
       }
     ],
     "hub_id": "hub_trzaskalidl_242",
@@ -12888,11 +12888,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_dvoranataborkoresova_241",
@@ -12919,7 +12919,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskagoriska_243",
@@ -12946,7 +12946,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_engelsovasarhova_244",
@@ -12973,7 +12973,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_engelsovasarhova_244",
@@ -13000,7 +13000,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_engelsovavojasnica_245",
@@ -13027,7 +13027,7 @@
     "routes": [
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_engelsovavojasnica_245",
@@ -13054,11 +13054,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_erjavceva_246",
@@ -13083,11 +13083,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_erjavceva_247",
@@ -13112,11 +13112,11 @@
     "routes": [
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_erjavcevazd_248",
@@ -13141,7 +13141,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskagoriska_243",
@@ -13168,47 +13168,47 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_glavnitrgelektro_249",
@@ -13235,47 +13235,47 @@
     "routes": [
       {
         "name": "G2",
-        "color": "#000000"
+        "color": "#88A1A9"
       },
       {
         "name": "G4",
-        "color": "#000000"
+        "color": "#1C3564"
       },
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P8",
-        "color": "#000000"
+        "color": "#8EB3DF"
       },
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P13",
-        "color": "#000000"
+        "color": "#8C7174"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_glavnitrgelektro_249",
@@ -13302,11 +13302,11 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_gorkegapreradoviceva_250",
@@ -13333,11 +13333,11 @@
     "routes": [
       {
         "name": "G6",
-        "color": "#000000"
+        "color": "#1A6734"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       }
     ],
     "hub_id": "hub_gorkegapreradoviceva_250",
@@ -13364,15 +13364,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_univerzitetnikampus1_251",
@@ -13399,15 +13399,15 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_univerzitetnikampus1_251",
@@ -13434,7 +13434,7 @@
     "routes": [
       {
         "name": "P11",
-        "color": "#000000"
+        "color": "#D5DA76"
       }
     ],
     "hub_id": "hub_betnavskaknafelceva_0",
@@ -13461,23 +13461,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_tretjagimnazija_252",
@@ -13504,23 +13504,23 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P18",
-        "color": "#000000"
+        "color": "#C07E65"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_tretjagimnazija_252",
@@ -13547,19 +13547,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_gosposvetskakosarjeva_253",
@@ -13586,19 +13586,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_gosposvetskakosarjeva_253",
@@ -13625,19 +13625,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_gosposvetskavrbanska_254",
@@ -13664,19 +13664,19 @@
     "routes": [
       {
         "name": "G3",
-        "color": "#000000"
+        "color": "#6F3A96"
       },
       {
         "name": "P7",
-        "color": "#000000"
+        "color": "#8A181A"
       },
       {
         "name": "P15",
-        "color": "#000000"
+        "color": "#60C3AC"
       },
       {
         "name": "P19",
-        "color": "#000000"
+        "color": "#F5DD26"
       }
     ],
     "hub_id": "hub_gosposvetskavrbanska_254",
@@ -13703,19 +13703,19 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_greenwich_255",
@@ -13742,19 +13742,19 @@
     "routes": [
       {
         "name": "P9",
-        "color": "#000000"
+        "color": "#E5861D"
       },
       {
         "name": "P10",
-        "color": "#000000"
+        "color": "#7BC258"
       },
       {
         "name": "P12",
-        "color": "#000000"
+        "color": "#1480C1"
       },
       {
         "name": "P16",
-        "color": "#000000"
+        "color": "#D5137B"
       }
     ],
     "hub_id": "hub_greenwich_255",

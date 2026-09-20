@@ -13980,6 +13980,28 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjM1ODU",
+    "gtfs_id": "IJPP:1123585",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Breg pri Litiji",
+    "lat": 46.0646135,
+    "lon": 14.8513022,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ],
+    "hub_id": "hub_bregprilitiji_376",
+    "merged_stop_ids": [
+      "IJPP:1123585",
+      "IJPP:1123586",
+      "IJPP:1123587",
+      "IJPP:1123588"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjM1ODY",
     "gtfs_id": "IJPP:1123586",
     "code": null,
@@ -13995,6 +14017,7 @@
     ],
     "hub_id": "hub_bregprilitiji_376",
     "merged_stop_ids": [
+      "IJPP:1123585",
       "IJPP:1123586",
       "IJPP:1123587",
       "IJPP:1123588"
@@ -14016,6 +14039,7 @@
     ],
     "hub_id": "hub_bregprilitiji_376",
     "merged_stop_ids": [
+      "IJPP:1123585",
       "IJPP:1123586",
       "IJPP:1123587",
       "IJPP:1123588"
@@ -14037,6 +14061,7 @@
     ],
     "hub_id": "hub_bregprilitiji_376",
     "merged_stop_ids": [
+      "IJPP:1123585",
       "IJPP:1123586",
       "IJPP:1123587",
       "IJPP:1123588"
@@ -97873,7 +97898,28 @@
     ],
     "hub_id": "hub_radmozanci_2579",
     "merged_stop_ids": [
-      "IJPP:1129131"
+      "IJPP:1129131",
+      "IJPP:1129132"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjkxMzI",
+    "gtfs_id": "IJPP:1129132",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Radmožanci",
+    "lat": 46.6178522,
+    "lon": 16.3814575,
+    "opposite": null,
+    "agencies": [
+      "1121"
+    ],
+    "hub_id": "hub_radmozanci_2579",
+    "merged_stop_ids": [
+      "IJPP:1129131",
+      "IJPP:1129132"
     ]
   },
   {

@@ -10497,6 +10497,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjM1ODU",
+    "gtfs_id": "IJPP:1123585",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Breg pri Litiji",
+    "lat": 46.0646135,
+    "lon": 14.8513022,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjM1ODY",
     "gtfs_id": "IJPP:1123586",
     "code": null,
@@ -73431,6 +73446,21 @@
     "name": "Radmožanci",
     "lat": 46.6176385,
     "lon": 16.3830936,
+    "opposite": null,
+    "agencies": [
+      "1121"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjkxMzI",
+    "gtfs_id": "IJPP:1129132",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Radmožanci",
+    "lat": 46.6178522,
+    "lon": 16.3814575,
     "opposite": null,
     "agencies": [
       "1121"
