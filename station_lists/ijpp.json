@@ -7373,19 +7373,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjMzMDU",
-    "gtfs_id": "IJPP:1123305",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Bič/V.Gabru",
-    "lat": 45.925231,
-    "lon": 14.8855781,
-    "opposite": null,
-    "agencies": []
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjMzMDY",
     "gtfs_id": "IJPP:1123306",
     "code": null,
