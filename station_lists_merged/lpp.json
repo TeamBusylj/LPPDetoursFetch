@@ -26560,8 +26560,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Kolodvor",
-    "lat": 46.057659,
-    "lon": 14.509347,
+    "lat": 46.057667,
+    "lon": 14.509742,
     "opposite": "300012",
     "routes": [
       {
