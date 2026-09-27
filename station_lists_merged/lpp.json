@@ -15986,6 +15986,10 @@
         "color": "#7f7b3f"
       },
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3G",
         "color": "#5BAF20"
       },
@@ -16117,6 +16121,10 @@
       {
         "name": "2",
         "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
       },
       {
         "name": "3G",
@@ -25902,6 +25910,10 @@
         "color": "#7f7b3f"
       },
       {
+        "name": "3",
+        "color": "#7fec30"
+      },
+      {
         "name": "3G",
         "color": "#5BAF20"
       },
@@ -34663,6 +34675,10 @@
       {
         "name": "14",
         "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_pohorskegabataljona_631",
@@ -35976,6 +35992,10 @@
       {
         "name": "14",
         "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_vodovodna_644",
@@ -39738,6 +39758,10 @@
       {
         "name": "14",
         "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_pohorskegabataljona_631",
@@ -40169,6 +40193,10 @@
       {
         "name": "14",
         "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_brinje_680",
@@ -40976,6 +41004,10 @@
       {
         "name": "2",
         "color": "#7f7b3f"
+      },
+      {
+        "name": "3",
+        "color": "#7fec30"
       },
       {
         "name": "3G",
@@ -42521,6 +42553,10 @@
       {
         "name": "14",
         "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_brinje_680",
@@ -45418,6 +45454,10 @@
       {
         "name": "14",
         "color": "#da5894"
+      },
+      {
+        "name": "18",
+        "color": "#765033"
       }
     ],
     "hub_id": "hub_vodovodna_644",
