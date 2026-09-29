@@ -10,7 +10,7 @@
     "routes": [
       {
         "name": null,
-        "color": "#28C36C"
+        "color": "#D39A5E"
       }
     ],
     "gtfs_id": "MOKrsko:1",
@@ -110,7 +110,7 @@
     "routes": [
       {
         "name": null,
-        "color": "#28C36C"
+        "color": null
       }
     ],
     "gtfs_id": "MOKrsko:13",
@@ -135,7 +135,7 @@
     "routes": [
       {
         "name": null,
-        "color": "#28C36C"
+        "color": null
       }
     ],
     "gtfs_id": "MOKrsko:14",
@@ -160,7 +160,7 @@
     "routes": [
       {
         "name": null,
-        "color": "#28C36C"
+        "color": null
       }
     ],
     "gtfs_id": "MOKrsko:15",
@@ -185,7 +185,7 @@
     "routes": [
       {
         "name": null,
-        "color": "#28C36C"
+        "color": null
       }
     ],
     "gtfs_id": "MOKrsko:16",
@@ -460,7 +460,7 @@
     "routes": [
       {
         "name": null,
-        "color": "#467EDF"
+        "color": "#28C36C"
       }
     ],
     "gtfs_id": "MOKrsko:26",
@@ -760,7 +760,7 @@
     "routes": [
       {
         "name": null,
-        "color": "#467EDF"
+        "color": "#28C36C"
       }
     ],
     "gtfs_id": "MOKrsko:4",
@@ -810,7 +810,7 @@
     "routes": [
       {
         "name": null,
-        "color": null
+        "color": "#28C36C"
       }
     ],
     "gtfs_id": "MOKrsko:6",
