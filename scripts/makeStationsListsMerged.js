@@ -93,19 +93,22 @@ async function fetchAndProcessStations() {
         station.background_color = "#00A8EB";
       }
 
-      // Preverimo, ali ima postaja kakšno LPP linijo (preko agency gtfsId znotraj routes)
-      let hasLppRoute = false;
-      if (station.routes && Array.isArray(station.routes)) {
-          hasLppRoute = station.routes.some(r => r.agency && r.agency.gtfsId && r.agency.gtfsId.toLowerCase().includes('lpp'));
+      // PREVERJANJE: Ali ima IJPP postaja IZKLJUČNO agencijo 1118 (LPP)?
+      let isExclusiveLpp = false;
+      if (agency === "ijpp" && station.routes && Array.isArray(station.routes) && station.routes.length > 0) {
+          const uniqueAgencies = [...new Set(station.routes.map(r => r.agency?.gtfsId).filter(Boolean))];
+          // Če ima točno 1 agencijo in je ta agencija '1118' (ali npr. 'ijpp:1118')
+          if (uniqueAgencies.length === 1 && (uniqueAgencies[0] === "1118" || uniqueAgencies[0].endsWith(":1118"))) {
+              isExclusiveLpp = true;
+          }
       }
 
       if (station.type === "BUS" || station.type === "RAIL") {
-        // Dodamo v osnovno agencijo (npr. ijpp, sz...)
         if (!agencyGroups[agency]) agencyGroups[agency] = [];
         agencyGroups[agency].push(station);
 
-        // Če postaja ni primarno LPP, ampak IMA LPP linijo, jo dodamo tudi v LPP skupino
-        if (agency !== "lpp" && hasLppRoute) {
+        // Če je postaja ekskluzivno LPP (1118), jo dodamo še v lpp.json, da jo ujame Hub logika
+        if (isExclusiveLpp) {
             if (!agencyGroups["lpp"]) agencyGroups["lpp"] = [];
             agencyGroups["lpp"].push({ ...station });
         }
@@ -169,7 +172,6 @@ async function fetchAndProcessStations() {
           opposite: exists
         };
 
-        // ZAJEM LINIJ IN AGENCIJ DIREKTNO IZ GRAPHQL OTP RESPONSE-A
         if (station.routes && Array.isArray(station.routes)) {
             resultStation.routes = station.routes.map(r => ({
                 name: r.shortName,
@@ -188,7 +190,6 @@ async function fetchAndProcessStations() {
         return resultStation;
       });
 
-      // --- DODAJANJE HUB IDENTIFIKATORJEV ---
       const hubs = [];
       
       for (const station of processedStops) {
