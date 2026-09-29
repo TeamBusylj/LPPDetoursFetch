@@ -93,9 +93,22 @@ async function fetchAndProcessStations() {
         station.background_color = "#00A8EB";
       }
 
+      // Preverimo, ali ima postaja kakšno LPP linijo (preko agency gtfsId znotraj routes)
+      let hasLppRoute = false;
+      if (station.routes && Array.isArray(station.routes)) {
+          hasLppRoute = station.routes.some(r => r.agency && r.agency.gtfsId && r.agency.gtfsId.toLowerCase().includes('lpp'));
+      }
+
       if (station.type === "BUS" || station.type === "RAIL") {
+        // Dodamo v osnovno agencijo (npr. ijpp, sz...)
         if (!agencyGroups[agency]) agencyGroups[agency] = [];
         agencyGroups[agency].push(station);
+
+        // Če postaja ni primarno LPP, ampak IMA LPP linijo, jo dodamo tudi v LPP skupino
+        if (agency !== "lpp" && hasLppRoute) {
+            if (!agencyGroups["lpp"]) agencyGroups["lpp"] = [];
+            agencyGroups["lpp"].push({ ...station });
+        }
       }
     }
 
@@ -160,11 +173,9 @@ async function fetchAndProcessStations() {
         if (station.routes && Array.isArray(station.routes)) {
             resultStation.routes = station.routes.map(r => ({
                 name: r.shortName,
-                // Dodan "#" spredaj, če ga slučajno še nima (GTFS barve so ponavadi brez "#")
                 color: r.color ? (r.color.startsWith('#') ? r.color : `#${r.color}`) : null
             }));
             
-            // Izvlečemo unikatne agencije
             const uniqueAgencies = [...new Set(station.routes.map(r => r.agency?.gtfsId).filter(Boolean))];
             if (uniqueAgencies.length > 0) {
                 resultStation.agencies = uniqueAgencies;
