@@ -160,7 +160,8 @@ async function fetchAndProcessStations() {
         if (station.routes && Array.isArray(station.routes)) {
             resultStation.routes = station.routes.map(r => ({
                 name: r.shortName,
-                color: r.color
+                // Dodan "#" spredaj, če ga slučajno še nima (GTFS barve so ponavadi brez "#")
+                color: r.color ? (r.color.startsWith('#') ? r.color : `#${r.color}`) : null
             }));
             
             // Izvlečemo unikatne agencije
