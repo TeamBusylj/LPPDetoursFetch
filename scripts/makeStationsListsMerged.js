@@ -4,13 +4,13 @@ import path from 'path';
 const OTP_URL = 'https://otp.ojpp-gateway.derp.si/otp/gtfs/v1';
 
 const lineColorsObj = {
-  3B: "#5BAF20",
-  3G: "#5BAF20",
-  6B: "#6E7073",
-  12D: "#183875",
+  "3B": "#5BAF20",
+  "3G": "#5BAF20",
+  "6B": "#6E7073",
+  "12D": "#183875",
   15: "#8A1D79",
-  19I: "#B96F89",
-  21D: "#3C8C3C",
+  "19I": "#B96F89",
+  "21D": "#3C8C3C",
   25: "#2387BC",
   30: "#8AC09D",
 
