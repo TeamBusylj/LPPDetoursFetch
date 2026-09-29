@@ -10,7 +10,7 @@
     "routes": [
       {
         "name": "26",
-        "color": "FD4097"
+        "color": "#FD4097"
       }
     ],
     "gtfs_id": "Postojna:6azi",
@@ -35,11 +35,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "26",
-        "color": "FD4097"
+        "color": "#FD4097"
       }
     ],
     "gtfs_id": "Postojna:7cmf",
@@ -64,7 +64,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       }
     ],
     "gtfs_id": "Postojna:cl7o",
@@ -89,19 +89,19 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:eptk",
@@ -126,7 +126,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       }
     ],
     "gtfs_id": "Postojna:gyta",
@@ -151,11 +151,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       }
     ],
     "gtfs_id": "Postojna:ldxb",
@@ -180,7 +180,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       }
     ],
     "gtfs_id": "Postojna:lhsc",
@@ -205,15 +205,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:o0h0",
@@ -238,15 +238,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "26",
-        "color": "FD4097"
+        "color": "#FD4097"
       }
     ],
     "gtfs_id": "Postojna:o8hp",
@@ -271,11 +271,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       }
     ],
     "gtfs_id": "Postojna:osm=3867408558",
@@ -305,7 +305,7 @@
     "routes": [
       {
         "name": "26",
-        "color": "FD4097"
+        "color": "#FD4097"
       }
     ],
     "gtfs_id": "Postojna:osm=4226867800",
@@ -333,15 +333,15 @@
     "routes": [
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4924890971",
@@ -369,11 +369,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       }
     ],
     "gtfs_id": "Postojna:osm=4931348807",
@@ -401,11 +401,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       }
     ],
     "gtfs_id": "Postojna:osm=4931400603",
@@ -433,7 +433,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       }
     ],
     "gtfs_id": "Postojna:osm=4958167442",
@@ -461,11 +461,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       }
     ],
     "gtfs_id": "Postojna:osm=4958167443",
@@ -495,11 +495,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       }
     ],
     "gtfs_id": "Postojna:osm=4958167444",
@@ -527,35 +527,35 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958177298",
@@ -583,19 +583,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       }
     ],
     "gtfs_id": "Postojna:osm=4958182330",
@@ -623,19 +623,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       }
     ],
     "gtfs_id": "Postojna:osm=4958182331",
@@ -663,19 +663,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       }
     ],
     "gtfs_id": "Postojna:osm=4958182332",
@@ -703,35 +703,35 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958193305",
@@ -759,11 +759,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       }
     ],
     "gtfs_id": "Postojna:osm=4958193319",
@@ -791,23 +791,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958198723",
@@ -835,23 +835,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958198724",
@@ -879,23 +879,23 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958205376",
@@ -923,23 +923,23 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958205377",
@@ -967,23 +967,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958210441",
@@ -1011,23 +1011,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958210442",
@@ -1055,23 +1055,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958214090",
@@ -1099,23 +1099,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958214091",
@@ -1143,23 +1143,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958217945",
@@ -1187,23 +1187,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958217946",
@@ -1233,23 +1233,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=4958217947",
@@ -1279,7 +1279,7 @@
     "routes": [
       {
         "name": "26",
-        "color": "FD4097"
+        "color": "#FD4097"
       }
     ],
     "gtfs_id": "Postojna:osm=5133710962",
@@ -1307,31 +1307,31 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=5197223202",
@@ -1359,15 +1359,15 @@
     "routes": [
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:osm=5243476130",
@@ -1395,7 +1395,7 @@
     "routes": [
       {
         "name": "26",
-        "color": "FD4097"
+        "color": "#FD4097"
       }
     ],
     "gtfs_id": "Postojna:pbeu",
@@ -1420,11 +1420,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       }
     ],
     "gtfs_id": "Postojna:sfpn",
@@ -1449,19 +1449,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "7ed321"
+        "color": "#7ed321"
       },
       {
         "name": "4",
-        "color": "2b2ad0"
+        "color": "#2b2ad0"
       },
       {
         "name": "6",
-        "color": "6694ed"
+        "color": "#6694ed"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:syx4",
@@ -1486,23 +1486,23 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "3",
-        "color": "d0021b"
+        "color": "#d0021b"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       },
       {
         "name": "7",
-        "color": "55b1e3"
+        "color": "#55b1e3"
       },
       {
         "name": "8",
-        "color": "54f2e8"
+        "color": "#54f2e8"
       }
     ],
     "gtfs_id": "Postojna:togf",
@@ -1527,11 +1527,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "5",
-        "color": "165f7b"
+        "color": "#165f7b"
       }
     ],
     "gtfs_id": "Postojna:uxro",
@@ -1556,11 +1556,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "f8e71c"
+        "color": "#f8e71c"
       },
       {
         "name": "26",
-        "color": "FD4097"
+        "color": "#FD4097"
       }
     ],
     "gtfs_id": "Postojna:yghz",

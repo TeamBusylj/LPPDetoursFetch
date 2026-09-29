@@ -10,7 +10,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:10",
@@ -35,7 +35,7 @@
     "routes": [
       {
         "name": null,
-        "color": "6C91F8"
+        "color": "#6C91F8"
       }
     ],
     "gtfs_id": "Brezice:11",
@@ -61,7 +61,7 @@
     "routes": [
       {
         "name": null,
-        "color": "6C91F8"
+        "color": "#6C91F8"
       }
     ],
     "gtfs_id": "Brezice:12",
@@ -87,7 +87,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:13",
@@ -112,7 +112,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:14",
@@ -137,7 +137,7 @@
     "routes": [
       {
         "name": null,
-        "color": "6C91F8"
+        "color": "#6C91F8"
       }
     ],
     "gtfs_id": "Brezice:15",
@@ -163,7 +163,7 @@
     "routes": [
       {
         "name": null,
-        "color": "6C91F8"
+        "color": "#6C91F8"
       }
     ],
     "gtfs_id": "Brezice:16",
@@ -189,7 +189,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:17",
@@ -214,7 +214,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:18",
@@ -239,7 +239,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:19",
@@ -264,7 +264,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:2",
@@ -289,7 +289,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:3",
@@ -314,7 +314,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:4",
@@ -339,7 +339,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:5",
@@ -364,7 +364,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:6",
@@ -389,7 +389,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:7",
@@ -414,7 +414,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:8",
@@ -439,7 +439,7 @@
     "routes": [
       {
         "name": null,
-        "color": "38CC3F"
+        "color": "#38CC3F"
       }
     ],
     "gtfs_id": "Brezice:9",

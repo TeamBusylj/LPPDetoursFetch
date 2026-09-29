@@ -10,15 +10,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:10",
@@ -48,19 +48,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:100",
@@ -90,19 +90,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:101",
@@ -132,27 +132,27 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:102",
@@ -182,11 +182,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:103",
@@ -216,7 +216,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:104",
@@ -246,11 +246,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:105",
@@ -280,19 +280,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:106",
@@ -322,19 +322,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:107",
@@ -364,7 +364,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:108",
@@ -394,27 +394,27 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:109",
@@ -444,23 +444,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:11",
@@ -490,19 +490,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:110",
@@ -532,11 +532,11 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       }
     ],
     "gtfs_id": "MOKranj:111",
@@ -566,39 +566,39 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:112",
@@ -630,7 +630,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:113",
@@ -660,7 +660,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:114",
@@ -688,7 +688,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:115",
@@ -718,7 +718,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:116",
@@ -748,11 +748,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:117",
@@ -782,7 +782,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:118",
@@ -810,11 +810,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:119",
@@ -844,27 +844,27 @@
     "routes": [
       {
         "name": "0",
-        "color": "101849"
+        "color": "#101849"
       },
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:120",
@@ -894,19 +894,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:121",
@@ -936,15 +936,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:122",
@@ -974,11 +974,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:123",
@@ -1008,19 +1008,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:124",
@@ -1050,27 +1050,27 @@
     "routes": [
       {
         "name": "0",
-        "color": "101849"
+        "color": "#101849"
       },
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:125",
@@ -1100,11 +1100,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:126",
@@ -1134,15 +1134,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:127",
@@ -1172,19 +1172,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:128",
@@ -1214,11 +1214,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:129",
@@ -1248,11 +1248,11 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       }
     ],
     "gtfs_id": "MOKranj:13",
@@ -1282,7 +1282,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "101849"
+        "color": "#101849"
       }
     ],
     "gtfs_id": "MOKranj:130",
@@ -1310,19 +1310,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:131",
@@ -1352,19 +1352,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:132",
@@ -1394,11 +1394,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       }
     ],
     "gtfs_id": "MOKranj:133",
@@ -1426,7 +1426,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:134",
@@ -1456,7 +1456,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:135",
@@ -1486,7 +1486,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:136",
@@ -1514,7 +1514,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:137",
@@ -1542,39 +1542,39 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:138",
@@ -1606,11 +1606,11 @@
     "routes": [
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:139",
@@ -1640,15 +1640,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:14",
@@ -1676,15 +1676,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:140",
@@ -1714,15 +1714,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:141",
@@ -1752,11 +1752,11 @@
     "routes": [
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:142",
@@ -1786,7 +1786,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:143",
@@ -1816,23 +1816,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:144",
@@ -1862,7 +1862,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:145",
@@ -1892,11 +1892,11 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       }
     ],
     "gtfs_id": "MOKranj:147",
@@ -1926,7 +1926,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:148",
@@ -1956,15 +1956,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:149",
@@ -1994,7 +1994,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:15",
@@ -2024,15 +2024,15 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:150",
@@ -2060,15 +2060,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:151",
@@ -2098,19 +2098,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:16",
@@ -2140,7 +2140,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:17",
@@ -2170,39 +2170,39 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:18",
@@ -2232,7 +2232,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:19",
@@ -2262,7 +2262,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:2",
@@ -2292,11 +2292,11 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:20",
@@ -2326,7 +2326,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:21",
@@ -2356,7 +2356,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:22",
@@ -2386,11 +2386,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:23",
@@ -2420,19 +2420,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:24",
@@ -2462,11 +2462,11 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:25",
@@ -2494,19 +2494,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:26",
@@ -2536,7 +2536,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:27",
@@ -2564,11 +2564,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:28",
@@ -2596,11 +2596,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:29",
@@ -2630,7 +2630,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:3",
@@ -2660,15 +2660,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:30",
@@ -2698,11 +2698,11 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       }
     ],
     "gtfs_id": "MOKranj:302",
@@ -2732,11 +2732,11 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       }
     ],
     "gtfs_id": "MOKranj:303",
@@ -2766,19 +2766,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:31",
@@ -2806,27 +2806,27 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:32",
@@ -2856,35 +2856,35 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:33",
@@ -2914,31 +2914,31 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:34",
@@ -2966,11 +2966,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       }
     ],
     "gtfs_id": "MOKranj:36",
@@ -3000,7 +3000,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:37",
@@ -3028,7 +3028,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:38",
@@ -3056,7 +3056,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:39",
@@ -3086,7 +3086,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:4",
@@ -3116,7 +3116,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:40",
@@ -3146,7 +3146,7 @@
     "routes": [
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:402",
@@ -3174,7 +3174,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:41",
@@ -3204,7 +3204,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:42",
@@ -3232,19 +3232,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:43",
@@ -3274,7 +3274,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:44",
@@ -3304,15 +3304,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:45",
@@ -3342,19 +3342,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:46",
@@ -3384,7 +3384,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:47",
@@ -3412,7 +3412,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:48",
@@ -3440,7 +3440,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:49",
@@ -3470,7 +3470,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:5",
@@ -3500,11 +3500,11 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:50",
@@ -3534,19 +3534,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:502",
@@ -3576,7 +3576,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:503",
@@ -3606,15 +3606,15 @@
     "routes": [
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:504",
@@ -3644,7 +3644,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:51",
@@ -3672,11 +3672,11 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       }
     ],
     "gtfs_id": "MOKranj:52",
@@ -3706,7 +3706,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:53",
@@ -3734,7 +3734,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:54",
@@ -3764,15 +3764,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:55",
@@ -3802,15 +3802,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:56",
@@ -3840,7 +3840,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:57",
@@ -3868,7 +3868,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:58",
@@ -3896,35 +3896,35 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:59",
@@ -3954,11 +3954,11 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:6",
@@ -3988,7 +3988,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:60",
@@ -4016,7 +4016,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:602",
@@ -4046,19 +4046,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:61",
@@ -4088,39 +4088,39 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:62",
@@ -4150,23 +4150,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:63",
@@ -4196,7 +4196,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:64",
@@ -4224,11 +4224,11 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:65",
@@ -4258,7 +4258,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:66",
@@ -4288,11 +4288,11 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       }
     ],
     "gtfs_id": "MOKranj:67",
@@ -4322,27 +4322,27 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:68",
@@ -4372,7 +4372,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:69",
@@ -4400,7 +4400,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:7",
@@ -4430,7 +4430,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       }
     ],
     "gtfs_id": "MOKranj:70",
@@ -4460,7 +4460,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:71",
@@ -4490,15 +4490,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:72",
@@ -4526,7 +4526,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:73",
@@ -4554,7 +4554,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:75",
@@ -4582,7 +4582,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:76",
@@ -4610,11 +4610,11 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:77",
@@ -4644,15 +4644,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:78",
@@ -4680,19 +4680,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:79",
@@ -4722,7 +4722,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:8",
@@ -4752,23 +4752,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:80",
@@ -4798,39 +4798,39 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "3",
-        "color": "A54786"
+        "color": "#A54786"
       },
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       },
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:81",
@@ -4862,15 +4862,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:82",
@@ -4900,11 +4900,11 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:83",
@@ -4934,19 +4934,19 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       }
     ],
     "gtfs_id": "MOKranj:84",
@@ -4976,7 +4976,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:85",
@@ -5006,7 +5006,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:86",
@@ -5036,7 +5036,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:87",
@@ -5066,11 +5066,11 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       }
     ],
     "gtfs_id": "MOKranj:88",
@@ -5100,7 +5100,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:89",
@@ -5130,19 +5130,19 @@
     "routes": [
       {
         "name": "1",
-        "color": "00AEEF"
+        "color": "#00AEEF"
       },
       {
         "name": "2",
-        "color": "FFF200"
+        "color": "#FFF200"
       },
       {
         "name": "11",
-        "color": "806B64"
+        "color": "#806B64"
       },
       {
         "name": "15",
-        "color": "3A0139"
+        "color": "#3A0139"
       }
     ],
     "gtfs_id": "MOKranj:9",
@@ -5172,7 +5172,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:90",
@@ -5202,7 +5202,7 @@
     "routes": [
       {
         "name": "0",
-        "color": "101849"
+        "color": "#101849"
       }
     ],
     "gtfs_id": "MOKranj:91",
@@ -5230,7 +5230,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:92",
@@ -5260,7 +5260,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:93",
@@ -5290,15 +5290,15 @@
     "routes": [
       {
         "name": "5",
-        "color": "231F20"
+        "color": "#231F20"
       },
       {
         "name": "6",
-        "color": "00A650"
+        "color": "#00A650"
       },
       {
         "name": "7",
-        "color": "F5821F"
+        "color": "#F5821F"
       }
     ],
     "gtfs_id": "MOKranj:94",
@@ -5328,7 +5328,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:95",
@@ -5358,7 +5358,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:96",
@@ -5388,7 +5388,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "EC008C"
+        "color": "#EC008C"
       }
     ],
     "gtfs_id": "MOKranj:97",
@@ -5418,7 +5418,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:98",
@@ -5446,7 +5446,7 @@
     "routes": [
       {
         "name": "14",
-        "color": "81D4F7"
+        "color": "#81D4F7"
       }
     ],
     "gtfs_id": "MOKranj:99",

@@ -10,7 +10,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1000044232",
@@ -36,7 +36,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1000044258",
@@ -62,7 +62,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1000044259",
@@ -88,7 +88,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1000051217",
@@ -114,7 +114,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1000051218",
@@ -140,7 +140,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1000051372",
@@ -165,7 +165,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1000051377",
@@ -190,7 +190,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1000051431",
@@ -216,7 +216,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1123877",
@@ -246,7 +246,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1123878",
@@ -276,27 +276,27 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       },
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       },
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123880",
@@ -326,11 +326,11 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1123881",
@@ -360,11 +360,11 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1123882",
@@ -394,11 +394,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1123893",
@@ -428,11 +428,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1123894",
@@ -462,7 +462,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123895",
@@ -488,7 +488,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123896",
@@ -514,7 +514,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123897",
@@ -540,7 +540,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123898",
@@ -566,7 +566,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123899",
@@ -592,7 +592,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123900",
@@ -618,11 +618,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1123901",
@@ -652,11 +652,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1123902",
@@ -686,7 +686,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1123903",
@@ -716,7 +716,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1123904",
@@ -746,7 +746,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1123905",
@@ -775,7 +775,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1123909",
@@ -805,7 +805,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1123910",
@@ -835,7 +835,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1123911",
@@ -865,7 +865,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1123912",
@@ -895,23 +895,23 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       },
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1123913",
@@ -939,11 +939,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1123915",
@@ -973,11 +973,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1123916",
@@ -1007,11 +1007,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1123917",
@@ -1041,7 +1041,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1123922",
@@ -1071,7 +1071,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1123923",
@@ -1101,31 +1101,31 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       },
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       },
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       },
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123926",
@@ -1155,31 +1155,31 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       },
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       },
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       },
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1123927",
@@ -1209,7 +1209,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1125261",
@@ -1235,7 +1235,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1125262",
@@ -1261,7 +1261,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1125263",
@@ -1286,7 +1286,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126930",
@@ -1311,7 +1311,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126935",
@@ -1337,7 +1337,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126936",
@@ -1363,7 +1363,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126937",
@@ -1389,7 +1389,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126938",
@@ -1415,7 +1415,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126939",
@@ -1441,7 +1441,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126940",
@@ -1467,7 +1467,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126941",
@@ -1493,7 +1493,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126942",
@@ -1519,7 +1519,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1126945",
@@ -1544,7 +1544,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1127118",
@@ -1574,7 +1574,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1127119",
@@ -1604,7 +1604,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1127120",
@@ -1634,7 +1634,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1127121",
@@ -1664,7 +1664,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1131871",
@@ -1690,7 +1690,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1131872",
@@ -1716,7 +1716,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1131873",
@@ -1742,7 +1742,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1131874",
@@ -1768,7 +1768,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1151957",
@@ -1796,7 +1796,7 @@
     "routes": [
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1162594",
@@ -1824,7 +1824,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1162888",
@@ -1852,7 +1852,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1162889",
@@ -1880,7 +1880,7 @@
     "routes": [
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1166390",
@@ -1908,7 +1908,7 @@
     "routes": [
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1166393",
@@ -1936,11 +1936,11 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1166394",
@@ -1970,11 +1970,11 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1166395",
@@ -2004,7 +2004,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1166396",
@@ -2030,7 +2030,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1166397",
@@ -2056,7 +2056,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1166406",
@@ -2086,7 +2086,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1166407",
@@ -2116,7 +2116,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1166410",
@@ -2144,7 +2144,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1166411",
@@ -2174,7 +2174,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1166412",
@@ -2204,7 +2204,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1166415",
@@ -2234,7 +2234,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1166416",
@@ -2264,7 +2264,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1166418",
@@ -2292,7 +2292,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1166783",
@@ -2322,7 +2322,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1166784",
@@ -2352,7 +2352,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1166787",
@@ -2382,7 +2382,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1166788",
@@ -2412,27 +2412,27 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       },
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       },
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1167021",
@@ -2462,7 +2462,7 @@
     "routes": [
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1167037",
@@ -2490,7 +2490,7 @@
     "routes": [
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1167038",
@@ -2518,11 +2518,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1167040",
@@ -2552,7 +2552,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1167042",
@@ -2580,7 +2580,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1167043",
@@ -2608,7 +2608,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1167044",
@@ -2636,7 +2636,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1167045",
@@ -2664,7 +2664,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1167046",
@@ -2693,7 +2693,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1167047",
@@ -2721,7 +2721,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1167693",
@@ -2747,7 +2747,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1167694",
@@ -2773,23 +2773,23 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       },
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1168363",
@@ -2817,11 +2817,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1168364",
@@ -2851,11 +2851,11 @@
     "routes": [
       {
         "name": "2A",
-        "color": "ffcb04"
+        "color": "#ffcb04"
       },
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1168365",
@@ -2885,7 +2885,7 @@
     "routes": [
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1168367",
@@ -2913,7 +2913,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1168368",
@@ -2939,7 +2939,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1168369",
@@ -2965,7 +2965,7 @@
     "routes": [
       {
         "name": "2B",
-        "color": "ffd44f"
+        "color": "#ffd44f"
       }
     ],
     "gtfs_id": "CELEBUS:1168468",
@@ -2990,7 +2990,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1168472",
@@ -3016,7 +3016,7 @@
     "routes": [
       {
         "name": "6",
-        "color": "6eb0ad"
+        "color": "#6eb0ad"
       }
     ],
     "gtfs_id": "CELEBUS:1168475",
@@ -3042,11 +3042,11 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1168479",
@@ -3072,11 +3072,11 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1168480",
@@ -3102,7 +3102,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1168481",
@@ -3128,7 +3128,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1168482",
@@ -3154,7 +3154,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1168483",
@@ -3180,7 +3180,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1168484",
@@ -3206,7 +3206,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1168485",
@@ -3232,7 +3232,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1168486",
@@ -3258,7 +3258,7 @@
     "routes": [
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1168487",
@@ -3287,7 +3287,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "26aae1"
+        "color": "#26aae1"
       }
     ],
     "gtfs_id": "CELEBUS:1168488",
@@ -3312,7 +3312,7 @@
     "routes": [
       {
         "name": "10",
-        "color": "f15645"
+        "color": "#f15645"
       }
     ],
     "gtfs_id": "CELEBUS:1168690",
@@ -3337,11 +3337,11 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1168761",
@@ -3367,11 +3367,11 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       },
       {
         "name": "7",
-        "color": "a97c50"
+        "color": "#a97c50"
       }
     ],
     "gtfs_id": "CELEBUS:1168762",
@@ -3397,7 +3397,7 @@
     "routes": [
       {
         "name": "1B",
-        "color": "559384"
+        "color": "#559384"
       }
     ],
     "gtfs_id": "CELEBUS:1168763",

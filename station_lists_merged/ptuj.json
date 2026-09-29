@@ -10,23 +10,23 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       },
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       },
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       },
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1129013",
@@ -54,15 +54,15 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       },
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1129014",
@@ -92,15 +92,15 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       },
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1129015",
@@ -130,7 +130,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129017",
@@ -158,7 +158,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129018",
@@ -188,7 +188,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129019",
@@ -218,7 +218,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1129020",
@@ -248,7 +248,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1129021",
@@ -278,11 +278,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1129024",
@@ -312,11 +312,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1129025",
@@ -346,11 +346,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1129030",
@@ -378,11 +378,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       },
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1129034",
@@ -412,11 +412,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       },
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1129035",
@@ -446,7 +446,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129036",
@@ -476,7 +476,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129037",
@@ -506,7 +506,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129038",
@@ -540,7 +540,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129039",
@@ -574,7 +574,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129040",
@@ -608,7 +608,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1129041",
@@ -642,7 +642,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1130358",
@@ -672,7 +672,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1130359",
@@ -702,7 +702,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1130524",
@@ -730,7 +730,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1130526",
@@ -760,7 +760,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1130527",
@@ -790,7 +790,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1130825",
@@ -820,7 +820,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1130826",
@@ -850,7 +850,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1150404",
@@ -880,7 +880,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1150405",
@@ -910,7 +910,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1150406",
@@ -940,7 +940,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1150407",
@@ -970,7 +970,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1150408",
@@ -1000,7 +1000,7 @@
     "routes": [
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1150426",
@@ -1028,7 +1028,7 @@
     "routes": [
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1150436",
@@ -1056,7 +1056,7 @@
     "routes": [
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1150672",
@@ -1086,7 +1086,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1150678",
@@ -1114,7 +1114,7 @@
     "routes": [
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1150720",
@@ -1142,7 +1142,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1150856",
@@ -1172,7 +1172,7 @@
     "routes": [
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1150952",
@@ -1202,7 +1202,7 @@
     "routes": [
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:1150971",
@@ -1230,7 +1230,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1151186",
@@ -1262,7 +1262,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1151187",
@@ -1294,7 +1294,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1151189",
@@ -1324,7 +1324,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1151190",
@@ -1354,11 +1354,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1151923",
@@ -1386,11 +1386,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:1164652",
@@ -1420,11 +1420,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:1164654",
@@ -1454,11 +1454,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:1164659",
@@ -1486,11 +1486,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:1164660",
@@ -1518,11 +1518,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:1164661",
@@ -1550,11 +1550,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:1164662",
@@ -1582,7 +1582,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1164668",
@@ -1612,7 +1612,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1164669",
@@ -1640,7 +1640,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1164670",
@@ -1668,11 +1668,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1166750",
@@ -1702,11 +1702,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:1166751",
@@ -1736,7 +1736,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:1167586",
@@ -1764,7 +1764,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000077",
@@ -1792,7 +1792,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000079",
@@ -1820,7 +1820,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000080",
@@ -1848,7 +1848,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000081",
@@ -1878,7 +1878,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000082",
@@ -1908,7 +1908,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000088",
@@ -1936,7 +1936,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000089",
@@ -1964,7 +1964,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000090",
@@ -1992,7 +1992,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000091",
@@ -2020,7 +2020,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000092",
@@ -2048,7 +2048,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000093",
@@ -2076,11 +2076,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       },
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:297000094",
@@ -2110,7 +2110,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000095",
@@ -2138,7 +2138,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000096",
@@ -2166,7 +2166,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000097",
@@ -2194,7 +2194,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000098",
@@ -2222,7 +2222,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:297000101",
@@ -2250,7 +2250,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:297000103",
@@ -2280,7 +2280,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:297000160",
@@ -2308,7 +2308,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:297000161",
@@ -2336,11 +2336,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:297000173",
@@ -2368,11 +2368,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:297000174",
@@ -2400,11 +2400,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:77",
@@ -2432,7 +2432,7 @@
     "routes": [
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:78",
@@ -2460,7 +2460,7 @@
     "routes": [
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:79",
@@ -2488,11 +2488,11 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       },
       {
         "name": "5",
-        "color": "3127A4"
+        "color": "#3127A4"
       }
     ],
     "gtfs_id": "Ptuj:80",
@@ -2522,7 +2522,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:83",
@@ -2550,7 +2550,7 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       }
     ],
     "gtfs_id": "Ptuj:9302300",
@@ -2578,11 +2578,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:9302302",
@@ -2610,11 +2610,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:9302303",
@@ -2644,11 +2644,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:9302305",
@@ -2678,11 +2678,11 @@
     "routes": [
       {
         "name": "1",
-        "color": "0F871B"
+        "color": "#0F871B"
       },
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:9302306",
@@ -2710,7 +2710,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:9302326",
@@ -2738,7 +2738,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:9302789",
@@ -2766,7 +2766,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9302839",
@@ -2794,7 +2794,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9302840",
@@ -2822,7 +2822,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9302842",
@@ -2850,7 +2850,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9302844",
@@ -2878,7 +2878,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9302846",
@@ -2906,7 +2906,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:9302926",
@@ -2934,7 +2934,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:9302932",
@@ -2964,7 +2964,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:9302933",
@@ -2994,7 +2994,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9303148",
@@ -3024,7 +3024,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9303149",
@@ -3054,7 +3054,7 @@
     "routes": [
       {
         "name": "2",
-        "color": "FF7F00"
+        "color": "#FF7F00"
       }
     ],
     "gtfs_id": "Ptuj:9303176",
@@ -3082,7 +3082,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9303408",
@@ -3110,7 +3110,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9303409",
@@ -3138,7 +3138,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9303518",
@@ -3170,7 +3170,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9303578",
@@ -3198,7 +3198,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9303580",
@@ -3226,7 +3226,7 @@
     "routes": [
       {
         "name": "3",
-        "color": "0FB3D4"
+        "color": "#0FB3D4"
       }
     ],
     "gtfs_id": "Ptuj:9303810",
@@ -3254,7 +3254,7 @@
     "routes": [
       {
         "name": "4",
-        "color": "000000"
+        "color": "#000000"
       }
     ],
     "gtfs_id": "Ptuj:9315612",
