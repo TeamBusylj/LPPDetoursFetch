@@ -3,6 +3,32 @@ import path from 'path';
 
 const OTP_URL = 'https://otp.ojpp-gateway.derp.si/otp/gtfs/v1';
 
+const lineColorsObj = {
+  "3B": "#5BAF20",
+  "3G": "#5BAF20",
+  "6B": "#6E7073",
+  "12D": "#183875",
+  "15": "#8A1D79",
+  "19I": "#B96F89",
+  "21D": "#3C8C3C",
+  "25": "#2387bc",
+  "30": "#8AC09D",
+  "40": "#41615F",
+  "42": "#967C60",
+  "43": "#464269",
+  "44": "#736F93",
+  "51": "#5D77A9",
+  "52": "#00545B",
+  "53": "#B3A1B5",
+  "56": "#6F280D",
+  "60": "#9AA769",
+  "61": "#D8913F",
+  "71": "#5D77A9",
+  "72": "#41917F",
+  "73": "#D9AC08",
+  "78": "#B06A67",
+};
+
 // Pomožna funkcija za izračun razdalje v metrih (Haversine formula)
 function getDistanceFromLatLonInM(lat1, lon1, lat2, lon2) {
   const R = 6371e3;
@@ -15,7 +41,7 @@ function getDistanceFromLatLonInM(lat1, lon1, lat2, lon2) {
   return R * c;
 }
 
-// Pametni normalizator imen (100% varen)
+// Pametni normalizator imen
 function normalizeName(name) {
   if (!name) return "";
   let n = name.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); 
@@ -97,7 +123,6 @@ async function fetchAndProcessStations() {
       let isExclusiveLpp = false;
       if (agency === "ijpp" && station.routes && Array.isArray(station.routes) && station.routes.length > 0) {
           const uniqueAgencies = [...new Set(station.routes.map(r => r.agency?.gtfsId).filter(Boolean))];
-          // Če ima točno 1 agencijo in je ta agencija '1118' (ali npr. 'ijpp:1118')
           if (uniqueAgencies.length === 1 && (uniqueAgencies[0] === "1118" || uniqueAgencies[0].endsWith(":1118"))) {
               isExclusiveLpp = true;
           }
@@ -173,10 +198,22 @@ async function fetchAndProcessStations() {
         };
 
         if (station.routes && Array.isArray(station.routes)) {
-            resultStation.routes = station.routes.map(r => ({
-                name: r.shortName,
-                color: r.color ? (r.color.startsWith('#') ? r.color : `#${r.color}`) : null
-            }));
+            resultStation.routes = station.routes.map(r => {
+                let finalColor = null;
+                // Če imamo custom barvo za to linijo, jo uporabimo
+                if (lineColorsObj[r.shortName]) {
+                    finalColor = lineColorsObj[r.shortName];
+                } 
+                // Sicer vzamemo barvo iz GTFS in ji dodamo '#'
+                else if (r.color) {
+                    finalColor = r.color.startsWith('#') ? r.color : `#${r.color}`;
+                }
+                
+                return {
+                    name: r.shortName,
+                    color: finalColor
+                };
+            });
             
             const uniqueAgencies = [...new Set(station.routes.map(r => r.agency?.gtfsId).filter(Boolean))];
             if (uniqueAgencies.length > 0) {
