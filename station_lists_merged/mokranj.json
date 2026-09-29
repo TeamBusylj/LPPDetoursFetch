@@ -152,7 +152,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:102",
@@ -414,7 +414,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:109",
@@ -460,7 +460,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:11",
@@ -598,7 +598,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:112",
@@ -782,7 +782,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:118",
@@ -864,7 +864,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:120",
@@ -906,7 +906,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:121",
@@ -1070,7 +1070,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:125",
@@ -1322,7 +1322,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:131",
@@ -1574,7 +1574,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:138",
@@ -1610,7 +1610,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:139",
@@ -1756,7 +1756,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:142",
@@ -1832,7 +1832,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:144",
@@ -2032,7 +2032,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:150",
@@ -2202,7 +2202,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:18",
@@ -2778,7 +2778,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:31",
@@ -2826,7 +2826,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:32",
@@ -2884,7 +2884,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:33",
@@ -2938,7 +2938,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:34",
@@ -3546,7 +3546,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:502",
@@ -3924,7 +3924,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:59",
@@ -4120,7 +4120,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:62",
@@ -4166,7 +4166,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:63",
@@ -4196,7 +4196,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:64",
@@ -4342,7 +4342,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:68",
@@ -4582,7 +4582,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:76",
@@ -4614,7 +4614,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:77",
@@ -4768,7 +4768,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:80",
@@ -4830,7 +4830,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:81",
@@ -4904,7 +4904,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:83",
@@ -5142,7 +5142,7 @@
       },
       {
         "name": "15",
-        "color": "#3A0139"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "MOKranj:9",

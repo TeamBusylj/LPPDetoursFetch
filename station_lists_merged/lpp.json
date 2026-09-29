@@ -144,7 +144,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -174,7 +174,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -204,7 +204,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -234,7 +234,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -268,7 +268,7 @@
       },
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -309,7 +309,7 @@
       },
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -346,7 +346,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "11B",
@@ -354,7 +354,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "18",
@@ -370,7 +370,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1121396",
@@ -414,7 +414,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1121459",
@@ -460,7 +460,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1121461",
@@ -502,7 +502,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -549,7 +549,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -592,7 +592,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -633,7 +633,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -674,7 +674,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -709,7 +709,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1121484",
@@ -735,7 +735,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1121485",
@@ -761,7 +761,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1121486",
@@ -787,7 +787,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1121487",
@@ -817,7 +817,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "22",
@@ -867,7 +867,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "22",
@@ -920,7 +920,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "22",
@@ -973,7 +973,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "24",
@@ -1022,7 +1022,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "24",
@@ -1063,7 +1063,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       }
     ],
     "gtfs_id": "IJPP:1121536",
@@ -1088,11 +1088,11 @@
     "routes": [
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3B",
@@ -1137,11 +1137,11 @@
     "routes": [
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3B",
@@ -1186,7 +1186,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1122719",
@@ -1288,7 +1288,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1123242",
@@ -1314,7 +1314,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1123243",
@@ -1340,7 +1340,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1123261",
@@ -1366,7 +1366,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1123262",
@@ -1825,7 +1825,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1123625",
@@ -1851,7 +1851,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1123626",
@@ -1877,7 +1877,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1123660",
@@ -1903,7 +1903,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1123661",
@@ -1929,7 +1929,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1123662",
@@ -1955,7 +1955,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1123663",
@@ -1981,7 +1981,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123734",
@@ -2007,7 +2007,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123735",
@@ -2033,7 +2033,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123736",
@@ -2059,7 +2059,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123737",
@@ -2085,7 +2085,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123738",
@@ -2111,7 +2111,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123739",
@@ -2137,7 +2137,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1123765",
@@ -2163,7 +2163,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1123766",
@@ -2189,7 +2189,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1123801",
@@ -2215,7 +2215,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1123802",
@@ -2241,7 +2241,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1123803",
@@ -2267,7 +2267,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1123804",
@@ -2293,7 +2293,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123824",
@@ -2319,7 +2319,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123825",
@@ -2345,7 +2345,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123826",
@@ -2371,7 +2371,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123827",
@@ -2397,7 +2397,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123828",
@@ -2423,7 +2423,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1123829",
@@ -2474,7 +2474,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "80",
@@ -2504,7 +2504,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "80",
@@ -2534,7 +2534,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1124058",
@@ -2560,7 +2560,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1124059",
@@ -2586,7 +2586,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1124154",
@@ -2612,7 +2612,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1124155",
@@ -2638,7 +2638,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1124156",
@@ -2664,7 +2664,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1124157",
@@ -2690,7 +2690,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1124204",
@@ -2716,7 +2716,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1124205",
@@ -2742,7 +2742,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1124228",
@@ -2768,7 +2768,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1124229",
@@ -2794,7 +2794,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1124230",
@@ -2820,7 +2820,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1124231",
@@ -2846,7 +2846,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1124315",
@@ -2872,7 +2872,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1124316",
@@ -3002,7 +3002,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1124462",
@@ -3028,7 +3028,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1124463",
@@ -3054,11 +3054,11 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124494",
@@ -3085,11 +3085,11 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124497",
@@ -3116,7 +3116,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124498",
@@ -3142,7 +3142,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124499",
@@ -3168,7 +3168,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124500",
@@ -3194,7 +3194,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124501",
@@ -3220,7 +3220,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124502",
@@ -3246,7 +3246,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124503",
@@ -3272,7 +3272,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124504",
@@ -3298,7 +3298,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124505",
@@ -3324,7 +3324,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1124515",
@@ -3350,7 +3350,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1124516",
@@ -3556,7 +3556,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124753",
@@ -3582,7 +3582,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1124754",
@@ -3678,7 +3678,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1124785",
@@ -3709,7 +3709,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1124786",
@@ -3740,7 +3740,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1124787",
@@ -3767,7 +3767,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1124822",
@@ -3793,7 +3793,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1124823",
@@ -3819,7 +3819,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1124937",
@@ -3845,7 +3845,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1124938",
@@ -3871,7 +3871,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1125038",
@@ -3897,7 +3897,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1125039",
@@ -3923,7 +3923,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1125042",
@@ -3949,7 +3949,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1125043",
@@ -4095,7 +4095,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1125193",
@@ -4121,7 +4121,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1125194",
@@ -4147,7 +4147,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -4178,7 +4178,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -4277,7 +4277,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "68",
@@ -4289,19 +4289,19 @@
       },
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       },
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1125464",
@@ -4327,7 +4327,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1125465",
@@ -4352,7 +4352,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1125468",
@@ -4377,7 +4377,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1125470",
@@ -4403,7 +4403,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1125471",
@@ -4429,7 +4429,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1125472",
@@ -4454,7 +4454,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1125473",
@@ -4479,11 +4479,11 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1125475",
@@ -4509,11 +4509,11 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1125476",
@@ -4539,7 +4539,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "68",
@@ -4551,7 +4551,7 @@
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1125477",
@@ -4577,7 +4577,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "68",
@@ -4589,7 +4589,7 @@
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1125478",
@@ -4671,7 +4671,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1125540",
@@ -4701,7 +4701,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1125541",
@@ -4727,7 +4727,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1125588",
@@ -4753,7 +4753,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1125589",
@@ -4779,7 +4779,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1125592",
@@ -4805,7 +4805,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1125593",
@@ -4831,7 +4831,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1125647",
@@ -4857,7 +4857,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1125648",
@@ -4883,7 +4883,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1125690",
@@ -4909,7 +4909,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1125691",
@@ -4935,7 +4935,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1125728",
@@ -4961,7 +4961,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1125729",
@@ -5039,7 +5039,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -5069,7 +5069,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -5099,7 +5099,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -5130,7 +5130,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -5161,7 +5161,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -5192,7 +5192,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1126307",
@@ -5218,7 +5218,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1126308",
@@ -5244,7 +5244,7 @@
     "routes": [
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1126469",
@@ -5270,7 +5270,7 @@
     "routes": [
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1126470",
@@ -5296,7 +5296,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1126656",
@@ -5322,7 +5322,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1126657",
@@ -5348,7 +5348,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1126660",
@@ -5374,7 +5374,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1126661",
@@ -5528,7 +5528,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1126950",
@@ -5553,7 +5553,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1126951",
@@ -5578,7 +5578,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1126955",
@@ -5604,7 +5604,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1126956",
@@ -5630,7 +5630,7 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1126975",
@@ -5799,7 +5799,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1127008",
@@ -5825,7 +5825,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1127009",
@@ -5851,7 +5851,7 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1127161",
@@ -6010,7 +6010,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1127233",
@@ -6036,7 +6036,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1127234",
@@ -6062,7 +6062,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1127253",
@@ -6088,7 +6088,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1127254",
@@ -6114,7 +6114,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1127279",
@@ -6140,7 +6140,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1127280",
@@ -6170,7 +6170,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1127283",
@@ -6200,7 +6200,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1127284",
@@ -6226,7 +6226,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1127296",
@@ -6252,7 +6252,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1127297",
@@ -6278,7 +6278,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1127300",
@@ -6304,7 +6304,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1127301",
@@ -6330,7 +6330,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1127437",
@@ -6356,7 +6356,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1127438",
@@ -6382,7 +6382,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1127762",
@@ -6408,7 +6408,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1127763",
@@ -6590,7 +6590,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1127892",
@@ -6616,7 +6616,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1127893",
@@ -6750,7 +6750,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1128156",
@@ -6780,7 +6780,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1128157",
@@ -6806,7 +6806,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1128166",
@@ -6832,7 +6832,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1128167",
@@ -6862,7 +6862,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1128189",
@@ -6892,7 +6892,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1128190",
@@ -6918,7 +6918,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "82",
@@ -6956,7 +6956,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "82",
@@ -6994,7 +6994,7 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1128326",
@@ -7148,7 +7148,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1128440",
@@ -7174,7 +7174,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1128441",
@@ -7720,7 +7720,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1128548",
@@ -7746,7 +7746,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1128549",
@@ -7772,7 +7772,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -7802,7 +7802,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -7832,7 +7832,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1128570",
@@ -7858,7 +7858,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1128571",
@@ -7884,7 +7884,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1128584",
@@ -7910,7 +7910,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1128585",
@@ -7996,7 +7996,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1128590",
@@ -8022,7 +8022,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1128591",
@@ -8048,7 +8048,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1128658",
@@ -8074,7 +8074,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1128659",
@@ -8100,7 +8100,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1128660",
@@ -8126,7 +8126,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1128661",
@@ -8152,15 +8152,15 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       },
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1128662",
@@ -8186,15 +8186,15 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       },
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1128663",
@@ -8220,7 +8220,7 @@
     "routes": [
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1128666",
@@ -8246,7 +8246,7 @@
     "routes": [
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1128667",
@@ -8272,7 +8272,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1128683",
@@ -8297,7 +8297,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1128684",
@@ -8324,7 +8324,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1128685",
@@ -8411,7 +8411,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1128729",
@@ -8437,7 +8437,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1128730",
@@ -8463,7 +8463,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1128764",
@@ -8489,7 +8489,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1128765",
@@ -8567,7 +8567,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1128826",
@@ -8593,7 +8593,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1128827",
@@ -8619,7 +8619,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -8649,7 +8649,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -8679,7 +8679,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -8709,7 +8709,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -8791,7 +8791,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       }
     ],
     "gtfs_id": "IJPP:1129194",
@@ -8816,7 +8816,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1129280",
@@ -8842,7 +8842,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1129281",
@@ -8868,11 +8868,11 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1129288",
@@ -8899,11 +8899,11 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1129289",
@@ -8930,11 +8930,11 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1129290",
@@ -8961,7 +8961,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1129291",
@@ -8987,7 +8987,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1129292",
@@ -9013,7 +9013,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1129301",
@@ -9039,7 +9039,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1129302",
@@ -9065,7 +9065,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129351",
@@ -9091,7 +9091,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129352",
@@ -9117,7 +9117,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129356",
@@ -9143,7 +9143,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129357",
@@ -9169,7 +9169,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129358",
@@ -9195,7 +9195,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129359",
@@ -9273,7 +9273,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129737",
@@ -9299,7 +9299,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129738",
@@ -9325,7 +9325,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1129841",
@@ -9571,7 +9571,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129958",
@@ -9596,7 +9596,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1129959",
@@ -9621,7 +9621,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1129971",
@@ -9647,7 +9647,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1129972",
@@ -9725,7 +9725,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1129991",
@@ -9751,7 +9751,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1129992",
@@ -9777,7 +9777,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1130023",
@@ -9803,7 +9803,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1130024",
@@ -9829,7 +9829,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "69",
@@ -9859,7 +9859,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "69",
@@ -9889,7 +9889,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1130143",
@@ -9915,7 +9915,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1130144",
@@ -9941,7 +9941,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130210",
@@ -9967,7 +9967,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130211",
@@ -9993,7 +9993,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130212",
@@ -10019,7 +10019,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130213",
@@ -10045,7 +10045,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130214",
@@ -10071,7 +10071,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130215",
@@ -10097,7 +10097,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130216",
@@ -10123,7 +10123,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130217",
@@ -10149,7 +10149,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130218",
@@ -10175,7 +10175,7 @@
     "routes": [
       {
         "name": "52",
-        "color": "#207C4C"
+        "color": "#00545B"
       }
     ],
     "gtfs_id": "IJPP:1130219",
@@ -10382,7 +10382,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1130477",
@@ -10407,7 +10407,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1130506",
@@ -10433,7 +10433,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1130507",
@@ -10459,7 +10459,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1130557",
@@ -10485,7 +10485,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1130558",
@@ -10511,7 +10511,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1130605",
@@ -10537,7 +10537,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1130606",
@@ -10683,7 +10683,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1130735",
@@ -10733,7 +10733,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1130830",
@@ -10759,7 +10759,7 @@
     "routes": [
       {
         "name": "53",
-        "color": "#207C4C"
+        "color": "#B3A1B5"
       }
     ],
     "gtfs_id": "IJPP:1130831",
@@ -10785,7 +10785,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1130836",
@@ -10811,7 +10811,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1130837",
@@ -10837,7 +10837,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131039",
@@ -10863,7 +10863,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131040",
@@ -10889,7 +10889,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131041",
@@ -10914,7 +10914,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131042",
@@ -10943,7 +10943,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131043",
@@ -10972,7 +10972,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131044",
@@ -11001,7 +11001,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131045",
@@ -11030,7 +11030,7 @@
     "routes": [
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1131240",
@@ -11056,7 +11056,7 @@
     "routes": [
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1131241",
@@ -11082,7 +11082,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1131337",
@@ -11108,7 +11108,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1131338",
@@ -11186,7 +11186,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1131377",
@@ -11212,7 +11212,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1131378",
@@ -11238,7 +11238,7 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1131381",
@@ -11263,11 +11263,11 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1131390",
@@ -11294,11 +11294,11 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1131391",
@@ -11325,11 +11325,11 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1131392",
@@ -11356,7 +11356,7 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1131394",
@@ -11381,7 +11381,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1131414",
@@ -11407,7 +11407,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1131415",
@@ -11437,7 +11437,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1131416",
@@ -11467,7 +11467,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1131417",
@@ -11570,7 +11570,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1131503",
@@ -11596,7 +11596,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1131504",
@@ -11682,7 +11682,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1131671",
@@ -11708,7 +11708,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1131672",
@@ -11734,7 +11734,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131722",
@@ -11760,7 +11760,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1131723",
@@ -11924,7 +11924,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1131816",
@@ -11950,7 +11950,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1131817",
@@ -11976,7 +11976,7 @@
     "routes": [
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1131852",
@@ -12002,7 +12002,7 @@
     "routes": [
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1131853",
@@ -12028,7 +12028,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1131889",
@@ -12054,7 +12054,7 @@
     "routes": [
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       }
     ],
     "gtfs_id": "IJPP:1131890",
@@ -12080,7 +12080,7 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1131970",
@@ -12105,7 +12105,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1131987",
@@ -12131,7 +12131,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1131988",
@@ -12157,7 +12157,7 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1132009",
@@ -12182,7 +12182,7 @@
     "routes": [
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1132010",
@@ -12207,7 +12207,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1132049",
@@ -12233,7 +12233,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1132121",
@@ -12259,7 +12259,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1132122",
@@ -12285,7 +12285,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "80",
@@ -12315,7 +12315,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "80",
@@ -12345,7 +12345,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "82",
@@ -12382,7 +12382,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "82",
@@ -12420,7 +12420,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "82",
@@ -12458,7 +12458,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "82",
@@ -12496,7 +12496,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       },
       {
         "name": "82",
@@ -12534,7 +12534,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1132430",
@@ -12560,7 +12560,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1132431",
@@ -12638,7 +12638,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150228",
@@ -12954,7 +12954,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150266",
@@ -13448,7 +13448,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150291",
@@ -13474,7 +13474,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1150477",
@@ -13499,7 +13499,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1150486",
@@ -13524,7 +13524,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1150499",
@@ -13549,7 +13549,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150599",
@@ -13626,7 +13626,7 @@
     "routes": [
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -13687,7 +13687,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150762",
@@ -13714,7 +13714,7 @@
     "routes": [
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       }
     ],
     "gtfs_id": "IJPP:1150789",
@@ -13743,7 +13743,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1150797",
@@ -13769,7 +13769,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150812",
@@ -13873,7 +13873,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1150874",
@@ -13898,11 +13898,11 @@
     "routes": [
       {
         "name": "30",
-        "color": "#207C4C"
+        "color": "#8AC09D"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150919",
@@ -13927,7 +13927,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150920",
@@ -13953,7 +13953,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150921",
@@ -13979,7 +13979,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150922",
@@ -14005,7 +14005,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150923",
@@ -14031,7 +14031,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1150924",
@@ -14098,7 +14098,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1151629",
@@ -14132,7 +14132,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1151762",
@@ -14158,7 +14158,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1151804",
@@ -14184,11 +14184,11 @@
     "routes": [
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3B",
@@ -14278,7 +14278,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "68",
@@ -14290,7 +14290,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1164995",
@@ -14316,7 +14316,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "68",
@@ -14328,7 +14328,7 @@
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       }
     ],
     "gtfs_id": "IJPP:1164996",
@@ -14354,7 +14354,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       }
     ],
     "gtfs_id": "IJPP:1165164",
@@ -14379,11 +14379,11 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165364",
@@ -14414,7 +14414,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -14438,7 +14438,7 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "54",
@@ -14446,7 +14446,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165631",
@@ -14483,7 +14483,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -14507,7 +14507,7 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "54",
@@ -14515,7 +14515,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165632",
@@ -14556,11 +14556,11 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -14604,11 +14604,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -14632,7 +14632,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -14677,11 +14677,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -14705,7 +14705,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -14742,7 +14742,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -14758,11 +14758,11 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165640",
@@ -14788,7 +14788,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -14804,11 +14804,11 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165641",
@@ -14850,7 +14850,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1165644",
@@ -14882,7 +14882,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1165652",
@@ -14908,7 +14908,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1165653",
@@ -14934,7 +14934,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -14958,7 +14958,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165654",
@@ -14984,7 +14984,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -15008,7 +15008,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165655",
@@ -15050,7 +15050,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -15126,7 +15126,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "48P",
@@ -15162,19 +15162,19 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1165700",
@@ -15200,7 +15200,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165703",
@@ -15226,7 +15226,7 @@
     "routes": [
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1165704",
@@ -15252,7 +15252,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1165705",
@@ -15278,7 +15278,7 @@
     "routes": [
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1165706",
@@ -15304,7 +15304,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1166534",
@@ -15354,7 +15354,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1166627",
@@ -15404,7 +15404,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -15424,7 +15424,7 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "54",
@@ -15432,7 +15432,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1167099",
@@ -15458,7 +15458,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -15478,7 +15478,7 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "54",
@@ -15486,7 +15486,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1167100",
@@ -15512,7 +15512,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -15542,7 +15542,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -15572,7 +15572,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -15602,7 +15602,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "45",
@@ -15681,11 +15681,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -15701,7 +15701,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -15721,7 +15721,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -15778,11 +15778,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -15798,7 +15798,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -15818,7 +15818,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -15859,7 +15859,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -15904,7 +15904,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -15949,7 +15949,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -15998,7 +15998,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16051,11 +16051,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16079,7 +16079,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -16124,11 +16124,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16152,7 +16152,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -16193,7 +16193,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16243,7 +16243,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16298,7 +16298,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16353,7 +16353,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16398,7 +16398,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16459,11 +16459,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16479,7 +16479,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -16511,7 +16511,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -16561,11 +16561,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16581,7 +16581,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -16613,7 +16613,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -16651,7 +16651,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16675,7 +16675,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -16716,7 +16716,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16740,7 +16740,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -16793,7 +16793,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16817,7 +16817,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167161",
@@ -16866,7 +16866,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -16890,7 +16890,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167162",
@@ -16923,7 +16923,7 @@
     "routes": [
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167163",
@@ -16948,7 +16948,7 @@
     "routes": [
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167164",
@@ -16973,7 +16973,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167165",
@@ -16999,7 +16999,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167166",
@@ -17025,7 +17025,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167167",
@@ -17051,7 +17051,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167168",
@@ -17089,7 +17089,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167169",
@@ -17134,7 +17134,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167170",
@@ -17179,7 +17179,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167173",
@@ -17224,7 +17224,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167174",
@@ -17269,7 +17269,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167175",
@@ -17314,7 +17314,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167176",
@@ -17351,7 +17351,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167178",
@@ -17386,7 +17386,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167179",
@@ -17429,7 +17429,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167182",
@@ -17474,7 +17474,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167183",
@@ -17507,7 +17507,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167185",
@@ -17533,7 +17533,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167186",
@@ -17559,7 +17559,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167187",
@@ -17585,7 +17585,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167188",
@@ -17611,7 +17611,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167189",
@@ -17637,7 +17637,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167190",
@@ -17663,7 +17663,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167191",
@@ -17689,7 +17689,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167192",
@@ -17715,7 +17715,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167193",
@@ -17741,7 +17741,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167194",
@@ -17767,7 +17767,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167195",
@@ -17805,7 +17805,7 @@
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -17825,7 +17825,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -17869,7 +17869,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -17881,7 +17881,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -17889,15 +17889,15 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -17946,7 +17946,7 @@
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -17966,7 +17966,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -18010,7 +18010,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -18022,7 +18022,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -18030,15 +18030,15 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -18091,7 +18091,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167198",
@@ -18140,7 +18140,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167199",
@@ -18177,7 +18177,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -18218,7 +18218,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -18255,7 +18255,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167205",
@@ -18281,7 +18281,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167206",
@@ -18307,11 +18307,11 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -18323,7 +18323,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -18351,7 +18351,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1167207",
@@ -18384,11 +18384,11 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -18400,7 +18400,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -18428,7 +18428,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1167208",
@@ -18461,7 +18461,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6",
@@ -18469,7 +18469,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -18489,7 +18489,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -18513,7 +18513,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -18525,7 +18525,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1167210",
@@ -18558,7 +18558,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6",
@@ -18566,7 +18566,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -18586,7 +18586,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -18610,7 +18610,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -18622,7 +18622,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1167211",
@@ -18655,7 +18655,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167212",
@@ -18680,7 +18680,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167213",
@@ -18706,7 +18706,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167214",
@@ -18732,7 +18732,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167217",
@@ -18758,7 +18758,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167218",
@@ -18784,7 +18784,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167221",
@@ -18810,7 +18810,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167222",
@@ -18836,7 +18836,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167223",
@@ -18862,7 +18862,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167224",
@@ -18888,7 +18888,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167227",
@@ -18914,7 +18914,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167228",
@@ -18944,7 +18944,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167229",
@@ -18981,7 +18981,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167230",
@@ -19018,7 +19018,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167231",
@@ -19055,7 +19055,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167232",
@@ -19092,7 +19092,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167233",
@@ -19129,7 +19129,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167234",
@@ -19166,7 +19166,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167235",
@@ -19203,7 +19203,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167236",
@@ -19240,7 +19240,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -19285,7 +19285,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -19330,7 +19330,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167260",
@@ -19371,7 +19371,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167267",
@@ -19412,7 +19412,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167268",
@@ -19461,7 +19461,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "22",
@@ -19514,7 +19514,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "22",
@@ -19555,7 +19555,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167274",
@@ -19592,7 +19592,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167275",
@@ -19633,7 +19633,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "22",
@@ -19678,7 +19678,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "22",
@@ -19719,7 +19719,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167282",
@@ -19756,7 +19756,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167283",
@@ -19793,7 +19793,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167284",
@@ -19830,7 +19830,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167285",
@@ -19867,7 +19867,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167286",
@@ -19909,11 +19909,11 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167289",
@@ -19958,11 +19958,11 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167290",
@@ -20011,7 +20011,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167291",
@@ -20060,7 +20060,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167292",
@@ -20109,7 +20109,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167293",
@@ -20158,7 +20158,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167294",
@@ -20203,7 +20203,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167295",
@@ -20248,7 +20248,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167296",
@@ -20293,7 +20293,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167297",
@@ -20338,7 +20338,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167298",
@@ -20379,11 +20379,11 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -20432,11 +20432,11 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -20481,7 +20481,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167302",
@@ -20518,7 +20518,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167303",
@@ -20575,7 +20575,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167304",
@@ -20632,7 +20632,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167305",
@@ -20689,7 +20689,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167306",
@@ -20746,7 +20746,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167307",
@@ -20803,7 +20803,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167308",
@@ -20860,7 +20860,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167309",
@@ -20921,7 +20921,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167310",
@@ -20982,7 +20982,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167311",
@@ -21027,7 +21027,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167312",
@@ -21072,7 +21072,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167313",
@@ -21117,7 +21117,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167314",
@@ -21162,7 +21162,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167315",
@@ -21215,7 +21215,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167316",
@@ -21259,7 +21259,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167318",
@@ -21304,7 +21304,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167319",
@@ -21349,7 +21349,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167320",
@@ -21393,7 +21393,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -21442,7 +21442,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -21495,7 +21495,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -21550,7 +21550,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -21593,7 +21593,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167328",
@@ -21630,7 +21630,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167329",
@@ -21667,7 +21667,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167330",
@@ -21704,7 +21704,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167331",
@@ -21745,7 +21745,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167332",
@@ -21793,7 +21793,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -21817,11 +21817,11 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -21870,7 +21870,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167340",
@@ -21913,7 +21913,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167341",
@@ -21944,7 +21944,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167343",
@@ -21970,7 +21970,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167344",
@@ -21996,7 +21996,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167354",
@@ -22025,7 +22025,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -22064,7 +22064,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -22099,7 +22099,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167359",
@@ -22124,7 +22124,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167360",
@@ -22149,7 +22149,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167361",
@@ -22175,7 +22175,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167362",
@@ -22221,11 +22221,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -22241,7 +22241,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -22273,7 +22273,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -22330,11 +22330,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -22350,7 +22350,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -22382,7 +22382,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -22419,7 +22419,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167371",
@@ -22445,7 +22445,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167372",
@@ -22471,7 +22471,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167373",
@@ -22513,7 +22513,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -22537,11 +22537,11 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -22582,7 +22582,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167388",
@@ -22615,7 +22615,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "27",
@@ -22652,11 +22652,11 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1167475",
@@ -22681,7 +22681,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1167480",
@@ -22707,7 +22707,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1167481",
@@ -22733,7 +22733,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1167482",
@@ -22759,7 +22759,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1167483",
@@ -22785,7 +22785,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1167484",
@@ -22811,7 +22811,7 @@
     "routes": [
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "IJPP:1167485",
@@ -22841,7 +22841,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -22876,7 +22876,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "27",
@@ -22913,7 +22913,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       }
     ],
     "gtfs_id": "IJPP:1167634",
@@ -22939,7 +22939,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       }
     ],
     "gtfs_id": "IJPP:1167635",
@@ -22965,7 +22965,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       }
     ],
     "gtfs_id": "IJPP:1167737",
@@ -22991,7 +22991,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       }
     ],
     "gtfs_id": "IJPP:1167738",
@@ -23017,7 +23017,7 @@
     "routes": [
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1167807",
@@ -23042,7 +23042,7 @@
     "routes": [
       {
         "name": "30",
-        "color": "#207C4C"
+        "color": "#8AC09D"
       }
     ],
     "gtfs_id": "IJPP:1167809",
@@ -23067,7 +23067,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1167810",
@@ -23092,7 +23092,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1167831",
@@ -23118,7 +23118,7 @@
     "routes": [
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1167832",
@@ -23144,15 +23144,15 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "30",
-        "color": "#207C4C"
+        "color": "#8AC09D"
       }
     ],
     "gtfs_id": "IJPP:1167913",
@@ -23178,15 +23178,15 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "30",
-        "color": "#207C4C"
+        "color": "#8AC09D"
       }
     ],
     "gtfs_id": "IJPP:1167914",
@@ -23212,7 +23212,7 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       }
     ],
     "gtfs_id": "IJPP:1167938",
@@ -23237,7 +23237,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167949",
@@ -23263,7 +23263,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167950",
@@ -23341,7 +23341,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167953",
@@ -23367,7 +23367,7 @@
     "routes": [
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "IJPP:1167954",
@@ -23393,7 +23393,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167955",
@@ -23419,7 +23419,7 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1167956",
@@ -23445,7 +23445,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       }
     ],
     "gtfs_id": "IJPP:1167957",
@@ -23471,7 +23471,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       }
     ],
     "gtfs_id": "IJPP:1167958",
@@ -23497,7 +23497,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167959",
@@ -23523,7 +23523,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167960",
@@ -23549,7 +23549,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167961",
@@ -23575,7 +23575,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167962",
@@ -23601,7 +23601,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167963",
@@ -23626,7 +23626,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167964",
@@ -23651,7 +23651,7 @@
     "routes": [
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167975",
@@ -23676,7 +23676,7 @@
     "routes": [
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167976",
@@ -23702,7 +23702,7 @@
     "routes": [
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "IJPP:1167977",
@@ -23728,7 +23728,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167978",
@@ -23754,7 +23754,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1167979",
@@ -23780,7 +23780,7 @@
     "routes": [
       {
         "name": "30",
-        "color": "#207C4C"
+        "color": "#8AC09D"
       }
     ],
     "gtfs_id": "IJPP:1167993",
@@ -23805,15 +23805,15 @@
     "routes": [
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "40",
-        "color": "#207C4C"
+        "color": "#41615F"
       },
       {
         "name": "42",
-        "color": "#207C4C"
+        "color": "#967C60"
       }
     ],
     "gtfs_id": "IJPP:1168125",
@@ -23838,7 +23838,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1168126",
@@ -23864,7 +23864,7 @@
     "routes": [
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1168127",
@@ -23894,7 +23894,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "24",
@@ -23934,7 +23934,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1168305",
@@ -23971,7 +23971,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1168306",
@@ -24064,7 +24064,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1168334",
@@ -24105,7 +24105,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "IJPP:1168335",
@@ -24142,7 +24142,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1168338",
@@ -24177,7 +24177,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "IJPP:1168339",
@@ -24328,19 +24328,19 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "IJPP:1168706",
@@ -24366,11 +24366,11 @@
     "routes": [
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "IJPP:1168707",
@@ -24395,7 +24395,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "68",
@@ -24407,19 +24407,19 @@
       },
       {
         "name": "71",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "72",
-        "color": "#207C4C"
+        "color": "#41917F"
       },
       {
         "name": "73",
-        "color": "#207C4C"
+        "color": "#D9AC08"
       },
       {
         "name": "78",
-        "color": "#207C4C"
+        "color": "#B06A67"
       }
     ],
     "gtfs_id": "IJPP:1168799",
@@ -24737,7 +24737,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:05643914-8ff7-4064-8737-2761d44a083f",
@@ -25034,7 +25034,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -25121,7 +25121,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "LPP:087e50b6-7677-4a85-802f-5694266fe38b",
@@ -25772,7 +25772,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:105e10e7-fbab-4f99-94c9-178c25630b42",
@@ -25907,7 +25907,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:11d74c00-da13-4cad-883e-c6dcf8edcbe8",
@@ -26450,7 +26450,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -26474,11 +26474,11 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -26587,7 +26587,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:16d19639-a788-4df6-a168-6f8c3652ded7",
@@ -26661,7 +26661,7 @@
       },
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -27024,7 +27024,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:1b3d51e8-8b5e-4b31-a63e-9d665243c2f1",
@@ -27181,7 +27181,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "22",
@@ -27222,7 +27222,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:1ceecd12-b005-4828-ad39-8f2aeb1ca228",
@@ -27411,7 +27411,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -27564,7 +27564,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:1faa072c-478b-4656-8df3-84167a9a4bbb",
@@ -27681,7 +27681,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "LPP:21764d19-62cc-49fd-bac9-403aeac6a6b9",
@@ -28139,11 +28139,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -28167,7 +28167,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -28246,7 +28246,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:25cde952-4896-4977-b229-75e09b3e3661",
@@ -28282,7 +28282,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:2628b04b-eaf2-4c5a-b7ac-837237162783",
@@ -28649,7 +28649,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:294c40c4-18e4-4d92-a947-911a8623de89",
@@ -28694,7 +28694,7 @@
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -28714,7 +28714,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -28758,7 +28758,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -28770,7 +28770,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -28778,15 +28778,15 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -28823,11 +28823,11 @@
     "routes": [
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3B",
@@ -28877,7 +28877,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:2b223d0c-f8ec-4970-815c-bfe26c3ffc09",
@@ -29288,7 +29288,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "22",
@@ -29359,7 +29359,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -29418,11 +29418,11 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -29523,7 +29523,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6",
@@ -29531,7 +29531,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -29551,7 +29551,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -29575,7 +29575,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -29587,7 +29587,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "LPP:318d4398-e152-498b-b4ff-1344c67adba6",
@@ -29624,7 +29624,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:3203d037-a222-4092-8dd6-e8dfcd49a2c9",
@@ -29751,7 +29751,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:33613e0e-f41c-4cee-804a-3942bf698e3e",
@@ -29846,7 +29846,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:3429cda2-6047-453c-bf54-952dfa6674c0",
@@ -30107,7 +30107,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:379bc761-04b5-4227-be76-3b870fe3e69f",
@@ -30385,7 +30385,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -30618,7 +30618,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "11B",
@@ -30626,7 +30626,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "18",
@@ -30642,7 +30642,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "LPP:3de902d8-619e-42ef-b1ec-060e51e561a8",
@@ -30682,7 +30682,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:3edd6057-3847-4c42-b8ec-6e89ff95793a",
@@ -30808,7 +30808,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:3f996624-8134-4eec-9742-70111db659c1",
@@ -30850,7 +30850,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:3fbf6322-fb74-4a50-a81a-bfca73abc26b",
@@ -31009,11 +31009,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -31029,7 +31029,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -31049,7 +31049,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -31748,7 +31748,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:47637057-8d6a-4cf9-bd56-3ac90748fcc4",
@@ -31859,7 +31859,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -32253,7 +32253,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "24",
@@ -32400,7 +32400,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -32447,7 +32447,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -32588,7 +32588,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:4ed69cbb-d738-450c-be11-7d96cd50ee50",
@@ -32923,7 +32923,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -33172,7 +33172,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -33196,7 +33196,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:54c591c0-7bbb-4489-9229-57b18f95827a",
@@ -33641,7 +33641,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "24",
@@ -33969,11 +33969,11 @@
     "routes": [
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3B",
@@ -34056,7 +34056,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:5d1e404b-1606-457e-8d2b-4e3e80139532",
@@ -34109,11 +34109,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -34129,7 +34129,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -34161,7 +34161,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -34229,7 +34229,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -34286,7 +34286,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:5ddf10c0-90a5-4dbf-992c-23c0505674aa",
@@ -34357,7 +34357,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -34464,7 +34464,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:5fa77d25-e7a3-42db-8cc9-52b612d5de19",
@@ -34535,7 +34535,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "22",
@@ -34596,7 +34596,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:60ccc570-3714-410b-aa31-43d3a4c593c8",
@@ -34727,11 +34727,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -34755,7 +34755,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -35218,7 +35218,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -35267,7 +35267,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -35368,7 +35368,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:67c3adc1-a92d-4528-91ee-77d8b52574c6",
@@ -35513,7 +35513,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:69bc9f1c-507f-463c-ba5a-04500b319967",
@@ -35610,7 +35610,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -35693,7 +35693,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "22",
@@ -35810,7 +35810,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -36043,11 +36043,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -36063,7 +36063,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -36095,7 +36095,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -36268,7 +36268,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:71480129-1108-4659-bb1b-d62897a81d02",
@@ -36359,7 +36359,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -36383,11 +36383,11 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -36570,7 +36570,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -36851,7 +36851,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:77c4dfcc-1122-4896-9983-8a5bd11320de",
@@ -36996,7 +36996,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:785ad018-d0fe-4628-b188-15f6dc71b38e",
@@ -37117,7 +37117,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:79325942-629a-4766-a34a-525f8edf8cc5",
@@ -37226,7 +37226,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:79d89180-8b07-4127-b7b4-1ac03d1cee9f",
@@ -37317,7 +37317,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:7a52a73a-cc0e-4c61-b9bc-306157727e1c",
@@ -37390,7 +37390,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "24",
@@ -37553,7 +37553,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:7bcbdcaa-00b9-47d4-8982-09da26cd7bcb",
@@ -37598,7 +37598,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:7c149b59-2bc6-45cb-95c8-69e18a0db627",
@@ -37711,7 +37711,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:7d579a55-27bc-49d0-a124-a5ed6233c55a",
@@ -37812,11 +37812,11 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -37923,7 +37923,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:7fa32ea0-e884-435a-a81c-51bbd5cedf3e",
@@ -38084,7 +38084,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:807c11ba-4b3a-4e2b-82b5-abf5864fa4bc",
@@ -38296,7 +38296,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -38371,7 +38371,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "11B",
@@ -38379,7 +38379,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "18",
@@ -38395,7 +38395,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "LPP:8512e1be-4637-483b-a3e6-78ccc6d2c5b1",
@@ -38469,11 +38469,11 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:8589e5d1-21b4-4210-ad7a-4bf91f9a715d",
@@ -38690,7 +38690,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -39195,7 +39195,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -39219,7 +39219,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -39290,7 +39290,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -39431,7 +39431,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:91b76764-87af-4b90-89dd-60f0046f7cc0",
@@ -39542,7 +39542,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:9276fcfb-0f7e-4df3-b827-325600851526",
@@ -39915,7 +39915,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:96d4c75b-6452-4c70-a31e-c234262ba38b",
@@ -40024,7 +40024,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:97788808-915f-4405-b54e-7ec5f95f7330",
@@ -40133,7 +40133,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:9845a6f7-ba79-4f3d-b6ae-969651ef6001",
@@ -40170,7 +40170,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -40296,7 +40296,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -40320,7 +40320,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:98fa3880-5936-4ec8-ba04-39c7ff9a0e6a",
@@ -40393,7 +40393,7 @@
       },
       {
         "name": "44",
-        "color": "#207C4C"
+        "color": "#736F93"
       },
       {
         "name": "45",
@@ -40480,11 +40480,11 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:9a1c4c65-df77-481f-87ad-56143f02a864",
@@ -40521,7 +40521,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -40576,7 +40576,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:9a938b49-ce1d-4e1c-a789-e316630ebc4f",
@@ -40889,7 +40889,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "LPP:9bb1ed3b-5a6f-43c7-afaf-ba2b60ca1a7a",
@@ -40952,11 +40952,11 @@
     "routes": [
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3B",
@@ -41073,7 +41073,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -41362,7 +41362,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "22",
@@ -41412,7 +41412,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "22",
@@ -41719,7 +41719,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "22",
@@ -41798,11 +41798,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -41826,7 +41826,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -42071,7 +42071,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:a7094427-e180-4deb-acaf-5d4488326e9e",
@@ -42123,11 +42123,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -42143,7 +42143,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -42175,7 +42175,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -42612,7 +42612,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -42795,7 +42795,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:af2956ba-d922-4ec4-bfa7-b623c29e8b3e",
@@ -42982,7 +42982,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -43006,7 +43006,7 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "54",
@@ -43014,7 +43014,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "LPP:b4b30b45-445a-4f70-bdf5-5ea7cdc98583",
@@ -43219,7 +43219,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "LPP:b59656a4-b6e7-4b87-977c-078c59088a50",
@@ -43453,11 +43453,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -43473,7 +43473,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -43505,7 +43505,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -43709,7 +43709,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:ba846253-4c87-4120-8f1c-05a563bf3999",
@@ -43746,7 +43746,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:baab981f-b707-4b2e-8291-6175f7ceb255",
@@ -44051,7 +44051,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:bd1396f2-4dc8-4695-9bf1-c601157100d8",
@@ -44178,7 +44178,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       },
       {
         "name": "28",
@@ -44221,11 +44221,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -44249,7 +44249,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -44388,7 +44388,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "27",
@@ -44479,7 +44479,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:c0fb12dd-8cab-40da-a3aa-e8de9c6d09ed",
@@ -44516,7 +44516,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2",
@@ -44663,11 +44663,11 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -44735,7 +44735,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -44836,7 +44836,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -45020,7 +45020,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:c5ec5e81-2ce4-452d-bd7a-595de4f8b34f",
@@ -45225,7 +45225,7 @@
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -45245,7 +45245,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -45289,7 +45289,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -45301,7 +45301,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -45309,15 +45309,15 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       },
       {
         "name": "SŽ",
@@ -45432,7 +45432,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:c969f066-aab5-466d-b4db-48e651a4a12e",
@@ -45597,7 +45597,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:cad3370f-7a28-4a47-8d5a-187adab3ca21",
@@ -45762,7 +45762,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:cce39cbe-6961-433a-a787-64fbf602f470",
@@ -45825,11 +45825,11 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -45841,7 +45841,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -45869,7 +45869,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "LPP:cdabf1ea-b04c-480a-8359-72c46e6864ab",
@@ -46318,7 +46318,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:d17294f3-5b6c-4313-9243-3f38557967cf",
@@ -46457,7 +46457,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:d3283222-38a9-40e2-a485-180d1a33067c",
@@ -46494,7 +46494,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:d3a06374-ab12-456b-9c00-55461af341fa",
@@ -46833,7 +46833,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "48P",
@@ -47113,7 +47113,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:d861c2ce-106a-4b95-a4fc-2af355c0bbf0",
@@ -47252,7 +47252,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:d987aa3a-ae4a-42f6-bc9b-79c41dcf055a",
@@ -47453,7 +47453,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "16",
@@ -47477,7 +47477,7 @@
       },
       {
         "name": "51",
-        "color": "#207C4C"
+        "color": "#5D77A9"
       },
       {
         "name": "54",
@@ -47485,7 +47485,7 @@
       },
       {
         "name": "56",
-        "color": "#207C4C"
+        "color": "#6F280D"
       }
     ],
     "gtfs_id": "LPP:da656f17-9723-4cbe-a008-823cbad17c28",
@@ -47718,7 +47718,7 @@
       },
       {
         "name": "21D",
-        "color": "#207C4C"
+        "color": "#3C8C3C"
       }
     ],
     "gtfs_id": "LPP:db13a26e-19d4-4b8a-a78a-01ef25d58834",
@@ -47788,7 +47788,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -47885,7 +47885,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:dd57f39b-be0f-479e-bc35-5bd2edf98ff2",
@@ -47934,7 +47934,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:df63651e-45ab-4487-9429-9e604415b35c",
@@ -47983,7 +47983,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -48473,7 +48473,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "48P",
@@ -48509,11 +48509,11 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -48525,7 +48525,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -48553,7 +48553,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "LPP:e6f5183b-c615-4f47-b4fb-204ee070e825",
@@ -48632,7 +48632,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "24",
@@ -48912,7 +48912,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -49023,7 +49023,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:ea9d5fa9-af5a-4d39-96fd-626415048511",
@@ -49278,7 +49278,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -49302,7 +49302,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
@@ -49885,7 +49885,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       }
     ],
     "gtfs_id": "LPP:ef91fd44-5651-4fd4-b6f8-619fdef9da7b",
@@ -49985,7 +49985,7 @@
     "routes": [
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "27",
@@ -50222,11 +50222,11 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       },
       {
         "name": "27",
@@ -50270,7 +50270,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       }
     ],
     "gtfs_id": "LPP:f1d7dbc8-d84b-4550-a3bd-e4748a677e9d",
@@ -50459,7 +50459,7 @@
     "routes": [
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "6",
@@ -50467,7 +50467,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "7",
@@ -50487,7 +50487,7 @@
       },
       {
         "name": "12D",
-        "color": "#207C4C"
+        "color": "#183875"
       },
       {
         "name": "13",
@@ -50511,7 +50511,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "20",
@@ -50523,7 +50523,7 @@
       },
       {
         "name": "60",
-        "color": "#207C4C"
+        "color": "#9AA769"
       }
     ],
     "gtfs_id": "LPP:f33b721f-a8a3-4aad-96f2-077da09ebaa6",
@@ -50610,7 +50610,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:f4cfd904-bd11-4247-95df-32c4555a930f",
@@ -50681,7 +50681,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -50764,7 +50764,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:f5e84751-7377-402c-974c-53276e422e70",
@@ -50831,7 +50831,7 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -51065,7 +51065,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:fac22b83-1bc0-4c12-8533-485b115409ef",
@@ -51144,7 +51144,7 @@
       },
       {
         "name": "15",
-        "color": "#207C4C"
+        "color": "#8A1D79"
       }
     ],
     "gtfs_id": "LPP:fb7704f0-d31e-4561-83e4-621a8c62654b",
@@ -51465,7 +51465,7 @@
       },
       {
         "name": "25",
-        "color": "#207C4C"
+        "color": "#2387bc"
       }
     ],
     "gtfs_id": "LPP:feb89b92-366d-4f50-a509-40c7baba8cf0",
@@ -51518,11 +51518,11 @@
       },
       {
         "name": "3B",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "3G",
-        "color": "#207C4C"
+        "color": "#5BAF20"
       },
       {
         "name": "N3",
@@ -51538,7 +51538,7 @@
       },
       {
         "name": "6B",
-        "color": "#207C4C"
+        "color": "#6E7073"
       },
       {
         "name": "9",
@@ -51558,7 +51558,7 @@
       },
       {
         "name": "19I",
-        "color": "#207C4C"
+        "color": "#B96F89"
       },
       {
         "name": "27",
