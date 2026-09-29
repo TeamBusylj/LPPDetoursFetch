@@ -1,20 +1,23 @@
 [
   {
     "id": "U3RvcDpCcmV6aWNlOjEw",
-    "gtfs_id": "Brezice:10",
+    "gtfsId": "Brezice:10",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice Občina",
     "lat": 45.90402,
     "lon": 15.59293,
-    "opposite": "Brezice:10",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:10",
+    "type": "BUS",
+    "opposite": "Brezice:10",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_breziceobcina_0",
     "merged_stop_ids": [
@@ -23,20 +26,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjEx",
-    "gtfs_id": "Brezice:11",
+    "gtfsId": "Brezice:11",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice gimnazija",
     "lat": 45.90772,
     "lon": 15.59136,
-    "opposite": "Brezice:11",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#6C91F8"
+        "name": null,
+        "color": "6C91F8"
       }
+    ],
+    "gtfs_id": "Brezice:11",
+    "type": "BUS",
+    "opposite": "Brezice:11",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_brezicegimnazija_1",
     "merged_stop_ids": [
@@ -46,20 +52,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjEy",
-    "gtfs_id": "Brezice:12",
+    "gtfsId": "Brezice:12",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice stadion",
     "lat": 45.91177,
     "lon": 15.59061,
-    "opposite": "Brezice:12",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#6C91F8"
+        "name": null,
+        "color": "6C91F8"
       }
+    ],
+    "gtfs_id": "Brezice:12",
+    "type": "BUS",
+    "opposite": "Brezice:12",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_brezicestadion_2",
     "merged_stop_ids": [
@@ -69,20 +78,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjEz",
-    "gtfs_id": "Brezice:13",
+    "gtfsId": "Brezice:13",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice Intermarket",
     "lat": 45.91846,
     "lon": 15.59663,
-    "opposite": "Brezice:13",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:13",
+    "type": "BUS",
+    "opposite": "Brezice:13",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_breziceintermarket_3",
     "merged_stop_ids": [
@@ -91,20 +103,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE0",
-    "gtfs_id": "Brezice:14",
+    "gtfsId": "Brezice:14",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Cesta bratov Milavcev",
     "lat": 45.91584,
     "lon": 15.59099,
-    "opposite": "Brezice:14",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:14",
+    "type": "BUS",
+    "opposite": "Brezice:14",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_cestabratovmilavcev_4",
     "merged_stop_ids": [
@@ -113,20 +128,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE1",
-    "gtfs_id": "Brezice:15",
+    "gtfsId": "Brezice:15",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice stadion",
     "lat": 45.9119,
     "lon": 15.59051,
-    "opposite": "Brezice:15",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#6C91F8"
+        "name": null,
+        "color": "6C91F8"
       }
+    ],
+    "gtfs_id": "Brezice:15",
+    "type": "BUS",
+    "opposite": "Brezice:15",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_brezicestadion_2",
     "merged_stop_ids": [
@@ -136,20 +154,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE2",
-    "gtfs_id": "Brezice:16",
+    "gtfsId": "Brezice:16",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice gimnazija",
     "lat": 45.90775,
     "lon": 15.59126,
-    "opposite": "Brezice:16",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#6C91F8"
+        "name": null,
+        "color": "6C91F8"
       }
+    ],
+    "gtfs_id": "Brezice:16",
+    "type": "BUS",
+    "opposite": "Brezice:16",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_brezicegimnazija_1",
     "merged_stop_ids": [
@@ -159,20 +180,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE3",
-    "gtfs_id": "Brezice:17",
+    "gtfsId": "Brezice:17",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice Zdravstveni dom",
     "lat": 45.90773,
     "lon": 15.59464,
-    "opposite": "Brezice:17",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:17",
+    "type": "BUS",
+    "opposite": "Brezice:17",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_brezicezdravstvenidom_5",
     "merged_stop_ids": [
@@ -181,20 +205,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE4",
-    "gtfs_id": "Brezice:18",
+    "gtfsId": "Brezice:18",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Maistrova",
     "lat": 45.90789,
     "lon": 15.59748,
-    "opposite": "Brezice:18",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:18",
+    "type": "BUS",
+    "opposite": "Brezice:18",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_maistrova_6",
     "merged_stop_ids": [
@@ -203,20 +230,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjE5",
-    "gtfs_id": "Brezice:19",
+    "gtfsId": "Brezice:19",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice AP",
     "lat": 45.9076,
     "lon": 15.60089,
-    "opposite": "Brezice:19",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:19",
+    "type": "BUS",
+    "opposite": "Brezice:19",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_breziceap_7",
     "merged_stop_ids": [
@@ -225,20 +255,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjI",
-    "gtfs_id": "Brezice:2",
+    "gtfsId": "Brezice:2",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Murnova",
     "lat": 45.90693,
     "lon": 15.60921,
-    "opposite": "Brezice:2",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:2",
+    "type": "BUS",
+    "opposite": "Brezice:2",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_murnova_8",
     "merged_stop_ids": [
@@ -247,20 +280,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjM",
-    "gtfs_id": "Brezice:3",
+    "gtfsId": "Brezice:3",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Kregarjeva",
     "lat": 45.90557,
     "lon": 15.60901,
-    "opposite": "Brezice:3",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:3",
+    "type": "BUS",
+    "opposite": "Brezice:3",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_kregarjeva_9",
     "merged_stop_ids": [
@@ -269,20 +305,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjQ",
-    "gtfs_id": "Brezice:4",
+    "gtfsId": "Brezice:4",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Prežihova 1",
     "lat": 45.90448,
     "lon": 15.60618,
-    "opposite": "Brezice:4",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:4",
+    "type": "BUS",
+    "opposite": "Brezice:4",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_prezihova1_10",
     "merged_stop_ids": [
@@ -291,20 +330,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjU",
-    "gtfs_id": "Brezice:5",
+    "gtfsId": "Brezice:5",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Prežihova 2",
     "lat": 45.90573,
     "lon": 15.60522,
-    "opposite": "Brezice:5",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:5",
+    "type": "BUS",
+    "opposite": "Brezice:5",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_prezihova2_11",
     "merged_stop_ids": [
@@ -313,20 +355,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjY",
-    "gtfs_id": "Brezice:6",
+    "gtfsId": "Brezice:6",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Trdinova",
     "lat": 45.90426,
     "lon": 15.60141,
-    "opposite": "Brezice:6",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:6",
+    "type": "BUS",
+    "opposite": "Brezice:6",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_trdinova_12",
     "merged_stop_ids": [
@@ -335,20 +380,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjc",
-    "gtfs_id": "Brezice:7",
+    "gtfsId": "Brezice:7",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Pokopališče",
     "lat": 45.9003,
     "lon": 15.59657,
-    "opposite": "Brezice:7",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:7",
+    "type": "BUS",
+    "opposite": "Brezice:7",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_pokopalisce_13",
     "merged_stop_ids": [
@@ -357,20 +405,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjg",
-    "gtfs_id": "Brezice:8",
+    "gtfsId": "Brezice:8",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Cankarjeva",
     "lat": 45.90211,
     "lon": 15.59702,
-    "opposite": "Brezice:8",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:8",
+    "type": "BUS",
+    "opposite": "Brezice:8",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_cankarjeva_14",
     "merged_stop_ids": [
@@ -379,20 +430,23 @@
   },
   {
     "id": "U3RvcDpCcmV6aWNlOjk",
-    "gtfs_id": "Brezice:9",
+    "gtfsId": "Brezice:9",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#218FF1",
-    "icon_color": "#FFFFFF",
     "name": "Brežice Market",
     "lat": 45.9046,
     "lon": 15.59692,
-    "opposite": "Brezice:9",
     "routes": [
       {
-        "name": "N/A",
-        "color": "#38CC3F"
+        "name": null,
+        "color": "38CC3F"
       }
+    ],
+    "gtfs_id": "Brezice:9",
+    "type": "BUS",
+    "opposite": "Brezice:9",
+    "agencies": [
+      "Brezice:0"
     ],
     "hub_id": "hub_brezicemarket_15",
     "merged_stop_ids": [

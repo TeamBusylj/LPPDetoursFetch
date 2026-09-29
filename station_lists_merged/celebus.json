@@ -1,22 +1,231 @@
 [
   {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM4Nzc",
-    "gtfs_id": "CELEBUS:1123877",
-    "code": "16214_23564",
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNDQyMzI",
+    "gtfsId": "CELEBUS:1000044232",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Bukovžlak Gobec K %28PL%29",
+    "lat": 46.2384878,
+    "lon": 15.3035581,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1000044232",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "CELEBUS:1000044232",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_bukovzlakgobeck28pl29_0",
+    "merged_stop_ids": [
+      "CELEBUS:1000044232",
+      "CELEBUS:1000051431"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNDQyNTg",
+    "gtfsId": "CELEBUS:1000044258",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Trnovlje obrtna cona",
+    "lat": 46.2410304,
+    "lon": 15.2936983,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1000044258",
+    "type": "BUS",
+    "opposite": "CELEBUS:1000044258",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_trnovljeobrtnacona_1",
+    "merged_stop_ids": [
+      "CELEBUS:1000044258",
+      "CELEBUS:1000044259"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNDQyNTk",
+    "gtfsId": "CELEBUS:1000044259",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Trnovlje obrtna cona",
+    "lat": 46.2411862,
+    "lon": 15.2935106,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1000044259",
+    "type": "BUS",
+    "opposite": "CELEBUS:1000044259",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_trnovljeobrtnacona_1",
+    "merged_stop_ids": [
+      "CELEBUS:1000044258",
+      "CELEBUS:1000044259"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTEyMTc",
+    "gtfsId": "CELEBUS:1000051217",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Obrtna cona Lava",
+    "lat": 46.2410203,
+    "lon": 15.2516168,
+    "routes": [
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1000051217",
+    "type": "BUS",
+    "opposite": "CELEBUS:1000051217",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_obrtnaconalava_2",
+    "merged_stop_ids": [
+      "CELEBUS:1000051217",
+      "CELEBUS:1000051218"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTEyMTg",
+    "gtfsId": "CELEBUS:1000051218",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Obrtna cona Lava",
+    "lat": 46.240874,
+    "lon": 15.2515251,
+    "routes": [
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1000051218",
+    "type": "BUS",
+    "opposite": "CELEBUS:1000051218",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_obrtnaconalava_2",
+    "merged_stop_ids": [
+      "CELEBUS:1000051217",
+      "CELEBUS:1000051218"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTEzNzI",
+    "gtfsId": "CELEBUS:1000051372",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Začret AC priključek",
+    "lat": 46.2469596,
+    "lon": 15.30853,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1000051372",
+    "type": "BUS",
+    "opposite": "CELEBUS:1000051372",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zacretacprikljucek_3",
+    "merged_stop_ids": [
+      "CELEBUS:1000051372"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTEzNzc",
+    "gtfsId": "CELEBUS:1000051377",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Trnovlje Etra",
+    "lat": 46.242032,
+    "lon": 15.302343,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1000051377",
+    "type": "BUS",
+    "opposite": "CELEBUS:1000051377",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_trnovljeetra_4",
+    "merged_stop_ids": [
+      "CELEBUS:1000051377"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjEwMDAwNTE0MzE",
+    "gtfsId": "CELEBUS:1000051431",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Bukovžlak Gobec K %28PL%29",
+    "lat": 46.238519,
+    "lon": 15.303453,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1000051431",
+    "type": "BUS",
+    "opposite": "CELEBUS:1000051431",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_bukovzlakgobeck28pl29_0",
+    "merged_stop_ids": [
+      "CELEBUS:1000044232",
+      "CELEBUS:1000051431"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4Nzc",
+    "gtfsId": "CELEBUS:1123877",
+    "vehicleMode": "BUS",
+    "code": "16214_23564",
     "name": "Celje Breg most",
     "lat": 46.2238269,
     "lon": 15.2663868,
-    "opposite": "16214_23564",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_bregmost_0",
+    "gtfs_id": "CELEBUS:1123877",
+    "type": "BUS",
+    "opposite": "16214_23564",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_bregmost_5",
     "merged_stop_ids": [
       "CELEBUS:1123877",
       "CELEBUS:1123878"
@@ -28,22 +237,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM4Nzg",
-    "gtfs_id": "CELEBUS:1123878",
+    "gtfsId": "CELEBUS:1123878",
+    "vehicleMode": "BUS",
     "code": "16214_23565",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Breg most",
     "lat": 46.2237332,
     "lon": 15.2661636,
-    "opposite": "16214_23565",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_bregmost_0",
+    "gtfs_id": "CELEBUS:1123878",
+    "type": "BUS",
+    "opposite": "16214_23565",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_bregmost_5",
     "merged_stop_ids": [
       "CELEBUS:1123877",
       "CELEBUS:1123878"
@@ -55,22 +267,45 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM4ODA",
-    "gtfs_id": "CELEBUS:1123880",
+    "gtfsId": "CELEBUS:1123880",
+    "vehicleMode": "BUS",
     "code": "16210_49876",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celeiapark",
     "lat": 46.2325688,
     "lon": 15.2680835,
-    "opposite": "16210_49876",
     "routes": [
       {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      },
+      {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      },
+      {
+        "name": "10",
+        "color": "f15645"
       }
     ],
-    "hub_id": "hub_celeiapark_1",
+    "gtfs_id": "CELEBUS:1123880",
+    "type": "BUS",
+    "opposite": "16210_49876",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_celeiapark_6",
     "merged_stop_ids": [
       "CELEBUS:1123880",
       "CELEBUS:1167021"
@@ -81,23 +316,475 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDk",
-    "gtfs_id": "CELEBUS:1123909",
-    "code": "16181_23594",
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4ODE",
+    "gtfsId": "CELEBUS:1123881",
+    "vehicleMode": "BUS",
+    "code": "16205_23566",
+    "name": "Celje Čopova Cetis",
+    "lat": 46.2390722,
+    "lon": 15.2538409,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123881",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "16205_23566",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_copovacetis_7",
+    "merged_stop_ids": [
+      "CELEBUS:1123881",
+      "CELEBUS:1123882"
+    ],
+    "merged_codes": [
+      "16205_23566",
+      "16205_23567"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4ODI",
+    "gtfsId": "CELEBUS:1123882",
+    "vehicleMode": "BUS",
+    "code": "16205_23567",
+    "name": "Celje Čopova Cetis",
+    "lat": 46.2393647,
+    "lon": 15.2540805,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123882",
+    "type": "BUS",
+    "opposite": "16205_23567",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_copovacetis_7",
+    "merged_stop_ids": [
+      "CELEBUS:1123881",
+      "CELEBUS:1123882"
+    ],
+    "merged_codes": [
+      "16205_23566",
+      "16205_23567"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTM",
+    "gtfsId": "CELEBUS:1123893",
+    "vehicleMode": "BUS",
+    "code": "16189_23578",
+    "name": "Celje Kersnikova bol.",
+    "lat": 46.234331,
+    "lon": 15.2632543,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123893",
+    "type": "BUS",
+    "opposite": "16189_23578",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kersnikovabol_8",
+    "merged_stop_ids": [
+      "CELEBUS:1123893",
+      "CELEBUS:1123894"
+    ],
+    "merged_codes": [
+      "16189_23578",
+      "16189_23579"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTQ",
+    "gtfsId": "CELEBUS:1123894",
+    "vehicleMode": "BUS",
+    "code": "16189_23579",
+    "name": "Celje Kersnikova bol.",
+    "lat": 46.2349372,
+    "lon": 15.2635238,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123894",
+    "type": "BUS",
+    "opposite": "16189_23579",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kersnikovabol_8",
+    "merged_stop_ids": [
+      "CELEBUS:1123893",
+      "CELEBUS:1123894"
+    ],
+    "merged_codes": [
+      "16189_23578",
+      "16189_23579"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTU",
+    "gtfsId": "CELEBUS:1123895",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Kid.ul.Cink.",
+    "lat": 46.2353321,
+    "lon": 15.279579,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123895",
+    "type": "BUS",
+    "opposite": "CELEBUS:1123895",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kidulcink_9",
+    "merged_stop_ids": [
+      "CELEBUS:1123895",
+      "CELEBUS:1123896"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTY",
+    "gtfsId": "CELEBUS:1123896",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Kid.ul.Cink.",
+    "lat": 46.2351099,
+    "lon": 15.2808648,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123896",
+    "type": "BUS",
+    "opposite": "CELEBUS:1123896",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kidulcink_9",
+    "merged_stop_ids": [
+      "CELEBUS:1123895",
+      "CELEBUS:1123896"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTc",
+    "gtfsId": "CELEBUS:1123897",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Kid.ul.Emo",
+    "lat": 46.2351963,
+    "lon": 15.2768539,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123897",
+    "type": "BUS",
+    "opposite": "CELEBUS:1123897",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kidulemo_10",
+    "merged_stop_ids": [
+      "CELEBUS:1123897",
+      "CELEBUS:1123898"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTg",
+    "gtfsId": "CELEBUS:1123898",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Kid.ul.Emo",
+    "lat": 46.235428,
+    "lon": 15.2754361,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123898",
+    "type": "BUS",
+    "opposite": "CELEBUS:1123898",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kidulemo_10",
+    "merged_stop_ids": [
+      "CELEBUS:1123897",
+      "CELEBUS:1123898"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTk",
+    "gtfsId": "CELEBUS:1123899",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Kid.ul.STC",
+    "lat": 46.2347616,
+    "lon": 15.290378,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123899",
+    "type": "BUS",
+    "opposite": "CELEBUS:1123899",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kidulstc_11",
+    "merged_stop_ids": [
+      "CELEBUS:1123899",
+      "CELEBUS:1123900"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDA",
+    "gtfsId": "CELEBUS:1123900",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Kid.ul.STC",
+    "lat": 46.234575,
+    "lon": 15.2913805,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123900",
+    "type": "BUS",
+    "opposite": "CELEBUS:1123900",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kidulstc_11",
+    "merged_stop_ids": [
+      "CELEBUS:1123899",
+      "CELEBUS:1123900"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDE",
+    "gtfsId": "CELEBUS:1123901",
+    "vehicleMode": "BUS",
+    "code": "16185_23586",
+    "name": "Celje Kladivar",
+    "lat": 46.2400089,
+    "lon": 15.2640597,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123901",
+    "type": "BUS",
+    "opposite": "16185_23586",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kladivar_12",
+    "merged_stop_ids": [
+      "CELEBUS:1123901",
+      "CELEBUS:1123902"
+    ],
+    "merged_codes": [
+      "16185_23586",
+      "16185_23587"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDI",
+    "gtfsId": "CELEBUS:1123902",
+    "vehicleMode": "BUS",
+    "code": "16185_23587",
+    "name": "Celje Kladivar",
+    "lat": 46.2379318,
+    "lon": 15.2639539,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123902",
+    "type": "BUS",
+    "opposite": "16185_23587",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_kladivar_12",
+    "merged_stop_ids": [
+      "CELEBUS:1123901",
+      "CELEBUS:1123902"
+    ],
+    "merged_codes": [
+      "16185_23586",
+      "16185_23587"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDM",
+    "gtfsId": "CELEBUS:1123903",
+    "vehicleMode": "BUS",
+    "code": "16184_23588",
+    "name": "Celje Lava",
+    "lat": 46.2434974,
+    "lon": 15.2538765,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123903",
+    "type": "BUS",
+    "opposite": "16184_23588",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lava_13",
+    "merged_stop_ids": [
+      "CELEBUS:1123903",
+      "CELEBUS:1123904"
+    ],
+    "merged_codes": [
+      "16184_23588",
+      "16184_23589"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDQ",
+    "gtfsId": "CELEBUS:1123904",
+    "vehicleMode": "BUS",
+    "code": "16184_23589",
+    "name": "Celje Lava",
+    "lat": 46.2433923,
+    "lon": 15.2541322,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123904",
+    "type": "BUS",
+    "opposite": "16184_23589",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lava_13",
+    "merged_stop_ids": [
+      "CELEBUS:1123903",
+      "CELEBUS:1123904"
+    ],
+    "merged_codes": [
+      "16184_23588",
+      "16184_23589"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDU",
+    "gtfsId": "CELEBUS:1123905",
+    "vehicleMode": "BUS",
+    "code": "16183_23590",
+    "name": "Celje Lava most",
+    "lat": 46.247584,
+    "lon": 15.2534718,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123905",
+    "type": "BUS",
+    "opposite": "16183_23590",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lavamost_14",
+    "merged_stop_ids": [
+      "CELEBUS:1123905",
+      "CELEBUS:1168763"
+    ],
+    "merged_codes": [
+      "16183_23590"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDk",
+    "gtfsId": "CELEBUS:1123909",
+    "vehicleMode": "BUS",
+    "code": "16181_23594",
     "name": "Celje Citycenter",
     "lat": 46.2413191,
     "lon": 15.2758553,
-    "opposite": "16181_23594",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_citycenter_2",
+    "gtfs_id": "CELEBUS:1123909",
+    "type": "BUS",
+    "opposite": "16181_23594",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_citycenter_15",
     "merged_stop_ids": [
       "CELEBUS:1123909",
       "CELEBUS:1123910"
@@ -109,22 +796,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM5MTA",
-    "gtfs_id": "CELEBUS:1123910",
+    "gtfsId": "CELEBUS:1123910",
+    "vehicleMode": "BUS",
     "code": "16181_23595",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Citycenter",
     "lat": 46.2421659,
     "lon": 15.2761765,
-    "opposite": "16181_23595",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_citycenter_2",
+    "gtfs_id": "CELEBUS:1123910",
+    "type": "BUS",
+    "opposite": "16181_23595",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_citycenter_15",
     "merged_stop_ids": [
       "CELEBUS:1123909",
       "CELEBUS:1123910"
@@ -136,22 +826,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM5MTE",
-    "gtfs_id": "CELEBUS:1123911",
+    "gtfsId": "CELEBUS:1123911",
+    "vehicleMode": "BUS",
     "code": "16180_23596",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Gaberje",
     "lat": 46.2368932,
     "lon": 15.2724553,
-    "opposite": "16180_23596",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_gaberje_3",
+    "gtfs_id": "CELEBUS:1123911",
+    "type": "BUS",
+    "opposite": "16180_23596",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_gaberje_16",
     "merged_stop_ids": [
       "CELEBUS:1123911",
       "CELEBUS:1123912"
@@ -163,22 +856,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM5MTI",
-    "gtfs_id": "CELEBUS:1123912",
+    "gtfsId": "CELEBUS:1123912",
+    "vehicleMode": "BUS",
     "code": "16180_23597",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Gaberje",
     "lat": 46.2371074,
     "lon": 15.2723147,
-    "opposite": "16180_23597",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_gaberje_3",
+    "gtfs_id": "CELEBUS:1123912",
+    "type": "BUS",
+    "opposite": "16180_23597",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_gaberje_16",
     "merged_stop_ids": [
       "CELEBUS:1123911",
       "CELEBUS:1123912"
@@ -190,22 +886,41 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM5MTM",
-    "gtfs_id": "CELEBUS:1123913",
+    "gtfsId": "CELEBUS:1123913",
+    "vehicleMode": "BUS",
     "code": "16177_23598",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Metropol",
     "lat": 46.2299155,
     "lon": 15.2655706,
-    "opposite": "16177_23598",
     "routes": [
       {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      },
+      {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
       }
     ],
-    "hub_id": "hub_metropol_4",
+    "gtfs_id": "CELEBUS:1123913",
+    "type": "BUS",
+    "opposite": "16177_23598",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_metropol_17",
     "merged_stop_ids": [
       "CELEBUS:1123913"
     ],
@@ -214,23 +929,128 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM5MjI",
-    "gtfs_id": "CELEBUS:1123922",
-    "code": "16171_23607",
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MTU",
+    "gtfsId": "CELEBUS:1123915",
+    "vehicleMode": "BUS",
+    "code": "16176_23600",
+    "name": "Celje Nova vas",
+    "lat": 46.2483107,
+    "lon": 15.2617422,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123915",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "16176_23600",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_novavas_18",
+    "merged_stop_ids": [
+      "CELEBUS:1123915",
+      "CELEBUS:1167040"
+    ],
+    "merged_codes": [
+      "16176_23600",
+      "16176_50005"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MTY",
+    "gtfsId": "CELEBUS:1123916",
+    "vehicleMode": "BUS",
+    "code": "16175_23601",
+    "name": "Celje Nova vas K",
+    "lat": 46.2413418,
+    "lon": 15.2644445,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123916",
+    "type": "BUS",
+    "opposite": "16175_23601",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_novavask_19",
+    "merged_stop_ids": [
+      "CELEBUS:1123916",
+      "CELEBUS:1123917"
+    ],
+    "merged_codes": [
+      "16175_23601",
+      "16175_23602"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MTc",
+    "gtfsId": "CELEBUS:1123917",
+    "vehicleMode": "BUS",
+    "code": "16175_23602",
+    "name": "Celje Nova vas K",
+    "lat": 46.2429048,
+    "lon": 15.2636079,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1123917",
+    "type": "BUS",
+    "opposite": "16175_23602",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_novavask_19",
+    "merged_stop_ids": [
+      "CELEBUS:1123916",
+      "CELEBUS:1123917"
+    ],
+    "merged_codes": [
+      "16175_23601",
+      "16175_23602"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjM5MjI",
+    "gtfsId": "CELEBUS:1123922",
+    "vehicleMode": "BUS",
+    "code": "16171_23607",
     "name": "Celje pod gradom m.",
     "lat": 46.216007,
     "lon": 15.2643276,
-    "opposite": "16171_23607",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_podgradomm_5",
+    "gtfs_id": "CELEBUS:1123922",
+    "type": "BUS",
+    "opposite": "16171_23607",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_podgradomm_20",
     "merged_stop_ids": [
       "CELEBUS:1123922",
       "CELEBUS:1123923"
@@ -242,22 +1062,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM5MjM",
-    "gtfs_id": "CELEBUS:1123923",
+    "gtfsId": "CELEBUS:1123923",
+    "vehicleMode": "BUS",
     "code": "16171_23608",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje pod gradom m.",
     "lat": 46.2159864,
     "lon": 15.2641053,
-    "opposite": "16171_23608",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_podgradomm_5",
+    "gtfs_id": "CELEBUS:1123923",
+    "type": "BUS",
+    "opposite": "16171_23608",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_podgradomm_20",
     "merged_stop_ids": [
       "CELEBUS:1123922",
       "CELEBUS:1123923"
@@ -269,26 +1092,49 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM5MjY",
-    "gtfs_id": "CELEBUS:1123926",
+    "gtfsId": "CELEBUS:1123926",
+    "vehicleMode": "BUS",
     "code": "16166_23611",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje ŽP",
     "lat": 46.2280877,
     "lon": 15.2671869,
-    "opposite": "16166_23611",
     "routes": [
       {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      },
+      {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       },
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      },
+      {
+        "name": "10",
+        "color": "f15645"
       }
     ],
-    "hub_id": "hub_zp_6",
+    "gtfs_id": "CELEBUS:1123926",
+    "type": "BUS",
+    "opposite": "16166_23611",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zp_21",
     "merged_stop_ids": [
       "CELEBUS:1123926",
       "CELEBUS:1123927"
@@ -300,26 +1146,49 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExMjM5Mjc",
-    "gtfs_id": "CELEBUS:1123927",
+    "gtfsId": "CELEBUS:1123927",
+    "vehicleMode": "BUS",
     "code": "16166_23612",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje ŽP",
     "lat": 46.2279562,
     "lon": 15.2673824,
-    "opposite": "16166_23612",
     "routes": [
       {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      },
+      {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       },
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      },
+      {
+        "name": "10",
+        "color": "f15645"
       }
     ],
-    "hub_id": "hub_zp_6",
+    "gtfs_id": "CELEBUS:1123927",
+    "type": "BUS",
+    "opposite": "16166_23612",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zp_21",
     "merged_stop_ids": [
       "CELEBUS:1123926",
       "CELEBUS:1123927"
@@ -330,23 +1199,585 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNTE5NTc",
-    "gtfs_id": "CELEBUS:1151957",
-    "code": "15315_49980",
+    "id": "U3RvcDpDRUxFQlVTOjExMjUyNjE",
+    "gtfsId": "CELEBUS:1125261",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Gorica pri Šmartnem Kož.",
+    "lat": 46.27411,
+    "lon": 15.2387895,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1125261",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "CELEBUS:1125261",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_goricaprismartnemkoz_22",
+    "merged_stop_ids": [
+      "CELEBUS:1125261",
+      "CELEBUS:1125262"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjUyNjI",
+    "gtfsId": "CELEBUS:1125262",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Gorica pri Šmartnem Kož.",
+    "lat": 46.2741564,
+    "lon": 15.2386713,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1125262",
+    "type": "BUS",
+    "opposite": "CELEBUS:1125262",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_goricaprismartnemkoz_22",
+    "merged_stop_ids": [
+      "CELEBUS:1125261",
+      "CELEBUS:1125262"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjUyNjM",
+    "gtfsId": "CELEBUS:1125263",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Gorica pri Šmartnem Preš.",
+    "lat": 46.2785608,
+    "lon": 15.2387786,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1125263",
+    "type": "BUS",
+    "opposite": "CELEBUS:1125263",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_goricaprismartnempres_23",
+    "merged_stop_ids": [
+      "CELEBUS:1125263"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5MzA",
+    "gtfsId": "CELEBUS:1126930",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna GD",
+    "lat": 46.266045,
+    "lon": 15.318852,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126930",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126930",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnagd_24",
+    "merged_stop_ids": [
+      "CELEBUS:1126930"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5MzU",
+    "gtfsId": "CELEBUS:1126935",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna nadvoz",
+    "lat": 46.2539616,
+    "lon": 15.3237664,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126935",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126935",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnanadvoz_25",
+    "merged_stop_ids": [
+      "CELEBUS:1126935",
+      "CELEBUS:1126936"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5MzY",
+    "gtfsId": "CELEBUS:1126936",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna nadvoz",
+    "lat": 46.2538476,
+    "lon": 15.32366,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126936",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126936",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnanadvoz_25",
+    "merged_stop_ids": [
+      "CELEBUS:1126935",
+      "CELEBUS:1126936"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5Mzc",
+    "gtfsId": "CELEBUS:1126937",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna Opekarna",
+    "lat": 46.2623202,
+    "lon": 15.3203526,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126937",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126937",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnaopekarna_26",
+    "merged_stop_ids": [
+      "CELEBUS:1126937",
+      "CELEBUS:1126938"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5Mzg",
+    "gtfsId": "CELEBUS:1126938",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna Opekarna",
+    "lat": 46.2625146,
+    "lon": 15.3203429,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126938",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126938",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnaopekarna_26",
+    "merged_stop_ids": [
+      "CELEBUS:1126937",
+      "CELEBUS:1126938"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5Mzk",
+    "gtfsId": "CELEBUS:1126939",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna Podpečan",
+    "lat": 46.251798,
+    "lon": 15.3221649,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126939",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126939",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnapodpecan_27",
+    "merged_stop_ids": [
+      "CELEBUS:1126939",
+      "CELEBUS:1126940"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5NDA",
+    "gtfsId": "CELEBUS:1126940",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna Podpečan",
+    "lat": 46.2517594,
+    "lon": 15.322024,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126940",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126940",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnapodpecan_27",
+    "merged_stop_ids": [
+      "CELEBUS:1126939",
+      "CELEBUS:1126940"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5NDE",
+    "gtfsId": "CELEBUS:1126941",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna Ropan",
+    "lat": 46.2558296,
+    "lon": 15.3235333,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126941",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126941",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnaropan_28",
+    "merged_stop_ids": [
+      "CELEBUS:1126941",
+      "CELEBUS:1126942"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5NDI",
+    "gtfsId": "CELEBUS:1126942",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna Ropan",
+    "lat": 46.2559273,
+    "lon": 15.3236019,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126942",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126942",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnaropan_28",
+    "merged_stop_ids": [
+      "CELEBUS:1126941",
+      "CELEBUS:1126942"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjY5NDU",
+    "gtfsId": "CELEBUS:1126945",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna Šumer",
+    "lat": 46.2577534,
+    "lon": 15.3218723,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1126945",
+    "type": "BUS",
+    "opposite": "CELEBUS:1126945",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnasumer_29",
+    "merged_stop_ids": [
+      "CELEBUS:1126945"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjcxMTg",
+    "gtfsId": "CELEBUS:1127118",
+    "vehicleMode": "BUS",
+    "code": "12302_26651",
+    "name": "Lopata/Celju K",
+    "lat": 46.2642212,
+    "lon": 15.2314541,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1127118",
+    "type": "BUS",
+    "opposite": "12302_26651",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lopata_30",
+    "merged_stop_ids": [
+      "CELEBUS:1127118",
+      "CELEBUS:1127119"
+    ],
+    "merged_codes": [
+      "12302_26651",
+      "12302_26652"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjcxMTk",
+    "gtfsId": "CELEBUS:1127119",
+    "vehicleMode": "BUS",
+    "code": "12302_26652",
+    "name": "Lopata/Celju K",
+    "lat": 46.2639769,
+    "lon": 15.2312718,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1127119",
+    "type": "BUS",
+    "opposite": "12302_26652",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lopata_30",
+    "merged_stop_ids": [
+      "CELEBUS:1127118",
+      "CELEBUS:1127119"
+    ],
+    "merged_codes": [
+      "12302_26651",
+      "12302_26652"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjcxMjA",
+    "gtfsId": "CELEBUS:1127120",
+    "vehicleMode": "BUS",
+    "code": "12300_26653",
+    "name": "Lopata/Celju Šuperger",
+    "lat": 46.2579256,
+    "lon": 15.2350718,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1127120",
+    "type": "BUS",
+    "opposite": "12300_26653",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lopata_31",
+    "merged_stop_ids": [
+      "CELEBUS:1127120",
+      "CELEBUS:1127121"
+    ],
+    "merged_codes": [
+      "12300_26653",
+      "12300_26654"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMjcxMjE",
+    "gtfsId": "CELEBUS:1127121",
+    "vehicleMode": "BUS",
+    "code": "12300_26654",
+    "name": "Lopata/Celju Šuperger",
+    "lat": 46.2577372,
+    "lon": 15.2348288,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1127121",
+    "type": "BUS",
+    "opposite": "12300_26654",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lopata_31",
+    "merged_stop_ids": [
+      "CELEBUS:1127120",
+      "CELEBUS:1127121"
+    ],
+    "merged_codes": [
+      "12300_26653",
+      "12300_26654"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMzE4NzE",
+    "gtfsId": "CELEBUS:1131871",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Začret",
+    "lat": 46.2496223,
+    "lon": 15.3208318,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1131871",
+    "type": "BUS",
+    "opposite": "CELEBUS:1131871",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zacret_32",
+    "merged_stop_ids": [
+      "CELEBUS:1131871",
+      "CELEBUS:1131872"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMzE4NzI",
+    "gtfsId": "CELEBUS:1131872",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Začret",
+    "lat": 46.249602,
+    "lon": 15.320925,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1131872",
+    "type": "BUS",
+    "opposite": "CELEBUS:1131872",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zacret_32",
+    "merged_stop_ids": [
+      "CELEBUS:1131871",
+      "CELEBUS:1131872"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMzE4NzM",
+    "gtfsId": "CELEBUS:1131873",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Začret K",
+    "lat": 46.2482077,
+    "lon": 15.3134142,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1131873",
+    "type": "BUS",
+    "opposite": "CELEBUS:1131873",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zacretk_33",
+    "merged_stop_ids": [
+      "CELEBUS:1131873",
+      "CELEBUS:1131874"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExMzE4NzQ",
+    "gtfsId": "CELEBUS:1131874",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Začret K",
+    "lat": 46.2480062,
+    "lon": 15.3132828,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1131874",
+    "type": "BUS",
+    "opposite": "CELEBUS:1131874",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zacretk_33",
+    "merged_stop_ids": [
+      "CELEBUS:1131873",
+      "CELEBUS:1131874"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNTE5NTc",
+    "gtfsId": "CELEBUS:1151957",
+    "vehicleMode": "BUS",
+    "code": "15315_49980",
     "name": "Zg.Hudinja ul.fran.žrtev",
     "lat": 46.251375,
     "lon": 15.276145,
-    "opposite": "15315_49980",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_zghudinjaulfranzrtev_7",
+    "gtfs_id": "CELEBUS:1151957",
+    "type": "BUS",
+    "opposite": "15315_49980",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zghudinjaulfranzrtev_34",
     "merged_stop_ids": [
       "CELEBUS:1151957"
     ],
@@ -355,23 +1786,54 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjI4ODg",
-    "gtfs_id": "CELEBUS:1162888",
-    "code": "16178_49978",
+    "id": "U3RvcDpDRUxFQlVTOjExNjI1OTQ",
+    "gtfsId": "CELEBUS:1162594",
+    "vehicleMode": "BUS",
+    "code": "12319_49215",
+    "name": "Lokrovec Čerčnik",
+    "lat": 46.261045,
+    "lon": 15.254792,
+    "routes": [
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1162594",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "12319_49215",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lokroveccercnik_35",
+    "merged_stop_ids": [
+      "CELEBUS:1162594"
+    ],
+    "merged_codes": [
+      "12319_49215"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjI4ODg",
+    "gtfsId": "CELEBUS:1162888",
+    "vehicleMode": "BUS",
+    "code": "16178_49978",
     "name": "Celje Mercator center",
     "lat": 46.2476563,
     "lon": 15.2714846,
-    "opposite": "16178_49978",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_mercatorcenter_8",
+    "gtfs_id": "CELEBUS:1162888",
+    "type": "BUS",
+    "opposite": "16178_49978",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_mercatorcenter_36",
     "merged_stop_ids": [
       "CELEBUS:1162888"
     ],
@@ -381,22 +1843,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjI4ODk",
-    "gtfs_id": "CELEBUS:1162889",
+    "gtfsId": "CELEBUS:1162889",
+    "vehicleMode": "BUS",
     "code": "16170_49973",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Podjavorškova ul.",
     "lat": 46.2463157,
     "lon": 15.2760831,
-    "opposite": "16170_49973",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_podjavorskovaul_9",
+    "gtfs_id": "CELEBUS:1162889",
+    "type": "BUS",
+    "opposite": "16170_49973",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_podjavorskovaul_37",
     "merged_stop_ids": [
       "CELEBUS:1162889"
     ],
@@ -405,23 +1870,150 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTY",
-    "gtfs_id": "CELEBUS:1166396",
-    "code": null,
+    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTA",
+    "gtfsId": "CELEBUS:1166390",
+    "vehicleMode": "BUS",
+    "code": "13508_48869",
+    "name": "Celje Ostrožno GD",
+    "lat": 46.2511876,
+    "lon": 15.2484307,
+    "routes": [
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1166390",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "13508_48869",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ostroznogd_38",
+    "merged_stop_ids": [
+      "CELEBUS:1166390"
+    ],
+    "merged_codes": [
+      "13508_48869"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTM",
+    "gtfsId": "CELEBUS:1166393",
+    "vehicleMode": "BUS",
+    "code": "13510_48868",
+    "name": "Celje Ostrožno Antloga",
+    "lat": 46.2519734,
+    "lon": 15.2520049,
+    "routes": [
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1166393",
+    "type": "BUS",
+    "opposite": "13510_48868",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ostroznoantloga_39",
+    "merged_stop_ids": [
+      "CELEBUS:1166393"
+    ],
+    "merged_codes": [
+      "13510_48868"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTQ",
+    "gtfsId": "CELEBUS:1166394",
+    "vehicleMode": "BUS",
+    "code": "13506_48871",
+    "name": "Celje Ostrožno Vedenik",
+    "lat": 46.2499991,
+    "lon": 15.2501498,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1166394",
+    "type": "BUS",
+    "opposite": "13506_48871",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ostroznovedenik_40",
+    "merged_stop_ids": [
+      "CELEBUS:1166394",
+      "CELEBUS:1166395"
+    ],
+    "merged_codes": [
+      "13506_48871",
+      "13506_48872"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTU",
+    "gtfsId": "CELEBUS:1166395",
+    "vehicleMode": "BUS",
+    "code": "13506_48872",
+    "name": "Celje Ostrožno Vedenik",
+    "lat": 46.2499557,
+    "lon": 15.2505886,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1166395",
+    "type": "BUS",
+    "opposite": "13506_48872",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ostroznovedenik_40",
+    "merged_stop_ids": [
+      "CELEBUS:1166394",
+      "CELEBUS:1166395"
+    ],
+    "merged_codes": [
+      "13506_48871",
+      "13506_48872"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTY",
+    "gtfsId": "CELEBUS:1166396",
+    "vehicleMode": "BUS",
+    "code": null,
     "name": "Celje Polule",
     "lat": 46.2159717,
     "lon": 15.2622356,
-    "opposite": "CELEBUS:1166396",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_polule_10",
+    "gtfs_id": "CELEBUS:1166396",
+    "type": "BUS",
+    "opposite": "CELEBUS:1166396",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_polule_41",
     "merged_stop_ids": [
       "CELEBUS:1166396",
       "CELEBUS:1166397"
@@ -429,22 +2021,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjYzOTc",
-    "gtfs_id": "CELEBUS:1166397",
+    "gtfsId": "CELEBUS:1166397",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Polule",
     "lat": 46.2160085,
     "lon": 15.2624662,
-    "opposite": "CELEBUS:1166397",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_polule_10",
+    "gtfs_id": "CELEBUS:1166397",
+    "type": "BUS",
+    "opposite": "CELEBUS:1166397",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_polule_41",
     "merged_stop_ids": [
       "CELEBUS:1166396",
       "CELEBUS:1166397"
@@ -452,22 +2047,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MDY",
-    "gtfs_id": "CELEBUS:1166406",
+    "gtfsId": "CELEBUS:1166406",
+    "vehicleMode": "BUS",
     "code": "10158_49310",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Sp.Hudinja",
     "lat": 46.2450953,
     "lon": 15.2780011,
-    "opposite": "10158_49310",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_sphudinja_11",
+    "gtfs_id": "CELEBUS:1166406",
+    "type": "BUS",
+    "opposite": "10158_49310",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_sphudinja_42",
     "merged_stop_ids": [
       "CELEBUS:1166406",
       "CELEBUS:1166407"
@@ -479,22 +2077,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MDc",
-    "gtfs_id": "CELEBUS:1166407",
+    "gtfsId": "CELEBUS:1166407",
+    "vehicleMode": "BUS",
     "code": "10158_49311",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Sp.Hudinja",
     "lat": 46.2460362,
     "lon": 15.2790577,
-    "opposite": "10158_49311",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_sphudinja_11",
+    "gtfs_id": "CELEBUS:1166407",
+    "type": "BUS",
+    "opposite": "10158_49311",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_sphudinja_42",
     "merged_stop_ids": [
       "CELEBUS:1166406",
       "CELEBUS:1166407"
@@ -506,22 +2107,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MTA",
-    "gtfs_id": "CELEBUS:1166410",
+    "gtfsId": "CELEBUS:1166410",
+    "vehicleMode": "BUS",
     "code": "11472_49314",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Zagrad",
     "lat": 46.2122593,
     "lon": 15.2782373,
-    "opposite": "11472_49314",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_zagrad_12",
+    "gtfs_id": "CELEBUS:1166410",
+    "type": "BUS",
+    "opposite": "11472_49314",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zagrad_43",
     "merged_stop_ids": [
       "CELEBUS:1166410"
     ],
@@ -531,22 +2135,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MTE",
-    "gtfs_id": "CELEBUS:1166411",
+    "gtfsId": "CELEBUS:1166411",
+    "vehicleMode": "BUS",
     "code": "11470_49315",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Zagrad gostilna",
     "lat": 46.2112928,
     "lon": 15.2661564,
-    "opposite": "11470_49315",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradgostilna_13",
+    "gtfs_id": "CELEBUS:1166411",
+    "type": "BUS",
+    "opposite": "11470_49315",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zagradgostilna_44",
     "merged_stop_ids": [
       "CELEBUS:1166411",
       "CELEBUS:1166412"
@@ -558,22 +2165,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MTI",
-    "gtfs_id": "CELEBUS:1166412",
+    "gtfsId": "CELEBUS:1166412",
+    "vehicleMode": "BUS",
     "code": "11470_49316",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Zagrad gostilna",
     "lat": 46.2114126,
     "lon": 15.2665693,
-    "opposite": "11470_49316",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradgostilna_13",
+    "gtfs_id": "CELEBUS:1166412",
+    "type": "BUS",
+    "opposite": "11470_49316",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zagradgostilna_44",
     "merged_stop_ids": [
       "CELEBUS:1166411",
       "CELEBUS:1166412"
@@ -585,22 +2195,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MTU",
-    "gtfs_id": "CELEBUS:1166415",
+    "gtfsId": "CELEBUS:1166415",
+    "vehicleMode": "BUS",
     "code": "11468_49319",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Zagrad Žična",
     "lat": 46.2112525,
     "lon": 15.2698592,
-    "opposite": "11468_49319",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradzicna_14",
+    "gtfs_id": "CELEBUS:1166415",
+    "type": "BUS",
+    "opposite": "11468_49319",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zagradzicna_45",
     "merged_stop_ids": [
       "CELEBUS:1166415",
       "CELEBUS:1166416"
@@ -612,22 +2225,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MTY",
-    "gtfs_id": "CELEBUS:1166416",
+    "gtfsId": "CELEBUS:1166416",
+    "vehicleMode": "BUS",
     "code": "11468_49320",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Zagrad Žična",
     "lat": 46.2112802,
     "lon": 15.2699758,
-    "opposite": "11468_49320",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradzicna_14",
+    "gtfs_id": "CELEBUS:1166416",
+    "type": "BUS",
+    "opposite": "11468_49320",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zagradzicna_45",
     "merged_stop_ids": [
       "CELEBUS:1166415",
       "CELEBUS:1166416"
@@ -639,22 +2255,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY0MTg",
-    "gtfs_id": "CELEBUS:1166418",
+    "gtfsId": "CELEBUS:1166418",
+    "vehicleMode": "BUS",
     "code": "15317_49322",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Zg.Hudinja",
     "lat": 46.2500601,
     "lon": 15.2802877,
-    "opposite": "15317_49322",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_zghudinja_15",
+    "gtfs_id": "CELEBUS:1166418",
+    "type": "BUS",
+    "opposite": "15317_49322",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zghudinja_46",
     "merged_stop_ids": [
       "CELEBUS:1166418"
     ],
@@ -663,23 +2282,86 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjY3ODc",
-    "gtfs_id": "CELEBUS:1166787",
-    "code": "12945_49834",
+    "id": "U3RvcDpDRUxFQlVTOjExNjY3ODM",
+    "gtfsId": "CELEBUS:1166783",
+    "vehicleMode": "BUS",
+    "code": "13509_49405",
+    "name": "Celje Ostrožno Fazarinc",
+    "lat": 46.2516814,
+    "lon": 15.2455825,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1166783",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "13509_49405",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ostroznofazarinc_47",
+    "merged_stop_ids": [
+      "CELEBUS:1166783",
+      "CELEBUS:1166784"
+    ],
+    "merged_codes": [
+      "13509_49405",
+      "13509_49406"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjY3ODQ",
+    "gtfsId": "CELEBUS:1166784",
+    "vehicleMode": "BUS",
+    "code": "13509_49406",
+    "name": "Celje Ostrožno Fazarinc",
+    "lat": 46.2517456,
+    "lon": 15.2457266,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1166784",
+    "type": "BUS",
+    "opposite": "13509_49406",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ostroznofazarinc_47",
+    "merged_stop_ids": [
+      "CELEBUS:1166783",
+      "CELEBUS:1166784"
+    ],
+    "merged_codes": [
+      "13509_49405",
+      "13509_49406"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjY3ODc",
+    "gtfsId": "CELEBUS:1166787",
+    "vehicleMode": "BUS",
+    "code": "12945_49834",
     "name": "Škofja vas Etol",
     "lat": 46.2668499,
     "lon": 15.2846985,
-    "opposite": "12945_49834",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_skofjavasetol_16",
+    "gtfs_id": "CELEBUS:1166787",
+    "type": "BUS",
+    "opposite": "12945_49834",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_skofjavasetol_48",
     "merged_stop_ids": [
       "CELEBUS:1166787",
       "CELEBUS:1166788"
@@ -691,22 +2373,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjY3ODg",
-    "gtfs_id": "CELEBUS:1166788",
+    "gtfsId": "CELEBUS:1166788",
+    "vehicleMode": "BUS",
     "code": "12945_49835",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Škofja vas Etol",
     "lat": 46.2664112,
     "lon": 15.2844375,
-    "opposite": "12945_49835",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_skofjavasetol_16",
+    "gtfs_id": "CELEBUS:1166788",
+    "type": "BUS",
+    "opposite": "12945_49835",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_skofjavasetol_48",
     "merged_stop_ids": [
       "CELEBUS:1166787",
       "CELEBUS:1166788"
@@ -718,22 +2403,45 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjcwMjE",
-    "gtfs_id": "CELEBUS:1167021",
+    "gtfsId": "CELEBUS:1167021",
+    "vehicleMode": "BUS",
     "code": "16210_49949",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celeiapark",
     "lat": 46.230526,
     "lon": 15.267591,
-    "opposite": "16210_49949",
     "routes": [
       {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      },
+      {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      },
+      {
+        "name": "10",
+        "color": "f15645"
       }
     ],
-    "hub_id": "hub_celeiapark_1",
+    "gtfs_id": "CELEBUS:1167021",
+    "type": "BUS",
+    "opposite": "16210_49949",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_celeiapark_6",
     "merged_stop_ids": [
       "CELEBUS:1123880",
       "CELEBUS:1167021"
@@ -744,23 +2452,353 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjM",
-    "gtfs_id": "CELEBUS:1168363",
-    "code": "16193_48860",
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwMzc",
+    "gtfsId": "CELEBUS:1167037",
+    "vehicleMode": "BUS",
+    "code": "16174_50004",
+    "name": "Celje Nova vas Lidl.",
+    "lat": 46.250506,
+    "lon": 15.260009,
+    "routes": [
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167037",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "16174_50004",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_novavaslidl_49",
+    "merged_stop_ids": [
+      "CELEBUS:1167037"
+    ],
+    "merged_codes": [
+      "16174_50004"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwMzg",
+    "gtfsId": "CELEBUS:1167038",
+    "vehicleMode": "BUS",
+    "code": "20753_50007",
+    "name": "Dobrova pri Celju",
+    "lat": 46.2541969,
+    "lon": 15.2600066,
+    "routes": [
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167038",
+    "type": "BUS",
+    "opposite": "20753_50007",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_dobrovapricelju_50",
+    "merged_stop_ids": [
+      "CELEBUS:1167038"
+    ],
+    "merged_codes": [
+      "20753_50007"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDA",
+    "gtfsId": "CELEBUS:1167040",
+    "vehicleMode": "BUS",
+    "code": "16176_50005",
+    "name": "Celje Nova vas",
+    "lat": 46.2484316,
+    "lon": 15.2614494,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167040",
+    "type": "BUS",
+    "opposite": "16176_50005",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_novavas_18",
+    "merged_stop_ids": [
+      "CELEBUS:1123915",
+      "CELEBUS:1167040"
+    ],
+    "merged_codes": [
+      "16176_23600",
+      "16176_50005"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDI",
+    "gtfsId": "CELEBUS:1167042",
+    "vehicleMode": "BUS",
+    "code": "20760_50029",
+    "name": "Lopata/Celju",
+    "lat": 46.267245,
+    "lon": 15.231823,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167042",
+    "type": "BUS",
+    "opposite": "20760_50029",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lopata_51",
+    "merged_stop_ids": [
+      "CELEBUS:1167042"
+    ],
+    "merged_codes": [
+      "20760_50029"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDM",
+    "gtfsId": "CELEBUS:1167043",
+    "vehicleMode": "BUS",
+    "code": "20761_50030",
+    "name": "Celje Medlog kapelica",
+    "lat": 46.253565,
+    "lon": 15.222422,
+    "routes": [
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167043",
+    "type": "BUS",
+    "opposite": "20761_50030",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_medlogkapelica_52",
+    "merged_stop_ids": [
+      "CELEBUS:1167043"
+    ],
+    "merged_codes": [
+      "20761_50030"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDQ",
+    "gtfsId": "CELEBUS:1167044",
+    "vehicleMode": "BUS",
+    "code": "20762_50031",
+    "name": "Celje Medlog",
+    "lat": 46.249573,
+    "lon": 15.229011,
+    "routes": [
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167044",
+    "type": "BUS",
+    "opposite": "20762_50031",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_medlog_53",
+    "merged_stop_ids": [
+      "CELEBUS:1167044"
+    ],
+    "merged_codes": [
+      "20762_50031"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDU",
+    "gtfsId": "CELEBUS:1167045",
+    "vehicleMode": "BUS",
+    "code": "20763_50032",
+    "name": "Celje Babno",
+    "lat": 46.246579,
+    "lon": 15.233804,
+    "routes": [
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167045",
+    "type": "BUS",
+    "opposite": "20763_50032",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_babno_54",
+    "merged_stop_ids": [
+      "CELEBUS:1167045"
+    ],
+    "merged_codes": [
+      "20763_50032"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDY",
+    "gtfsId": "CELEBUS:1167046",
+    "vehicleMode": "BUS",
+    "code": "20764_50033",
+    "name": "Celje Babno Kravanja",
+    "lat": 46.244048,
+    "lon": 15.239497,
+    "routes": [
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167046",
+    "type": "BUS",
+    "opposite": "20764_50033",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_babnokravanja_55",
+    "merged_stop_ids": [
+      "CELEBUS:1167046",
+      "CELEBUS:1168487"
+    ],
+    "merged_codes": [
+      "20764_50033"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDc",
+    "gtfsId": "CELEBUS:1167047",
+    "vehicleMode": "BUS",
+    "code": "20765_50034",
+    "name": "Celje Ložnica bloki",
+    "lat": 46.240057,
+    "lon": 15.244488,
+    "routes": [
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167047",
+    "type": "BUS",
+    "opposite": "20765_50034",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_loznicabloki_56",
+    "merged_stop_ids": [
+      "CELEBUS:1167047"
+    ],
+    "merged_codes": [
+      "20765_50034"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjc2OTM",
+    "gtfsId": "CELEBUS:1167693",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Slance",
+    "lat": 46.233396,
+    "lon": 15.304915,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167693",
+    "type": "BUS",
+    "opposite": "CELEBUS:1167693",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_slance_57",
+    "merged_stop_ids": [
+      "CELEBUS:1167693",
+      "CELEBUS:1167694"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjc2OTQ",
+    "gtfsId": "CELEBUS:1167694",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Slance",
+    "lat": 46.234111,
+    "lon": 15.305922,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1167694",
+    "type": "BUS",
+    "opposite": "CELEBUS:1167694",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_slance_57",
+    "merged_stop_ids": [
+      "CELEBUS:1167693",
+      "CELEBUS:1167694"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjM",
+    "gtfsId": "CELEBUS:1168363",
+    "vehicleMode": "BUS",
+    "code": "16193_48860",
     "name": "Celje gimnazija",
     "lat": 46.2322376,
     "lon": 15.2643003,
-    "opposite": "16193_48860",
     "routes": [
       {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      },
+      {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
       }
     ],
-    "hub_id": "hub_gimnazija_17",
+    "gtfs_id": "CELEBUS:1168363",
+    "type": "BUS",
+    "opposite": "16193_48860",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_gimnazija_58",
     "merged_stop_ids": [
       "CELEBUS:1168363"
     ],
@@ -769,23 +2807,199 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0NzI",
-    "gtfs_id": "CELEBUS:1168472",
-    "code": null,
+    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjQ",
+    "gtfsId": "CELEBUS:1168364",
+    "vehicleMode": "BUS",
+    "code": "16173_51152",
+    "name": "Celje Nova vas trgovina",
+    "lat": 46.2458613,
+    "lon": 15.2622966,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168364",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "16173_51152",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_novavastrgovina_59",
+    "merged_stop_ids": [
+      "CELEBUS:1168364",
+      "CELEBUS:1168365"
+    ],
+    "merged_codes": [
+      "16173_51152",
+      "16173_51153"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjU",
+    "gtfsId": "CELEBUS:1168365",
+    "vehicleMode": "BUS",
+    "code": "16173_51153",
+    "name": "Celje Nova vas trgovina",
+    "lat": 46.2456882,
+    "lon": 15.2625797,
+    "routes": [
+      {
+        "name": "2A",
+        "color": "ffcb04"
+      },
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168365",
+    "type": "BUS",
+    "opposite": "16173_51153",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_novavastrgovina_59",
+    "merged_stop_ids": [
+      "CELEBUS:1168364",
+      "CELEBUS:1168365"
+    ],
+    "merged_codes": [
+      "16173_51152",
+      "16173_51153"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjc",
+    "gtfsId": "CELEBUS:1168367",
+    "vehicleMode": "BUS",
+    "code": "12318_26630",
+    "name": "Celje Lokrovec K",
+    "lat": 46.2565196,
+    "lon": 15.2565348,
+    "routes": [
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168367",
+    "type": "BUS",
+    "opposite": "12318_26630",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lokroveck_60",
+    "merged_stop_ids": [
+      "CELEBUS:1168367"
+    ],
+    "merged_codes": [
+      "12318_26630"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjg",
+    "gtfsId": "CELEBUS:1168368",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Trnovlje pri Celju Gaji",
+    "lat": 46.243882,
+    "lon": 15.3023663,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168368",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168368",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_trnovljepriceljugaji_61",
+    "merged_stop_ids": [
+      "CELEBUS:1168368",
+      "CELEBUS:1168369"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjk",
+    "gtfsId": "CELEBUS:1168369",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Trnovlje pri Celju Gaji",
+    "lat": 46.2439796,
+    "lon": 15.3023806,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168369",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168369",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_trnovljepriceljugaji_61",
+    "merged_stop_ids": [
+      "CELEBUS:1168368",
+      "CELEBUS:1168369"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0Njg",
+    "gtfsId": "CELEBUS:1168468",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Dobrova K %28Celje%29",
+    "lat": 46.261233,
+    "lon": 15.259547,
+    "routes": [
+      {
+        "name": "2B",
+        "color": "ffd44f"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168468",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168468",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_dobrovak28celje29_62",
+    "merged_stop_ids": [
+      "CELEBUS:1168468"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0NzI",
+    "gtfsId": "CELEBUS:1168472",
+    "vehicleMode": "BUS",
+    "code": null,
     "name": "Celje Zagrad strelišče",
     "lat": 46.2112927,
     "lon": 15.2752737,
-    "opposite": "CELEBUS:1168472",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradstrelisce_18",
+    "gtfs_id": "CELEBUS:1168472",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168472",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zagradstrelisce_63",
     "merged_stop_ids": [
       "CELEBUS:1168472",
       "CELEBUS:1168475"
@@ -793,45 +3007,111 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjg0NzU",
-    "gtfs_id": "CELEBUS:1168475",
+    "gtfsId": "CELEBUS:1168475",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Zagrad strelišče",
     "lat": 46.2115024,
     "lon": 15.2755835,
-    "opposite": "CELEBUS:1168475",
     "routes": [
       {
         "name": "6",
-        "color": "#6eb0ad"
+        "color": "6eb0ad"
       }
     ],
-    "hub_id": "hub_zagradstrelisce_18",
+    "gtfs_id": "CELEBUS:1168475",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168475",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_zagradstrelisce_63",
     "merged_stop_ids": [
       "CELEBUS:1168472",
       "CELEBUS:1168475"
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODE",
-    "gtfs_id": "CELEBUS:1168481",
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0Nzk",
+    "gtfsId": "CELEBUS:1168479",
+    "vehicleMode": "BUS",
     "code": null,
+    "name": "Celje Čopova transformator",
+    "lat": 46.236082,
+    "lon": 15.253809,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168479",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "CELEBUS:1168479",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_copovatransformator_64",
+    "merged_stop_ids": [
+      "CELEBUS:1168479",
+      "CELEBUS:1168480"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODA",
+    "gtfsId": "CELEBUS:1168480",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Čopova transformator",
+    "lat": 46.235399,
+    "lon": 15.253585,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168480",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168480",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_copovatransformator_64",
+    "merged_stop_ids": [
+      "CELEBUS:1168479",
+      "CELEBUS:1168480"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODE",
+    "gtfsId": "CELEBUS:1168481",
+    "vehicleMode": "BUS",
+    "code": null,
     "name": "Šmarjeta pri Celju Prekorje",
     "lat": 46.263847,
     "lon": 15.28329,
-    "opposite": "CELEBUS:1168481",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_smarjetapriceljuprekorje_19",
+    "gtfs_id": "CELEBUS:1168481",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168481",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_smarjetapriceljuprekorje_65",
     "merged_stop_ids": [
       "CELEBUS:1168481",
       "CELEBUS:1168482"
@@ -839,22 +3119,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjg0ODI",
-    "gtfs_id": "CELEBUS:1168482",
+    "gtfsId": "CELEBUS:1168482",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Šmarjeta pri Celju Prekorje",
     "lat": 46.263266,
     "lon": 15.282948,
-    "opposite": "CELEBUS:1168482",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_smarjetapriceljuprekorje_19",
+    "gtfs_id": "CELEBUS:1168482",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168482",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_smarjetapriceljuprekorje_65",
     "merged_stop_ids": [
       "CELEBUS:1168481",
       "CELEBUS:1168482"
@@ -862,22 +3145,25 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjg0ODM",
-    "gtfs_id": "CELEBUS:1168483",
+    "gtfsId": "CELEBUS:1168483",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Šmarjeta",
     "lat": 46.256473,
     "lon": 15.283354,
-    "opposite": "CELEBUS:1168483",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_smarjeta_20",
+    "gtfs_id": "CELEBUS:1168483",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168483",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_smarjeta_66",
     "merged_stop_ids": [
       "CELEBUS:1168483",
       "CELEBUS:1168484"
@@ -885,47 +3171,248 @@
   },
   {
     "id": "U3RvcDpDRUxFQlVTOjExNjg0ODQ",
-    "gtfs_id": "CELEBUS:1168484",
+    "gtfsId": "CELEBUS:1168484",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
     "name": "Celje Šmarjeta",
     "lat": 46.257055,
     "lon": 15.283792,
-    "opposite": "CELEBUS:1168484",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_smarjeta_20",
+    "gtfs_id": "CELEBUS:1168484",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168484",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_smarjeta_66",
     "merged_stop_ids": [
       "CELEBUS:1168483",
       "CELEBUS:1168484"
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODg",
-    "gtfs_id": "CELEBUS:1168488",
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODU",
+    "gtfsId": "CELEBUS:1168485",
+    "vehicleMode": "BUS",
     "code": null,
+    "name": "Celje Ostrožno Irmančnik",
+    "lat": 46.253997,
+    "lon": 15.240519,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168485",
     "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
+    "opposite": "CELEBUS:1168485",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ostroznoirmancnik_67",
+    "merged_stop_ids": [
+      "CELEBUS:1168485",
+      "CELEBUS:1168486"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODY",
+    "gtfsId": "CELEBUS:1168486",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Ostrožno Irmančnik",
+    "lat": 46.253319,
+    "lon": 15.241838,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168486",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168486",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ostroznoirmancnik_67",
+    "merged_stop_ids": [
+      "CELEBUS:1168485",
+      "CELEBUS:1168486"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODc",
+    "gtfsId": "CELEBUS:1168487",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Babno Kravanja",
+    "lat": 46.243913,
+    "lon": 15.239624,
+    "routes": [
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168487",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168487",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_babnokravanja_55",
+    "merged_stop_ids": [
+      "CELEBUS:1167046",
+      "CELEBUS:1168487"
+    ],
+    "merged_codes": [
+      "20764_50033"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg0ODg",
+    "gtfsId": "CELEBUS:1168488",
+    "vehicleMode": "BUS",
+    "code": null,
     "name": "Škofja vas",
     "lat": 46.270422,
     "lon": 15.291328,
-    "opposite": "CELEBUS:1168488",
     "routes": [
       {
         "name": "3",
-        "color": "#26aae1"
+        "color": "26aae1"
       }
     ],
-    "hub_id": "hub_skofjavas_21",
+    "gtfs_id": "CELEBUS:1168488",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168488",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_skofjavas_68",
     "merged_stop_ids": [
       "CELEBUS:1168488"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg2OTA",
+    "gtfsId": "CELEBUS:1168690",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Ljubečna OŠ",
+    "lat": 46.259531,
+    "lon": 15.320287,
+    "routes": [
+      {
+        "name": "10",
+        "color": "f15645"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168690",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168690",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_ljubecnaos_69",
+    "merged_stop_ids": [
+      "CELEBUS:1168690"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg3NjE",
+    "gtfsId": "CELEBUS:1168761",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Glazija",
+    "lat": 46.2317492,
+    "lon": 15.2595342,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168761",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168761",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_glazija_70",
+    "merged_stop_ids": [
+      "CELEBUS:1168761",
+      "CELEBUS:1168762"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg3NjI",
+    "gtfsId": "CELEBUS:1168762",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Glazija",
+    "lat": 46.2324972,
+    "lon": 15.2584274,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      },
+      {
+        "name": "7",
+        "color": "a97c50"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168762",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168762",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_glazija_70",
+    "merged_stop_ids": [
+      "CELEBUS:1168761",
+      "CELEBUS:1168762"
+    ]
+  },
+  {
+    "id": "U3RvcDpDRUxFQlVTOjExNjg3NjM",
+    "gtfsId": "CELEBUS:1168763",
+    "vehicleMode": "BUS",
+    "code": null,
+    "name": "Celje Lava most",
+    "lat": 46.2487899,
+    "lon": 15.2538398,
+    "routes": [
+      {
+        "name": "1B",
+        "color": "559384"
+      }
+    ],
+    "gtfs_id": "CELEBUS:1168763",
+    "type": "BUS",
+    "opposite": "CELEBUS:1168763",
+    "agencies": [
+      "CELEBUS:1"
+    ],
+    "hub_id": "hub_lavamost_14",
+    "merged_stop_ids": [
+      "CELEBUS:1123905",
+      "CELEBUS:1168763"
+    ],
+    "merged_codes": [
+      "16183_23590"
     ]
   }
 ]

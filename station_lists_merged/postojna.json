@@ -1,20 +1,23 @@
 [
   {
     "id": "U3RvcDpQb3N0b2puYTo2YXpp",
-    "gtfs_id": "Postojna:6azi",
+    "gtfsId": "Postojna:6azi",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Zagon",
     "lat": 45.79794,
     "lon": 14.177989,
-    "opposite": "Postojna:6azi",
     "routes": [
       {
         "name": "26",
-        "color": "#FD4097"
+        "color": "FD4097"
       }
+    ],
+    "gtfs_id": "Postojna:6azi",
+    "type": "BUS",
+    "opposite": "Postojna:6azi",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_zagon_0",
     "merged_stop_ids": [
@@ -23,24 +26,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTo3Y21m",
-    "gtfs_id": "Postojna:7cmf",
+    "gtfsId": "Postojna:7cmf",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Park pri pošti/Hotel Kras",
     "lat": 45.774846,
     "lon": 14.213219,
-    "opposite": "Postojna:7cmf",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "26",
-        "color": "#FD4097"
+        "color": "FD4097"
       }
+    ],
+    "gtfs_id": "Postojna:7cmf",
+    "type": "BUS",
+    "opposite": "Postojna:7cmf",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_parkpriposti_1",
     "merged_stop_ids": [
@@ -49,20 +55,23 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpjbDdv",
-    "gtfs_id": "Postojna:cl7o",
+    "gtfsId": "Postojna:cl7o",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Veliki Otok",
     "lat": 45.783897,
     "lon": 14.197762,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       }
+    ],
+    "gtfs_id": "Postojna:cl7o",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_velikiotok_2",
     "merged_stop_ids": [
@@ -71,32 +80,35 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTplcHRr",
-    "gtfs_id": "Postojna:eptk",
+    "gtfsId": "Postojna:eptk",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Poljane",
     "lat": 45.782463,
     "lon": 14.215649,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:eptk",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_poljane_3",
     "merged_stop_ids": [
@@ -105,20 +117,23 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpneXRh",
-    "gtfs_id": "Postojna:gyta",
+    "gtfsId": "Postojna:gyta",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Inkubator",
     "lat": 45.785348,
     "lon": 14.195886,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       }
+    ],
+    "gtfs_id": "Postojna:gyta",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_inkubator_4",
     "merged_stop_ids": [
@@ -127,24 +142,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpsZHhi",
-    "gtfs_id": "Postojna:ldxb",
+    "gtfsId": "Postojna:ldxb",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Tuš",
     "lat": 45.768366,
     "lon": 14.215386,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       }
+    ],
+    "gtfs_id": "Postojna:ldxb",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_tus_5",
     "merged_stop_ids": [
@@ -153,20 +171,23 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpsaHNj",
-    "gtfs_id": "Postojna:lhsc",
+    "gtfsId": "Postojna:lhsc",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Park Jama",
     "lat": 45.779729,
     "lon": 14.205835,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       }
+    ],
+    "gtfs_id": "Postojna:lhsc",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_parkjama_6",
     "merged_stop_ids": [
@@ -175,28 +196,31 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvMGgw",
-    "gtfs_id": "Postojna:o0h0",
+    "gtfsId": "Postojna:o0h0",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Javorniška pot",
     "lat": 45.780672,
     "lon": 14.222451,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:o0h0",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_javorniskapot_7",
     "merged_stop_ids": [
@@ -205,28 +229,31 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvOGhw",
-    "gtfs_id": "Postojna:o8hp",
+    "gtfsId": "Postojna:o8hp",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Železniška postaja",
     "lat": 45.773028,
     "lon": 14.221138,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "26",
-        "color": "#FD4097"
+        "color": "FD4097"
       }
+    ],
+    "gtfs_id": "Postojna:o8hp",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_zelezniskapostaja_8",
     "merged_stop_ids": [
@@ -235,24 +262,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209Mzg2NzQwODU1OA",
-    "gtfs_id": "Postojna:osm=3867408558",
+    "gtfsId": "Postojna:osm=3867408558",
+    "vehicleMode": "BUS",
     "code": "osm=3867408558",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Supernova",
     "lat": 45.769697,
     "lon": 14.195696,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       }
+    ],
+    "gtfs_id": "Postojna:osm=3867408558",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_supernova_9",
     "merged_stop_ids": [
@@ -266,20 +296,23 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDIyNjg2NzgwMA",
-    "gtfs_id": "Postojna:osm=4226867800",
+    "gtfsId": "Postojna:osm=4226867800",
+    "vehicleMode": "BUS",
     "code": "osm=4226867800",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Risovec",
     "lat": 45.790313,
     "lon": 14.190527,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "26",
-        "color": "#FD4097"
+        "color": "FD4097"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4226867800",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_risovec_10",
     "merged_stop_ids": [
@@ -291,28 +324,31 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDkyNDg5MDk3MQ",
-    "gtfs_id": "Postojna:osm=4924890971",
+    "gtfsId": "Postojna:osm=4924890971",
+    "vehicleMode": "BUS",
     "code": "osm=4924890971",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Zalog",
     "lat": 45.765721,
     "lon": 14.196136,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4924890971",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_zalog_11",
     "merged_stop_ids": [
@@ -324,24 +360,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDkzMTM0ODgwNw",
-    "gtfs_id": "Postojna:osm=4931348807",
+    "gtfsId": "Postojna:osm=4931348807",
+    "vehicleMode": "BUS",
     "code": "osm=4931348807",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Liv",
     "lat": 45.767487,
     "lon": 14.197925,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4931348807",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_liv_12",
     "merged_stop_ids": [
@@ -353,24 +392,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDkzMTQwMDYwMw",
-    "gtfs_id": "Postojna:osm=4931400603",
+    "gtfsId": "Postojna:osm=4931400603",
+    "vehicleMode": "BUS",
     "code": "osm=4931400603",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Industrijska cona",
     "lat": 45.768219,
     "lon": 14.19343,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4931400603",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_industrijskacona_13",
     "merged_stop_ids": [
@@ -382,20 +424,23 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mg",
-    "gtfs_id": "Postojna:osm=4958167442",
+    "gtfsId": "Postojna:osm=4958167442",
+    "vehicleMode": "BUS",
     "code": "osm=4958167442",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Kazarje",
     "lat": 45.770693,
     "lon": 14.19329,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958167442",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_kazarje_14",
     "merged_stop_ids": [
@@ -407,24 +452,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0Mw",
-    "gtfs_id": "Postojna:osm=4958167443",
+    "gtfsId": "Postojna:osm=4958167443",
+    "vehicleMode": "BUS",
     "code": "osm=4958167443",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Supernova",
     "lat": 45.770037,
     "lon": 14.197657,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958167443",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_supernova_9",
     "merged_stop_ids": [
@@ -438,24 +486,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE2NzQ0NA",
-    "gtfs_id": "Postojna:osm=4958167444",
+    "gtfsId": "Postojna:osm=4958167444",
+    "vehicleMode": "BUS",
     "code": "osm=4958167444",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Spar",
     "lat": 45.771345,
     "lon": 14.202888,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958167444",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_spar_15",
     "merged_stop_ids": [
@@ -467,48 +518,51 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE3NzI5OA",
-    "gtfs_id": "Postojna:osm=4958177298",
+    "gtfsId": "Postojna:osm=4958177298",
+    "vehicleMode": "BUS",
     "code": "osm=4958177298",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Spodnji Burger",
     "lat": 45.773445,
     "lon": 14.207171,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958177298",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_spodnjiburger_16",
     "merged_stop_ids": [
@@ -520,32 +574,35 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMA",
-    "gtfs_id": "Postojna:osm=4958182330",
+    "gtfsId": "Postojna:osm=4958182330",
+    "vehicleMode": "BUS",
     "code": "osm=4958182330",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Mercator",
     "lat": 45.77242,
     "lon": 14.200491,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958182330",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_mercator_17",
     "merged_stop_ids": [
@@ -557,32 +614,35 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMQ",
-    "gtfs_id": "Postojna:osm=4958182331",
+    "gtfsId": "Postojna:osm=4958182331",
+    "vehicleMode": "BUS",
     "code": "osm=4958182331",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Športni park",
     "lat": 45.775201,
     "lon": 14.206266,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958182331",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_sportnipark_18",
     "merged_stop_ids": [
@@ -594,32 +654,35 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE4MjMzMg",
-    "gtfs_id": "Postojna:osm=4958182332",
+    "gtfsId": "Postojna:osm=4958182332",
+    "vehicleMode": "BUS",
     "code": "osm=4958182332",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Jamska",
     "lat": 45.775812,
     "lon": 14.211886,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958182332",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_jamska_19",
     "merged_stop_ids": [
@@ -631,48 +694,51 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5MzMwNQ",
-    "gtfs_id": "Postojna:osm=4958193305",
+    "gtfsId": "Postojna:osm=4958193305",
+    "vehicleMode": "BUS",
     "code": "osm=4958193305",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Knjižnica",
     "lat": 45.774431,
     "lon": 14.211175,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958193305",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_knjiznica_20",
     "merged_stop_ids": [
@@ -684,24 +750,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5MzMxOQ",
-    "gtfs_id": "Postojna:osm=4958193319",
+    "gtfsId": "Postojna:osm=4958193319",
+    "vehicleMode": "BUS",
     "code": "osm=4958193319",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Zdravstveni dom",
     "lat": 45.772132,
     "lon": 14.211018,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958193319",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_zdravstvenidom_21",
     "merged_stop_ids": [
@@ -713,36 +782,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5ODcyMw",
-    "gtfs_id": "Postojna:osm=4958198723",
+    "gtfsId": "Postojna:osm=4958198723",
+    "vehicleMode": "BUS",
     "code": "osm=4958198723",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Primorka",
     "lat": 45.773251,
     "lon": 14.213003,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958198723",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_primorka_22",
     "merged_stop_ids": [
@@ -754,36 +826,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODE5ODcyNA",
-    "gtfs_id": "Postojna:osm=4958198724",
+    "gtfsId": "Postojna:osm=4958198724",
+    "vehicleMode": "BUS",
     "code": "osm=4958198724",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Kulturni dom",
     "lat": 45.774643,
     "lon": 14.215009,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958198724",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_kulturnidom_23",
     "merged_stop_ids": [
@@ -795,36 +870,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIwNTM3Ng",
-    "gtfs_id": "Postojna:osm=4958205376",
+    "gtfsId": "Postojna:osm=4958205376",
+    "vehicleMode": "BUS",
     "code": "osm=4958205376",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Zgornji Burger",
     "lat": 45.778888,
     "lon": 14.216499,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958205376",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_zgornjiburger_24",
     "merged_stop_ids": [
@@ -836,36 +914,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIwNTM3Nw",
-    "gtfs_id": "Postojna:osm=4958205377",
+    "gtfsId": "Postojna:osm=4958205377",
+    "vehicleMode": "BUS",
     "code": "osm=4958205377",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Muzej",
     "lat": 45.777445,
     "lon": 14.217091,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958205377",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_muzej_25",
     "merged_stop_ids": [
@@ -877,36 +958,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxMDQ0MQ",
-    "gtfs_id": "Postojna:osm=4958210441",
+    "gtfsId": "Postojna:osm=4958210441",
+    "vehicleMode": "BUS",
     "code": "osm=4958210441",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Vojkova",
     "lat": 45.773485,
     "lon": 14.217686,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958210441",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_vojkova_26",
     "merged_stop_ids": [
@@ -918,36 +1002,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxMDQ0Mg",
-    "gtfs_id": "Postojna:osm=4958210442",
+    "gtfsId": "Postojna:osm=4958210442",
+    "vehicleMode": "BUS",
     "code": "osm=4958210442",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Pod kolodvorom",
     "lat": 45.772543,
     "lon": 14.218891,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958210442",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_podkolodvorom_27",
     "merged_stop_ids": [
@@ -959,36 +1046,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNDA5MA",
-    "gtfs_id": "Postojna:osm=4958214090",
+    "gtfsId": "Postojna:osm=4958214090",
+    "vehicleMode": "BUS",
     "code": "osm=4958214090",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Kremenca",
     "lat": 45.767078,
     "lon": 14.216733,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958214090",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_kremenca_28",
     "merged_stop_ids": [
@@ -1000,36 +1090,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNDA5MQ",
-    "gtfs_id": "Postojna:osm=4958214091",
+    "gtfsId": "Postojna:osm=4958214091",
+    "vehicleMode": "BUS",
     "code": "osm=4958214091",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Dom starejših",
     "lat": 45.765037,
     "lon": 14.213311,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958214091",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_domstarejsih_29",
     "merged_stop_ids": [
@@ -1041,36 +1134,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0NQ",
-    "gtfs_id": "Postojna:osm=4958217945",
+    "gtfsId": "Postojna:osm=4958217945",
+    "vehicleMode": "BUS",
     "code": "osm=4958217945",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Pivška",
     "lat": 45.767064,
     "lon": 14.212583,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958217945",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_pivska_30",
     "merged_stop_ids": [
@@ -1082,36 +1178,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Ng",
-    "gtfs_id": "Postojna:osm=4958217946",
+    "gtfsId": "Postojna:osm=4958217946",
+    "vehicleMode": "BUS",
     "code": "osm=4958217946",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Šolski center",
     "lat": 45.770994,
     "lon": 14.212234,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958217946",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_solskicenter_31",
     "merged_stop_ids": [
@@ -1125,36 +1224,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NDk1ODIxNzk0Nw",
-    "gtfs_id": "Postojna:osm=4958217947",
+    "gtfsId": "Postojna:osm=4958217947",
+    "vehicleMode": "BUS",
     "code": "osm=4958217947",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Šolski center",
     "lat": 45.770017,
     "lon": 14.212469,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=4958217947",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_solskicenter_31",
     "merged_stop_ids": [
@@ -1168,20 +1270,23 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NTEzMzcxMDk2Mg",
-    "gtfs_id": "Postojna:osm=5133710962",
+    "gtfsId": "Postojna:osm=5133710962",
+    "vehicleMode": "BUS",
     "code": "osm=5133710962",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Hotel Kras",
     "lat": 45.774812,
     "lon": 14.213065,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "26",
-        "color": "#FD4097"
+        "color": "FD4097"
       }
+    ],
+    "gtfs_id": "Postojna:osm=5133710962",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_hotelkras_32",
     "merged_stop_ids": [
@@ -1193,44 +1298,47 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NTE5NzIyMzIwMg",
-    "gtfs_id": "Postojna:osm=5197223202",
+    "gtfsId": "Postojna:osm=5197223202",
+    "vehicleMode": "BUS",
     "code": "osm=5197223202",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Volaričeva",
     "lat": 45.770497,
     "lon": 14.218621,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=5197223202",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_volariceva_33",
     "merged_stop_ids": [
@@ -1242,28 +1350,31 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpvc209NTI0MzQ3NjEzMA",
-    "gtfs_id": "Postojna:osm=5243476130",
+    "gtfsId": "Postojna:osm=5243476130",
+    "vehicleMode": "BUS",
     "code": "osm=5243476130",
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Stara vas",
     "lat": 45.76211,
     "lon": 14.212897,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:osm=5243476130",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_staravas_34",
     "merged_stop_ids": [
@@ -1275,20 +1386,23 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpwYmV1",
-    "gtfs_id": "Postojna:pbeu",
+    "gtfsId": "Postojna:pbeu",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Predjama",
     "lat": 45.814112,
     "lon": 14.128622,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "26",
-        "color": "#FD4097"
+        "color": "FD4097"
       }
+    ],
+    "gtfs_id": "Postojna:pbeu",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_predjama_35",
     "merged_stop_ids": [
@@ -1297,24 +1411,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpzZnBu",
-    "gtfs_id": "Postojna:sfpn",
+    "gtfsId": "Postojna:sfpn",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Kolodvorska",
     "lat": 45.770469,
     "lon": 14.220602,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       }
+    ],
+    "gtfs_id": "Postojna:sfpn",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_kolodvorska_36",
     "merged_stop_ids": [
@@ -1323,32 +1440,35 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTpzeXg0",
-    "gtfs_id": "Postojna:syx4",
+    "gtfsId": "Postojna:syx4",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Pod Jelovico",
     "lat": 45.762775,
     "lon": 14.215826,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "1",
-        "color": "#7ed321"
+        "color": "7ed321"
       },
       {
         "name": "4",
-        "color": "#2b2ad0"
+        "color": "2b2ad0"
       },
       {
         "name": "6",
-        "color": "#6694ed"
+        "color": "6694ed"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:syx4",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_podjelovico_37",
     "merged_stop_ids": [
@@ -1357,36 +1477,39 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTp0b2dm",
-    "gtfs_id": "Postojna:togf",
+    "gtfsId": "Postojna:togf",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Vilka Kledeta",
     "lat": 45.780264,
     "lon": 14.215903,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "3",
-        "color": "#d0021b"
+        "color": "d0021b"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       },
       {
         "name": "7",
-        "color": "#55b1e3"
+        "color": "55b1e3"
       },
       {
         "name": "8",
-        "color": "#54f2e8"
+        "color": "54f2e8"
       }
+    ],
+    "gtfs_id": "Postojna:togf",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_vilkakledeta_38",
     "merged_stop_ids": [
@@ -1395,24 +1518,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTp1eHJv",
-    "gtfs_id": "Postojna:uxro",
+    "gtfsId": "Postojna:uxro",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Pretnerjeva",
     "lat": 45.769859,
     "lon": 14.21322,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "5",
-        "color": "#165f7b"
+        "color": "165f7b"
       }
+    ],
+    "gtfs_id": "Postojna:uxro",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_pretnerjeva_39",
     "merged_stop_ids": [
@@ -1421,24 +1547,27 @@
   },
   {
     "id": "U3RvcDpQb3N0b2puYTp5Z2h6",
-    "gtfs_id": "Postojna:yghz",
+    "gtfsId": "Postojna:yghz",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#a92c30",
-    "icon_color": "#FFFFFF",
     "name": "Postojnska jama",
     "lat": 45.780293,
     "lon": 14.20522,
-    "opposite": "Postojna:yghz",
     "routes": [
       {
         "name": "2",
-        "color": "#f8e71c"
+        "color": "f8e71c"
       },
       {
         "name": "26",
-        "color": "#FD4097"
+        "color": "FD4097"
       }
+    ],
+    "gtfs_id": "Postojna:yghz",
+    "type": "BUS",
+    "opposite": "Postojna:yghz",
+    "agencies": [
+      "Postojna:Postojna"
     ],
     "hub_id": "hub_postojnskajama_40",
     "merged_stop_ids": [

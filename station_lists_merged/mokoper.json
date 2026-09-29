@@ -1,28 +1,31 @@
 [
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjEwMjA",
-    "gtfs_id": "MOKoper:1121020",
+    "gtfsId": "MOKoper:1121020",
+    "vehicleMode": "BUS",
     "code": "14249",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Bol.Izola",
     "lat": 45.543905,
     "lon": 13.690244,
-    "opposite": "14249",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       }
+    ],
+    "gtfs_id": "MOKoper:1121020",
+    "type": "BUS",
+    "opposite": "14249",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_bolizola_0",
     "merged_stop_ids": [
@@ -34,36 +37,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMDM",
-    "gtfs_id": "MOKoper:1121103",
+    "gtfsId": "MOKoper:1121103",
+    "vehicleMode": "BUS",
     "code": "16405",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Koper",
     "lat": 45.53864,
     "lon": 13.73767,
-    "opposite": "16405",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       }
+    ],
+    "gtfs_id": "MOKoper:1121103",
+    "type": "BUS",
+    "opposite": "16405",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_koper_1",
     "merged_stop_ids": [
@@ -75,44 +81,47 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMDQ",
-    "gtfs_id": "MOKoper:1121104",
+    "gtfsId": "MOKoper:1121104",
+    "vehicleMode": "BUS",
     "code": "17773",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Banka",
     "lat": 45.543945,
     "lon": 13.730397,
-    "opposite": "17773",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       }
+    ],
+    "gtfs_id": "MOKoper:1121104",
+    "type": "BUS",
+    "opposite": "17773",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_banka_2",
     "merged_stop_ids": [
@@ -124,40 +133,43 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMDY",
-    "gtfs_id": "MOKoper:1121106",
+    "gtfsId": "MOKoper:1121106",
+    "vehicleMode": "BUS",
     "code": "12932",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Barka",
     "lat": 45.54644,
     "lon": 13.73797,
-    "opposite": "12932",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       },
       {
         "name": "12",
-        "color": "#911D8B"
+        "color": "911D8B"
       }
+    ],
+    "gtfs_id": "MOKoper:1121106",
+    "type": "BUS",
+    "opposite": "12932",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_barka_3",
     "merged_stop_ids": [
@@ -171,24 +183,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMTE",
-    "gtfs_id": "MOKoper:1121111",
+    "gtfsId": "MOKoper:1121111",
+    "vehicleMode": "BUS",
     "code": "15615",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Čebelnjak",
     "lat": 45.54594,
     "lon": 13.74033,
-    "opposite": "15615",
     "routes": [
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1121111",
+    "type": "BUS",
+    "opposite": "15615",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_cebelnjak_4",
     "merged_stop_ids": [
@@ -200,24 +215,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMTI",
-    "gtfs_id": "MOKoper:1121112",
+    "gtfsId": "MOKoper:1121112",
+    "vehicleMode": "BUS",
     "code": "14952",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Dolinska cesta",
     "lat": 45.53051,
     "lon": 13.72633,
-    "opposite": "14952",
     "routes": [
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1121112",
+    "type": "BUS",
+    "opposite": "14952",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_dolinskacesta_5",
     "merged_stop_ids": [
@@ -231,32 +249,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMjQ",
-    "gtfs_id": "MOKoper:1121124",
+    "gtfsId": "MOKoper:1121124",
+    "vehicleMode": "BUS",
     "code": "15544",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Lesnina",
     "lat": 45.541352,
     "lon": 13.73235,
-    "opposite": "15544",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       }
+    ],
+    "gtfs_id": "MOKoper:1121124",
+    "type": "BUS",
+    "opposite": "15544",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_lesnina_6",
     "merged_stop_ids": [
@@ -268,36 +289,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMjc",
-    "gtfs_id": "MOKoper:1121127",
+    "gtfsId": "MOKoper:1121127",
+    "vehicleMode": "BUS",
     "code": "14954",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Mandrač",
     "lat": 45.540289,
     "lon": 13.720518,
-    "opposite": "14954",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1121127",
+    "type": "BUS",
+    "opposite": "14954",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_mandrac_7",
     "merged_stop_ids": [
@@ -309,32 +333,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMjk",
-    "gtfs_id": "MOKoper:1121129",
+    "gtfsId": "MOKoper:1121129",
+    "vehicleMode": "BUS",
     "code": "12977",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Markovec",
     "lat": 45.539752,
     "lon": 13.711383,
-    "opposite": "12977",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1121129",
+    "type": "BUS",
+    "opposite": "12977",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_markovec_8",
     "merged_stop_ids": [
@@ -348,32 +375,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMzA",
-    "gtfs_id": "MOKoper:1121130",
+    "gtfsId": "MOKoper:1121130",
+    "vehicleMode": "BUS",
     "code": "12845",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Markovec",
     "lat": 45.539575,
     "lon": 13.711925,
-    "opposite": "12845",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1121130",
+    "type": "BUS",
+    "opposite": "12845",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_markovec_8",
     "merged_stop_ids": [
@@ -387,24 +417,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMzM",
-    "gtfs_id": "MOKoper:1121133",
+    "gtfsId": "MOKoper:1121133",
+    "vehicleMode": "BUS",
     "code": "15548",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Markovec Š",
     "lat": 45.54239,
     "lon": 13.71203,
-    "opposite": "15548",
     "routes": [
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       }
+    ],
+    "gtfs_id": "MOKoper:1121133",
+    "type": "BUS",
+    "opposite": "15548",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_markovecs_9",
     "merged_stop_ids": [
@@ -418,24 +451,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMzQ",
-    "gtfs_id": "MOKoper:1121134",
+    "gtfsId": "MOKoper:1121134",
+    "vehicleMode": "BUS",
     "code": "15554",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Markovec Š",
     "lat": 45.54298,
     "lon": 13.71245,
-    "opposite": "15554",
     "routes": [
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       }
+    ],
+    "gtfs_id": "MOKoper:1121134",
+    "type": "BUS",
+    "opposite": "15554",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_markovecs_9",
     "merged_stop_ids": [
@@ -449,32 +485,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMzU",
-    "gtfs_id": "MOKoper:1121135",
+    "gtfsId": "MOKoper:1121135",
+    "vehicleMode": "BUS",
     "code": "15524",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Mercator",
     "lat": 45.5298,
     "lon": 13.7336,
-    "opposite": "15524",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1121135",
+    "type": "BUS",
+    "opposite": "15524",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_mercator_10",
     "merged_stop_ids": [
@@ -488,32 +527,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExMzY",
-    "gtfs_id": "MOKoper:1121136",
+    "gtfsId": "MOKoper:1121136",
+    "vehicleMode": "BUS",
     "code": "15525",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Mercator",
     "lat": 45.52998,
     "lon": 13.73332,
-    "opposite": "15525",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1121136",
+    "type": "BUS",
+    "opposite": "15525",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_mercator_10",
     "merged_stop_ids": [
@@ -527,24 +569,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNDE",
-    "gtfs_id": "MOKoper:1121141",
+    "gtfsId": "MOKoper:1121141",
+    "vehicleMode": "BUS",
     "code": "12865",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Nad Dolinsko",
     "lat": 45.5289,
     "lon": 13.73272,
-    "opposite": "12865",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       }
+    ],
+    "gtfs_id": "MOKoper:1121141",
+    "type": "BUS",
+    "opposite": "12865",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_naddolinsko_11",
     "merged_stop_ids": [
@@ -556,24 +601,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNDc",
-    "gtfs_id": "MOKoper:1121147",
+    "gtfsId": "MOKoper:1121147",
+    "vehicleMode": "BUS",
     "code": "15530",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Olmo",
     "lat": 45.53109,
     "lon": 13.72708,
-    "opposite": "15530",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1121147",
+    "type": "BUS",
+    "opposite": "15530",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_olmo_12",
     "merged_stop_ids": [
@@ -587,24 +635,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNDg",
-    "gtfs_id": "MOKoper:1121148",
+    "gtfsId": "MOKoper:1121148",
+    "vehicleMode": "BUS",
     "code": "15527",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Olmo",
     "lat": 45.53125,
     "lon": 13.72725,
-    "opposite": "15527",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1121148",
+    "type": "BUS",
+    "opposite": "15527",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_olmo_12",
     "merged_stop_ids": [
@@ -618,24 +669,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNDk",
-    "gtfs_id": "MOKoper:1121149",
+    "gtfsId": "MOKoper:1121149",
+    "vehicleMode": "BUS",
     "code": "15528",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Olmo K",
     "lat": 45.534285,
     "lon": 13.728683,
-    "opposite": "15528",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1121149",
+    "type": "BUS",
+    "opposite": "15528",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_olmok_13",
     "merged_stop_ids": [
@@ -649,28 +703,31 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNTE",
-    "gtfs_id": "MOKoper:1121151",
+    "gtfsId": "MOKoper:1121151",
+    "vehicleMode": "BUS",
     "code": "15532",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Prisoje",
     "lat": 45.536,
     "lon": 13.72548,
-    "opposite": "15532",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1121151",
+    "type": "BUS",
+    "opposite": "15532",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_prisoje_14",
     "merged_stop_ids": [
@@ -684,28 +741,31 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNTI",
-    "gtfs_id": "MOKoper:1121152",
+    "gtfsId": "MOKoper:1121152",
+    "vehicleMode": "BUS",
     "code": "15549",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Prisoje",
     "lat": 45.53585,
     "lon": 13.72619,
-    "opposite": "15549",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1121152",
+    "type": "BUS",
+    "opposite": "15549",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_prisoje_14",
     "merged_stop_ids": [
@@ -719,32 +779,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNTc",
-    "gtfs_id": "MOKoper:1121157",
+    "gtfsId": "MOKoper:1121157",
+    "vehicleMode": "BUS",
     "code": "15534",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Stadion",
     "lat": 45.541354,
     "lon": 13.732068,
-    "opposite": "15534",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       }
+    ],
+    "gtfs_id": "MOKoper:1121157",
+    "type": "BUS",
+    "opposite": "15534",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_stadion_15",
     "merged_stop_ids": [
@@ -756,32 +819,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNTg",
-    "gtfs_id": "MOKoper:1121158",
+    "gtfsId": "MOKoper:1121158",
+    "vehicleMode": "BUS",
     "code": "15535",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Supernova",
     "lat": 45.544009,
     "lon": 13.738647,
-    "opposite": "15535",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       }
+    ],
+    "gtfs_id": "MOKoper:1121158",
+    "type": "BUS",
+    "opposite": "15535",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_supernova_16",
     "merged_stop_ids": [
@@ -795,32 +861,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNTk",
-    "gtfs_id": "MOKoper:1121159",
+    "gtfsId": "MOKoper:1121159",
+    "vehicleMode": "BUS",
     "code": "15533",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Supernova",
     "lat": 45.544414,
     "lon": 13.738331,
-    "opposite": "15533",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       }
+    ],
+    "gtfs_id": "MOKoper:1121159",
+    "type": "BUS",
+    "opposite": "15533",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_supernova_16",
     "merged_stop_ids": [
@@ -834,20 +903,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNjQ",
-    "gtfs_id": "MOKoper:1121164",
+    "gtfsId": "MOKoper:1121164",
+    "vehicleMode": "BUS",
     "code": "14928",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Tomos",
     "lat": 45.53156,
     "lon": 13.73526,
-    "opposite": "14928",
     "routes": [
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1121164",
+    "type": "BUS",
+    "opposite": "14928",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_tomos_17",
     "merged_stop_ids": [
@@ -859,32 +931,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNzA",
-    "gtfs_id": "MOKoper:1121170",
+    "gtfsId": "MOKoper:1121170",
+    "vehicleMode": "BUS",
     "code": "12509",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Trg Brolo",
     "lat": 45.548359,
     "lon": 13.731764,
-    "opposite": "12509",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "12",
-        "color": "#911D8B"
+        "color": "911D8B"
       }
+    ],
+    "gtfs_id": "MOKoper:1121170",
+    "type": "BUS",
+    "opposite": "12509",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_trgbrolo_18",
     "merged_stop_ids": [
@@ -896,24 +971,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNzc",
-    "gtfs_id": "MOKoper:1121177",
+    "gtfsId": "MOKoper:1121177",
+    "vehicleMode": "BUS",
     "code": "12518",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Žusterna III",
     "lat": 45.54369,
     "lon": 13.70501,
-    "opposite": "12518",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1121177",
+    "type": "BUS",
+    "opposite": "12518",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_zusternaiii_19",
     "merged_stop_ids": [
@@ -927,24 +1005,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjExNzg",
-    "gtfs_id": "MOKoper:1121178",
+    "gtfsId": "MOKoper:1121178",
+    "vehicleMode": "BUS",
     "code": "12519",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Žusterna III",
     "lat": 45.54377,
     "lon": 13.7047,
-    "opposite": "12519",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1121178",
+    "type": "BUS",
+    "opposite": "12519",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_zusternaiii_19",
     "merged_stop_ids": [
@@ -958,20 +1039,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExMjYxMTI",
-    "gtfs_id": "MOKoper:1126112",
+    "gtfsId": "MOKoper:1126112",
+    "vehicleMode": "BUS",
     "code": "15412",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Kampel Novaki K",
     "lat": 45.5201,
     "lon": 13.74697,
-    "opposite": "15412",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       }
+    ],
+    "gtfs_id": "MOKoper:1126112",
+    "type": "BUS",
+    "opposite": "15412",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_kampelnovakik_20",
     "merged_stop_ids": [
@@ -983,20 +1067,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MTI",
-    "gtfs_id": "MOKoper:1164712",
+    "gtfsId": "MOKoper:1164712",
+    "vehicleMode": "BUS",
     "code": "17322",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Srmin GORC II",
     "lat": 45.55051,
     "lon": 13.76431,
-    "opposite": "17322",
     "routes": [
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       }
+    ],
+    "gtfs_id": "MOKoper:1164712",
+    "type": "BUS",
+    "opposite": "17322",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_srmingorcii_21",
     "merged_stop_ids": [
@@ -1008,20 +1095,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MTM",
-    "gtfs_id": "MOKoper:1164713",
+    "gtfsId": "MOKoper:1164713",
+    "vehicleMode": "BUS",
     "code": "17323",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Srmin GORC III",
     "lat": 45.55382,
     "lon": 13.76491,
-    "opposite": "17323",
     "routes": [
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       }
+    ],
+    "gtfs_id": "MOKoper:1164713",
+    "type": "BUS",
+    "opposite": "17323",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_srmingorciii_22",
     "merged_stop_ids": [
@@ -1033,20 +1123,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MTQ",
-    "gtfs_id": "MOKoper:1164714",
+    "gtfsId": "MOKoper:1164714",
+    "vehicleMode": "BUS",
     "code": "17324",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Srmin GORC I",
     "lat": 45.55139,
     "lon": 13.76252,
-    "opposite": "17324",
     "routes": [
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       }
+    ],
+    "gtfs_id": "MOKoper:1164714",
+    "type": "BUS",
+    "opposite": "17324",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_srmingorci_23",
     "merged_stop_ids": [
@@ -1058,32 +1151,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MTg",
-    "gtfs_id": "MOKoper:1164718",
+    "gtfsId": "MOKoper:1164718",
+    "vehicleMode": "BUS",
     "code": "10685",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Pasarela",
     "lat": 45.539453,
     "lon": 13.723018,
-    "opposite": "10685",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1164718",
+    "type": "BUS",
+    "opposite": "10685",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_pasarela_24",
     "merged_stop_ids": [
@@ -1097,32 +1193,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjA",
-    "gtfs_id": "MOKoper:1164720",
+    "gtfsId": "MOKoper:1164720",
+    "vehicleMode": "BUS",
     "code": "15282",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Pasarela",
     "lat": 45.539277,
     "lon": 13.723308,
-    "opposite": "15282",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1164720",
+    "type": "BUS",
+    "opposite": "15282",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_pasarela_24",
     "merged_stop_ids": [
@@ -1136,36 +1235,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjE",
-    "gtfs_id": "MOKoper:1164721",
+    "gtfsId": "MOKoper:1164721",
+    "vehicleMode": "BUS",
     "code": "10702",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Semedela-tunel",
     "lat": 45.54278,
     "lon": 13.71847,
-    "opposite": "10702",
     "routes": [
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1164721",
+    "type": "BUS",
+    "opposite": "10702",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_semedelatunel_25",
     "merged_stop_ids": [
@@ -1179,36 +1281,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjI",
-    "gtfs_id": "MOKoper:1164722",
+    "gtfsId": "MOKoper:1164722",
+    "vehicleMode": "BUS",
     "code": "10705",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Semedela-tunel",
     "lat": 45.54295,
     "lon": 13.71741,
-    "opposite": "10705",
     "routes": [
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1164722",
+    "type": "BUS",
+    "opposite": "10705",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_semedelatunel_25",
     "merged_stop_ids": [
@@ -1222,32 +1327,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MjM",
-    "gtfs_id": "MOKoper:1164723",
+    "gtfsId": "MOKoper:1164723",
+    "vehicleMode": "BUS",
     "code": "10707",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Žusterna parkirišče",
     "lat": 45.54567,
     "lon": 13.71224,
-    "opposite": "10707",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1164723",
+    "type": "BUS",
+    "opposite": "10707",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_zusternaparkirisce_26",
     "merged_stop_ids": [
@@ -1259,24 +1367,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3Mjg",
-    "gtfs_id": "MOKoper:1164728",
+    "gtfsId": "MOKoper:1164728",
+    "vehicleMode": "BUS",
     "code": "13893",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Olmo K",
     "lat": 45.534,
     "lon": 13.72842,
-    "opposite": "13893",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1164728",
+    "type": "BUS",
+    "opposite": "13893",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_olmok_13",
     "merged_stop_ids": [
@@ -1290,20 +1401,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MzM",
-    "gtfs_id": "MOKoper:1164733",
+    "gtfsId": "MOKoper:1164733",
+    "vehicleMode": "BUS",
     "code": "13898",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Olmo Eden",
     "lat": 45.53363,
     "lon": 13.72573,
-    "opposite": "13898",
     "routes": [
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       }
+    ],
+    "gtfs_id": "MOKoper:1164733",
+    "type": "BUS",
+    "opposite": "13898",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_olmoeden_27",
     "merged_stop_ids": [
@@ -1315,24 +1429,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MzU",
-    "gtfs_id": "MOKoper:1164735",
+    "gtfsId": "MOKoper:1164735",
+    "vehicleMode": "BUS",
     "code": "13900",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Dolga Reber",
     "lat": 45.5455,
     "lon": 13.703942,
-    "opposite": "13900",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1164735",
+    "type": "BUS",
+    "opposite": "13900",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_dolgareber_28",
     "merged_stop_ids": [
@@ -1344,24 +1461,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ3MzY",
-    "gtfs_id": "MOKoper:1164736",
+    "gtfsId": "MOKoper:1164736",
+    "vehicleMode": "BUS",
     "code": "13901",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Izletniška pot",
     "lat": 45.544154,
     "lon": 13.706848,
-    "opposite": "13901",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1164736",
+    "type": "BUS",
+    "opposite": "13901",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_izletniskapot_29",
     "merged_stop_ids": [
@@ -1373,52 +1493,55 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjQ5Njg",
-    "gtfs_id": "MOKoper:1164968",
+    "gtfsId": "MOKoper:1164968",
+    "vehicleMode": "BUS",
     "code": "14483",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Zeleni park",
     "lat": 45.54527,
     "lon": 13.7268,
-    "opposite": "14483",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1164968",
+    "type": "BUS",
+    "opposite": "14483",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_zelenipark_30",
     "merged_stop_ids": [
@@ -1430,44 +1553,47 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjUyNjc",
-    "gtfs_id": "MOKoper:1165267",
+    "gtfsId": "MOKoper:1165267",
+    "vehicleMode": "BUS",
     "code": "17765",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Sv. Ana V.n.",
     "lat": 45.548648,
     "lon": 13.736488,
-    "opposite": "17765",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1165267",
+    "type": "BUS",
+    "opposite": "17765",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_svanavn_31",
     "merged_stop_ids": [
@@ -1479,36 +1605,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYyOTM",
-    "gtfs_id": "MOKoper:1166293",
+    "gtfsId": "MOKoper:1166293",
+    "vehicleMode": "BUS",
     "code": "13545",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Banka I",
     "lat": 45.544091,
     "lon": 13.730569,
-    "opposite": "13545",
     "routes": [
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166293",
+    "type": "BUS",
+    "opposite": "13545",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_bankai_32",
     "merged_stop_ids": [
@@ -1520,36 +1649,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYyOTQ",
-    "gtfs_id": "MOKoper:1166294",
+    "gtfsId": "MOKoper:1166294",
+    "vehicleMode": "BUS",
     "code": "13544",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Beblerjeva ulica",
     "lat": 45.54146,
     "lon": 13.70362,
-    "opposite": "13544",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166294",
+    "type": "BUS",
+    "opposite": "13544",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_beblerjevaulica_33",
     "merged_stop_ids": [
@@ -1561,24 +1693,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYyOTU",
-    "gtfs_id": "MOKoper:1166295",
+    "gtfsId": "MOKoper:1166295",
+    "vehicleMode": "BUS",
     "code": "15553",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Beblerjeva ulica K",
     "lat": 45.54128,
     "lon": 13.70765,
-    "opposite": "15553",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166295",
+    "type": "BUS",
+    "opposite": "15553",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_beblerjevaulicak_34",
     "merged_stop_ids": [
@@ -1590,20 +1725,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYyOTY",
-    "gtfs_id": "MOKoper:1166296",
+    "gtfsId": "MOKoper:1166296",
+    "vehicleMode": "BUS",
     "code": "15547",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Semedelski razgledi",
     "lat": 45.53582,
     "lon": 13.7218,
-    "opposite": "15547",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       }
+    ],
+    "gtfs_id": "MOKoper:1166296",
+    "type": "BUS",
+    "opposite": "15547",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_semedelskirazgledi_35",
     "merged_stop_ids": [
@@ -1617,20 +1755,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYyOTc",
-    "gtfs_id": "MOKoper:1166297",
+    "gtfsId": "MOKoper:1166297",
+    "vehicleMode": "BUS",
     "code": "13549",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Semedelski razgledi",
     "lat": 45.53587,
     "lon": 13.72218,
-    "opposite": "13549",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       }
+    ],
+    "gtfs_id": "MOKoper:1166297",
+    "type": "BUS",
+    "opposite": "13549",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_semedelskirazgledi_35",
     "merged_stop_ids": [
@@ -1644,28 +1785,31 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYyOTg",
-    "gtfs_id": "MOKoper:1166298",
+    "gtfsId": "MOKoper:1166298",
+    "vehicleMode": "BUS",
     "code": "13548",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Ulica II. prekomorske brigade",
     "lat": 45.53833,
     "lon": 13.71643,
-    "opposite": "13548",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166298",
+    "type": "BUS",
+    "opposite": "13548",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_ulicaiiprekomorskebrigade_36",
     "merged_stop_ids": [
@@ -1677,20 +1821,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYyOTk",
-    "gtfs_id": "MOKoper:1166299",
+    "gtfsId": "MOKoper:1166299",
+    "vehicleMode": "BUS",
     "code": "13550",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Bošamarin Kapelca",
     "lat": 45.52172,
     "lon": 13.74275,
-    "opposite": "13550",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       }
+    ],
+    "gtfs_id": "MOKoper:1166299",
+    "type": "BUS",
+    "opposite": "13550",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_bosamarinkapelca_37",
     "merged_stop_ids": [
@@ -1704,20 +1851,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDA",
-    "gtfs_id": "MOKoper:1166300",
+    "gtfsId": "MOKoper:1166300",
+    "vehicleMode": "BUS",
     "code": "13319",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Bošamarin Kapelca",
     "lat": 45.52145,
     "lon": 13.74304,
-    "opposite": "13319",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       }
+    ],
+    "gtfs_id": "MOKoper:1166300",
+    "type": "BUS",
+    "opposite": "13319",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_bosamarinkapelca_37",
     "merged_stop_ids": [
@@ -1731,32 +1881,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDE",
-    "gtfs_id": "MOKoper:1166301",
+    "gtfsId": "MOKoper:1166301",
+    "vehicleMode": "BUS",
     "code": "15179",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Klaričeva ulica",
     "lat": 45.536862,
     "lon": 13.717136,
-    "opposite": "15179",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166301",
+    "type": "BUS",
+    "opposite": "15179",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_klaricevaulica_38",
     "merged_stop_ids": [
@@ -1770,32 +1923,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDI",
-    "gtfs_id": "MOKoper:1166302",
+    "gtfsId": "MOKoper:1166302",
+    "vehicleMode": "BUS",
     "code": "13320",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Klaričeva ulica",
     "lat": 45.53682,
     "lon": 13.71672,
-    "opposite": "13320",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166302",
+    "type": "BUS",
+    "opposite": "13320",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_klaricevaulica_38",
     "merged_stop_ids": [
@@ -1809,28 +1965,31 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDM",
-    "gtfs_id": "MOKoper:1166303",
+    "gtfsId": "MOKoper:1166303",
+    "vehicleMode": "BUS",
     "code": "13323",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Žusterna",
     "lat": 45.54615,
     "lon": 13.71036,
-    "opposite": "13323",
     "routes": [
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166303",
+    "type": "BUS",
+    "opposite": "13323",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_zusterna_39",
     "merged_stop_ids": [
@@ -1844,28 +2003,31 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDQ",
-    "gtfs_id": "MOKoper:1166304",
+    "gtfsId": "MOKoper:1166304",
+    "vehicleMode": "BUS",
     "code": "13322",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Žusterna",
     "lat": 45.546434,
     "lon": 13.709132,
-    "opposite": "13322",
     "routes": [
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166304",
+    "type": "BUS",
+    "opposite": "13322",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_zusterna_39",
     "merged_stop_ids": [
@@ -1879,48 +2041,51 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDU",
-    "gtfs_id": "MOKoper:1166305",
+    "gtfsId": "MOKoper:1166305",
+    "vehicleMode": "BUS",
     "code": "9526",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Kosovelov trg",
     "lat": 45.5455,
     "lon": 13.7329,
-    "opposite": "9526",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166305",
+    "type": "BUS",
+    "opposite": "9526",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_kosovelovtrg_40",
     "merged_stop_ids": [
@@ -1932,36 +2097,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDY",
-    "gtfs_id": "MOKoper:1166306",
+    "gtfsId": "MOKoper:1166306",
+    "vehicleMode": "BUS",
     "code": "15552",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Kozlovičeva ulica",
     "lat": 45.54041,
     "lon": 13.70131,
-    "opposite": "15552",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166306",
+    "type": "BUS",
+    "opposite": "15552",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_kozlovicevaulica_41",
     "merged_stop_ids": [
@@ -1973,28 +2141,31 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDc",
-    "gtfs_id": "MOKoper:1166307",
+    "gtfsId": "MOKoper:1166307",
+    "vehicleMode": "BUS",
     "code": "13326",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Kraljeva ulica",
     "lat": 45.54047,
     "lon": 13.71605,
-    "opposite": "13326",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166307",
+    "type": "BUS",
+    "opposite": "13326",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_kraljevaulica_42",
     "merged_stop_ids": [
@@ -2006,28 +2177,31 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDg",
-    "gtfs_id": "MOKoper:1166308",
+    "gtfsId": "MOKoper:1166308",
+    "vehicleMode": "BUS",
     "code": "13325",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Kraljeva ulica K",
     "lat": 45.54113,
     "lon": 13.71333,
-    "opposite": "13325",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166308",
+    "type": "BUS",
+    "opposite": "13325",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_kraljevaulicak_43",
     "merged_stop_ids": [
@@ -2039,24 +2213,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMDk",
-    "gtfs_id": "MOKoper:1166309",
+    "gtfsId": "MOKoper:1166309",
+    "vehicleMode": "BUS",
     "code": "13327",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Krožna cesta",
     "lat": 45.54578,
     "lon": 13.7033,
-    "opposite": "13327",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166309",
+    "type": "BUS",
+    "opposite": "13327",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_kroznacesta_44",
     "merged_stop_ids": [
@@ -2068,24 +2245,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMTA",
-    "gtfs_id": "MOKoper:1166310",
+    "gtfsId": "MOKoper:1166310",
+    "vehicleMode": "BUS",
     "code": "13329",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Krožna cesta K",
     "lat": 45.5478,
     "lon": 13.70035,
-    "opposite": "13329",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166310",
+    "type": "BUS",
+    "opposite": "13329",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_kroznacestak_45",
     "merged_stop_ids": [
@@ -2097,36 +2277,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMTI",
-    "gtfs_id": "MOKoper:1166312",
+    "gtfsId": "MOKoper:1166312",
+    "vehicleMode": "BUS",
     "code": "13330",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Kvedrova cesta",
     "lat": 45.539654,
     "lon": 13.709157,
-    "opposite": "13330",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166312",
+    "type": "BUS",
+    "opposite": "13330",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_kvedrovacesta_46",
     "merged_stop_ids": [
@@ -2138,20 +2321,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMTU",
-    "gtfs_id": "MOKoper:1166315",
+    "gtfsId": "MOKoper:1166315",
+    "vehicleMode": "BUS",
     "code": "13331",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Nova ulica",
     "lat": 45.54088,
     "lon": 13.71853,
-    "opposite": "13331",
     "routes": [
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166315",
+    "type": "BUS",
+    "opposite": "13331",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_novaulica_47",
     "merged_stop_ids": [
@@ -2165,20 +2351,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMTY",
-    "gtfs_id": "MOKoper:1166316",
+    "gtfsId": "MOKoper:1166316",
+    "vehicleMode": "BUS",
     "code": "15606",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Nova ulica",
     "lat": 45.54093,
     "lon": 13.71839,
-    "opposite": "15606",
     "routes": [
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166316",
+    "type": "BUS",
+    "opposite": "15606",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_novaulica_47",
     "merged_stop_ids": [
@@ -2192,24 +2381,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMTc",
-    "gtfs_id": "MOKoper:1166317",
+    "gtfsId": "MOKoper:1166317",
+    "vehicleMode": "BUS",
     "code": "13332",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Nova ulica K",
     "lat": 45.541157,
     "lon": 13.719301,
-    "opposite": "13332",
     "routes": [
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       }
+    ],
+    "gtfs_id": "MOKoper:1166317",
+    "type": "BUS",
+    "opposite": "13332",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_novaulicak_48",
     "merged_stop_ids": [
@@ -2221,24 +2413,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMTg",
-    "gtfs_id": "MOKoper:1166318",
+    "gtfsId": "MOKoper:1166318",
+    "vehicleMode": "BUS",
     "code": "13335",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Oljčna pot Lantana",
     "lat": 45.53309,
     "lon": 13.72208,
-    "opposite": "13335",
     "routes": [
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1166318",
+    "type": "BUS",
+    "opposite": "13335",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_oljcnapotlantana_49",
     "merged_stop_ids": [
@@ -2252,24 +2447,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMTk",
-    "gtfs_id": "MOKoper:1166319",
+    "gtfsId": "MOKoper:1166319",
+    "vehicleMode": "BUS",
     "code": "13334",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Oljčna pot Lantana",
     "lat": 45.53317,
     "lon": 13.72203,
-    "opposite": "13334",
     "routes": [
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1166319",
+    "type": "BUS",
+    "opposite": "13334",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_oljcnapotlantana_49",
     "merged_stop_ids": [
@@ -2283,24 +2481,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMjA",
-    "gtfs_id": "MOKoper:1166320",
+    "gtfsId": "MOKoper:1166320",
+    "vehicleMode": "BUS",
     "code": "13303",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Partizanska ulica",
     "lat": 45.52905,
     "lon": 13.74244,
-    "opposite": "13303",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166320",
+    "type": "BUS",
+    "opposite": "13303",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_partizanskaulica_50",
     "merged_stop_ids": [
@@ -2312,36 +2513,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMjE",
-    "gtfs_id": "MOKoper:1166321",
+    "gtfsId": "MOKoper:1166321",
+    "vehicleMode": "BUS",
     "code": "9505",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Potniški terminal",
     "lat": 45.5498,
     "lon": 13.72879,
-    "opposite": "9505",
     "routes": [
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166321",
+    "type": "BUS",
+    "opposite": "9505",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_potniskiterminal_51",
     "merged_stop_ids": [
@@ -2353,24 +2557,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMjI",
-    "gtfs_id": "MOKoper:1166322",
+    "gtfsId": "MOKoper:1166322",
+    "vehicleMode": "BUS",
     "code": "15551",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Prisoje pod garažo",
     "lat": 45.53476,
     "lon": 13.72651,
-    "opposite": "15551",
     "routes": [
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1166322",
+    "type": "BUS",
+    "opposite": "15551",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_prisojepodgarazo_52",
     "merged_stop_ids": [
@@ -2382,20 +2589,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMjM",
-    "gtfs_id": "MOKoper:1166323",
+    "gtfsId": "MOKoper:1166323",
+    "vehicleMode": "BUS",
     "code": "13305",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Rozmanova ulica",
     "lat": 45.538209,
     "lon": 13.721969,
-    "opposite": "13305",
     "routes": [
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166323",
+    "type": "BUS",
+    "opposite": "13305",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_rozmanovaulica_53",
     "merged_stop_ids": [
@@ -2407,20 +2617,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMjU",
-    "gtfs_id": "MOKoper:1166325",
+    "gtfsId": "MOKoper:1166325",
+    "vehicleMode": "BUS",
     "code": "13307",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Rozmanova ulica II",
     "lat": 45.53948,
     "lon": 13.71804,
-    "opposite": "13307",
     "routes": [
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166325",
+    "type": "BUS",
+    "opposite": "13307",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_rozmanovaulicaii_54",
     "merged_stop_ids": [
@@ -2432,20 +2645,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMjY",
-    "gtfs_id": "MOKoper:1166326",
+    "gtfsId": "MOKoper:1166326",
+    "vehicleMode": "BUS",
     "code": "13306",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Rozmanova ulica Š",
     "lat": 45.537898,
     "lon": 13.723083,
-    "opposite": "13306",
     "routes": [
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       }
+    ],
+    "gtfs_id": "MOKoper:1166326",
+    "type": "BUS",
+    "opposite": "13306",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_rozmanovaulicas_55",
     "merged_stop_ids": [
@@ -2457,20 +2673,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMjc",
-    "gtfs_id": "MOKoper:1166327",
+    "gtfsId": "MOKoper:1166327",
+    "vehicleMode": "BUS",
     "code": "15605",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Srebrničeva ulica",
     "lat": 45.53979,
     "lon": 13.7208,
-    "opposite": "15605",
     "routes": [
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       }
+    ],
+    "gtfs_id": "MOKoper:1166327",
+    "type": "BUS",
+    "opposite": "15605",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_srebrnicevaulica_56",
     "merged_stop_ids": [
@@ -2482,32 +2701,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMjg",
-    "gtfs_id": "MOKoper:1166328",
+    "gtfsId": "MOKoper:1166328",
+    "vehicleMode": "BUS",
     "code": "13308",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Sv.Ana",
     "lat": 45.548292,
     "lon": 13.73589,
-    "opposite": "13308",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "12",
-        "color": "#911D8B"
+        "color": "911D8B"
       }
+    ],
+    "gtfs_id": "MOKoper:1166328",
+    "type": "BUS",
+    "opposite": "13308",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_svana_57",
     "merged_stop_ids": [
@@ -2519,24 +2741,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzA",
-    "gtfs_id": "MOKoper:1166330",
+    "gtfsId": "MOKoper:1166330",
+    "vehicleMode": "BUS",
     "code": "15175",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Šalara market",
     "lat": 45.52932,
     "lon": 13.73889,
-    "opposite": "15175",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166330",
+    "type": "BUS",
+    "opposite": "15175",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_salaramarket_58",
     "merged_stop_ids": [
@@ -2550,24 +2775,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzE",
-    "gtfs_id": "MOKoper:1166331",
+    "gtfsId": "MOKoper:1166331",
+    "vehicleMode": "BUS",
     "code": "13310",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Šalara market",
     "lat": 45.5294,
     "lon": 13.73864,
-    "opposite": "13310",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166331",
+    "type": "BUS",
+    "opposite": "13310",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_salaramarket_58",
     "merged_stop_ids": [
@@ -2581,32 +2809,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzI",
-    "gtfs_id": "MOKoper:1166332",
+    "gtfsId": "MOKoper:1166332",
+    "vehicleMode": "BUS",
     "code": "15176",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica",
     "lat": 45.538185,
     "lon": 13.726274,
-    "opposite": "15176",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166332",
+    "type": "BUS",
+    "opposite": "15176",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_tomsicevaulica_59",
     "merged_stop_ids": [
@@ -2620,32 +2851,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzM",
-    "gtfs_id": "MOKoper:1166333",
+    "gtfsId": "MOKoper:1166333",
+    "vehicleMode": "BUS",
     "code": "13312",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica",
     "lat": 45.537755,
     "lon": 13.726966,
-    "opposite": "13312",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166333",
+    "type": "BUS",
+    "opposite": "13312",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_tomsicevaulica_59",
     "merged_stop_ids": [
@@ -2659,32 +2893,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzQ",
-    "gtfs_id": "MOKoper:1166334",
+    "gtfsId": "MOKoper:1166334",
+    "vehicleMode": "BUS",
     "code": "15545",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica K",
     "lat": 45.53578,
     "lon": 13.72927,
-    "opposite": "15545",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166334",
+    "type": "BUS",
+    "opposite": "15545",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_tomsicevaulicak_60",
     "merged_stop_ids": [
@@ -2698,32 +2935,35 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzU",
-    "gtfs_id": "MOKoper:1166335",
+    "gtfsId": "MOKoper:1166335",
+    "vehicleMode": "BUS",
     "code": "15177",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica K",
     "lat": 45.535966,
     "lon": 13.728965,
-    "opposite": "15177",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166335",
+    "type": "BUS",
+    "opposite": "15177",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_tomsicevaulicak_60",
     "merged_stop_ids": [
@@ -2737,20 +2977,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzY",
-    "gtfs_id": "MOKoper:1166336",
+    "gtfsId": "MOKoper:1166336",
+    "vehicleMode": "BUS",
     "code": "13317",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Ulica 15. maja",
     "lat": 45.53767,
     "lon": 13.73002,
-    "opposite": "13317",
     "routes": [
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1166336",
+    "type": "BUS",
+    "opposite": "13317",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_ulica15maja_61",
     "merged_stop_ids": [
@@ -2762,24 +3005,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzc",
-    "gtfs_id": "MOKoper:1166337",
+    "gtfsId": "MOKoper:1166337",
+    "vehicleMode": "BUS",
     "code": "13316",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Ulica Vena Pilona",
     "lat": 45.541777,
     "lon": 13.718855,
-    "opposite": "13316",
     "routes": [
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       }
+    ],
+    "gtfs_id": "MOKoper:1166337",
+    "type": "BUS",
+    "opposite": "13316",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_ulicavenapilona_62",
     "merged_stop_ids": [
@@ -2791,24 +3037,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzMzg",
-    "gtfs_id": "MOKoper:1166338",
+    "gtfsId": "MOKoper:1166338",
+    "vehicleMode": "BUS",
     "code": "13318",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Žusterna-bazen",
     "lat": 45.54637,
     "lon": 13.70866,
-    "opposite": "13318",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166338",
+    "type": "BUS",
+    "opposite": "13318",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_zusternabazen_63",
     "merged_stop_ids": [
@@ -2820,24 +3069,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzNDk",
-    "gtfs_id": "MOKoper:1166349",
+    "gtfsId": "MOKoper:1166349",
+    "vehicleMode": "BUS",
     "code": "13396",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Rozmanova ulica I",
     "lat": 45.536968,
     "lon": 13.724558,
-    "opposite": "13396",
     "routes": [
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:1166349",
+    "type": "BUS",
+    "opposite": "13396",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_rozmanovaulicai_64",
     "merged_stop_ids": [
@@ -2849,52 +3101,55 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzNTQ",
-    "gtfs_id": "MOKoper:1166354",
+    "gtfsId": "MOKoper:1166354",
+    "vehicleMode": "BUS",
     "code": "15202",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Tržnica",
     "lat": 45.54537,
     "lon": 13.72666,
-    "opposite": "15202",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "4",
-        "color": "#00BECD"
+        "color": "00BECD"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166354",
+    "type": "BUS",
+    "opposite": "15202",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_trznica_65",
     "merged_stop_ids": [
@@ -2906,36 +3161,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjYzNzc",
-    "gtfs_id": "MOKoper:1166377",
+    "gtfsId": "MOKoper:1166377",
+    "vehicleMode": "BUS",
     "code": "15546",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Markovec-Center Za Gradom",
     "lat": 45.54109,
     "lon": 13.70923,
-    "opposite": "15546",
     "routes": [
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166377",
+    "type": "BUS",
+    "opposite": "15546",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_markoveccenterzagradom_66",
     "merged_stop_ids": [
@@ -2947,36 +3205,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjY4MDc",
-    "gtfs_id": "MOKoper:1166807",
+    "gtfsId": "MOKoper:1166807",
+    "vehicleMode": "BUS",
     "code": "15319",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "PH Sonce",
     "lat": 45.54627,
     "lon": 13.74056,
-    "opposite": "15319",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       },
       {
         "name": "12",
-        "color": "#911D8B"
+        "color": "911D8B"
       }
+    ],
+    "gtfs_id": "MOKoper:1166807",
+    "type": "BUS",
+    "opposite": "15319",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_phsonce_67",
     "merged_stop_ids": [
@@ -2988,40 +3249,43 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjY4MDg",
-    "gtfs_id": "MOKoper:1166808",
+    "gtfsId": "MOKoper:1166808",
+    "vehicleMode": "BUS",
     "code": "11215",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Barka",
     "lat": 45.54646,
     "lon": 13.73803,
-    "opposite": "11215",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       },
       {
         "name": "10",
-        "color": "#2C3192"
+        "color": "2C3192"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       },
       {
         "name": "12",
-        "color": "#911D8B"
+        "color": "911D8B"
       }
+    ],
+    "gtfs_id": "MOKoper:1166808",
+    "type": "BUS",
+    "opposite": "11215",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_barka_3",
     "merged_stop_ids": [
@@ -3035,20 +3299,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjY4MjE",
-    "gtfs_id": "MOKoper:1166821",
+    "gtfsId": "MOKoper:1166821",
+    "vehicleMode": "BUS",
     "code": "15310",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Nad Dolinsko cesto",
     "lat": 45.5287,
     "lon": 13.733,
-    "opposite": "15310",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       }
+    ],
+    "gtfs_id": "MOKoper:1166821",
+    "type": "BUS",
+    "opposite": "15310",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_naddolinskocesto_68",
     "merged_stop_ids": [
@@ -3060,36 +3327,39 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjY4MzM",
-    "gtfs_id": "MOKoper:1166833",
+    "gtfsId": "MOKoper:1166833",
+    "vehicleMode": "BUS",
     "code": "14138",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Sv.Ana p.t.",
     "lat": 45.549189,
     "lon": 13.736276,
-    "opposite": "14138",
     "routes": [
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       },
       {
         "name": "7",
-        "color": "#005BAB"
+        "color": "005BAB"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       },
       {
         "name": "9",
-        "color": "#F38221"
+        "color": "F38221"
       },
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:1166833",
+    "type": "BUS",
+    "opposite": "14138",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_svanapt_69",
     "merged_stop_ids": [
@@ -3101,24 +3371,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjY5Mjk",
-    "gtfs_id": "MOKoper:1166929",
+    "gtfsId": "MOKoper:1166929",
+    "vehicleMode": "BUS",
     "code": "14837",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Molet",
     "lat": 45.54713,
     "lon": 13.70451,
-    "opposite": "14837",
     "routes": [
       {
         "name": "5",
-        "color": "#8FA3D4"
+        "color": "8FA3D4"
       },
       {
         "name": "6",
-        "color": "#727274"
+        "color": "727274"
       }
+    ],
+    "gtfs_id": "MOKoper:1166929",
+    "type": "BUS",
+    "opposite": "14837",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_molet_70",
     "merged_stop_ids": [
@@ -3130,28 +3403,31 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjExNjcwMjA",
-    "gtfs_id": "MOKoper:1167020",
+    "gtfsId": "MOKoper:1167020",
+    "vehicleMode": "BUS",
     "code": "10430",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Luka",
     "lat": 45.54771,
     "lon": 13.73849,
-    "opposite": "10430",
     "routes": [
       {
         "name": "1",
-        "color": "#0FAF4B"
+        "color": "0FAF4B"
       },
       {
         "name": "2",
-        "color": "#EE3533"
+        "color": "EE3533"
       },
       {
         "name": "2A",
-        "color": "#00B6F1"
+        "color": "00B6F1"
       }
+    ],
+    "gtfs_id": "MOKoper:1167020",
+    "type": "BUS",
+    "opposite": "10430",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_luka_71",
     "merged_stop_ids": [
@@ -3163,24 +3439,27 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOjkyMDE3ODA",
-    "gtfs_id": "MOKoper:9201780",
+    "gtfsId": "MOKoper:9201780",
+    "vehicleMode": "BUS",
     "code": "14713",
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "Dolinska cesta",
     "lat": 45.53087,
     "lon": 13.72397,
-    "opposite": "14713",
     "routes": [
       {
         "name": "3",
-        "color": "#DBAC6A"
+        "color": "DBAC6A"
       },
       {
         "name": "8",
-        "color": "#DBE11F"
+        "color": "DBE11F"
       }
+    ],
+    "gtfs_id": "MOKoper:9201780",
+    "type": "BUS",
+    "opposite": "14713",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_dolinskacesta_5",
     "merged_stop_ids": [
@@ -3194,20 +3473,23 @@
   },
   {
     "id": "U3RvcDpNT0tvcGVyOlNUT1BfMTc3NzMwODUyMjkwNg",
-    "gtfs_id": "MOKoper:STOP_1777308522906",
+    "gtfsId": "MOKoper:STOP_1777308522906",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#000000",
-    "icon_color": "#FFFFFF",
     "name": "CIMOS P+R",
     "lat": 45.539653,
     "lon": 13.723694,
-    "opposite": "MOKoper:STOP_1777308522906",
     "routes": [
       {
         "name": "11",
-        "color": "#F5ABAD"
+        "color": "F5ABAD"
       }
+    ],
+    "gtfs_id": "MOKoper:STOP_1777308522906",
+    "type": "BUS",
+    "opposite": "MOKoper:STOP_1777308522906",
+    "agencies": [
+      "MOKoper:MPK"
     ],
     "hub_id": "hub_cimospr_72",
     "merged_stop_ids": [

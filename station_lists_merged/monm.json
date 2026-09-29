@@ -1,20 +1,23 @@
 [
   {
     "id": "U3RvcDpNT05NOjE",
-    "gtfs_id": "MONM:1",
+    "gtfsId": "MONM:1",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Adria",
     "lat": 45.813763,
     "lon": 15.13214,
-    "opposite": "MONM:1",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       }
+    ],
+    "gtfs_id": "MONM:1",
+    "type": "BUS",
+    "opposite": "MONM:1",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_adria_0",
     "merged_stop_ids": [
@@ -23,24 +26,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjEw",
-    "gtfs_id": "MONM:10",
+    "gtfsId": "MONM:10",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Bučna vas",
     "lat": 45.82497,
     "lon": 15.156574,
-    "opposite": "MONM:10",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:10",
+    "type": "BUS",
+    "opposite": "MONM:10",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_bucnavas_1",
     "merged_stop_ids": [
@@ -50,24 +56,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwMA",
-    "gtfs_id": "MONM:100",
+    "gtfsId": "MONM:100",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Čefidelj",
     "lat": 45.814642,
     "lon": 15.147695,
-    "opposite": "MONM:100",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       }
+    ],
+    "gtfs_id": "MONM:100",
+    "type": "BUS",
+    "opposite": "MONM:100",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_cefidelj_2",
     "merged_stop_ids": [
@@ -77,24 +86,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwMQ",
-    "gtfs_id": "MONM:101",
+    "gtfsId": "MONM:101",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Čefidelj",
     "lat": 45.814675,
     "lon": 15.148242,
-    "opposite": "MONM:101",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       }
+    ],
+    "gtfs_id": "MONM:101",
+    "type": "BUS",
+    "opposite": "MONM:101",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_cefidelj_2",
     "merged_stop_ids": [
@@ -104,24 +116,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwMg",
-    "gtfs_id": "MONM:102",
+    "gtfsId": "MONM:102",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Šegova",
     "lat": 45.800026,
     "lon": 15.157665,
-    "opposite": "MONM:102",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       }
+    ],
+    "gtfs_id": "MONM:102",
+    "type": "BUS",
+    "opposite": "MONM:102",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_segova_3",
     "merged_stop_ids": [
@@ -130,24 +145,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwMw",
-    "gtfs_id": "MONM:103",
+    "gtfsId": "MONM:103",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Šmihel",
     "lat": 45.792789,
     "lon": 15.16422,
-    "opposite": "MONM:103",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:103",
+    "type": "BUS",
+    "opposite": "MONM:103",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_smihel_4",
     "merged_stop_ids": [
@@ -156,24 +174,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwNA",
-    "gtfs_id": "MONM:104",
+    "gtfsId": "MONM:104",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Šukljetova",
     "lat": 45.791393,
     "lon": 15.162555,
-    "opposite": "MONM:104",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:104",
+    "type": "BUS",
+    "opposite": "MONM:104",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_sukljetova_5",
     "merged_stop_ids": [
@@ -182,36 +203,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwNQ",
-    "gtfs_id": "MONM:105",
+    "gtfsId": "MONM:105",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "ŽP Kandija",
     "lat": 45.800419,
     "lon": 15.161262,
-    "opposite": "MONM:105",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:105",
+    "type": "BUS",
+    "opposite": "MONM:105",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_zpkandija_6",
     "merged_stop_ids": [
@@ -221,36 +245,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwNg",
-    "gtfs_id": "MONM:106",
+    "gtfsId": "MONM:106",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "ŽP Kandija",
     "lat": 45.799576,
     "lon": 15.160999,
-    "opposite": "MONM:106",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:106",
+    "type": "BUS",
+    "opposite": "MONM:106",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_zpkandija_6",
     "merged_stop_ids": [
@@ -260,20 +287,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwNw",
-    "gtfs_id": "MONM:107",
+    "gtfsId": "MONM:107",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Žabja vas",
     "lat": 45.79985,
     "lon": 15.182411,
-    "opposite": "MONM:107",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:107",
+    "type": "BUS",
+    "opposite": "MONM:107",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_zabjavas_7",
     "merged_stop_ids": [
@@ -283,20 +313,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwOA",
-    "gtfs_id": "MONM:108",
+    "gtfsId": "MONM:108",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Žabja vas",
     "lat": 45.799713,
     "lon": 15.181652,
-    "opposite": "MONM:108",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:108",
+    "type": "BUS",
+    "opposite": "MONM:108",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_zabjavas_7",
     "merged_stop_ids": [
@@ -306,24 +339,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjEwOQ",
-    "gtfs_id": "MONM:109",
+    "gtfsId": "MONM:109",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Župnca",
     "lat": 45.834057,
     "lon": 15.155773,
-    "opposite": "MONM:109",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:109",
+    "type": "BUS",
+    "opposite": "MONM:109",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_zupnca_8",
     "merged_stop_ids": [
@@ -332,20 +368,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjEx",
-    "gtfs_id": "MONM:11",
+    "gtfsId": "MONM:11",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Cankarjeva",
     "lat": 45.810749,
     "lon": 15.164508,
-    "opposite": "MONM:11",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:11",
+    "type": "BUS",
+    "opposite": "MONM:11",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_cankarjeva_9",
     "merged_stop_ids": [
@@ -354,24 +393,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjExMA",
-    "gtfs_id": "MONM:110",
+    "gtfsId": "MONM:110",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Viadukt Bezgavec",
     "lat": 45.822609,
     "lon": 15.155607,
-    "opposite": "MONM:110",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:110",
+    "type": "BUS",
+    "opposite": "MONM:110",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_viaduktbezgavec_10",
     "merged_stop_ids": [
@@ -381,24 +423,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjExMQ",
-    "gtfs_id": "MONM:111",
+    "gtfsId": "MONM:111",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Bučna vas",
     "lat": 45.824366,
     "lon": 15.156444,
-    "opposite": "MONM:111",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:111",
+    "type": "BUS",
+    "opposite": "MONM:111",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_bucnavas_1",
     "merged_stop_ids": [
@@ -408,24 +453,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjExMg",
-    "gtfs_id": "MONM:112",
+    "gtfsId": "MONM:112",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Turkova",
     "lat": 45.827588,
     "lon": 15.156267,
-    "opposite": "MONM:112",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:112",
+    "type": "BUS",
+    "opposite": "MONM:112",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_turkova_11",
     "merged_stop_ids": [
@@ -435,28 +483,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjEy",
-    "gtfs_id": "MONM:12",
+    "gtfsId": "MONM:12",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Cesarjeva",
     "lat": 45.796753,
     "lon": 15.158556,
-    "opposite": "MONM:12",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:12",
+    "type": "BUS",
+    "opposite": "MONM:12",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_cesarjeva_12",
     "merged_stop_ids": [
@@ -465,20 +516,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjEz",
-    "gtfs_id": "MONM:13",
+    "gtfsId": "MONM:13",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Cesta brigad",
     "lat": 45.821251,
     "lon": 15.160042,
-    "opposite": "MONM:13",
     "routes": [
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:13",
+    "type": "BUS",
+    "opposite": "MONM:13",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_cestabrigad_13",
     "merged_stop_ids": [
@@ -487,20 +541,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjE0",
-    "gtfs_id": "MONM:14",
+    "gtfsId": "MONM:14",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Cikava",
     "lat": 45.80344,
     "lon": 15.192078,
-    "opposite": "MONM:14",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:14",
+    "type": "BUS",
+    "opposite": "MONM:14",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_cikava_14",
     "merged_stop_ids": [
@@ -510,20 +567,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjE1",
-    "gtfs_id": "MONM:15",
+    "gtfsId": "MONM:15",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Cikava",
     "lat": 45.804001,
     "lon": 15.19403,
-    "opposite": "MONM:15",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:15",
+    "type": "BUS",
+    "opposite": "MONM:15",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_cikava_14",
     "merged_stop_ids": [
@@ -533,20 +593,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjE2",
-    "gtfs_id": "MONM:16",
+    "gtfsId": "MONM:16",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Drgančevje",
     "lat": 45.802108,
     "lon": 15.185423,
-    "opposite": "MONM:16",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:16",
+    "type": "BUS",
+    "opposite": "MONM:16",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_drgancevje_15",
     "merged_stop_ids": [
@@ -556,20 +619,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjE3",
-    "gtfs_id": "MONM:17",
+    "gtfsId": "MONM:17",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Drgančevje",
     "lat": 45.80146,
     "lon": 15.186952,
-    "opposite": "MONM:17",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:17",
+    "type": "BUS",
+    "opposite": "MONM:17",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_drgancevje_15",
     "merged_stop_ids": [
@@ -579,24 +645,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjE4",
-    "gtfs_id": "MONM:18",
+    "gtfsId": "MONM:18",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Drska",
     "lat": 45.800556,
     "lon": 15.153556,
-    "opposite": "MONM:18",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       }
+    ],
+    "gtfs_id": "MONM:18",
+    "type": "BUS",
+    "opposite": "MONM:18",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_drska_16",
     "merged_stop_ids": [
@@ -605,24 +674,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjI",
-    "gtfs_id": "MONM:2",
+    "gtfsId": "MONM:2",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "BTC",
     "lat": 45.817287,
     "lon": 15.15495,
-    "opposite": "MONM:2",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:2",
+    "type": "BUS",
+    "opposite": "MONM:2",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_btc_17",
     "merged_stop_ids": [
@@ -632,24 +704,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjIw",
-    "gtfs_id": "MONM:20",
+    "gtfsId": "MONM:20",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Finžgarjeva",
     "lat": 45.789692,
     "lon": 15.16474,
-    "opposite": "MONM:20",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:20",
+    "type": "BUS",
+    "opposite": "MONM:20",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_finzgarjeva_18",
     "merged_stop_ids": [
@@ -658,28 +733,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjIx",
-    "gtfs_id": "MONM:21",
+    "gtfsId": "MONM:21",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Gimnazija",
     "lat": 45.808248,
     "lon": 15.164528,
-    "opposite": "MONM:21",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:21",
+    "type": "BUS",
+    "opposite": "MONM:21",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_gimnazija_19",
     "merged_stop_ids": [
@@ -689,28 +767,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjIy",
-    "gtfs_id": "MONM:22",
+    "gtfsId": "MONM:22",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Gimnazija",
     "lat": 45.80862,
     "lon": 15.164429,
-    "opposite": "MONM:22",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:22",
+    "type": "BUS",
+    "opposite": "MONM:22",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_gimnazija_19",
     "merged_stop_ids": [
@@ -720,20 +801,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjIz",
-    "gtfs_id": "MONM:23",
+    "gtfsId": "MONM:23",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Gotna vas",
     "lat": 45.78883,
     "lon": 15.179424,
-    "opposite": "MONM:23",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:23",
+    "type": "BUS",
+    "opposite": "MONM:23",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_gotnavas_20",
     "merged_stop_ids": [
@@ -743,20 +827,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjI0",
-    "gtfs_id": "MONM:24",
+    "gtfsId": "MONM:24",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Gotna vas",
     "lat": 45.790173,
     "lon": 15.178829,
-    "opposite": "MONM:24",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:24",
+    "type": "BUS",
+    "opposite": "MONM:24",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_gotnavas_20",
     "merged_stop_ids": [
@@ -766,20 +853,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjI1",
-    "gtfs_id": "MONM:25",
+    "gtfsId": "MONM:25",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Hedera",
     "lat": 45.815147,
     "lon": 15.154975,
-    "opposite": "MONM:25",
     "routes": [
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:25",
+    "type": "BUS",
+    "opposite": "MONM:25",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_hedera_21",
     "merged_stop_ids": [
@@ -788,24 +878,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjI2",
-    "gtfs_id": "MONM:26",
+    "gtfsId": "MONM:26",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Jakčeva",
     "lat": 45.801745,
     "lon": 15.173106,
-    "opposite": "MONM:26",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:26",
+    "type": "BUS",
+    "opposite": "MONM:26",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_jakceva_22",
     "merged_stop_ids": [
@@ -814,20 +907,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjI3",
-    "gtfs_id": "MONM:27",
+    "gtfsId": "MONM:27",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Jedinščica",
     "lat": 45.786243,
     "lon": 15.178863,
-    "opposite": "MONM:27",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:27",
+    "type": "BUS",
+    "opposite": "MONM:27",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_jedinscica_23",
     "merged_stop_ids": [
@@ -836,24 +932,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjI4",
-    "gtfs_id": "MONM:28",
+    "gtfsId": "MONM:28",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Kamence",
     "lat": 45.827667,
     "lon": 15.150291,
-    "opposite": "MONM:28",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:28",
+    "type": "BUS",
+    "opposite": "MONM:28",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_kamence_24",
     "merged_stop_ids": [
@@ -862,24 +961,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjI5",
-    "gtfs_id": "MONM:29",
+    "gtfsId": "MONM:29",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Kamence GD",
     "lat": 45.829334,
     "lon": 15.154331,
-    "opposite": "MONM:29",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:29",
+    "type": "BUS",
+    "opposite": "MONM:29",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_kamencegd_25",
     "merged_stop_ids": [
@@ -888,24 +990,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjM",
-    "gtfs_id": "MONM:3",
+    "gtfsId": "MONM:3",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "BTC",
     "lat": 45.816383,
     "lon": 15.154297,
-    "opposite": "MONM:3",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:3",
+    "type": "BUS",
+    "opposite": "MONM:3",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_btc_17",
     "merged_stop_ids": [
@@ -915,36 +1020,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjMw",
-    "gtfs_id": "MONM:30",
+    "gtfsId": "MONM:30",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Kandija",
     "lat": 45.801163,
     "lon": 15.171487,
-    "opposite": "MONM:30",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:30",
+    "type": "BUS",
+    "opposite": "MONM:30",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_kandija_26",
     "merged_stop_ids": [
@@ -954,36 +1062,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjMx",
-    "gtfs_id": "MONM:31",
+    "gtfsId": "MONM:31",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Kandija",
     "lat": 45.80043,
     "lon": 15.172506,
-    "opposite": "MONM:31",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:31",
+    "type": "BUS",
+    "opposite": "MONM:31",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_kandija_26",
     "merged_stop_ids": [
@@ -993,20 +1104,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjMy",
-    "gtfs_id": "MONM:32",
+    "gtfsId": "MONM:32",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Knezova",
     "lat": 45.785488,
     "lon": 15.171267,
-    "opposite": "MONM:32",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:32",
+    "type": "BUS",
+    "opposite": "MONM:32",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_knezova_27",
     "merged_stop_ids": [
@@ -1015,20 +1129,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjMz",
-    "gtfs_id": "MONM:33",
+    "gtfsId": "MONM:33",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Košenice",
     "lat": 45.783222,
     "lon": 15.158979,
-    "opposite": "MONM:33",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:33",
+    "type": "BUS",
+    "opposite": "MONM:33",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_kosenice_28",
     "merged_stop_ids": [
@@ -1037,24 +1154,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjM0",
-    "gtfs_id": "MONM:34",
+    "gtfsId": "MONM:34",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Krallova",
     "lat": 45.788078,
     "lon": 15.160784,
-    "opposite": "MONM:34",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:34",
+    "type": "BUS",
+    "opposite": "MONM:34",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_krallova_29",
     "merged_stop_ids": [
@@ -1064,24 +1184,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjM1",
-    "gtfs_id": "MONM:35",
+    "gtfsId": "MONM:35",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Krallova",
     "lat": 45.788136,
     "lon": 15.160218,
-    "opposite": "MONM:35",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:35",
+    "type": "BUS",
+    "opposite": "MONM:35",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_krallova_29",
     "merged_stop_ids": [
@@ -1091,36 +1214,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjM2",
-    "gtfs_id": "MONM:36",
+    "gtfsId": "MONM:36",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Krka",
     "lat": 45.816377,
     "lon": 15.178894,
-    "opposite": "MONM:36",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:36",
+    "type": "BUS",
+    "opposite": "MONM:36",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_krka_30",
     "merged_stop_ids": [
@@ -1130,36 +1256,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjM3",
-    "gtfs_id": "MONM:37",
+    "gtfsId": "MONM:37",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Krka",
     "lat": 45.815617,
     "lon": 15.177707,
-    "opposite": "MONM:37",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:37",
+    "type": "BUS",
+    "opposite": "MONM:37",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_krka_30",
     "merged_stop_ids": [
@@ -1169,24 +1298,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjM4",
-    "gtfs_id": "MONM:38",
+    "gtfsId": "MONM:38",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Krka tehnični pregledi",
     "lat": 45.822903,
     "lon": 15.183827,
-    "opposite": "MONM:38",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:38",
+    "type": "BUS",
+    "opposite": "MONM:38",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_krkatehnicnipregledi_31",
     "merged_stop_ids": [
@@ -1195,36 +1327,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjM5",
-    "gtfs_id": "MONM:39",
+    "gtfsId": "MONM:39",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Lekarna",
     "lat": 45.801319,
     "lon": 15.163793,
-    "opposite": "MONM:39",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:39",
+    "type": "BUS",
+    "opposite": "MONM:39",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_lekarna_32",
     "merged_stop_ids": [
@@ -1234,20 +1369,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjQ",
-    "gtfs_id": "MONM:4",
+    "gtfsId": "MONM:4",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Belokranjska",
     "lat": 45.799061,
     "lon": 15.180003,
-    "opposite": "MONM:4",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:4",
+    "type": "BUS",
+    "opposite": "MONM:4",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_belokranjska_33",
     "merged_stop_ids": [
@@ -1256,36 +1394,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjQw",
-    "gtfs_id": "MONM:40",
+    "gtfsId": "MONM:40",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Lekarna",
     "lat": 45.801697,
     "lon": 15.16308,
-    "opposite": "MONM:40",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:40",
+    "type": "BUS",
+    "opposite": "MONM:40",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_lekarna_32",
     "merged_stop_ids": [
@@ -1295,24 +1436,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjQx",
-    "gtfs_id": "MONM:41",
+    "gtfsId": "MONM:41",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Muhaber",
     "lat": 45.820129,
     "lon": 15.147985,
-    "opposite": "MONM:41",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:41",
+    "type": "BUS",
+    "opposite": "MONM:41",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_muhaber_34",
     "merged_stop_ids": [
@@ -1322,28 +1466,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjQy",
-    "gtfs_id": "MONM:42",
+    "gtfsId": "MONM:42",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Ljubljanska",
     "lat": 45.805084,
     "lon": 15.162407,
-    "opposite": "MONM:42",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:42",
+    "type": "BUS",
+    "opposite": "MONM:42",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_ljubljanska_35",
     "merged_stop_ids": [
@@ -1352,36 +1499,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjQz",
-    "gtfs_id": "MONM:43",
+    "gtfsId": "MONM:43",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Ločna",
     "lat": 45.819836,
     "lon": 15.181899,
-    "opposite": "MONM:43",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:43",
+    "type": "BUS",
+    "opposite": "MONM:43",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_locna_36",
     "merged_stop_ids": [
@@ -1391,36 +1541,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjQ0",
-    "gtfs_id": "MONM:44",
+    "gtfsId": "MONM:44",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Ločna",
     "lat": 45.82003,
     "lon": 15.182232,
-    "opposite": "MONM:44",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:44",
+    "type": "BUS",
+    "opposite": "MONM:44",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_locna_36",
     "merged_stop_ids": [
@@ -1430,20 +1583,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjQ1",
-    "gtfs_id": "MONM:45",
+    "gtfsId": "MONM:45",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Mali Slatnik",
     "lat": 45.808735,
     "lon": 15.204292,
-    "opposite": "MONM:45",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:45",
+    "type": "BUS",
+    "opposite": "MONM:45",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_malislatnik_37",
     "merged_stop_ids": [
@@ -1452,20 +1608,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjQ2",
-    "gtfs_id": "MONM:46",
+    "gtfsId": "MONM:46",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Mali Slatnik obračališče",
     "lat": 45.81115,
     "lon": 15.208839,
-    "opposite": "MONM:46",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:46",
+    "type": "BUS",
+    "opposite": "MONM:46",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_malislatnikobracalisce_38",
     "merged_stop_ids": [
@@ -1474,36 +1633,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjQ3",
-    "gtfs_id": "MONM:47",
+    "gtfsId": "MONM:47",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Mačkovec",
     "lat": 45.824268,
     "lon": 15.188701,
-    "opposite": "MONM:47",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:47",
+    "type": "BUS",
+    "opposite": "MONM:47",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_mackovec_39",
     "merged_stop_ids": [
@@ -1513,36 +1675,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjQ4",
-    "gtfs_id": "MONM:48",
+    "gtfsId": "MONM:48",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Mačkovec",
     "lat": 45.824589,
     "lon": 15.189006,
-    "opposite": "MONM:48",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:48",
+    "type": "BUS",
+    "opposite": "MONM:48",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_mackovec_39",
     "merged_stop_ids": [
@@ -1552,20 +1717,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjQ5",
-    "gtfs_id": "MONM:49",
+    "gtfsId": "MONM:49",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Mestne njive",
     "lat": 45.811459,
     "lon": 15.164428,
-    "opposite": "MONM:49",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:49",
+    "type": "BUS",
+    "opposite": "MONM:49",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_mestnenjive_40",
     "merged_stop_ids": [
@@ -1574,24 +1742,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjU",
-    "gtfs_id": "MONM:5",
+    "gtfsId": "MONM:5",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Brod",
     "lat": 45.797199,
     "lon": 15.150571,
-    "opposite": "MONM:5",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       }
+    ],
+    "gtfs_id": "MONM:5",
+    "type": "BUS",
+    "opposite": "MONM:5",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_brod_41",
     "merged_stop_ids": [
@@ -1601,28 +1772,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjUw",
-    "gtfs_id": "MONM:50",
+    "gtfsId": "MONM:50",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Mrzla dolina",
     "lat": 45.79686,
     "lon": 15.15583,
-    "opposite": "MONM:50",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:50",
+    "type": "BUS",
+    "opposite": "MONM:50",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_mrzladolina_42",
     "merged_stop_ids": [
@@ -1631,24 +1805,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjUx",
-    "gtfs_id": "MONM:51",
+    "gtfsId": "MONM:51",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Muhaber",
     "lat": 45.819283,
     "lon": 15.147336,
-    "opposite": "MONM:51",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:51",
+    "type": "BUS",
+    "opposite": "MONM:51",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_muhaber_34",
     "merged_stop_ids": [
@@ -1658,32 +1835,35 @@
   },
   {
     "id": "U3RvcDpNT05NOjUy",
-    "gtfs_id": "MONM:52",
+    "gtfsId": "MONM:52",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Nad mlini",
     "lat": 45.801052,
     "lon": 15.168787,
-    "opposite": "MONM:52",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:52",
+    "type": "BUS",
+    "opposite": "MONM:52",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_nadmlini_43",
     "merged_stop_ids": [
@@ -1692,32 +1872,35 @@
   },
   {
     "id": "U3RvcDpNT05NOjUz",
-    "gtfs_id": "MONM:53",
+    "gtfsId": "MONM:53",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Novi most",
     "lat": 45.804611,
     "lon": 15.162569,
-    "opposite": "MONM:53",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:53",
+    "type": "BUS",
+    "opposite": "MONM:53",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_novimost_44",
     "merged_stop_ids": [
@@ -1726,24 +1909,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjU0",
-    "gtfs_id": "MONM:54",
+    "gtfsId": "MONM:54",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Novoteks",
     "lat": 45.813679,
     "lon": 15.152063,
-    "opposite": "MONM:54",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       }
+    ],
+    "gtfs_id": "MONM:54",
+    "type": "BUS",
+    "opposite": "MONM:54",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_novoteks_45",
     "merged_stop_ids": [
@@ -1752,20 +1938,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjU1",
-    "gtfs_id": "MONM:55",
+    "gtfsId": "MONM:55",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Ob Težki vodi",
     "lat": 45.788754,
     "lon": 15.172014,
-    "opposite": "MONM:55",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:55",
+    "type": "BUS",
+    "opposite": "MONM:55",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_obtezkivodi_46",
     "merged_stop_ids": [
@@ -1774,20 +1963,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjU2",
-    "gtfs_id": "MONM:56",
+    "gtfsId": "MONM:56",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Podbevškova",
     "lat": 45.804489,
     "lon": 15.196499,
-    "opposite": "MONM:56",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       }
+    ],
+    "gtfs_id": "MONM:56",
+    "type": "BUS",
+    "opposite": "MONM:56",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_podbevskova_47",
     "merged_stop_ids": [
@@ -1796,20 +1988,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjU3",
-    "gtfs_id": "MONM:57",
+    "gtfsId": "MONM:57",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Podbreznik",
     "lat": 45.8064,
     "lon": 15.129763,
-    "opposite": "MONM:57",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       }
+    ],
+    "gtfs_id": "MONM:57",
+    "type": "BUS",
+    "opposite": "MONM:57",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_podbreznik_48",
     "merged_stop_ids": [
@@ -1818,20 +2013,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjU4",
-    "gtfs_id": "MONM:58",
+    "gtfsId": "MONM:58",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Poganci",
     "lat": 45.778301,
     "lon": 15.179167,
-    "opposite": "MONM:58",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:58",
+    "type": "BUS",
+    "opposite": "MONM:58",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_poganci_49",
     "merged_stop_ids": [
@@ -1840,28 +2038,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjU5",
-    "gtfs_id": "MONM:59",
+    "gtfsId": "MONM:59",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Pokopališče Ločna",
     "lat": 45.811939,
     "lon": 15.170826,
-    "opposite": "MONM:59",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:59",
+    "type": "BUS",
+    "opposite": "MONM:59",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_pokopaliscelocna_50",
     "merged_stop_ids": [
@@ -1871,24 +2072,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjY",
-    "gtfs_id": "MONM:6",
+    "gtfsId": "MONM:6",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Brod",
     "lat": 45.797894,
     "lon": 15.151999,
-    "opposite": "MONM:6",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       }
+    ],
+    "gtfs_id": "MONM:6",
+    "type": "BUS",
+    "opposite": "MONM:6",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_brod_41",
     "merged_stop_ids": [
@@ -1898,28 +2102,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjYw",
-    "gtfs_id": "MONM:60",
+    "gtfsId": "MONM:60",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Pokopališče Ločna",
     "lat": 45.812439,
     "lon": 15.172596,
-    "opposite": "MONM:60",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:60",
+    "type": "BUS",
+    "opposite": "MONM:60",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_pokopaliscelocna_50",
     "merged_stop_ids": [
@@ -1929,24 +2136,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjYx",
-    "gtfs_id": "MONM:61",
+    "gtfsId": "MONM:61",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Pokopališče Srebrniče",
     "lat": 45.792423,
     "lon": 15.136899,
-    "opposite": "MONM:61",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       }
+    ],
+    "gtfs_id": "MONM:61",
+    "type": "BUS",
+    "opposite": "MONM:61",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_pokopaliscesrebrnice_51",
     "merged_stop_ids": [
@@ -1956,24 +2166,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjYy",
-    "gtfs_id": "MONM:62",
+    "gtfsId": "MONM:62",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Pokopališče Srebrniče",
     "lat": 45.79258,
     "lon": 15.138176,
-    "opposite": "MONM:62",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       }
+    ],
+    "gtfs_id": "MONM:62",
+    "type": "BUS",
+    "opposite": "MONM:62",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_pokopaliscesrebrnice_51",
     "merged_stop_ids": [
@@ -1983,24 +2196,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjYz",
-    "gtfs_id": "MONM:63",
+    "gtfsId": "MONM:63",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Pokopališče Šmihel",
     "lat": 45.795948,
     "lon": 15.16242,
-    "opposite": "MONM:63",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:63",
+    "type": "BUS",
+    "opposite": "MONM:63",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_pokopaliscesmihel_52",
     "merged_stop_ids": [
@@ -2010,24 +2226,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjY0",
-    "gtfs_id": "MONM:64",
+    "gtfsId": "MONM:64",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Pokopališče Šmihel",
     "lat": 45.795559,
     "lon": 15.163005,
-    "opposite": "MONM:64",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:64",
+    "type": "BUS",
+    "opposite": "MONM:64",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_pokopaliscesmihel_52",
     "merged_stop_ids": [
@@ -2037,24 +2256,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjY1",
-    "gtfs_id": "MONM:65",
+    "gtfsId": "MONM:65",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Potočna vas",
     "lat": 45.825848,
     "lon": 15.145905,
-    "opposite": "MONM:65",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:65",
+    "type": "BUS",
+    "opposite": "MONM:65",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_potocnavas_53",
     "merged_stop_ids": [
@@ -2063,20 +2285,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjY2",
-    "gtfs_id": "MONM:66",
+    "gtfsId": "MONM:66",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Prečna",
     "lat": 45.812939,
     "lon": 15.125668,
-    "opposite": "MONM:66",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       }
+    ],
+    "gtfs_id": "MONM:66",
+    "type": "BUS",
+    "opposite": "MONM:66",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_precna_54",
     "merged_stop_ids": [
@@ -2085,36 +2310,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjY3",
-    "gtfs_id": "MONM:67",
+    "gtfsId": "MONM:67",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Qlandia",
     "lat": 45.826057,
     "lon": 15.184699,
-    "opposite": "MONM:67",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:67",
+    "type": "BUS",
+    "opposite": "MONM:67",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_qlandia_55",
     "merged_stop_ids": [
@@ -2123,28 +2351,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjY4",
-    "gtfs_id": "MONM:68",
+    "gtfsId": "MONM:68",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Ragovo",
     "lat": 45.812051,
     "lon": 15.178267,
-    "opposite": "MONM:68",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:68",
+    "type": "BUS",
+    "opposite": "MONM:68",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_ragovo_56",
     "merged_stop_ids": [
@@ -2154,28 +2385,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjY5",
-    "gtfs_id": "MONM:69",
+    "gtfsId": "MONM:69",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Ragovo",
     "lat": 45.810776,
     "lon": 15.179517,
-    "opposite": "MONM:69",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:69",
+    "type": "BUS",
+    "opposite": "MONM:69",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_ragovo_56",
     "merged_stop_ids": [
@@ -2185,28 +2419,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjc",
-    "gtfs_id": "MONM:7",
+    "gtfsId": "MONM:7",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Bršljin",
     "lat": 45.812507,
     "lon": 15.156149,
-    "opposite": "MONM:7",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:7",
+    "type": "BUS",
+    "opposite": "MONM:7",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_brsljin_57",
     "merged_stop_ids": [
@@ -2216,28 +2453,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjcw",
-    "gtfs_id": "MONM:70",
+    "gtfsId": "MONM:70",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Ragovska",
     "lat": 45.803383,
     "lon": 15.174101,
-    "opposite": "MONM:70",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:70",
+    "type": "BUS",
+    "opposite": "MONM:70",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_ragovska_58",
     "merged_stop_ids": [
@@ -2247,28 +2487,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjcx",
-    "gtfs_id": "MONM:71",
+    "gtfsId": "MONM:71",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Ragovska",
     "lat": 45.803753,
     "lon": 15.174479,
-    "opposite": "MONM:71",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:71",
+    "type": "BUS",
+    "opposite": "MONM:71",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_ragovska_58",
     "merged_stop_ids": [
@@ -2278,20 +2521,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjcy",
-    "gtfs_id": "MONM:72",
+    "gtfsId": "MONM:72",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Regrča vas",
     "lat": 45.789703,
     "lon": 15.168938,
-    "opposite": "MONM:72",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:72",
+    "type": "BUS",
+    "opposite": "MONM:72",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_regrcavas_59",
     "merged_stop_ids": [
@@ -2300,20 +2546,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjcz",
-    "gtfs_id": "MONM:73",
+    "gtfsId": "MONM:73",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Revoz",
     "lat": 45.796501,
     "lon": 15.181035,
-    "opposite": "MONM:73",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:73",
+    "type": "BUS",
+    "opposite": "MONM:73",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_revoz_60",
     "merged_stop_ids": [
@@ -2323,20 +2572,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjc0",
-    "gtfs_id": "MONM:74",
+    "gtfsId": "MONM:74",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Revoz",
     "lat": 45.795349,
     "lon": 15.180584,
-    "opposite": "MONM:74",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:74",
+    "type": "BUS",
+    "opposite": "MONM:74",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_revoz_60",
     "merged_stop_ids": [
@@ -2346,28 +2598,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjc2",
-    "gtfs_id": "MONM:76",
+    "gtfsId": "MONM:76",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Seidlova",
     "lat": 45.805202,
     "lon": 15.163373,
-    "opposite": "MONM:76",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:76",
+    "type": "BUS",
+    "opposite": "MONM:76",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_seidlova_61",
     "merged_stop_ids": [
@@ -2376,32 +2631,35 @@
   },
   {
     "id": "U3RvcDpNT05NOjc3",
-    "gtfs_id": "MONM:77",
+    "gtfsId": "MONM:77",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Sevno",
     "lat": 45.832668,
     "lon": 15.18896,
-    "opposite": "MONM:77",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:77",
+    "type": "BUS",
+    "opposite": "MONM:77",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_sevno_62",
     "merged_stop_ids": [
@@ -2411,32 +2669,35 @@
   },
   {
     "id": "U3RvcDpNT05NOjc4",
-    "gtfs_id": "MONM:78",
+    "gtfsId": "MONM:78",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Sevno",
     "lat": 45.832664,
     "lon": 15.188842,
-    "opposite": "MONM:78",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:78",
+    "type": "BUS",
+    "opposite": "MONM:78",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_sevno_62",
     "merged_stop_ids": [
@@ -2446,28 +2707,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjc5",
-    "gtfs_id": "MONM:79",
+    "gtfsId": "MONM:79",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Slavka Gruma",
     "lat": 45.798733,
     "lon": 15.154854,
-    "opposite": "MONM:79",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:79",
+    "type": "BUS",
+    "opposite": "MONM:79",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_slavkagruma_63",
     "merged_stop_ids": [
@@ -2478,28 +2742,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjg",
-    "gtfs_id": "MONM:8",
+    "gtfsId": "MONM:8",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Bršljin",
     "lat": 45.812691,
     "lon": 15.155662,
-    "opposite": "MONM:8",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:8",
+    "type": "BUS",
+    "opposite": "MONM:8",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_brsljin_57",
     "merged_stop_ids": [
@@ -2509,28 +2776,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjgw",
-    "gtfs_id": "MONM:80",
+    "gtfsId": "MONM:80",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Slavka Gruma",
     "lat": 45.79924,
     "lon": 15.154459,
-    "opposite": "MONM:80",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:80",
+    "type": "BUS",
+    "opposite": "MONM:80",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_slavkagruma_63",
     "merged_stop_ids": [
@@ -2541,28 +2811,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjgx",
-    "gtfs_id": "MONM:81",
+    "gtfsId": "MONM:81",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Slavka Gruma",
     "lat": 45.798801,
     "lon": 15.154316,
-    "opposite": "MONM:81",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:81",
+    "type": "BUS",
+    "opposite": "MONM:81",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_slavkagruma_63",
     "merged_stop_ids": [
@@ -2573,24 +2846,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjgy",
-    "gtfs_id": "MONM:82",
+    "gtfsId": "MONM:82",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Srebrniče",
     "lat": 45.79298,
     "lon": 15.125823,
-    "opposite": "MONM:82",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       }
+    ],
+    "gtfs_id": "MONM:82",
+    "type": "BUS",
+    "opposite": "MONM:82",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_srebrnice_64",
     "merged_stop_ids": [
@@ -2600,24 +2876,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjgz",
-    "gtfs_id": "MONM:83",
+    "gtfsId": "MONM:83",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Srebrniče",
     "lat": 45.793041,
     "lon": 15.126464,
-    "opposite": "MONM:83",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       }
+    ],
+    "gtfs_id": "MONM:83",
+    "type": "BUS",
+    "opposite": "MONM:83",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_srebrnice_64",
     "merged_stop_ids": [
@@ -2627,36 +2906,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjg1",
-    "gtfs_id": "MONM:85",
+    "gtfsId": "MONM:85",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Stražna",
     "lat": 45.826351,
     "lon": 15.190119,
-    "opposite": "MONM:85",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:85",
+    "type": "BUS",
+    "opposite": "MONM:85",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_strazna_65",
     "merged_stop_ids": [
@@ -2667,36 +2949,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjg2",
-    "gtfs_id": "MONM:86",
+    "gtfsId": "MONM:86",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Stražna",
     "lat": 45.826767,
     "lon": 15.18906,
-    "opposite": "MONM:86",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:86",
+    "type": "BUS",
+    "opposite": "MONM:86",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_strazna_65",
     "merged_stop_ids": [
@@ -2707,36 +2992,39 @@
   },
   {
     "id": "U3RvcDpNT05NOjg3",
-    "gtfs_id": "MONM:87",
+    "gtfsId": "MONM:87",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Stražna",
     "lat": 45.828312,
     "lon": 15.190342,
-    "opposite": "MONM:87",
     "routes": [
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:87",
+    "type": "BUS",
+    "opposite": "MONM:87",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_strazna_65",
     "merged_stop_ids": [
@@ -2747,20 +3035,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjg4",
-    "gtfs_id": "MONM:88",
+    "gtfsId": "MONM:88",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Sveti Rok",
     "lat": 45.783188,
     "lon": 15.170107,
-    "opposite": "MONM:88",
     "routes": [
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:88",
+    "type": "BUS",
+    "opposite": "MONM:88",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_svetirok_66",
     "merged_stop_ids": [
@@ -2769,24 +3060,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjg5",
-    "gtfs_id": "MONM:89",
+    "gtfsId": "MONM:89",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "TPV",
     "lat": 45.800096,
     "lon": 15.174769,
-    "opposite": "MONM:89",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:89",
+    "type": "BUS",
+    "opposite": "MONM:89",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_tpv_67",
     "merged_stop_ids": [
@@ -2796,20 +3090,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjk",
-    "gtfs_id": "MONM:9",
+    "gtfsId": "MONM:9",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Bršljin OŠ",
     "lat": 45.816528,
     "lon": 15.156634,
-    "opposite": "MONM:9",
     "routes": [
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:9",
+    "type": "BUS",
+    "opposite": "MONM:9",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_brsljinos_68",
     "merged_stop_ids": [
@@ -2818,24 +3115,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjkw",
-    "gtfs_id": "MONM:90",
+    "gtfsId": "MONM:90",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "TPV",
     "lat": 45.799946,
     "lon": 15.175306,
-    "opposite": "MONM:90",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       }
+    ],
+    "gtfs_id": "MONM:90",
+    "type": "BUS",
+    "opposite": "MONM:90",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_tpv_67",
     "merged_stop_ids": [
@@ -2845,28 +3145,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjkx",
-    "gtfs_id": "MONM:91",
+    "gtfsId": "MONM:91",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Topliška",
     "lat": 45.802353,
     "lon": 15.160952,
-    "opposite": "MONM:91",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:91",
+    "type": "BUS",
+    "opposite": "MONM:91",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_topliska_69",
     "merged_stop_ids": [
@@ -2876,28 +3179,31 @@
   },
   {
     "id": "U3RvcDpNT05NOjky",
-    "gtfs_id": "MONM:92",
+    "gtfsId": "MONM:92",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Topliška",
     "lat": 45.802238,
     "lon": 15.160666,
-    "opposite": "MONM:92",
     "routes": [
       {
         "name": "1A",
-        "color": "#d4191d"
+        "color": "d4191d"
       },
       {
         "name": "2",
-        "color": "#ffd300"
+        "color": "ffd300"
       },
       {
         "name": "N",
-        "color": "#2cb6bb"
+        "color": "2cb6bb"
       }
+    ],
+    "gtfs_id": "MONM:92",
+    "type": "BUS",
+    "opposite": "MONM:92",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_topliska_69",
     "merged_stop_ids": [
@@ -2907,24 +3213,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjkz",
-    "gtfs_id": "MONM:93",
+    "gtfsId": "MONM:93",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Turkova",
     "lat": 45.828869,
     "lon": 15.157353,
-    "opposite": "MONM:93",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:93",
+    "type": "BUS",
+    "opposite": "MONM:93",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_turkova_11",
     "merged_stop_ids": [
@@ -2934,24 +3243,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjk0",
-    "gtfs_id": "MONM:94",
+    "gtfsId": "MONM:94",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Viadukt Bezgavec",
     "lat": 45.822197,
     "lon": 15.1561,
-    "opposite": "MONM:94",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:94",
+    "type": "BUS",
+    "opposite": "MONM:94",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_viaduktbezgavec_10",
     "merged_stop_ids": [
@@ -2961,20 +3273,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjk1",
-    "gtfs_id": "MONM:95",
+    "gtfsId": "MONM:95",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Vojašnica",
     "lat": 45.814053,
     "lon": 15.146115,
-    "opposite": "MONM:95",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       }
+    ],
+    "gtfs_id": "MONM:95",
+    "type": "BUS",
+    "opposite": "MONM:95",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_vojasnica_70",
     "merged_stop_ids": [
@@ -2984,20 +3299,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjk2",
-    "gtfs_id": "MONM:96",
+    "gtfsId": "MONM:96",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Vojašnica",
     "lat": 45.813725,
     "lon": 15.14438,
-    "opposite": "MONM:96",
     "routes": [
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       }
+    ],
+    "gtfs_id": "MONM:96",
+    "type": "BUS",
+    "opposite": "MONM:96",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_vojasnica_70",
     "merged_stop_ids": [
@@ -3007,20 +3325,23 @@
   },
   {
     "id": "U3RvcDpNT05NOjk3",
-    "gtfs_id": "MONM:97",
+    "gtfsId": "MONM:97",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Vrtec Bršljin",
     "lat": 45.817989,
     "lon": 15.157727,
-    "opposite": "MONM:97",
     "routes": [
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:97",
+    "type": "BUS",
+    "opposite": "MONM:97",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_vrtecbrsljin_71",
     "merged_stop_ids": [
@@ -3029,32 +3350,35 @@
   },
   {
     "id": "U3RvcDpNT05NOjk4",
-    "gtfs_id": "MONM:98",
+    "gtfsId": "MONM:98",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Zdravstveni dom",
     "lat": 45.801983,
     "lon": 15.161655,
-    "opposite": "MONM:98",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "3",
-        "color": "#0aa246"
+        "color": "0aa246"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       },
       {
         "name": "5",
-        "color": "#833689"
+        "color": "833689"
       }
+    ],
+    "gtfs_id": "MONM:98",
+    "type": "BUS",
+    "opposite": "MONM:98",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_zdravstvenidom_72",
     "merged_stop_ids": [
@@ -3063,24 +3387,27 @@
   },
   {
     "id": "U3RvcDpNT05NOjk5",
-    "gtfs_id": "MONM:99",
+    "gtfsId": "MONM:99",
+    "vehicleMode": "BUS",
     "code": null,
-    "type": "BUS",
-    "background_color": "#9AC42F",
-    "icon_color": "#FFFFFF",
     "name": "Zobčeva",
     "lat": 45.823475,
     "lon": 15.144948,
-    "opposite": "MONM:99",
     "routes": [
       {
         "name": "1B",
-        "color": "#0077bc"
+        "color": "0077bc"
       },
       {
         "name": "4",
-        "color": "#f58321"
+        "color": "f58321"
       }
+    ],
+    "gtfs_id": "MONM:99",
+    "type": "BUS",
+    "opposite": "MONM:99",
+    "agencies": [
+      "MONM:MPNM"
     ],
     "hub_id": "hub_zobceva_73",
     "merged_stop_ids": [

@@ -1,24 +1,27 @@
 [
   {
     "id": "U3RvcDpNT01TOjExMjI0MzM",
-    "gtfs_id": "MOMS:1122433",
+    "gtfsId": "MOMS:1122433",
+    "vehicleMode": "BUS",
     "code": "1122433",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota AP",
     "lat": 46.658791,
     "lon": 16.16514,
-    "opposite": "1122433",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122433",
+    "type": "BUS",
+    "opposite": "1122433",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotaap_0",
     "merged_stop_ids": [
@@ -30,20 +33,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDI",
-    "gtfs_id": "MOMS:1122442",
+    "gtfsId": "MOMS:1122442",
+    "vehicleMode": "BUS",
     "code": "1122442",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Ekonom. Š",
     "lat": 46.665314,
     "lon": 16.181093,
-    "opposite": "1122442",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122442",
+    "type": "BUS",
+    "opposite": "1122442",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotaekonoms_1",
     "merged_stop_ids": [
@@ -55,20 +61,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDM",
-    "gtfs_id": "MOMS:1122443",
+    "gtfsId": "MOMS:1122443",
+    "vehicleMode": "BUS",
     "code": "1122443",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Prežihova ulica",
     "lat": 46.660187,
     "lon": 16.156847,
-    "opposite": "1122443",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122443",
+    "type": "BUS",
+    "opposite": "1122443",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_prezihovaulica_2",
     "merged_stop_ids": [
@@ -80,24 +89,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDU",
-    "gtfs_id": "MOMS:1122445",
+    "gtfsId": "MOMS:1122445",
+    "vehicleMode": "BUS",
     "code": "1122445",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Slovenska ulica I/Blagovnica",
     "lat": 46.658947,
     "lon": 16.16658,
-    "opposite": "1122445",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122445",
+    "type": "BUS",
+    "opposite": "1122445",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_slovenskaulicai_3",
     "merged_stop_ids": [
@@ -109,24 +121,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDc",
-    "gtfs_id": "MOMS:1122447",
+    "gtfsId": "MOMS:1122447",
+    "vehicleMode": "BUS",
     "code": "1122447",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Slovenska ulica II/MO MS",
     "lat": 46.663067,
     "lon": 16.164906,
-    "opposite": "1122447",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122447",
+    "type": "BUS",
+    "opposite": "1122447",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_slovenskaulicaii_4",
     "merged_stop_ids": [
@@ -140,20 +155,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDg",
-    "gtfs_id": "MOMS:1122448",
+    "gtfsId": "MOMS:1122448",
+    "vehicleMode": "BUS",
     "code": "1122448",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica I",
     "lat": 46.652306,
     "lon": 16.157084,
-    "opposite": "1122448",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122448",
+    "type": "BUS",
+    "opposite": "1122448",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_tomsicevaulicai_5",
     "merged_stop_ids": [
@@ -167,20 +185,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NDk",
-    "gtfs_id": "MOMS:1122449",
+    "gtfsId": "MOMS:1122449",
+    "vehicleMode": "BUS",
     "code": "1122449",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica I",
     "lat": 46.65303,
     "lon": 16.15753,
-    "opposite": "1122449",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122449",
+    "type": "BUS",
+    "opposite": "1122449",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_tomsicevaulicai_5",
     "merged_stop_ids": [
@@ -194,20 +215,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTA",
-    "gtfs_id": "MOMS:1122450",
+    "gtfsId": "MOMS:1122450",
+    "vehicleMode": "BUS",
     "code": "1122450",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica II/dijaški dom",
     "lat": 46.655098,
     "lon": 16.159222,
-    "opposite": "1122450",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122450",
+    "type": "BUS",
+    "opposite": "1122450",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_tomsicevaulicaii_6",
     "merged_stop_ids": [
@@ -221,20 +245,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTE",
-    "gtfs_id": "MOMS:1122451",
+    "gtfsId": "MOMS:1122451",
+    "vehicleMode": "BUS",
     "code": "1122451",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Tomšičeva ulica II/dijaški dom",
     "lat": 46.654995,
     "lon": 16.159023,
-    "opposite": "1122451",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122451",
+    "type": "BUS",
+    "opposite": "1122451",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_tomsicevaulicaii_6",
     "merged_stop_ids": [
@@ -248,20 +275,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTM",
-    "gtfs_id": "MOMS:1122453",
+    "gtfsId": "MOMS:1122453",
+    "vehicleMode": "BUS",
     "code": "1122453",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Trstenjakova ulica I/trgovina",
     "lat": 46.655354,
     "lon": 16.162479,
-    "opposite": "1122453",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122453",
+    "type": "BUS",
+    "opposite": "1122453",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_trstenjakovaulicai_7",
     "merged_stop_ids": [
@@ -275,20 +305,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTQ",
-    "gtfs_id": "MOMS:1122454",
+    "gtfsId": "MOMS:1122454",
+    "vehicleMode": "BUS",
     "code": "1122454",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Trstenjakova ulica I/trgovina",
     "lat": 46.655357,
     "lon": 16.162153,
-    "opposite": "1122454",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122454",
+    "type": "BUS",
+    "opposite": "1122454",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_trstenjakovaulicai_7",
     "merged_stop_ids": [
@@ -302,20 +335,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTU",
-    "gtfs_id": "MOMS:1122455",
+    "gtfsId": "MOMS:1122455",
+    "vehicleMode": "BUS",
     "code": "1122455",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Trstenjakova ulica II/OŠ III",
     "lat": 46.654251,
     "lon": 16.16827,
-    "opposite": "1122455",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122455",
+    "type": "BUS",
+    "opposite": "1122455",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_trstenjakovaulicaii_8",
     "merged_stop_ids": [
@@ -329,20 +365,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTY",
-    "gtfs_id": "MOMS:1122456",
+    "gtfsId": "MOMS:1122456",
+    "vehicleMode": "BUS",
     "code": "1122456",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Trstenjakova ulica II/OŠ III",
     "lat": 46.654152,
     "lon": 16.168516,
-    "opposite": "1122456",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122456",
+    "type": "BUS",
+    "opposite": "1122456",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_trstenjakovaulicaii_8",
     "merged_stop_ids": [
@@ -356,24 +395,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTc",
-    "gtfs_id": "MOMS:1122457",
+    "gtfsId": "MOMS:1122457",
+    "vehicleMode": "BUS",
     "code": "1122457",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Ul.Mikloša Kuzmiča I",
     "lat": 46.660019,
     "lon": 16.15406,
-    "opposite": "1122457",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122457",
+    "type": "BUS",
+    "opposite": "1122457",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_ulmiklosakuzmicai_9",
     "merged_stop_ids": [
@@ -387,24 +429,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTg",
-    "gtfs_id": "MOMS:1122458",
+    "gtfsId": "MOMS:1122458",
+    "vehicleMode": "BUS",
     "code": "1122458",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Ul.Mikloša Kuzmiča I",
     "lat": 46.659946,
     "lon": 16.154188,
-    "opposite": "1122458",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122458",
+    "type": "BUS",
+    "opposite": "1122458",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_ulmiklosakuzmicai_9",
     "merged_stop_ids": [
@@ -418,24 +463,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NTk",
-    "gtfs_id": "MOMS:1122459",
+    "gtfsId": "MOMS:1122459",
+    "vehicleMode": "BUS",
     "code": "1122459",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Ul.Mikloša Kuzmiča II",
     "lat": 46.657059,
     "lon": 16.153906,
-    "opposite": "1122459",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122459",
+    "type": "BUS",
+    "opposite": "1122459",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_ulmiklosakuzmicaii_10",
     "merged_stop_ids": [
@@ -449,24 +497,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NjA",
-    "gtfs_id": "MOMS:1122460",
+    "gtfsId": "MOMS:1122460",
+    "vehicleMode": "BUS",
     "code": "1122460",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Ul.Mikloša Kuzmiča II",
     "lat": 46.657822,
     "lon": 16.154066,
-    "opposite": "1122460",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122460",
+    "type": "BUS",
+    "opposite": "1122460",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_ulmiklosakuzmicaii_10",
     "merged_stop_ids": [
@@ -480,20 +531,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NjE",
-    "gtfs_id": "MOMS:1122461",
+    "gtfsId": "MOMS:1122461",
+    "vehicleMode": "BUS",
     "code": "1122461",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Ulica Štefana Kuzmiča",
     "lat": 46.660526,
     "lon": 16.155573,
-    "opposite": "1122461",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122461",
+    "type": "BUS",
+    "opposite": "1122461",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_ulicastefanakuzmica_11",
     "merged_stop_ids": [
@@ -505,20 +559,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NjI",
-    "gtfs_id": "MOMS:1122462",
+    "gtfsId": "MOMS:1122462",
+    "vehicleMode": "BUS",
     "code": "1122462",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Ulica Zorana Velnarja",
     "lat": 46.654835,
     "lon": 16.1534,
-    "opposite": "1122462",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122462",
+    "type": "BUS",
+    "opposite": "1122462",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_ulicazoranavelnarja_12",
     "merged_stop_ids": [
@@ -532,20 +589,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjI0NjM",
-    "gtfs_id": "MOMS:1122463",
+    "gtfsId": "MOMS:1122463",
+    "vehicleMode": "BUS",
     "code": "1122463",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Ulica Zorana Velnarja",
     "lat": 46.654984,
     "lon": 16.153625,
-    "opposite": "1122463",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1122463",
+    "type": "BUS",
+    "opposite": "1122463",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_ulicazoranavelnarja_12",
     "merged_stop_ids": [
@@ -559,20 +619,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjM5ODM",
-    "gtfs_id": "MOMS:1123983",
+    "gtfsId": "MOMS:1123983",
+    "vehicleMode": "BUS",
     "code": "1123983",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Černelavci",
     "lat": 46.668327,
     "lon": 16.136478,
-    "opposite": "1123983",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1123983",
+    "type": "BUS",
+    "opposite": "1123983",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_cernelavci_13",
     "merged_stop_ids": [
@@ -584,20 +647,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjM5ODY",
-    "gtfs_id": "MOMS:1123986",
+    "gtfsId": "MOMS:1123986",
+    "vehicleMode": "BUS",
     "code": "1123986",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Černelavci Liškova",
     "lat": 46.664879,
     "lon": 16.139828,
-    "opposite": "1123986",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1123986",
+    "type": "BUS",
+    "opposite": "1123986",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_cernelavciliskova_14",
     "merged_stop_ids": [
@@ -609,20 +675,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3Mjg",
-    "gtfs_id": "MOMS:1127728",
+    "gtfsId": "MOMS:1127728",
+    "vehicleMode": "BUS",
     "code": "1127728",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Bakša",
     "lat": 46.655491,
     "lon": 16.18214,
-    "opposite": "1127728",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127728",
+    "type": "BUS",
+    "opposite": "1127728",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotabaksa_15",
     "merged_stop_ids": [
@@ -636,20 +705,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3Mjk",
-    "gtfs_id": "MOMS:1127729",
+    "gtfsId": "MOMS:1127729",
+    "vehicleMode": "BUS",
     "code": "1127729",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Bakša",
     "lat": 46.654888,
     "lon": 16.183069,
-    "opposite": "1127729",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127729",
+    "type": "BUS",
+    "opposite": "1127729",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotabaksa_15",
     "merged_stop_ids": [
@@ -663,20 +735,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3MzI",
-    "gtfs_id": "MOMS:1127732",
+    "gtfsId": "MOMS:1127732",
+    "vehicleMode": "BUS",
     "code": "1127732",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota CPŠ",
     "lat": 46.661358,
     "lon": 16.152021,
-    "opposite": "1127732",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127732",
+    "type": "BUS",
+    "opposite": "1127732",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotacps_16",
     "merged_stop_ids": [
@@ -690,20 +765,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3MzM",
-    "gtfs_id": "MOMS:1127733",
+    "gtfsId": "MOMS:1127733",
+    "vehicleMode": "BUS",
     "code": "1127733",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota CPŠ",
     "lat": 46.661495,
     "lon": 16.152048,
-    "opposite": "1127733",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127733",
+    "type": "BUS",
+    "opposite": "1127733",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotacps_16",
     "merged_stop_ids": [
@@ -717,20 +795,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3Mzg",
-    "gtfs_id": "MOMS:1127738",
+    "gtfsId": "MOMS:1127738",
+    "vehicleMode": "BUS",
     "code": "1127738",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Indus.",
     "lat": 46.664333,
     "lon": 16.174959,
-    "opposite": "1127738",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127738",
+    "type": "BUS",
+    "opposite": "1127738",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotaindus_17",
     "merged_stop_ids": [
@@ -744,20 +825,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3Mzk",
-    "gtfs_id": "MOMS:1127739",
+    "gtfsId": "MOMS:1127739",
+    "vehicleMode": "BUS",
     "code": "1127739",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Indus.",
     "lat": 46.664253,
     "lon": 16.174755,
-    "opposite": "1127739",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127739",
+    "type": "BUS",
+    "opposite": "1127739",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotaindus_17",
     "merged_stop_ids": [
@@ -771,20 +855,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3NDA",
-    "gtfs_id": "MOMS:1127740",
+    "gtfsId": "MOMS:1127740",
+    "vehicleMode": "BUS",
     "code": "1127740",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Mura",
     "lat": 46.658741,
     "lon": 16.17671,
-    "opposite": "1127740",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127740",
+    "type": "BUS",
+    "opposite": "1127740",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotamura_18",
     "merged_stop_ids": [
@@ -798,20 +885,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3NDI",
-    "gtfs_id": "MOMS:1127742",
+    "gtfsId": "MOMS:1127742",
+    "vehicleMode": "BUS",
     "code": "1127742",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Polanič",
     "lat": 46.655804,
     "lon": 16.155083,
-    "opposite": "1127742",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127742",
+    "type": "BUS",
+    "opposite": "1127742",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotapolanic_19",
     "merged_stop_ids": [
@@ -825,20 +915,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc3NDQ",
-    "gtfs_id": "MOMS:1127744",
+    "gtfsId": "MOMS:1127744",
+    "vehicleMode": "BUS",
     "code": "1127744",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Polanič",
     "lat": 46.655849,
     "lon": 16.154659,
-    "opposite": "1127744",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127744",
+    "type": "BUS",
+    "opposite": "1127744",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotapolanic_19",
     "merged_stop_ids": [
@@ -852,20 +945,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjc4MTg",
-    "gtfs_id": "MOMS:1127818",
+    "gtfsId": "MOMS:1127818",
+    "vehicleMode": "BUS",
     "code": "1127818",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Nemčavci kapela",
     "lat": 46.679718,
     "lon": 16.176426,
-    "opposite": "1127818",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1127818",
+    "type": "BUS",
+    "opposite": "1127818",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_nemcavcikapela_20",
     "merged_stop_ids": [
@@ -877,20 +973,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjkxOTA",
-    "gtfs_id": "MOMS:1129190",
+    "gtfsId": "MOMS:1129190",
+    "vehicleMode": "BUS",
     "code": "1129190",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Rakičan",
     "lat": 46.650379,
     "lon": 16.192324,
-    "opposite": "1129190",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1129190",
+    "type": "BUS",
+    "opposite": "1129190",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_rakican_21",
     "merged_stop_ids": [
@@ -904,20 +1003,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjkxOTE",
-    "gtfs_id": "MOMS:1129191",
+    "gtfsId": "MOMS:1129191",
+    "vehicleMode": "BUS",
     "code": "1129191",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Rakičan",
     "lat": 46.649769,
     "lon": 16.193621,
-    "opposite": "1129191",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1129191",
+    "type": "BUS",
+    "opposite": "1129191",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_rakican_21",
     "merged_stop_ids": [
@@ -931,20 +1033,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExMjkxOTI",
-    "gtfs_id": "MOMS:1129192",
+    "gtfsId": "MOMS:1129192",
+    "vehicleMode": "BUS",
     "code": "1129192",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Rakičan bol.",
     "lat": 46.650284,
     "lon": 16.187374,
-    "opposite": "1129192",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1129192",
+    "type": "BUS",
+    "opposite": "1129192",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_rakicanbol_22",
     "merged_stop_ids": [
@@ -956,20 +1061,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTA0NzM",
-    "gtfs_id": "MOMS:1150473",
+    "gtfsId": "MOMS:1150473",
+    "vehicleMode": "BUS",
     "code": "1150473",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Rakičan Gmajna",
     "lat": 46.649014,
     "lon": 16.204113,
-    "opposite": "1150473",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1150473",
+    "type": "BUS",
+    "opposite": "1150473",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_rakicangmajna_23",
     "merged_stop_ids": [
@@ -981,20 +1089,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTA3NTI",
-    "gtfs_id": "MOMS:1150752",
+    "gtfsId": "MOMS:1150752",
+    "vehicleMode": "BUS",
     "code": "1150752",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Mura",
     "lat": 46.658783,
     "lon": 16.176735,
-    "opposite": "1150752",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1150752",
+    "type": "BUS",
+    "opposite": "1150752",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotamura_18",
     "merged_stop_ids": [
@@ -1008,20 +1119,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTA4Njk",
-    "gtfs_id": "MOMS:1150869",
+    "gtfsId": "MOMS:1150869",
+    "vehicleMode": "BUS",
     "code": "1150869",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Rakičan GD",
     "lat": 46.650761,
     "lon": 16.195795,
-    "opposite": "1150869",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1150869",
+    "type": "BUS",
+    "opposite": "1150869",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_rakicangd_24",
     "merged_stop_ids": [
@@ -1033,20 +1147,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2NjU",
-    "gtfs_id": "MOMS:1151665",
+    "gtfsId": "MOMS:1151665",
+    "vehicleMode": "BUS",
     "code": "1151665",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Mol",
     "lat": 46.656097,
     "lon": 16.174662,
-    "opposite": "1151665",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1151665",
+    "type": "BUS",
+    "opposite": "1151665",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotamol_25",
     "merged_stop_ids": [
@@ -1058,20 +1175,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2NjY",
-    "gtfs_id": "MOMS:1151666",
+    "gtfsId": "MOMS:1151666",
+    "vehicleMode": "BUS",
     "code": "1151666",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Pomurske Mlekarne prodajalna",
     "lat": 46.662216,
     "lon": 16.174196,
-    "opposite": "1151666",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1151666",
+    "type": "BUS",
+    "opposite": "1151666",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotapomurskemlekarneprodajalna_26",
     "merged_stop_ids": [
@@ -1085,20 +1205,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2Njc",
-    "gtfs_id": "MOMS:1151667",
+    "gtfsId": "MOMS:1151667",
+    "vehicleMode": "BUS",
     "code": "1151667",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Pomurske Mlekarne prodajalna",
     "lat": 46.661873,
     "lon": 16.173883,
-    "opposite": "1151667",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1151667",
+    "type": "BUS",
+    "opposite": "1151667",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotapomurskemlekarneprodajalna_26",
     "merged_stop_ids": [
@@ -1112,20 +1235,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2Njg",
-    "gtfs_id": "MOMS:1151668",
+    "gtfsId": "MOMS:1151668",
+    "vehicleMode": "BUS",
     "code": "1151668",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Černelavci Ledavska 30",
     "lat": 46.670528,
     "lon": 16.139868,
-    "opposite": "1151668",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1151668",
+    "type": "BUS",
+    "opposite": "1151668",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_cernelavciledavska30_27",
     "merged_stop_ids": [
@@ -1137,20 +1263,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2Njk",
-    "gtfs_id": "MOMS:1151669",
+    "gtfsId": "MOMS:1151669",
+    "vehicleMode": "BUS",
     "code": "1151669",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Černelavci Dolga ul.54",
     "lat": 46.666328,
     "lon": 16.14167,
-    "opposite": "1151669",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1151669",
+    "type": "BUS",
+    "opposite": "1151669",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_cernelavcidolgaul54_28",
     "merged_stop_ids": [
@@ -1162,20 +1291,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2NzA",
-    "gtfs_id": "MOMS:1151670",
+    "gtfsId": "MOMS:1151670",
+    "vehicleMode": "BUS",
     "code": "1151670",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "BTC trgovina",
     "lat": 46.669373,
     "lon": 16.177565,
-    "opposite": "1151670",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1151670",
+    "type": "BUS",
+    "opposite": "1151670",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_btctrgovina_29",
     "merged_stop_ids": [
@@ -1187,20 +1319,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNTE2NzI",
-    "gtfs_id": "MOMS:1151672",
+    "gtfsId": "MOMS:1151672",
+    "vehicleMode": "BUS",
     "code": "1151672",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Nemčavci hiš.št.3",
     "lat": 46.675129,
     "lon": 16.174999,
-    "opposite": "1151672",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1151672",
+    "type": "BUS",
+    "opposite": "1151672",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_nemcavcihisst3_30",
     "merged_stop_ids": [
@@ -1212,24 +1347,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjcwNTQ",
-    "gtfs_id": "MOMS:1167054",
+    "gtfsId": "MOMS:1167054",
+    "vehicleMode": "BUS",
     "code": "1167054",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Ul. Staneta Rozmana",
     "lat": 46.66135,
     "lon": 16.166021,
-    "opposite": "1167054",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167054",
+    "type": "BUS",
+    "opposite": "1167054",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_ulstanetarozmana_31",
     "merged_stop_ids": [
@@ -1241,24 +1379,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjcwNTU",
-    "gtfs_id": "MOMS:1167055",
+    "gtfsId": "MOMS:1167055",
+    "vehicleMode": "BUS",
     "code": "1167055",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Slovenska ulica II/MO MS",
     "lat": 46.663086,
     "lon": 16.164709,
-    "opposite": "1167055",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167055",
+    "type": "BUS",
+    "opposite": "1167055",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_slovenskaulicaii_4",
     "merged_stop_ids": [
@@ -1272,24 +1413,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjcwODY",
-    "gtfs_id": "MOMS:1167086",
+    "gtfsId": "MOMS:1167086",
+    "vehicleMode": "BUS",
     "code": "1167086",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Žuta kuča",
     "lat": 46.658741,
     "lon": 16.16906,
-    "opposite": "1167086",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167086",
+    "type": "BUS",
+    "opposite": "1167086",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotazutakuca_32",
     "merged_stop_ids": [
@@ -1301,20 +1445,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MTg",
-    "gtfs_id": "MOMS:1167518",
+    "gtfsId": "MOMS:1167518",
+    "vehicleMode": "BUS",
     "code": "1167518",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "M. Sobota Lendavska ul. II",
     "lat": 46.667805,
     "lon": 16.177658,
-    "opposite": "1167518",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167518",
+    "type": "BUS",
+    "opposite": "1167518",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_msobotalendavskaulii_33",
     "merged_stop_ids": [
@@ -1328,20 +1475,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MTk",
-    "gtfs_id": "MOMS:1167519",
+    "gtfsId": "MOMS:1167519",
+    "vehicleMode": "BUS",
     "code": "1167519",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "M. Sobota Lendavska ul. II",
     "lat": 46.667534,
     "lon": 16.177496,
-    "opposite": "1167519",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167519",
+    "type": "BUS",
+    "opposite": "1167519",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_msobotalendavskaulii_33",
     "merged_stop_ids": [
@@ -1355,20 +1505,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MzA",
-    "gtfs_id": "MOMS:1167530",
+    "gtfsId": "MOMS:1167530",
+    "vehicleMode": "BUS",
     "code": "1167530",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Jakobovo naselje",
     "lat": 46.651516,
     "lon": 16.15132,
-    "opposite": "1167530",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167530",
+    "type": "BUS",
+    "opposite": "1167530",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_jakobovonaselje_34",
     "merged_stop_ids": [
@@ -1382,20 +1535,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MzE",
-    "gtfs_id": "MOMS:1167531",
+    "gtfsId": "MOMS:1167531",
+    "vehicleMode": "BUS",
     "code": "1167531",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Jakobovo naselje",
     "lat": 46.651459,
     "lon": 16.15163,
-    "opposite": "1167531",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167531",
+    "type": "BUS",
+    "opposite": "1167531",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_jakobovonaselje_34",
     "merged_stop_ids": [
@@ -1409,24 +1565,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MzQ",
-    "gtfs_id": "MOMS:1167534",
+    "gtfsId": "MOMS:1167534",
+    "vehicleMode": "BUS",
     "code": "1167534",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "M. Sobota Lendavska ul. I",
     "lat": 46.664211,
     "lon": 16.167561,
-    "opposite": "1167534",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167534",
+    "type": "BUS",
+    "opposite": "1167534",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_msobotalendavskauli_35",
     "merged_stop_ids": [
@@ -1440,24 +1599,27 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjc1MzU",
-    "gtfs_id": "MOMS:1167535",
+    "gtfsId": "MOMS:1167535",
+    "vehicleMode": "BUS",
     "code": "1167535",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "M. Sobota Lendavska ul. I",
     "lat": 46.664116,
     "lon": 16.167662,
-    "opposite": "1167535",
     "routes": [
       {
         "name": "1",
-        "color": "#000000"
+        "color": "000000"
       },
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167535",
+    "type": "BUS",
+    "opposite": "1167535",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_msobotalendavskauli_35",
     "merged_stop_ids": [
@@ -1471,20 +1633,23 @@
   },
   {
     "id": "U3RvcDpNT01TOjExNjc5ODA",
-    "gtfs_id": "MOMS:1167980",
+    "gtfsId": "MOMS:1167980",
+    "vehicleMode": "BUS",
     "code": "1167980",
-    "type": "BUS",
-    "background_color": "#00897E",
-    "icon_color": "#FFFFFF",
     "name": "Murska Sobota Maximus trg.",
     "lat": 46.660439,
     "lon": 16.146029,
-    "opposite": "1167980",
     "routes": [
       {
         "name": "2",
-        "color": "#000000"
+        "color": "000000"
       }
+    ],
+    "gtfs_id": "MOMS:1167980",
+    "type": "BUS",
+    "opposite": "1167980",
+    "agencies": [
+      "MOMS:1121"
     ],
     "hub_id": "hub_murskasobotamaximustrg_36",
     "merged_stop_ids": [
