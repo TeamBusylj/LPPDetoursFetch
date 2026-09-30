@@ -1,5 +1,10 @@
 import fs from 'fs/promises';
 import path from 'path';
+import { fileURLToPath } from 'url';
+
+// Poustvarimo __dirname za ES Module (ker uporabljamo 'import')
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const OTP_URL = 'https://otp.ojpp-gateway.derp.si/otp/gtfs/v1';
 
@@ -13,7 +18,6 @@ const lineColorsObj = {
   "21D": "#3C8C3C",
   25: "#2387BC",
   30: "#8AC09D",
-
   31: "#7A56A1",
   32: "#DA9D56",
   33: "#77A8B3",
@@ -117,7 +121,7 @@ const query = `
 
 async function fetchAndProcessStations() {
   const OUT_DIR = "station_lists_merged";
-
+  
   try {
     console.log(`Pridobivam podatke iz: ${OTP_URL}...`);
     const response = await fetch(OTP_URL, {
@@ -153,6 +157,10 @@ async function fetchAndProcessStations() {
         gtfs_id: rawStation.gtfsId,
         type: rawStation.vehicleMode
       };
+
+      // Odstranimo podvojena polja, ker uporabljamo gtfs_id in type
+      delete station.gtfsId;
+      delete station.vehicleMode;
       
       if (station.type === "RAIL" || agency === "sž" || agency === "sz") {
         agency = "sz";
@@ -185,80 +193,68 @@ async function fetchAndProcessStations() {
 
     for (const [agency, stops] of Object.entries(agencyGroups)) {
       
-      const stopsByNum = new Map();
-      const stopsByNameAndNum = new Map();
-
-      stops.forEach(station => {
-        const stationIdStr = station.gtfs_id.slice(station.gtfs_id.lastIndexOf(":") + 1);
-        const baseNum = agency === "lpp" ? (Number(station.code) || parseInt(stationIdStr)) : parseInt(stationIdStr);
-        
-        const enriched = { ...station, _baseNum: baseNum };
-        stopsByNum.set(baseNum, enriched);
-        
-        const sName = station.name || station.stop_name || "";
-        const normNameForOpposite = normalizeName(sName);
-        stopsByNameAndNum.set(`${normNameForOpposite}_${baseNum}`, enriched);
-      });
-
       const processedStops = stops.map(station => {
-        const parsedIdNum = parseInt(station.gtfs_id.slice(station.gtfs_id.lastIndexOf(":") + 1));
-        const sName = station.name || station.stop_name || "";
-        const normNameForOpposite = normalizeName(sName);
-        
-        let exists = null;
-
-        if (agency !== "ijpp" && agency !== "sz") {
-          let checkNum = null;
-          let stationNum = agency === "lpp" ? (Number(station.code) || parsedIdNum + 1) : parsedIdNum + 1;
-
-          if (agency !== "lpp") {
-            const neighborPrev = stopsByNameAndNum.get(`${normNameForOpposite}_${stationNum - 1}`);
-            const neighborNext = stopsByNameAndNum.get(`${normNameForOpposite}_${stationNum + 1}`);
-            const matchingNeighbor = neighborPrev || neighborNext;
-
-            if (matchingNeighbor) {
-              checkNum = matchingNeighbor._baseNum;
-            }
-          }
-
-          if (checkNum == null) {
-            if (agency === "lpp") {
-              checkNum = stationNum % 2 === 0 ? stationNum - 1 : stationNum + 1;
-            } else {
-              checkNum = stationNum % 2 === 0 ? stationNum + 1 : stationNum - 1;
-            }
-          }
-
-          const foundOpposite = stopsByNum.get(checkNum);
-          exists = foundOpposite ? (foundOpposite.code || foundOpposite.gtfs_id) : null;
-        }
-
         const resultStation = {
-          ...station,
-          opposite: exists
+          ...station
         };
 
         if (station.routes && Array.isArray(station.routes)) {
             resultStation.routes = station.routes.map(r => {
+                let originalRouteName = (r.shortName !== null && r.shortName !== undefined) ? String(r.shortName) : "";
+                
+                // TUKAJ JE SPREMEMBA: Preveri, če je ime "N/A" (ne glede na velike/male črke) in ga spremeni v ""
+                if (originalRouteName.toUpperCase() === "N/A") {
+                    originalRouteName = "";
+                }
+                
                 let finalColor = null;
-                // Če imamo custom barvo za to linijo, jo uporabimo
-                if (lineColorsObj[r.shortName]) {
-                    finalColor = lineColorsObj[r.shortName];
+                if (lineColorsObj[originalRouteName]) {
+                    finalColor = lineColorsObj[originalRouteName];
                 } 
-                // Sicer vzamemo barvo iz GTFS in ji dodamo '#'
                 else if (r.color) {
                     finalColor = r.color.startsWith('#') ? r.color : `#${r.color}`;
                 }
                 
+                let processedRouteName = originalRouteName;
+                if (agency === "movelenje" && processedRouteName.length > 0) {
+                    processedRouteName = processedRouteName.charAt(0);
+                }
+
                 return {
-                    name: r.shortName,
+                    name: processedRouteName,
                     color: finalColor
                 };
             });
             
-            const uniqueAgencies = [...new Set(station.routes.map(r => r.agency?.gtfsId).filter(Boolean))];
-            if (uniqueAgencies.length > 0) {
-                resultStation.agencies = uniqueAgencies;
+            if (agency === "sz") {
+                const trainTypes = station.routes
+                    .map(r => {
+                        let name = (r.shortName !== null && r.shortName !== undefined) ? String(r.shortName) : "";
+                        return name.toUpperCase() === "N/A" ? "" : name;
+                    })
+                    .map(name => name.split(" ")[0].trim())
+                    .filter(type => type && !/^\d+$/.test(type)); 
+                
+                const uniqueTrainTypes = [...new Set(trainTypes)];
+                if (uniqueTrainTypes.length > 0) {
+                    resultStation.agencies = uniqueTrainTypes;
+                } else {
+                    resultStation.agencies = [];
+                }
+            } else {
+                let uniqueAgencies = [...new Set(station.routes.map(r => r.agency?.gtfsId).filter(Boolean))];
+                
+                // Odstranimo predpono IJPP:, če obstaja
+                if (agency === "ijpp") {
+                    uniqueAgencies = uniqueAgencies.map(a => a.replace(/^IJPP:/i, ''));
+                }
+
+                if (uniqueAgencies.length > 0) {
+                    // Ponovno prečistimo duplikate (če sta bila "1118" in "IJPP:1118" prisotna)
+                    resultStation.agencies = [...new Set(uniqueAgencies)];
+                } else {
+                    resultStation.agencies = [];
+                }
             }
         } else {
             resultStation.routes = [];
@@ -361,12 +357,12 @@ async function fetchAndProcessStations() {
       }
 
       const outPath = path.join(OUT_DIR, `${agency}.json`);
-      await fs.writeFile(outPath, JSON.stringify(processedStops, null, 2), "utf-8");
+      await fs.writeFile(outPath, JSON.stringify(processedStops), "utf-8");
       
-      console.log(`✅ Shranjeno: ${agency}.json (${processedStops.length} postaj z dodeljenimi Hub ID-ji).`);
+      console.log(`✅ Shranjeno: ${agency}.json (${processedStops.length} postaj v '${OUT_DIR}').`);
     }
 
-    console.log("Vse agencije so bile uspešno procesirane in shranjene v mapo 'station_lists_merged'!");
+    console.log(`Vse agencije so bile uspešno procesirane in shranjene v ${OUT_DIR}!`);
 
   } catch (error) {
     console.error("Napaka pri pridobivanju/procesiranju postaj:", error);
