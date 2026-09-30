@@ -24356,35 +24356,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExNjg3MDc",
-    "gtfsId": "IJPP:1168707",
-    "vehicleMode": "BUS",
-    "code": null,
-    "name": "Ljubljana Dolgi most P+R",
-    "lat": 46.0368948,
-    "lon": 14.4635501,
-    "routes": [
-      {
-        "name": "51",
-        "color": "#6C8BC6"
-      },
-      {
-        "name": "56",
-        "color": "#953312"
-      }
-    ],
-    "gtfs_id": "IJPP:1168707",
-    "type": "BUS",
-    "opposite": "IJPP:1168707",
-    "agencies": [
-      "IJPP:1118"
-    ],
-    "hub_id": "hub_dolgimostpr_413",
-    "merged_stop_ids": [
-      "IJPP:1168707"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExNjg3OTk",
     "gtfsId": "IJPP:1168799",
     "vehicleMode": "BUS",
@@ -24454,7 +24425,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cerinova_414",
+    "hub_id": "hub_cerinova_413",
     "merged_stop_ids": [
       "LPP:010c271e-49ca-45a5-91ac-8ba8d41ee7f3",
       "LPP:a769d1e9-8727-4190-b56c-5cdd8a49333d"
@@ -24488,7 +24459,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vecnapot_415",
+    "hub_id": "hub_vecnapot_414",
     "merged_stop_ids": [
       "LPP:01d1f388-d915-4e9f-bc3d-4432a73a216e",
       "LPP:7a256ec6-bb93-47eb-af92-ea62941c1dc6"
@@ -24518,7 +24489,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tomaziceva_416",
+    "hub_id": "hub_tomaziceva_415",
     "merged_stop_ids": [
       "LPP:022ef61f-a226-42e8-b11d-30cf9f9a6688",
       "LPP:72e6ae6e-bd4b-4946-a032-7ff9b8b41039"
@@ -24568,7 +24539,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ambrozevtrg_417",
+    "hub_id": "hub_ambrozevtrg_416",
     "merged_stop_ids": [
       "LPP:023d7b7a-b411-4e61-8746-b07f9e5c8f90",
       "LPP:aa42017d-812a-4175-bc9b-0fec03b18931"
@@ -24602,7 +24573,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_leskoskova_418",
+    "hub_id": "hub_leskoskova_417",
     "merged_stop_ids": [
       "LPP:02c61e3f-2d2e-4b42-b695-bbd3cc672f6b",
       "LPP:fb0042f8-d9e2-4916-b60a-38a026acf0c9"
@@ -24632,7 +24603,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_javor_419",
+    "hub_id": "hub_javor_418",
     "merged_stop_ids": [
       "LPP:030363e5-99a3-401f-96db-a16a340ace21",
       "LPP:da834a23-5697-49bb-b3a1-7f277c8206bc"
@@ -24666,7 +24637,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lanisce_420",
+    "hub_id": "hub_lanisce_419",
     "merged_stop_ids": [
       "LPP:0334e79e-7a89-44e9-a463-5af813e64a40",
       "LPP:cf94d70f-d211-4625-9037-014514562aa9"
@@ -24704,7 +24675,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kardeljevaploscad_421",
+    "hub_id": "hub_kardeljevaploscad_420",
     "merged_stop_ids": [
       "LPP:03375155-45fb-4565-b392-2349fcb199ea",
       "LPP:1e157c31-d34d-4c2e-91b4-8c000c88f6dd"
@@ -24779,7 +24750,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_plecnikovacerkev_422",
+    "hub_id": "hub_plecnikovacerkev_421",
     "merged_stop_ids": [
       "LPP:05bd4cbd-b014-4cfd-8ca9-3c82b0a59114",
       "LPP:53c3c8c9-2e64-4a8f-9afb-031b24c17d5a"
@@ -24809,7 +24780,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_icsiska_423",
+    "hub_id": "hub_icsiska_422",
     "merged_stop_ids": [
       "LPP:05fd1f81-fe2a-419a-8a26-12c13ccd0c34",
       "LPP:ed4e2e40-0e35-418f-bb5d-102f1275e31f"
@@ -24847,7 +24818,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gornjepoljane_424",
+    "hub_id": "hub_gornjepoljane_423",
     "merged_stop_ids": [
       "LPP:0614b134-0950-4f6b-bc8f-fb73a0881bc1",
       "LPP:923bd774-0651-4e0a-8624-3acfb7ecd5ff"
@@ -24877,7 +24848,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_andrejabitenca_425",
+    "hub_id": "hub_andrejabitenca_424",
     "merged_stop_ids": [
       "LPP:06348c07-2fb0-4dfb-a938-aaef614a7f68",
       "LPP:1ef524bd-2bf3-4c47-add3-044374897443"
@@ -24907,7 +24878,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_elma_426",
+    "hub_id": "hub_elma_425",
     "merged_stop_ids": [
       "LPP:075a6b29-66cb-409f-89fe-37d50669eff4",
       "LPP:862efb04-bcf5-493a-929d-242fb91ba5f6"
@@ -24945,7 +24916,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mercator_427",
+    "hub_id": "hub_mercator_426",
     "merged_stop_ids": [
       "LPP:0760a037-cd94-4936-89b6-45ce9bd19917",
       "LPP:f8da5156-e545-47ed-a811-2242f41f5593"
@@ -24975,7 +24946,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestaxv_428",
+    "hub_id": "hub_cestaxv_427",
     "merged_stop_ids": [
       "LPP:07b4c585-66cf-49d7-906c-50f1122c8e9e",
       "LPP:6932c2e0-ff32-4170-b519-fba88e29c147"
@@ -25009,7 +24980,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_prekmurska_429",
+    "hub_id": "hub_prekmurska_428",
     "merged_stop_ids": [
       "LPP:07bad99d-070a-42f7-8766-d11d42152623",
       "LPP:d7748049-2f69-4c77-a19b-96774a521ac1"
@@ -25084,7 +25055,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_draveljskagmajna_430",
+    "hub_id": "hub_draveljskagmajna_429",
     "merged_stop_ids": [
       "LPP:0810f07b-94d6-442f-b10d-bf8210c4ed47",
       "LPP:26d86ffa-b8df-49aa-a9c0-5fa7d3cfba77"
@@ -25171,7 +25142,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_koseze_431",
+    "hub_id": "hub_koseze_430",
     "merged_stop_ids": [
       "LPP:093afa81-b65f-4182-bac3-afbc00558a9b",
       "LPP:5a2def68-fa57-4002-a942-e39bc2a87688"
@@ -25205,7 +25176,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_draga_432",
+    "hub_id": "hub_draga_431",
     "merged_stop_ids": [
       "LPP:099976aa-17cc-45d3-add4-267985ab1533",
       "LPP:e3321752-4498-4da3-801c-d54920b22eba"
@@ -25235,7 +25206,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potrdecegakriza_433",
+    "hub_id": "hub_potrdecegakriza_432",
     "merged_stop_ids": [
       "LPP:0a4b6359-22f0-4caa-b4a8-f4edb97a0825",
       "LPP:97627b9b-fa2e-461a-97ea-a15df7599598"
@@ -25301,7 +25272,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tivoli_434",
+    "hub_id": "hub_tivoli_433",
     "merged_stop_ids": [
       "LPP:0b4a072e-6c2d-4c71-ab80-2b7142df81de",
       "LPP:7484317c-269f-425f-8118-23eedab4e5f1"
@@ -25331,7 +25302,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hrastje_435",
+    "hub_id": "hub_hrastje_434",
     "merged_stop_ids": [
       "LPP:0b6960bb-2431-48c3-9e64-3cbf5c57ea96",
       "LPP:169789c5-0251-47a6-800a-74ff3dffe04d"
@@ -25361,7 +25332,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podgrad_436",
+    "hub_id": "hub_podgrad_435",
     "merged_stop_ids": [
       "LPP:0b90d258-764d-4c06-aab0-7074dbd54182",
       "LPP:8648bfde-9b0f-4a64-aced-fe63aa923879"
@@ -25407,7 +25378,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestanavevce_437",
+    "hub_id": "hub_cestanavevce_436",
     "merged_stop_ids": [
       "LPP:0bb103e4-c4a6-4c4c-a13d-217ab4e6dfd3",
       "LPP:48507e1a-32df-4552-9448-3b345760b75f"
@@ -25445,7 +25416,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cankarjevdom_438",
+    "hub_id": "hub_cankarjevdom_437",
     "merged_stop_ids": [
       "LPP:0be237aa-4b91-4d2b-ac23-0cebac975a0d",
       "LPP:fc3967fb-5520-4fff-a819-f625242182e5"
@@ -25475,7 +25446,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tovarnalek_439",
+    "hub_id": "hub_tovarnalek_438",
     "merged_stop_ids": [
       "LPP:0c5f69a6-97c7-4053-bc0b-3f09dbf72f46",
       "LPP:c15a2be8-fc53-427d-9cc6-a50bb305f68d"
@@ -25513,7 +25484,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_obdaljnovodu_440",
+    "hub_id": "hub_obdaljnovodu_439",
     "merged_stop_ids": [
       "LPP:0d50a4a8-a88d-4468-b562-73e51937e1c5",
       "LPP:d5961b09-f5e8-4a0b-9bbb-2515ff0a8376"
@@ -25551,7 +25522,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spodnjirudnik_441",
+    "hub_id": "hub_spodnjirudnik_440",
     "merged_stop_ids": [
       "LPP:0df2ffa6-b1c8-44d0-900c-8b23b37794df",
       "LPP:87785aa3-128e-4f15-82b0-d8c3cfa6076f"
@@ -25581,7 +25552,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vicglince_442",
+    "hub_id": "hub_vicglince_441",
     "merged_stop_ids": [
       "LPP:0e79ef8c-f692-4e29-a37e-4a81cbb3d410",
       "LPP:659ee31d-ae12-4498-8507-28579d322e32"
@@ -25611,7 +25582,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_btcmerkur_443",
+    "hub_id": "hub_btcmerkur_442",
     "merged_stop_ids": [
       "LPP:0eca6015-5429-4289-a76c-4ec9ef707e67",
       "LPP:69f98a9c-d52d-423a-b44e-89b6320a7a88"
@@ -25645,7 +25616,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnicakamnolom_444",
+    "hub_id": "hub_besnicakamnolom_443",
     "merged_stop_ids": [
       "LPP:0fb83496-463c-4123-97c6-669efe614d26",
       "LPP:65a6b01d-c9cf-4d4e-930c-5562156d7375"
@@ -25675,7 +25646,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hrusica_445",
+    "hub_id": "hub_hrusica_444",
     "merged_stop_ids": [
       "LPP:0ff94f7b-275b-4cc4-bb27-e00842f5ad87",
       "LPP:d3a6cbf3-65f0-4db8-9a10-1460763eac8e"
@@ -25705,7 +25676,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rast_446",
+    "hub_id": "hub_rast_445",
     "merged_stop_ids": [
       "LPP:100da88e-4c5f-4188-bd11-d4f3fc80fb74",
       "LPP:930fed8f-1d4d-40c6-9a3b-53697263a0f2"
@@ -25739,7 +25710,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ossostro_447",
+    "hub_id": "hub_ossostro_446",
     "merged_stop_ids": [
       "LPP:1035c6f7-304e-4329-a3b2-4eb5d985a577",
       "LPP:80c65758-5f25-4003-8d55-10ff96fe8310"
@@ -25814,7 +25785,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kalisnikovtrg_448",
+    "hub_id": "hub_kalisnikovtrg_447",
     "merged_stop_ids": [
       "LPP:1069d764-9345-425d-8c4d-12d6ffa1fde1",
       "LPP:93928408-7b36-41f9-9b62-fec53e14b4e2"
@@ -25844,7 +25815,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_parmova_449",
+    "hub_id": "hub_parmova_448",
     "merged_stop_ids": [
       "LPP:106bdc28-f0fe-4f13-b4ad-6c6a630550b5",
       "LPP:c6eab761-36e0-4bf8-88ed-48e594ed375b"
@@ -25874,7 +25845,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rutar_450",
+    "hub_id": "hub_rutar_449",
     "merged_stop_ids": [
       "LPP:117abbb4-5575-4020-aac4-2048f8d34b50",
       "LPP:2496479b-f855-403d-bce8-2a4d9988665d"
@@ -25951,7 +25922,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnicasola_451",
+    "hub_id": "hub_besnicasola_450",
     "merged_stop_ids": [
       "LPP:12304b99-9a07-485a-a101-eaca90495d48",
       "LPP:2628ca4f-8797-4672-aca9-47b325c58aac"
@@ -25981,7 +25952,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mirje_452",
+    "hub_id": "hub_mirje_451",
     "merged_stop_ids": [
       "LPP:12618339-2c2d-49ec-b0e0-2517c11991f8",
       "LPP:f2920a77-6c6c-494d-96b7-2a8caf8f374f"
@@ -26019,7 +25990,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_murkova_453",
+    "hub_id": "hub_murkova_452",
     "merged_stop_ids": [
       "LPP:13ceaf6c-9650-45c3-b449-64a0e5094d18",
       "LPP:fdff5f9c-6c02-4fc1-a004-7032b17fa37a"
@@ -26057,7 +26028,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podutik_454",
+    "hub_id": "hub_podutik_453",
     "merged_stop_ids": [
       "LPP:13d6dac7-dc00-416e-a8c0-0d6967e4014e"
     ],
@@ -26085,7 +26056,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_krivec_455",
+    "hub_id": "hub_krivec_454",
     "merged_stop_ids": [
       "LPP:144ab380-6586-43ce-b216-2e66362b6eca",
       "LPP:18d010ca-0244-4928-82cb-47af0836a1bb"
@@ -26119,7 +26090,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potnarakovojelso_456",
+    "hub_id": "hub_potnarakovojelso_455",
     "merged_stop_ids": [
       "LPP:1505c6fe-6080-424e-98d1-24c312cfacf3",
       "LPP:5de6ff80-1352-43df-b5ec-1df59f2f492b"
@@ -26149,7 +26120,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bratovbabnik_457",
+    "hub_id": "hub_bratovbabnik_456",
     "merged_stop_ids": [
       "LPP:1536cb2e-acd3-49cb-8f06-bb8cd40c0c02",
       "LPP:b5e26d7f-8a91-4360-9811-2e8e05d27382"
@@ -26187,7 +26158,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stadion_458",
+    "hub_id": "hub_stadion_457",
     "merged_stop_ids": [
       "LPP:154f3596-bbbb-4038-9ad7-c4b8b5288a02",
       "LPP:daf172e0-4dd9-4d5b-8287-67ad2034bced"
@@ -26229,7 +26200,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_agrokombinatska_459",
+    "hub_id": "hub_agrokombinatska_458",
     "merged_stop_ids": [
       "LPP:156a6f62-9a67-4cf0-ad56-85a343c77cd2",
       "LPP:24ab9d18-4fb9-4e7e-b48c-d5cdc9cd1305",
@@ -26263,7 +26234,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zidarjevec_460",
+    "hub_id": "hub_zidarjevec_459",
     "merged_stop_ids": [
       "LPP:15af3c66-ad74-4f41-92f7-92e2ff72a51d",
       "LPP:2e62f411-936d-4a10-96ed-2d8fe95d6d65"
@@ -26293,7 +26264,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ostrovrhar_461",
+    "hub_id": "hub_ostrovrhar_460",
     "merged_stop_ids": [
       "LPP:15bb8af1-183e-4ec8-81f7-1fc6e81beb30",
       "LPP:30cf2ed7-2cf0-4764-ab64-78206968d5ba"
@@ -26323,7 +26294,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kristalnapalaca_462",
+    "hub_id": "hub_kristalnapalaca_461",
     "merged_stop_ids": [
       "LPP:15c71406-72b5-4681-8b1a-29eb30eb3f76",
       "LPP:2d6504e9-c938-417e-9b55-32d6514bc744"
@@ -26353,7 +26324,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dobrunje2_463",
+    "hub_id": "hub_dobrunje2_462",
     "merged_stop_ids": [
       "LPP:15eaf9b9-db6d-4586-9ad2-5bfa99719bfd",
       "LPP:aa3ce006-1975-496a-abc6-a98ec5e87652"
@@ -26383,7 +26354,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_trznicakoseze_464",
+    "hub_id": "hub_trznicakoseze_463",
     "merged_stop_ids": [
       "LPP:1632ee87-59dd-4367-bf10-9d13aa688e82",
       "LPP:61926b26-d777-483f-ae79-86766c48793b"
@@ -26413,7 +26384,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_golouhova_465",
+    "hub_id": "hub_golouhova_464",
     "merged_stop_ids": [
       "LPP:163da3ae-0ab9-480e-b72d-16357e0a9061",
       "LPP:ba59baf4-dd00-40a5-80e7-3eee6b9d8b09"
@@ -26524,7 +26495,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hrastje_435",
+    "hub_id": "hub_hrastje_434",
     "merged_stop_ids": [
       "LPP:0b6960bb-2431-48c3-9e64-3cbf5c57ea96",
       "LPP:169789c5-0251-47a6-800a-74ff3dffe04d"
@@ -26554,7 +26525,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podsivnikom_466",
+    "hub_id": "hub_podsivnikom_465",
     "merged_stop_ids": [
       "LPP:16ae0a39-ff9a-4aee-88b5-34502255fab4",
       "LPP:3f0c15b3-99bd-4c12-8f7a-df06c9536526"
@@ -26636,7 +26607,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_nusdorferjeva_467",
+    "hub_id": "hub_nusdorferjeva_466",
     "merged_stop_ids": [
       "LPP:17f7d178-41b3-41f9-a545-cbfc22a0a5f1",
       "LPP:c124f317-217b-4b89-9597-393843de4f81"
@@ -26707,7 +26678,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_krivec_455",
+    "hub_id": "hub_krivec_454",
     "merged_stop_ids": [
       "LPP:144ab380-6586-43ce-b216-2e66362b6eca",
       "LPP:18d010ca-0244-4928-82cb-47af0836a1bb"
@@ -26745,7 +26716,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rudnik_468",
+    "hub_id": "hub_rudnik_467",
     "merged_stop_ids": [
       "LPP:1907a46a-4559-43ec-8363-03fe35d30725",
       "LPP:5764ff17-c787-4918-b7bd-a2ed9c6d7dd1",
@@ -26777,7 +26748,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_letaliska_469",
+    "hub_id": "hub_letaliska_468",
     "merged_stop_ids": [
       "LPP:192b7b6a-b138-4569-a4f3-86bef6b20810",
       "LPP:f5d8583f-6e9d-4996-b803-74bf3cd0b602"
@@ -26815,7 +26786,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_novejarsesm_470",
+    "hub_id": "hub_novejarsesm_469",
     "merged_stop_ids": [
       "LPP:19e820ad-e682-40fa-9b66-f7e222ddbd41",
       "LPP:7fad8003-fb10-489d-bf8d-6d433310ad90"
@@ -26853,7 +26824,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_saturnus_471",
+    "hub_id": "hub_saturnus_470",
     "merged_stop_ids": [
       "LPP:1a1ee974-5091-4fa7-96a2-0c2508892aa3"
     ],
@@ -26885,7 +26856,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_archinetova_472",
+    "hub_id": "hub_archinetova_471",
     "merged_stop_ids": [
       "LPP:1a3351a1-563e-4174-b402-54bc0e2f5191",
       "LPP:d119c3e9-7f2c-4d40-97a4-ccc6b4bb2951"
@@ -26923,7 +26894,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podkamnogorico_473",
+    "hub_id": "hub_podkamnogorico_472",
     "merged_stop_ids": [
       "LPP:1aa7e441-8646-4d1d-88bd-ab004758ffc4",
       "LPP:2beb7011-982a-4349-be22-addf1c3bdec7"
@@ -26961,7 +26932,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kriziscesostro_474",
+    "hub_id": "hub_kriziscesostro_473",
     "merged_stop_ids": [
       "LPP:1b0f629f-acdb-4e94-8c54-018f4334ebf7",
       "LPP:24df120e-0d0c-4353-8dda-c7ef0dc3dd5c",
@@ -26999,7 +26970,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnicaambulanta_475",
+    "hub_id": "hub_besnicaambulanta_474",
     "merged_stop_ids": [
       "LPP:1b27d65a-1008-4bc9-928e-f6cb43b03804",
       "LPP:97d3e896-2af7-40f9-bfbf-59cf3fcbf93a"
@@ -27078,7 +27049,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zale_476",
+    "hub_id": "hub_zale_475",
     "merged_stop_ids": [
       "LPP:1b3ddeca-a066-43ee-9ae5-8339628129c2",
       "LPP:454817d3-3750-49c7-994c-14d06fd2c634"
@@ -27116,7 +27087,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_remiza_477",
+    "hub_id": "hub_remiza_476",
     "merged_stop_ids": [
       "LPP:1c0ae078-cca7-40c8-aeda-1187a12ddfee"
     ],
@@ -27144,7 +27115,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dobrunjskac_478",
+    "hub_id": "hub_dobrunjskac_477",
     "merged_stop_ids": [
       "LPP:1cc5f00f-c982-4016-8553-40a3da4f36ad",
       "LPP:5aeac892-889f-4c5a-8fde-67e6ac096242"
@@ -27264,7 +27235,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potvhrastovec_479",
+    "hub_id": "hub_potvhrastovec_478",
     "merged_stop_ids": [
       "LPP:1d62c3f1-903c-4350-a349-80c4573b3cdc",
       "LPP:29336b94-2382-46dd-b2e6-4590dd689640"
@@ -27306,7 +27277,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_centerzalog_480",
+    "hub_id": "hub_centerzalog_479",
     "merged_stop_ids": [
       "LPP:1dc99fbb-5496-4aab-a4b6-32e653ccc789",
       "LPP:277bc73c-e61d-4046-bcfd-31d6161c568e"
@@ -27344,7 +27315,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kardeljevaploscad_421",
+    "hub_id": "hub_kardeljevaploscad_420",
     "merged_stop_ids": [
       "LPP:03375155-45fb-4565-b392-2349fcb199ea",
       "LPP:1e157c31-d34d-4c2e-91b4-8c000c88f6dd"
@@ -27374,7 +27345,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_imp_481",
+    "hub_id": "hub_imp_480",
     "merged_stop_ids": [
       "LPP:1e4be02a-ac61-41bc-b9b5-1ef7850313ed",
       "LPP:53ec687a-6f0c-4bb7-b1b4-606e7dcfada9"
@@ -27459,7 +27430,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_andrejabitenca_425",
+    "hub_id": "hub_andrejabitenca_424",
     "merged_stop_ids": [
       "LPP:06348c07-2fb0-4dfb-a938-aaef614a7f68",
       "LPP:1ef524bd-2bf3-4c47-add3-044374897443"
@@ -27489,7 +27460,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sneberska_482",
+    "hub_id": "hub_sneberska_481",
     "merged_stop_ids": [
       "LPP:1f207e67-adf9-4da6-b107-3b58051d9990",
       "LPP:5d91512b-af7f-4bbe-9dde-17f402fbf590"
@@ -27531,7 +27502,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kodrova_483",
+    "hub_id": "hub_kodrova_482",
     "merged_stop_ids": [
       "LPP:1f9fad8e-d59c-494c-bdd1-1983afacb755",
       "LPP:f2b27cbd-5207-4281-8f67-6369d0c50a9b"
@@ -27606,7 +27577,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mostovna_484",
+    "hub_id": "hub_mostovna_483",
     "merged_stop_ids": [
       "LPP:2073b288-02c2-4d7e-acf1-1a8d59fb2884",
       "LPP:91104c6d-6e35-40f2-a182-a082e5e83c10"
@@ -27648,7 +27619,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavgorice_485",
+    "hub_id": "hub_cestavgorice_484",
     "merged_stop_ids": [
       "LPP:216a26dc-11c2-432b-b099-0d55d508b7fa",
       "LPP:717c914e-f928-4671-95f6-26c1ddb95799"
@@ -27724,7 +27695,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zadvor2_486",
+    "hub_id": "hub_zadvor2_485",
     "merged_stop_ids": [
       "LPP:2188a1bc-ce7a-4450-bd4f-871538578244",
       "LPP:65e92ecc-800d-4962-a8bc-0f50f1107a5b"
@@ -27762,7 +27733,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mestnilog_487",
+    "hub_id": "hub_mestnilog_486",
     "merged_stop_ids": [
       "LPP:21a5f1e3-8ac0-4023-95ca-0a3ff54099aa",
       "LPP:8dde1a7b-e3ec-4675-8409-2a2c4ae696c7"
@@ -27792,7 +27763,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zidarjevec2_488",
+    "hub_id": "hub_zidarjevec2_487",
     "merged_stop_ids": [
       "LPP:21fba303-9465-42e6-8942-eaff85a2b40c",
       "LPP:91745353-dd19-49ee-beaf-332e546dcceb"
@@ -27830,7 +27801,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tovornikolodvor_489",
+    "hub_id": "hub_tovornikolodvor_488",
     "merged_stop_ids": [
       "LPP:223f660b-c391-4120-bf3c-7bf06781686b",
       "LPP:2bf898b0-1247-4e84-87e2-2e044e580c8f"
@@ -27864,7 +27835,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sostro_490",
+    "hub_id": "hub_sostro_489",
     "merged_stop_ids": [
       "LPP:2265e4de-a537-4f97-882b-c94c24aabfb0",
       "LPP:91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1",
@@ -27900,7 +27871,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ilirska_491",
+    "hub_id": "hub_ilirska_490",
     "merged_stop_ids": [
       "LPP:22ef2062-46f0-4a46-8d9a-6ceb7b7f45bc",
       "LPP:eead721b-8996-4e73-a2f9-02dba20df4fa"
@@ -27930,7 +27901,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vnajnarje_492",
+    "hub_id": "hub_vnajnarje_491",
     "merged_stop_ids": [
       "LPP:235d7e56-4520-4691-b7d9-7588f7306e1d",
       "LPP:ed50f692-09f9-409e-b7d6-05ff7711de6b"
@@ -27964,7 +27935,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_svetceva_493",
+    "hub_id": "hub_svetceva_492",
     "merged_stop_ids": [
       "LPP:245bb1a4-ea6e-45b4-8331-b50983655326",
       "LPP:ee3713fe-016c-47eb-96d1-f760c9d19010"
@@ -27994,7 +27965,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rutar_450",
+    "hub_id": "hub_rutar_449",
     "merged_stop_ids": [
       "LPP:117abbb4-5575-4020-aac4-2048f8d34b50",
       "LPP:2496479b-f855-403d-bce8-2a4d9988665d"
@@ -28036,7 +28007,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_agrokombinatska_459",
+    "hub_id": "hub_agrokombinatska_458",
     "merged_stop_ids": [
       "LPP:156a6f62-9a67-4cf0-ad56-85a343c77cd2",
       "LPP:24ab9d18-4fb9-4e7e-b48c-d5cdc9cd1305",
@@ -28078,7 +28049,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kriziscesostro_474",
+    "hub_id": "hub_kriziscesostro_473",
     "merged_stop_ids": [
       "LPP:1b0f629f-acdb-4e94-8c54-018f4334ebf7",
       "LPP:24df120e-0d0c-4353-8dda-c7ef0dc3dd5c",
@@ -28112,7 +28083,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_primoziceva_494",
+    "hub_id": "hub_primoziceva_493",
     "merged_stop_ids": [
       "LPP:259de009-1345-4169-920b-baeaceade993"
     ],
@@ -28213,7 +28184,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vic_495",
+    "hub_id": "hub_vic_494",
     "merged_stop_ids": [
       "LPP:25c85d19-456c-4188-b563-15ad467a54c7",
       "LPP:7294875b-8482-484a-b04d-95b921612001"
@@ -28328,7 +28299,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnicasola_451",
+    "hub_id": "hub_besnicasola_450",
     "merged_stop_ids": [
       "LPP:12304b99-9a07-485a-a101-eaca90495d48",
       "LPP:2628ca4f-8797-4672-aca9-47b325c58aac"
@@ -28362,7 +28333,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_draveljskagmajna_430",
+    "hub_id": "hub_draveljskagmajna_429",
     "merged_stop_ids": [
       "LPP:0810f07b-94d6-442f-b10d-bf8210c4ed47",
       "LPP:26d86ffa-b8df-49aa-a9c0-5fa7d3cfba77"
@@ -28392,7 +28363,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_pridolencu_496",
+    "hub_id": "hub_pridolencu_495",
     "merged_stop_ids": [
       "LPP:26ec9924-5586-4fd5-8b20-63f2d0a38d44",
       "LPP:fbd1dfb0-4a6f-4160-ad52-5ccb69530195"
@@ -28426,7 +28397,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnica_497",
+    "hub_id": "hub_besnica_496",
     "merged_stop_ids": [
       "LPP:271db19a-744b-41a0-869d-0c3e0e2cb6bf",
       "LPP:2f18bcfa-6189-4de4-b06f-132d3392e7d6"
@@ -28460,7 +28431,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potherojatrtnika_498",
+    "hub_id": "hub_potherojatrtnika_497",
     "merged_stop_ids": [
       "LPP:27788b38-4743-4e04-9b9c-94faeeeb2d34",
       "LPP:d2f9bbec-4b03-49a8-af83-afe65fe07a0e"
@@ -28502,7 +28473,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_centerzalog_480",
+    "hub_id": "hub_centerzalog_479",
     "merged_stop_ids": [
       "LPP:1dc99fbb-5496-4aab-a4b6-32e653ccc789",
       "LPP:277bc73c-e61d-4046-bcfd-31d6161c568e"
@@ -28532,7 +28503,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sadinjavas_499",
+    "hub_id": "hub_sadinjavas_498",
     "merged_stop_ids": [
       "LPP:278a9d60-64c7-4bfa-aad0-24068aa760af",
       "LPP:a5eb15d2-f0cb-46a6-b888-6a9aad6bc5b6"
@@ -28562,7 +28533,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podmornica_500",
+    "hub_id": "hub_podmornica_499",
     "merged_stop_ids": [
       "LPP:28248670-5e08-4de2-8eab-e63933c0d61d",
       "LPP:9c17244c-0812-404b-b929-5cdc0591e421"
@@ -28592,7 +28563,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_novejarse_501",
+    "hub_id": "hub_novejarse_500",
     "merged_stop_ids": [
       "LPP:2838f674-f6e9-4eb5-a99c-1d0ac7903ca1"
     ],
@@ -28620,7 +28591,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potvhrastovec_479",
+    "hub_id": "hub_potvhrastovec_478",
     "merged_stop_ids": [
       "LPP:1d62c3f1-903c-4350-a349-80c4573b3cdc",
       "LPP:29336b94-2382-46dd-b2e6-4590dd689640"
@@ -28927,7 +28898,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podkamnogorico_473",
+    "hub_id": "hub_podkamnogorico_472",
     "merged_stop_ids": [
       "LPP:1aa7e441-8646-4d1d-88bd-ab004758ffc4",
       "LPP:2beb7011-982a-4349-be22-addf1c3bdec7"
@@ -28965,7 +28936,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tovornikolodvor_489",
+    "hub_id": "hub_tovornikolodvor_488",
     "merged_stop_ids": [
       "LPP:223f660b-c391-4120-bf3c-7bf06781686b",
       "LPP:2bf898b0-1247-4e84-87e2-2e044e580c8f"
@@ -28999,7 +28970,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_trebeljevo_502",
+    "hub_id": "hub_trebeljevo_501",
     "merged_stop_ids": [
       "LPP:2c46416a-d66e-469c-a342-898a93f5b2f0",
       "LPP:51e04e1d-9ea1-432d-8b79-09e6c2a7be7b"
@@ -29041,7 +29012,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tbilisijska_503",
+    "hub_id": "hub_tbilisijska_502",
     "merged_stop_ids": [
       "LPP:2d42d8e2-26a8-4a74-809c-f436d05c8a54",
       "LPP:35dbaf26-2fa4-45c4-87fc-81d1ff13b005",
@@ -29075,7 +29046,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kristalnapalaca_462",
+    "hub_id": "hub_kristalnapalaca_461",
     "merged_stop_ids": [
       "LPP:15c71406-72b5-4681-8b1a-29eb30eb3f76",
       "LPP:2d6504e9-c938-417e-9b55-32d6514bc744"
@@ -29105,7 +29076,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zidarjevec_460",
+    "hub_id": "hub_zidarjevec_459",
     "merged_stop_ids": [
       "LPP:15af3c66-ad74-4f41-92f7-92e2ff72a51d",
       "LPP:2e62f411-936d-4a10-96ed-2d8fe95d6d65"
@@ -29151,7 +29122,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stepanjavas_504",
+    "hub_id": "hub_stepanjavas_503",
     "merged_stop_ids": [
       "LPP:2e6c059c-0305-47bb-9ca8-00a2123039e9",
       "LPP:81f21fc1-3bd2-4d2a-b563-2d063479c68e",
@@ -29195,7 +29166,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stozice_505",
+    "hub_id": "hub_stozice_504",
     "merged_stop_ids": [
       "LPP:2ec182e2-769f-427f-b9b5-c4118890cb96",
       "LPP:7fdce743-a4be-44d7-8658-0a259a18ad30"
@@ -29225,7 +29196,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bratovzidan_506",
+    "hub_id": "hub_bratovzidan_505",
     "merged_stop_ids": [
       "LPP:2edaabef-ed43-4b87-ba95-a5600c33250f",
       "LPP:548a85bd-f15f-427b-ad90-43cb50e9e31a"
@@ -29259,7 +29230,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnica_497",
+    "hub_id": "hub_besnica_496",
     "merged_stop_ids": [
       "LPP:271db19a-744b-41a0-869d-0c3e0e2cb6bf",
       "LPP:2f18bcfa-6189-4de4-b06f-132d3392e7d6"
@@ -29334,7 +29305,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_velikilipoglav_507",
+    "hub_id": "hub_velikilipoglav_506",
     "merged_stop_ids": [
       "LPP:2fafda56-e44d-4e08-8503-90e6bf75e19d",
       "LPP:ee095f27-439e-42e7-9e5c-e77b0903c31f"
@@ -29472,7 +29443,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ostrovrhar_461",
+    "hub_id": "hub_ostrovrhar_460",
     "merged_stop_ids": [
       "LPP:15bb8af1-183e-4ec8-81f7-1fc6e81beb30",
       "LPP:30cf2ed7-2cf0-4764-ab64-78206968d5ba"
@@ -29502,7 +29473,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_polanskova_508",
+    "hub_id": "hub_polanskova_507",
     "merged_stop_ids": [
       "LPP:311a0b74-0787-484b-b414-8adf1cd4cf58",
       "LPP:9fa0b90f-dba1-4eca-8802-589425d3e8fd"
@@ -29666,7 +29637,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podpec1_509",
+    "hub_id": "hub_podpec1_508",
     "merged_stop_ids": [
       "LPP:32abc648-685c-47b0-bbc4-203371ec2699",
       "LPP:b4634750-8d91-4625-b40d-1da9665e70f6"
@@ -29696,7 +29667,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_trbeze_510",
+    "hub_id": "hub_trbeze_509",
     "merged_stop_ids": [
       "LPP:32ff2d5b-61ae-415b-941b-aeb1be1b5052",
       "LPP:b4766c35-4ab9-4af3-aa76-1b1f40735685"
@@ -29726,7 +29697,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podlipoglav_511",
+    "hub_id": "hub_podlipoglav_510",
     "merged_stop_ids": [
       "LPP:332abe37-33b8-4142-9edd-4ebd9e52eaf7",
       "LPP:45b36327-9a1a-4cd5-8261-53217326b22f"
@@ -29801,7 +29772,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_krimska_512",
+    "hub_id": "hub_krimska_511",
     "merged_stop_ids": [
       "LPP:339ec74c-f45b-4f23-98b8-7ac67486ff6d",
       "LPP:64ea9f57-1f7f-465e-8721-55e26faee36a"
@@ -29888,7 +29859,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_brglezovstradon_513",
+    "hub_id": "hub_brglezovstradon_512",
     "merged_stop_ids": [
       "LPP:34afe7f1-2d09-487f-983f-19c7dd5dae82",
       "LPP:46847a61-d68a-4d2c-ad76-18e043d41430"
@@ -29918,7 +29889,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spgameljne2_514",
+    "hub_id": "hub_spgameljne2_513",
     "merged_stop_ids": [
       "LPP:34f3ddda-e732-4b53-bfb2-8773b5cd6eac",
       "LPP:e2499103-6634-4d8e-87a8-68dc5ef6340c"
@@ -29960,7 +29931,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tbilisijska_503",
+    "hub_id": "hub_tbilisijska_502",
     "merged_stop_ids": [
       "LPP:2d42d8e2-26a8-4a74-809c-f436d05c8a54",
       "LPP:35dbaf26-2fa4-45c4-87fc-81d1ff13b005",
@@ -29994,7 +29965,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_obrtnacona_515",
+    "hub_id": "hub_obrtnacona_514",
     "merged_stop_ids": [
       "LPP:363e4763-df83-4814-99d2-879d448d5910",
       "LPP:39650ca1-d08c-4645-ac1a-6aed84eb45c5"
@@ -30024,7 +29995,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavkresnice_516",
+    "hub_id": "hub_cestavkresnice_515",
     "merged_stop_ids": [
       "LPP:36c7bbd0-50d7-4b5d-b9b3-9dadd37ac50b",
       "LPP:e8b0d4a2-f65e-4aed-97b8-77ab0d07955a"
@@ -30066,7 +30037,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_emona_517",
+    "hub_id": "hub_emona_516",
     "merged_stop_ids": [
       "LPP:36d25599-0bed-48a0-bcb4-134be8a959fe",
       "LPP:ef31a8be-b01d-44cd-95cf-3db8e918af26"
@@ -30148,7 +30119,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zgornjasiska_518",
+    "hub_id": "hub_zgornjasiska_517",
     "merged_stop_ids": [
       "LPP:37fc313d-1f45-49c9-9059-4f96f44a6682",
       "LPP:fcec9e7a-1c9e-4214-96dd-d071550349e6"
@@ -30178,7 +30149,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_samova_519",
+    "hub_id": "hub_samova_518",
     "merged_stop_ids": [
       "LPP:3866c761-7fa4-4a4a-b913-75569da498d9",
       "LPP:8f623f1d-48a7-46b5-9331-28a8dc980876"
@@ -30224,7 +30195,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dalmatinova_520",
+    "hub_id": "hub_dalmatinova_519",
     "merged_stop_ids": [
       "LPP:38b3abed-0592-407b-96c3-85a026f2e192"
     ],
@@ -30260,7 +30231,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kriziscesostro_474",
+    "hub_id": "hub_kriziscesostro_473",
     "merged_stop_ids": [
       "LPP:1b0f629f-acdb-4e94-8c54-018f4334ebf7",
       "LPP:24df120e-0d0c-4353-8dda-c7ef0dc3dd5c",
@@ -30298,7 +30269,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kamnagorica_521",
+    "hub_id": "hub_kamnagorica_520",
     "merged_stop_ids": [
       "LPP:391bf42a-68a3-400a-baea-0c708f327325",
       "LPP:524d67dd-fbb0-4f6a-9199-f095123044ab",
@@ -30330,7 +30301,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bratislavska_522",
+    "hub_id": "hub_bratislavska_521",
     "merged_stop_ids": [
       "LPP:392949a1-1ada-4196-9073-6f392638ca49",
       "LPP:ab4e1412-1ac4-4864-8833-c1ddf48bec20"
@@ -30360,7 +30331,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_obrtnacona_515",
+    "hub_id": "hub_obrtnacona_514",
     "merged_stop_ids": [
       "LPP:363e4763-df83-4814-99d2-879d448d5910",
       "LPP:39650ca1-d08c-4645-ac1a-6aed84eb45c5"
@@ -30435,7 +30406,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_toplarna_523",
+    "hub_id": "hub_toplarna_522",
     "merged_stop_ids": [
       "LPP:39da4d26-2c37-40d9-ad9b-e8ccc0882d38",
       "LPP:a106730b-3562-40a7-874f-8334a6c4efb6"
@@ -30465,7 +30436,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dobrunje_524",
+    "hub_id": "hub_dobrunje_523",
     "merged_stop_ids": [
       "LPP:3a50f545-2fe2-45a0-8ed6-01635603efed",
       "LPP:e0c253d0-1de7-4add-ac75-8b16151fa462"
@@ -30503,7 +30474,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stajerska_525",
+    "hub_id": "hub_stajerska_524",
     "merged_stop_ids": [
       "LPP:3c6ebf90-c611-4535-b2b0-22fba3f7649a",
       "LPP:4abe5e63-5707-4ef0-acda-ab2c52749afe"
@@ -30537,7 +30508,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_streliska_526",
+    "hub_id": "hub_streliska_525",
     "merged_stop_ids": [
       "LPP:3cb0ccbb-9b91-4d71-bd27-2acef732be4c",
       "LPP:fa96d420-d1af-4ad0-bf6a-4544deb1c5eb"
@@ -30567,7 +30538,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jezkova_527",
+    "hub_id": "hub_jezkova_526",
     "merged_stop_ids": [
       "LPP:3d2f3af0-3b48-4019-a861-ee4fff761a24",
       "LPP:46f20d33-601c-4ef6-b86c-7c2bb4af52fa"
@@ -30597,7 +30568,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podroznikom_528",
+    "hub_id": "hub_podroznikom_527",
     "merged_stop_ids": [
       "LPP:3d8122ff-0840-4811-a5ad-c4702fc70269",
       "LPP:ad966374-a37d-443a-9a3e-ec85ca28231f"
@@ -30723,7 +30694,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kozler_529",
+    "hub_id": "hub_kozler_528",
     "merged_stop_ids": [
       "LPP:3f01eb40-651e-4fad-aff9-2ee27f259f64",
       "LPP:bdd68b01-e9a1-4270-be50-8b5c7bd39a1c"
@@ -30753,7 +30724,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podsivnikom_466",
+    "hub_id": "hub_podsivnikom_465",
     "merged_stop_ids": [
       "LPP:16ae0a39-ff9a-4aee-88b5-34502255fab4",
       "LPP:3f0c15b3-99bd-4c12-8f7a-df06c9536526"
@@ -30783,7 +30754,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestanabrod_530",
+    "hub_id": "hub_cestanabrod_529",
     "merged_stop_ids": [
       "LPP:3f37b298-896a-40be-b2f5-6fe8154756c4",
       "LPP:d0790612-d161-4be4-953d-a7a0c33acf1e"
@@ -30892,7 +30863,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gdgameljne_531",
+    "hub_id": "hub_gdgameljne_530",
     "merged_stop_ids": [
       "LPP:3febe187-31d6-4229-be07-78ff782ca972",
       "LPP:e26da28a-b9c3-41b8-b57f-87b289b38e08"
@@ -30938,7 +30909,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_knezakoclja_532",
+    "hub_id": "hub_knezakoclja_531",
     "merged_stop_ids": [
       "LPP:4038e02e-f22f-4af0-ba4f-7aab855b53af",
       "LPP:f2bac6f5-5bbc-4f15-acdd-014d86770ce9"
@@ -30968,7 +30939,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_viskopolje_533",
+    "hub_id": "hub_viskopolje_532",
     "merged_stop_ids": [
       "LPP:404f8444-540d-4d82-a355-30a6a8bec797",
       "LPP:896f7627-7c1c-4742-a40a-6aadb85fe206"
@@ -31095,7 +31066,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_pance_534",
+    "hub_id": "hub_pance_533",
     "merged_stop_ids": [
       "LPP:406d6bb7-147c-4853-a917-e5c437b025e6",
       "LPP:5f6cb902-b824-4961-9ac2-75cf44a47055"
@@ -31133,7 +31104,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_starajezica_535",
+    "hub_id": "hub_starajezica_534",
     "merged_stop_ids": [
       "LPP:40fcc1b9-2c42-4db8-bd48-d431efc8a3fd",
       "LPP:9583dbdd-06fd-411e-88dd-af8f89e2caaa"
@@ -31163,7 +31134,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_orlova_536",
+    "hub_id": "hub_orlova_535",
     "merged_stop_ids": [
       "LPP:41489be9-b3b7-4cbe-90f8-af1a435b2676"
     ],
@@ -31203,7 +31174,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tbilisijska_503",
+    "hub_id": "hub_tbilisijska_502",
     "merged_stop_ids": [
       "LPP:2d42d8e2-26a8-4a74-809c-f436d05c8a54",
       "LPP:35dbaf26-2fa4-45c4-87fc-81d1ff13b005",
@@ -31245,7 +31216,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ruskicar_537",
+    "hub_id": "hub_ruskicar_536",
     "merged_stop_ids": [
       "LPP:43df2657-d56f-4fc4-8c40-49180cbbe90c",
       "LPP:eee4abae-e720-4776-b6c7-0099d0119246"
@@ -31275,7 +31246,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jamnikarjeva_538",
+    "hub_id": "hub_jamnikarjeva_537",
     "merged_stop_ids": [
       "LPP:43e01b7e-be2c-4282-be1b-9f628ca67327",
       "LPP:c568fe2e-477f-4af2-ad68-cb8111f361d0"
@@ -31309,7 +31280,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_puhova_539",
+    "hub_id": "hub_puhova_538",
     "merged_stop_ids": [
       "LPP:441545fb-7a0c-4555-aea8-01cbe6c14ea3",
       "LPP:7b822496-7ea4-4ce8-b78c-1d021c68a9ed"
@@ -31339,7 +31310,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jurecic_540",
+    "hub_id": "hub_jurecic_539",
     "merged_stop_ids": [
       "LPP:447a37f6-2be6-45a3-8ae0-6982aa53cafb",
       "LPP:a26d9a94-effb-45ab-a27f-74076e9e5bdd"
@@ -31381,7 +31352,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kodeljevo_541",
+    "hub_id": "hub_kodeljevo_540",
     "merged_stop_ids": [
       "LPP:452bfd80-e8bd-470b-bc4a-981e1b37ffd7",
       "LPP:55f1ae46-11e5-4270-991f-f09dae6c58bf",
@@ -31425,7 +31396,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zale_476",
+    "hub_id": "hub_zale_475",
     "merged_stop_ids": [
       "LPP:1b3ddeca-a066-43ee-9ae5-8339628129c2",
       "LPP:454817d3-3750-49c7-994c-14d06fd2c634"
@@ -31455,7 +31426,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ledenadvoranazalog_542",
+    "hub_id": "hub_ledenadvoranazalog_541",
     "merged_stop_ids": [
       "LPP:45754ca7-bffd-4bcf-96df-952e59574dde",
       "LPP:d08c4884-9764-447f-9b79-0ef7a645222f"
@@ -31497,7 +31468,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_smelt_543",
+    "hub_id": "hub_smelt_542",
     "merged_stop_ids": [
       "LPP:459f82d2-cbe4-414b-b66b-0b794ea958ed",
       "LPP:9dfc0a62-bf4d-4670-83d0-4e26a6e56b32"
@@ -31527,7 +31498,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podlipoglav_511",
+    "hub_id": "hub_podlipoglav_510",
     "merged_stop_ids": [
       "LPP:332abe37-33b8-4142-9edd-4ebd9e52eaf7",
       "LPP:45b36327-9a1a-4cd5-8261-53217326b22f"
@@ -31561,7 +31532,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_semnikar_544",
+    "hub_id": "hub_semnikar_543",
     "merged_stop_ids": [
       "LPP:45e88013-1a7e-44a0-ab1f-bc0db6c6746f",
       "LPP:d7d43617-ef41-4f9e-bbad-670d515d926a"
@@ -31591,7 +31562,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_baragova_545",
+    "hub_id": "hub_baragova_544",
     "merged_stop_ids": [
       "LPP:4682c5fd-08cb-4af1-a3e2-6f1ee880a52d",
       "LPP:eec159d0-4b1b-4706-9a5d-a00ddcbea9f5"
@@ -31621,7 +31592,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_brglezovstradon_513",
+    "hub_id": "hub_brglezovstradon_512",
     "merged_stop_ids": [
       "LPP:34afe7f1-2d09-487f-983f-19c7dd5dae82",
       "LPP:46847a61-d68a-4d2c-ad76-18e043d41430"
@@ -31651,7 +31622,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jezkova_527",
+    "hub_id": "hub_jezkova_526",
     "merged_stop_ids": [
       "LPP:3d2f3af0-3b48-4019-a861-ee4fff761a24",
       "LPP:46f20d33-601c-4ef6-b86c-7c2bb4af52fa"
@@ -31681,7 +31652,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podgolovcem_546",
+    "hub_id": "hub_podgolovcem_545",
     "merged_stop_ids": [
       "LPP:47252dc3-dbd8-43df-898b-0a3fb27ffc93",
       "LPP:d867fec1-5147-43db-b004-08d2797f50e3"
@@ -31723,7 +31694,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zgornjilog_547",
+    "hub_id": "hub_zgornjilog_546",
     "merged_stop_ids": [
       "LPP:47283e27-c588-411c-9303-30a6f0beeaef",
       "LPP:6c56976b-4ae1-429f-bcab-0cfc37e3580d"
@@ -31790,7 +31761,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cebelarska_548",
+    "hub_id": "hub_cebelarska_547",
     "merged_stop_ids": [
       "LPP:476b2caa-710a-47fe-9743-4d75d7ada5fb",
       "LPP:a9473958-e505-4c16-8498-486b06a47856"
@@ -31824,7 +31795,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_obsotocju_549",
+    "hub_id": "hub_obsotocju_548",
     "merged_stop_ids": [
       "LPP:47a3bd8a-72ae-4e20-b43f-10bfaf49012c"
     ],
@@ -31944,7 +31915,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestanavevce_437",
+    "hub_id": "hub_cestanavevce_436",
     "merged_stop_ids": [
       "LPP:0bb103e4-c4a6-4c4c-a13d-217ab4e6dfd3",
       "LPP:48507e1a-32df-4552-9448-3b345760b75f"
@@ -31986,7 +31957,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sentvid_550",
+    "hub_id": "hub_sentvid_549",
     "merged_stop_ids": [
       "LPP:48b163cd-b819-4849-aee1-8b1da77657ab",
       "LPP:edf94a12-03e9-4225-b6cc-aca0edf588a7"
@@ -32028,7 +31999,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_poljanska_551",
+    "hub_id": "hub_poljanska_550",
     "merged_stop_ids": [
       "LPP:48e907fd-e868-47cd-8cac-74c7d4582944",
       "LPP:8c7fa045-888b-46d0-8189-6f82623bf481"
@@ -32058,7 +32029,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podhribom_552",
+    "hub_id": "hub_podhribom_551",
     "merged_stop_ids": [
       "LPP:4a90e424-11ab-43a8-b7e9-1c4f42fe2b7c",
       "LPP:caac4c1a-13e4-4afa-b467-65d90a8fbd44"
@@ -32088,7 +32059,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mihovstradon_553",
+    "hub_id": "hub_mihovstradon_552",
     "merged_stop_ids": [
       "LPP:4a95f1f8-a457-4dcf-bd1f-6307d4300ea0",
       "LPP:c86d5f37-52ee-4e3a-99b5-b9554118c4d5"
@@ -32126,7 +32097,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stajerska_525",
+    "hub_id": "hub_stajerska_524",
     "merged_stop_ids": [
       "LPP:3c6ebf90-c611-4535-b2b0-22fba3f7649a",
       "LPP:4abe5e63-5707-4ef0-acda-ab2c52749afe"
@@ -32164,7 +32135,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tacen_554",
+    "hub_id": "hub_tacen_553",
     "merged_stop_ids": [
       "LPP:4ac86a6a-874d-41a7-92a5-64ed733b7734",
       "LPP:d27a7320-71d6-48bc-a4f5-0f3e239575b8"
@@ -32194,7 +32165,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lavricaprimalci_555",
+    "hub_id": "hub_lavricaprimalci_554",
     "merged_stop_ids": [
       "LPP:4afd573d-abb7-4209-9b28-5c34811eb3ef",
       "LPP:70231f13-be88-4e3a-a89a-5b4f436984d2"
@@ -32224,7 +32195,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kpl_556",
+    "hub_id": "hub_kpl_555",
     "merged_stop_ids": [
       "LPP:4b456495-fb29-4ff3-b48b-4090bc51514e",
       "LPP:6afef238-01cd-4ad0-859d-2056b5d4a63f"
@@ -32303,7 +32274,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tehnounion_557",
+    "hub_id": "hub_tehnounion_556",
     "merged_stop_ids": [
       "LPP:4c277b3f-c427-404b-ace3-2cd51656318f",
       "LPP:6330ad8d-b582-4c92-bc7e-d3f206264f04"
@@ -32337,7 +32308,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_yulon_558",
+    "hub_id": "hub_yulon_557",
     "merged_stop_ids": [
       "LPP:4ca7ae7e-380b-45e3-81de-00ffab5bb531",
       "LPP:cddb3822-7daf-4cae-9cc3-6b191e81326b"
@@ -32371,7 +32342,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gorjanceva_559",
+    "hub_id": "hub_gorjanceva_558",
     "merged_stop_ids": [
       "LPP:4ca9e64c-29ad-4391-a6f2-7e1ae022d5bf",
       "LPP:5c15a390-36b6-47a9-9d84-0c7160157c1d"
@@ -32499,7 +32470,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tujigrm_560",
+    "hub_id": "hub_tujigrm_559",
     "merged_stop_ids": [
       "LPP:4d57f6bd-7ba7-4f07-8aa1-ecac0b09e8db"
     ],
@@ -32535,7 +32506,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sostro2_561",
+    "hub_id": "hub_sostro2_560",
     "merged_stop_ids": [
       "LPP:4e8ccfa1-b58c-4ee1-ad82-2e8a645071f3",
       "LPP:9ab2717b-1396-4885-bb5b-9857d7195d0d"
@@ -32565,7 +32536,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jezero_562",
+    "hub_id": "hub_jezero_561",
     "merged_stop_ids": [
       "LPP:4ec1b435-1683-4cd7-a4d0-688cc9f3b603"
     ],
@@ -32638,7 +32609,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bratovucakar_563",
+    "hub_id": "hub_bratovucakar_562",
     "merged_stop_ids": [
       "LPP:4f21a18a-3cb0-4c6c-bb92-e7c8945fac1c",
       "LPP:b589ddd3-5a31-4fe1-915f-44347b4c0a1a"
@@ -32668,7 +32639,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_studentskonaselje_564",
+    "hub_id": "hub_studentskonaselje_563",
     "merged_stop_ids": [
       "LPP:4f681273-89fe-44f9-aaec-76950722cc52",
       "LPP:ff1f708c-989e-4cc5-8e75-02717b5f9744"
@@ -32706,7 +32677,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stepanjskonas_565",
+    "hub_id": "hub_stepanjskonas_564",
     "merged_stop_ids": [
       "LPP:505865ea-cdea-4042-bdb2-b2f4f03889cb",
       "LPP:bf64b499-211b-4da8-ace2-f12a17608ae3"
@@ -32744,7 +32715,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_silos_566",
+    "hub_id": "hub_silos_565",
     "merged_stop_ids": [
       "LPP:51dbf10f-cf3b-4575-a8cc-d1080c1f9dde",
       "LPP:e82569a6-73f3-4002-b7b5-0f83ee167535"
@@ -32778,7 +32749,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_trebeljevo_502",
+    "hub_id": "hub_trebeljevo_501",
     "merged_stop_ids": [
       "LPP:2c46416a-d66e-469c-a342-898a93f5b2f0",
       "LPP:51e04e1d-9ea1-432d-8b79-09e6c2a7be7b"
@@ -32816,7 +32787,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gasilskabrigada_567",
+    "hub_id": "hub_gasilskabrigada_566",
     "merged_stop_ids": [
       "LPP:521edd75-c364-480a-af9e-a1c9815b6dd7",
       "LPP:d72d58c2-b9a9-4dd5-b741-17e986d925c8"
@@ -32850,7 +32821,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kamnagorica_521",
+    "hub_id": "hub_kamnagorica_520",
     "merged_stop_ids": [
       "LPP:391bf42a-68a3-400a-baea-0c708f327325",
       "LPP:524d67dd-fbb0-4f6a-9199-f095123044ab",
@@ -32894,7 +32865,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_agrokombinatska_459",
+    "hub_id": "hub_agrokombinatska_458",
     "merged_stop_ids": [
       "LPP:156a6f62-9a67-4cf0-ad56-85a343c77cd2",
       "LPP:24ab9d18-4fb9-4e7e-b48c-d5cdc9cd1305",
@@ -32977,7 +32948,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavbizovik_568",
+    "hub_id": "hub_cestavbizovik_567",
     "merged_stop_ids": [
       "LPP:52e5d1c1-28c9-4ed2-b0ec-5bf7311be753",
       "LPP:7558099b-08a3-43bc-8056-49bcc5900a03"
@@ -33015,7 +32986,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zelenigaj_569",
+    "hub_id": "hub_zelenigaj_568",
     "merged_stop_ids": [
       "LPP:538ab00b-ee39-44e8-b5a4-62c2c6215bf6",
       "LPP:92928953-a289-4a44-a653-b7b6b4f5e1c2"
@@ -33045,7 +33016,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_plecnikovacerkev_422",
+    "hub_id": "hub_plecnikovacerkev_421",
     "merged_stop_ids": [
       "LPP:05bd4cbd-b014-4cfd-8ca9-3c82b0a59114",
       "LPP:53c3c8c9-2e64-4a8f-9afb-031b24c17d5a"
@@ -33075,7 +33046,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_imp_481",
+    "hub_id": "hub_imp_480",
     "merged_stop_ids": [
       "LPP:1e4be02a-ac61-41bc-b9b5-1ef7850313ed",
       "LPP:53ec687a-6f0c-4bb7-b1b4-606e7dcfada9"
@@ -33105,7 +33076,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bratovzidan_506",
+    "hub_id": "hub_bratovzidan_505",
     "merged_stop_ids": [
       "LPP:2edaabef-ed43-4b87-ba95-a5600c33250f",
       "LPP:548a85bd-f15f-427b-ad90-43cb50e9e31a"
@@ -33135,7 +33106,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hladilniska_570",
+    "hub_id": "hub_hladilniska_569",
     "merged_stop_ids": [
       "LPP:548dbdee-83b0-497b-acc1-e15b34899d42",
       "LPP:60edf514-fd83-400b-b86f-881f7eff258b"
@@ -33238,7 +33209,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavzajcjodobravo_571",
+    "hub_id": "hub_cestavzajcjodobravo_570",
     "merged_stop_ids": [
       "LPP:5560d06d-4058-473e-abba-099b05d7cf07",
       "LPP:754e8f1f-a5ba-4281-8f31-fb3357744cd2"
@@ -33272,7 +33243,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hrvatskitrg_572",
+    "hub_id": "hub_hrvatskitrg_571",
     "merged_stop_ids": [
       "LPP:557f714a-6f4a-4c98-8c5a-d74fa34b2adb",
       "LPP:cab36767-e95a-4f60-978e-92490f2517b2"
@@ -33302,7 +33273,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_pridogonivar_573",
+    "hub_id": "hub_pridogonivar_572",
     "merged_stop_ids": [
       "LPP:55e3f615-be6c-43f4-9858-e199862771a4",
       "LPP:9b4a7d21-709f-4462-b602-c77d975df9e7"
@@ -33344,7 +33315,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kodeljevo_541",
+    "hub_id": "hub_kodeljevo_540",
     "merged_stop_ids": [
       "LPP:452bfd80-e8bd-470b-bc4a-981e1b37ffd7",
       "LPP:55f1ae46-11e5-4270-991f-f09dae6c58bf",
@@ -33376,7 +33347,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tiki_574",
+    "hub_id": "hub_tiki_573",
     "merged_stop_ids": [
       "LPP:5606dcbf-b08f-47cf-8147-203cc7f303de",
       "LPP:eae5b514-2e51-4247-a427-e220249f3ccf"
@@ -33414,7 +33385,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_avtomontaza_575",
+    "hub_id": "hub_avtomontaza_574",
     "merged_stop_ids": [
       "LPP:567980fa-7783-411d-9c67-55b44d753880"
     ],
@@ -33450,7 +33421,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rudnik_468",
+    "hub_id": "hub_rudnik_467",
     "merged_stop_ids": [
       "LPP:1907a46a-4559-43ec-8363-03fe35d30725",
       "LPP:5764ff17-c787-4918-b7bd-a2ed9c6d7dd1",
@@ -33482,7 +33453,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spgameljne1_576",
+    "hub_id": "hub_spgameljne1_575",
     "merged_stop_ids": [
       "LPP:5881f75e-9383-49b0-811d-04c864ba1605",
       "LPP:8a5febd6-d44a-4c98-a221-46044548663d"
@@ -33520,7 +33491,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kaseljska_577",
+    "hub_id": "hub_kaseljska_576",
     "merged_stop_ids": [
       "LPP:58cd6196-8ac4-4803-be8b-1c0d2fb52528",
       "LPP:e57aad1d-457e-401f-b26d-306b4fd836eb"
@@ -33550,7 +33521,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_szsiska_578",
+    "hub_id": "hub_szsiska_577",
     "merged_stop_ids": [
       "LPP:58db973d-ecbb-4aa6-a56c-c26aaff7f263"
     ],
@@ -33582,7 +33553,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rogovilc_579",
+    "hub_id": "hub_rogovilc_578",
     "merged_stop_ids": [
       "LPP:592b37eb-8255-4758-ae8a-7cef98521013",
       "LPP:a7af0c5d-2297-40e2-a6e0-506f6aadba0a"
@@ -33616,7 +33587,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_osenjakova_580",
+    "hub_id": "hub_osenjakova_579",
     "merged_stop_ids": [
       "LPP:59d96e2c-3ee3-4581-840a-3ddaf0003743",
       "LPP:79a5bacd-8b59-4d83-99e8-26e3c5b1490b"
@@ -33694,7 +33665,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zito_581",
+    "hub_id": "hub_zito_580",
     "merged_stop_ids": [
       "LPP:59faa0f0-34b1-47cd-ba3a-3b6f0d684c00",
       "LPP:cf6f67f5-f7df-4462-828b-481134217fad"
@@ -33732,7 +33703,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_koseze_431",
+    "hub_id": "hub_koseze_430",
     "merged_stop_ids": [
       "LPP:093afa81-b65f-4182-bac3-afbc00558a9b",
       "LPP:5a2def68-fa57-4002-a942-e39bc2a87688"
@@ -33762,7 +33733,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potvmejah_582",
+    "hub_id": "hub_potvmejah_581",
     "merged_stop_ids": [
       "LPP:5a89967e-5654-49f6-84ca-59f7f9035444",
       "LPP:eb8e8d9a-a3d5-4ec1-9356-26e0e41912d1"
@@ -33792,7 +33763,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dobrunjskac_478",
+    "hub_id": "hub_dobrunjskac_477",
     "merged_stop_ids": [
       "LPP:1cc5f00f-c982-4016-8553-40a3da4f36ad",
       "LPP:5aeac892-889f-4c5a-8fde-67e6ac096242"
@@ -33822,7 +33793,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bolnicapdrzaja_583",
+    "hub_id": "hub_bolnicapdrzaja_582",
     "merged_stop_ids": [
       "LPP:5b184752-5bd2-43e3-9243-dfc8969d9065",
       "LPP:a1406782-3114-407c-8e35-35bcf5a1234b"
@@ -33852,7 +33823,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_snoj_584",
+    "hub_id": "hub_snoj_583",
     "merged_stop_ids": [
       "LPP:5b59d508-0860-4f50-b5ab-72a79046b488",
       "LPP:5fe363f3-8297-448b-bde3-08f690c92d1b"
@@ -33882,7 +33853,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bokalce_585",
+    "hub_id": "hub_bokalce_584",
     "merged_stop_ids": [
       "LPP:5bc3addd-b076-4c60-b850-39f90e674b75"
     ],
@@ -33914,7 +33885,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gorjanceva_559",
+    "hub_id": "hub_gorjanceva_558",
     "merged_stop_ids": [
       "LPP:4ca9e64c-29ad-4391-a6f2-7e1ae022d5bf",
       "LPP:5c15a390-36b6-47a9-9d84-0c7160157c1d"
@@ -33948,7 +33919,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_7septembra_586",
+    "hub_id": "hub_7septembra_585",
     "merged_stop_ids": [
       "LPP:5c8bdb89-116a-4d5d-9db1-9be443070380",
       "LPP:6459bd02-d8f8-413e-9402-10b916f09a4f"
@@ -34031,7 +34002,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_btcemporium_587",
+    "hub_id": "hub_btcemporium_586",
     "merged_stop_ids": [
       "LPP:5cc8a08d-c0af-491f-9a9c-b8b4f5f23bc0",
       "LPP:abc9fd26-5442-468b-93b6-4d5eb76d0f1f"
@@ -34204,7 +34175,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sneberska_482",
+    "hub_id": "hub_sneberska_481",
     "merged_stop_ids": [
       "LPP:1f207e67-adf9-4da6-b107-3b58051d9990",
       "LPP:5d91512b-af7f-4bbe-9dde-17f402fbf590"
@@ -34332,7 +34303,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potnarakovojelso_456",
+    "hub_id": "hub_potnarakovojelso_455",
     "merged_stop_ids": [
       "LPP:1505c6fe-6080-424e-98d1-24c312cfacf3",
       "LPP:5de6ff80-1352-43df-b5ec-1df59f2f492b"
@@ -34401,7 +34372,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_izanska_588",
+    "hub_id": "hub_izanska_587",
     "merged_stop_ids": [
       "LPP:5f2b93f1-7933-45ed-915c-4488ab8d81b7",
       "LPP:d2ff7ae5-59fc-4894-aa50-a7f16b5e3534"
@@ -34431,7 +34402,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_pance_534",
+    "hub_id": "hub_pance_533",
     "merged_stop_ids": [
       "LPP:406d6bb7-147c-4853-a917-e5c437b025e6",
       "LPP:5f6cb902-b824-4961-9ac2-75cf44a47055"
@@ -34506,7 +34477,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_snoj_584",
+    "hub_id": "hub_snoj_583",
     "merged_stop_ids": [
       "LPP:5b59d508-0860-4f50-b5ab-72a79046b488",
       "LPP:5fe363f3-8297-448b-bde3-08f690c92d1b"
@@ -34638,7 +34609,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bobrova_589",
+    "hub_id": "hub_bobrova_588",
     "merged_stop_ids": [
       "LPP:60d91c8b-d5a9-4ef4-927c-e241bc31f81a",
       "LPP:cd5497dc-20a4-40b3-9adf-b380de5d9f16"
@@ -34668,7 +34639,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hladilniska_570",
+    "hub_id": "hub_hladilniska_569",
     "merged_stop_ids": [
       "LPP:548dbdee-83b0-497b-acc1-e15b34899d42",
       "LPP:60edf514-fd83-400b-b86f-881f7eff258b"
@@ -34698,7 +34669,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_slovenijales_590",
+    "hub_id": "hub_slovenijales_589",
     "merged_stop_ids": [
       "LPP:61485a1f-73a8-4dac-bcc7-6e4e53eb4b0f",
       "LPP:aaedd82f-0c53-425d-92cf-96e50bd20518"
@@ -34801,7 +34772,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_trznicakoseze_464",
+    "hub_id": "hub_trznicakoseze_463",
     "merged_stop_ids": [
       "LPP:1632ee87-59dd-4367-bf10-9d13aa688e82",
       "LPP:61926b26-d777-483f-ae79-86766c48793b"
@@ -34831,7 +34802,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spar_591",
+    "hub_id": "hub_spar_590",
     "merged_stop_ids": [
       "LPP:61f19c68-2d5e-4d76-bdd4-28709a347b5b",
       "LPP:cb05ea76-5fc1-4162-b432-a914b63604d0"
@@ -34861,7 +34832,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_skofljicazaga_592",
+    "hub_id": "hub_skofljicazaga_591",
     "merged_stop_ids": [
       "LPP:62d0c5a7-1692-43ef-b6e2-31f514362629",
       "LPP:b2cf1f2c-3c77-4a23-891f-3cdbcda92f19"
@@ -34891,7 +34862,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tehnounion_557",
+    "hub_id": "hub_tehnounion_556",
     "merged_stop_ids": [
       "LPP:4c277b3f-c427-404b-ace3-2cd51656318f",
       "LPP:6330ad8d-b582-4c92-bc7e-d3f206264f04"
@@ -34929,7 +34900,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zmajskimost_593",
+    "hub_id": "hub_zmajskimost_592",
     "merged_stop_ids": [
       "LPP:639551cf-fe23-4363-8ccd-655bc5d4119e",
       "LPP:f073b9d9-a3e3-4d04-a209-0db55377b79e"
@@ -34963,7 +34934,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_7septembra_586",
+    "hub_id": "hub_7septembra_585",
     "merged_stop_ids": [
       "LPP:5c8bdb89-116a-4d5d-9db1-9be443070380",
       "LPP:6459bd02-d8f8-413e-9402-10b916f09a4f"
@@ -35001,7 +34972,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_krimska_512",
+    "hub_id": "hub_krimska_511",
     "merged_stop_ids": [
       "LPP:339ec74c-f45b-4f23-98b8-7ac67486ff6d",
       "LPP:64ea9f57-1f7f-465e-8721-55e26faee36a"
@@ -35039,7 +35010,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zdpolje_594",
+    "hub_id": "hub_zdpolje_593",
     "merged_stop_ids": [
       "LPP:6559d555-672b-4633-8a81-0ae68fb963eb",
       "LPP:fcccf4af-4f16-4edc-ba5a-585c434593fe"
@@ -35069,7 +35040,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vicglince_442",
+    "hub_id": "hub_vicglince_441",
     "merged_stop_ids": [
       "LPP:0e79ef8c-f692-4e29-a37e-4a81cbb3d410",
       "LPP:659ee31d-ae12-4498-8507-28579d322e32"
@@ -35103,7 +35074,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnicakamnolom_444",
+    "hub_id": "hub_besnicakamnolom_443",
     "merged_stop_ids": [
       "LPP:0fb83496-463c-4123-97c6-669efe614d26",
       "LPP:65a6b01d-c9cf-4d4e-930c-5562156d7375"
@@ -35133,7 +35104,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zadvor2_486",
+    "hub_id": "hub_zadvor2_485",
     "merged_stop_ids": [
       "LPP:2188a1bc-ce7a-4450-bd4f-871538578244",
       "LPP:65e92ecc-800d-4962-a8bc-0f50f1107a5b"
@@ -35163,7 +35134,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_poddebnimvrhom_595",
+    "hub_id": "hub_poddebnimvrhom_594",
     "merged_stop_ids": [
       "LPP:66012072-6b6b-4775-8001-0887d18e09a3",
       "LPP:ad8a76cf-4386-44b3-9156-490c502e4bc4"
@@ -35193,7 +35164,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_osmaksapecarja_596",
+    "hub_id": "hub_osmaksapecarja_595",
     "merged_stop_ids": [
       "LPP:666bd186-7a9a-4e20-a466-e7b1918dda9b",
       "LPP:b6816891-4b0d-4bda-8e12-176194efaefe"
@@ -35313,7 +35284,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_log_597",
+    "hub_id": "hub_log_596",
     "merged_stop_ids": [
       "LPP:66eec6a2-dfde-4d98-b690-e47f200367fd",
       "LPP:ef005e77-f3b8-4171-b681-1294d0e4732b"
@@ -35343,7 +35314,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lavrica_598",
+    "hub_id": "hub_lavrica_597",
     "merged_stop_ids": [
       "LPP:6739536d-b334-46c6-ae80-4890afac7985",
       "LPP:98f728a3-94a6-4911-98d7-64ab88097036"
@@ -35418,7 +35389,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jadranska_599",
+    "hub_id": "hub_jadranska_598",
     "merged_stop_ids": [
       "LPP:67d66d40-e8ba-4bc0-a9cf-814dce3ccbea",
       "LPP:889e3719-7d29-4888-b690-5a1531d2930e"
@@ -35460,7 +35431,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zalog_600",
+    "hub_id": "hub_zalog_599",
     "merged_stop_ids": [
       "LPP:68075aa0-144c-4f6e-93ef-e93dfc35df78"
     ],
@@ -35488,7 +35459,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestaxv_428",
+    "hub_id": "hub_cestaxv_427",
     "merged_stop_ids": [
       "LPP:07b4c585-66cf-49d7-906c-50f1122c8e9e",
       "LPP:6932c2e0-ff32-4170-b519-fba88e29c147"
@@ -35555,7 +35526,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_btcmerkur_443",
+    "hub_id": "hub_btcmerkur_442",
     "merged_stop_ids": [
       "LPP:0eca6015-5429-4289-a76c-4ec9ef707e67",
       "LPP:69f98a9c-d52d-423a-b44e-89b6320a7a88"
@@ -35585,7 +35556,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ziherlova_601",
+    "hub_id": "hub_ziherlova_600",
     "merged_stop_ids": [
       "LPP:6a0b25cc-428e-47b5-831a-e89facfa7f26",
       "LPP:b60d686c-3b89-447c-93f6-2837d9af3d02"
@@ -35664,7 +35635,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dolnice_602",
+    "hub_id": "hub_dolnice_601",
     "merged_stop_ids": [
       "LPP:6a774daa-3547-4128-b304-aa2d17d4391a",
       "LPP:98b60d07-8054-441a-be44-be7aa24f4253"
@@ -35747,7 +35718,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kpl_556",
+    "hub_id": "hub_kpl_555",
     "merged_stop_ids": [
       "LPP:4b456495-fb29-4ff3-b48b-4090bc51514e",
       "LPP:6afef238-01cd-4ad0-859d-2056b5d4a63f"
@@ -35781,7 +35752,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_janahusa_603",
+    "hub_id": "hub_janahusa_602",
     "merged_stop_ids": [
       "LPP:6bc92f4c-414c-456b-9150-d58a7689d26e",
       "LPP:f4e99ece-e89e-4322-80c6-5a91df65f64e"
@@ -35870,7 +35841,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zgornjilog_547",
+    "hub_id": "hub_zgornjilog_546",
     "merged_stop_ids": [
       "LPP:47283e27-c588-411c-9303-30a6f0beeaef",
       "LPP:6c56976b-4ae1-429f-bcab-0cfc37e3580d"
@@ -35900,7 +35871,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestanakope_604",
+    "hub_id": "hub_cestanakope_603",
     "merged_stop_ids": [
       "LPP:6d2a7c2e-5938-433e-a691-b9bc28767675",
       "LPP:d9df1ba3-6820-4fcb-b561-9cb7a60dd463"
@@ -35934,7 +35905,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_prezganje_605",
+    "hub_id": "hub_prezganje_604",
     "merged_stop_ids": [
       "LPP:6d344016-1b93-4ff7-80a8-8cde0b57bd1c",
       "LPP:eefb30b4-8049-4128-89f5-bb359b1c93b0"
@@ -35964,7 +35935,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hrusevska_606",
+    "hub_id": "hub_hrusevska_605",
     "merged_stop_ids": [
       "LPP:6e7cab20-d7e3-474f-9a5e-f1e0ca6fae53",
       "LPP:f66a1f18-4c18-4317-b929-fb616cc7cebc"
@@ -36002,7 +35973,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zadvor_607",
+    "hub_id": "hub_zadvor_606",
     "merged_stop_ids": [
       "LPP:6edebb46-d04f-45c4-99a4-100f7f0b2660",
       "LPP:d4c51b31-46fd-4da8-ba15-8068e666d483"
@@ -36141,7 +36112,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lavricaprimalci_555",
+    "hub_id": "hub_lavricaprimalci_554",
     "merged_stop_ids": [
       "LPP:4afd573d-abb7-4209-9b28-5c34811eb3ef",
       "LPP:70231f13-be88-4e3a-a89a-5b4f436984d2"
@@ -36175,7 +36146,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_volavlje_608",
+    "hub_id": "hub_volavlje_607",
     "merged_stop_ids": [
       "LPP:70bba1e8-3ea8-46fe-ace3-f75b04e37605",
       "LPP:a2b5023d-5ce8-420f-ad2a-b61c7a1902a8"
@@ -36205,7 +36176,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bilecanska_609",
+    "hub_id": "hub_bilecanska_608",
     "merged_stop_ids": [
       "LPP:70c51140-f3ee-4c89-a6e2-ed74dab89148",
       "LPP:eb669f04-cfb6-4ea4-90c9-26eb551ecb45"
@@ -36239,7 +36210,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_viadukt_610",
+    "hub_id": "hub_viadukt_609",
     "merged_stop_ids": [
       "LPP:712ee105-4fab-498a-af5c-496ca9830f5f",
       "LPP:abca05d4-c8f8-4627-9c08-ce8392c4dd72",
@@ -36322,7 +36293,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavgorice_485",
+    "hub_id": "hub_cestavgorice_484",
     "merged_stop_ids": [
       "LPP:216a26dc-11c2-432b-b099-0d55d508b7fa",
       "LPP:717c914e-f928-4671-95f6-26c1ddb95799"
@@ -36437,7 +36408,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_prezganjesola_611",
+    "hub_id": "hub_prezganjesola_610",
     "merged_stop_ids": [
       "LPP:7276f267-9837-4c56-aad3-f8cd555060da",
       "LPP:78ef8af0-fd16-46b8-a5de-8d24b99638c8"
@@ -36475,7 +36446,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stanezicepr_612",
+    "hub_id": "hub_stanezicepr_611",
     "merged_stop_ids": [
       "LPP:727cab27-5e8e-4c5e-ba27-449822a45ee7"
     ],
@@ -36503,7 +36474,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vic_495",
+    "hub_id": "hub_vic_494",
     "merged_stop_ids": [
       "LPP:25c85d19-456c-4188-b563-15ad467a54c7",
       "LPP:7294875b-8482-484a-b04d-95b921612001"
@@ -36533,7 +36504,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tomaziceva_416",
+    "hub_id": "hub_tomaziceva_415",
     "merged_stop_ids": [
       "LPP:022ef61f-a226-42e8-b11d-30cf9f9a6688",
       "LPP:72e6ae6e-bd4b-4946-a032-7ff9b8b41039"
@@ -36654,7 +36625,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tivoli_434",
+    "hub_id": "hub_tivoli_433",
     "merged_stop_ids": [
       "LPP:0b4a072e-6c2d-4c71-ab80-2b7142df81de",
       "LPP:7484317c-269f-425f-8118-23eedab4e5f1"
@@ -36684,7 +36655,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavzajcjodobravo_571",
+    "hub_id": "hub_cestavzajcjodobravo_570",
     "merged_stop_ids": [
       "LPP:5560d06d-4058-473e-abba-099b05d7cf07",
       "LPP:754e8f1f-a5ba-4281-8f31-fb3357744cd2"
@@ -36714,7 +36685,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_baron_613",
+    "hub_id": "hub_baron_612",
     "merged_stop_ids": [
       "LPP:7554bb81-1144-4263-999d-f6e358d808fe"
     ],
@@ -36742,7 +36713,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavbizovik_568",
+    "hub_id": "hub_cestavbizovik_567",
     "merged_stop_ids": [
       "LPP:52e5d1c1-28c9-4ed2-b0ec-5bf7311be753",
       "LPP:7558099b-08a3-43bc-8056-49bcc5900a03"
@@ -36784,7 +36755,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dmostpr_614",
+    "hub_id": "hub_dmostpr_613",
     "merged_stop_ids": [
       "LPP:769b7bc7-4f95-4bb2-9c99-37ba8e8b4bd5"
     ],
@@ -36820,7 +36791,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cstozicepr_615",
+    "hub_id": "hub_cstozicepr_614",
     "merged_stop_ids": [
       "LPP:76f20fbf-afc4-4c7d-b51c-14f0878b38d8"
     ],
@@ -36909,7 +36880,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sisenska_616",
+    "hub_id": "hub_sisenska_615",
     "merged_stop_ids": [
       "LPP:77dcd833-fa4d-4c5a-93b1-31284942e61d"
     ],
@@ -36941,7 +36912,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_boziceva_617",
+    "hub_id": "hub_boziceva_616",
     "merged_stop_ids": [
       "LPP:783196f2-97cd-4265-bb9a-b13aa8bb6a0b",
       "LPP:d98335a0-1291-4d4c-be62-16b11c356575"
@@ -36971,7 +36942,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dornig_618",
+    "hub_id": "hub_dornig_617",
     "merged_stop_ids": [
       "LPP:784bebe9-c0c7-46eb-943d-0b1808ffd5ac",
       "LPP:ba2b16a8-1273-45d2-8758-47b9694df9a6"
@@ -37046,7 +37017,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_omersova_619",
+    "hub_id": "hub_omersova_618",
     "merged_stop_ids": [
       "LPP:786a15d4-dd6b-42bb-a5c9-6ce994b5be9e",
       "LPP:e9382efd-d64d-46b0-9a7d-a4e6a0188725"
@@ -37080,7 +37051,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_prezganjesola_611",
+    "hub_id": "hub_prezganjesola_610",
     "merged_stop_ids": [
       "LPP:7276f267-9837-4c56-aad3-f8cd555060da",
       "LPP:78ef8af0-fd16-46b8-a5de-8d24b99638c8"
@@ -37159,7 +37130,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_murgle_620",
+    "hub_id": "hub_murgle_619",
     "merged_stop_ids": [
       "LPP:7962e05c-ad8c-43e4-9db4-4b90f0c94596",
       "LPP:f958cead-e4c3-4743-834d-46de4a06a8c9"
@@ -37193,7 +37164,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_osenjakova_580",
+    "hub_id": "hub_osenjakova_579",
     "merged_stop_ids": [
       "LPP:59d96e2c-3ee3-4581-840a-3ddaf0003743",
       "LPP:79a5bacd-8b59-4d83-99e8-26e3c5b1490b"
@@ -37272,7 +37243,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vecnapot_415",
+    "hub_id": "hub_vecnapot_414",
     "merged_stop_ids": [
       "LPP:01d1f388-d915-4e9f-bc3d-4432a73a216e",
       "LPP:7a256ec6-bb93-47eb-af92-ea62941c1dc6"
@@ -37359,7 +37330,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_nsrudnik_621",
+    "hub_id": "hub_nsrudnik_620",
     "merged_stop_ids": [
       "LPP:7ad25867-5c97-4f9f-9b1b-4966436f7fbf",
       "LPP:8fc42c89-96e2-4c69-a2b4-44d505f27ce9",
@@ -37440,7 +37411,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_javor2_622",
+    "hub_id": "hub_javor2_621",
     "merged_stop_ids": [
       "LPP:7add6fa5-bfd5-4d9c-841b-d9856088ede9",
       "LPP:7e0c8a32-21cb-46dc-8e50-9c4675dfa322"
@@ -37470,7 +37441,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_postadobrunje_623",
+    "hub_id": "hub_postadobrunje_622",
     "merged_stop_ids": [
       "LPP:7b41ca8e-2e41-4572-aa5c-1d80375e8835",
       "LPP:dadea785-0c6b-4054-9882-37227de3df4b"
@@ -37504,7 +37475,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_puhova_539",
+    "hub_id": "hub_puhova_538",
     "merged_stop_ids": [
       "LPP:441545fb-7a0c-4555-aea8-01cbe6c14ea3",
       "LPP:7b822496-7ea4-4ce8-b78c-1d021c68a9ed"
@@ -37648,7 +37619,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_petrol_624",
+    "hub_id": "hub_petrol_623",
     "merged_stop_ids": [
       "LPP:7c166e7c-6fe0-44bd-b124-0013473f227a",
       "LPP:fcc58ff5-bf0b-44ce-b12b-75ecc493f24d"
@@ -37678,7 +37649,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bizovik_625",
+    "hub_id": "hub_bizovik_624",
     "merged_stop_ids": [
       "LPP:7c37b809-4d6d-497c-a53d-38663e91c088",
       "LPP:f0661242-947b-4937-a9ce-d2a135cd62a7"
@@ -37753,7 +37724,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_javor2_622",
+    "hub_id": "hub_javor2_621",
     "merged_stop_ids": [
       "LPP:7add6fa5-bfd5-4d9c-841b-d9856088ede9",
       "LPP:7e0c8a32-21cb-46dc-8e50-9c4675dfa322"
@@ -37783,7 +37754,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_roziceva_626",
+    "hub_id": "hub_roziceva_625",
     "merged_stop_ids": [
       "LPP:7ea32e84-b8d9-498b-9f03-5a66990012b9",
       "LPP:e97befb6-5dc6-4603-ad5e-3aa96b4b2221"
@@ -37874,7 +37845,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zggameljne_627",
+    "hub_id": "hub_zggameljne_626",
     "merged_stop_ids": [
       "LPP:7f510cd8-4742-4dcf-95c0-16cde39c2e26",
       "LPP:ccd8a655-468b-4728-a26d-7981bbdd7dec"
@@ -37973,7 +37944,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_novejarsesm_470",
+    "hub_id": "hub_novejarsesm_469",
     "merged_stop_ids": [
       "LPP:19e820ad-e682-40fa-9b66-f7e222ddbd41",
       "LPP:7fad8003-fb10-489d-bf8d-6d433310ad90"
@@ -38003,7 +37974,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_barjepr_628",
+    "hub_id": "hub_barjepr_627",
     "merged_stop_ids": [
       "LPP:7fcb0952-c77f-44b5-adf3-0aa2a2b8550a"
     ],
@@ -38043,7 +38014,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stozice_505",
+    "hub_id": "hub_stozice_504",
     "merged_stop_ids": [
       "LPP:2ec182e2-769f-427f-b9b5-c4118890cb96",
       "LPP:7fdce743-a4be-44d7-8658-0a259a18ad30"
@@ -38129,7 +38100,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ossostro_447",
+    "hub_id": "hub_ossostro_446",
     "merged_stop_ids": [
       "LPP:1035c6f7-304e-4329-a3b2-4eb5d985a577",
       "LPP:80c65758-5f25-4003-8d55-10ff96fe8310"
@@ -38159,7 +38130,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kavciceva_629",
+    "hub_id": "hub_kavciceva_628",
     "merged_stop_ids": [
       "LPP:813b7c8c-5236-405a-bb0d-092a5d93c2a6",
       "LPP:cdee8be6-e02c-4fb5-9752-be1bac08d90d"
@@ -38189,7 +38160,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_slandrova_630",
+    "hub_id": "hub_slandrova_629",
     "merged_stop_ids": [
       "LPP:81b6f6ad-6dd6-4e3f-a0bd-754a65a3e57b",
       "LPP:c6c83930-96af-4cbe-93bf-072a618502a4"
@@ -38235,7 +38206,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stepanjavas_504",
+    "hub_id": "hub_stepanjavas_503",
     "merged_stop_ids": [
       "LPP:2e6c059c-0305-47bb-9ca8-00a2123039e9",
       "LPP:81f21fc1-3bd2-4d2a-b563-2d063479c68e",
@@ -38271,7 +38242,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_pohorskegabataljona_631",
+    "hub_id": "hub_pohorskegabataljona_630",
     "merged_stop_ids": [
       "LPP:824255dc-9be8-4f7b-9b69-2bd4e5a3fc27",
       "LPP:bb606ad8-8a10-4034-9862-60cc177d2455"
@@ -38350,7 +38321,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_smartno_632",
+    "hub_id": "hub_smartno_631",
     "merged_stop_ids": [
       "LPP:84578591-7543-4105-8465-9df30256360d",
       "LPP:ea91e672-f4a8-40cb-af62-214726551a93"
@@ -38436,7 +38407,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_drenikova_633",
+    "hub_id": "hub_drenikova_632",
     "merged_stop_ids": [
       "LPP:8561e9fb-03e0-46f1-802d-b376d26a8ea5",
       "LPP:8d775324-59ca-429e-ad7e-8d522c52dbdd"
@@ -38531,7 +38502,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stepanjavas_504",
+    "hub_id": "hub_stepanjavas_503",
     "merged_stop_ids": [
       "LPP:2e6c059c-0305-47bb-9ca8-00a2123039e9",
       "LPP:81f21fc1-3bd2-4d2a-b563-2d063479c68e",
@@ -38563,7 +38534,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_elma_426",
+    "hub_id": "hub_elma_425",
     "merged_stop_ids": [
       "LPP:075a6b29-66cb-409f-89fe-37d50669eff4",
       "LPP:862efb04-bcf5-493a-929d-242fb91ba5f6"
@@ -38597,7 +38568,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_glonarjeva_634",
+    "hub_id": "hub_glonarjeva_633",
     "merged_stop_ids": [
       "LPP:86303165-4af4-4fcd-b0f9-43ed865454f4",
       "LPP:ee837fd9-7a5c-4f14-bbd7-a46f14eb07c5"
@@ -38627,7 +38598,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podgrad_436",
+    "hub_id": "hub_podgrad_435",
     "merged_stop_ids": [
       "LPP:0b90d258-764d-4c06-aab0-7074dbd54182",
       "LPP:8648bfde-9b0f-4a64-aced-fe63aa923879"
@@ -38657,7 +38628,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vrhovci_635",
+    "hub_id": "hub_vrhovci_634",
     "merged_stop_ids": [
       "LPP:8677848c-55dd-4af4-b275-3074a3ff4846",
       "LPP:dac8d2a7-89e4-4aec-948d-00db4833ce7c"
@@ -38736,7 +38707,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_malilipoglav_636",
+    "hub_id": "hub_malilipoglav_635",
     "merged_stop_ids": [
       "LPP:87415b6b-7e7f-4b82-b78f-ef1a7db85282"
     ],
@@ -38772,7 +38743,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spodnjirudnik_441",
+    "hub_id": "hub_spodnjirudnik_440",
     "merged_stop_ids": [
       "LPP:0df2ffa6-b1c8-44d0-900c-8b23b37794df",
       "LPP:87785aa3-128e-4f15-82b0-d8c3cfa6076f"
@@ -38810,7 +38781,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jadranska_599",
+    "hub_id": "hub_jadranska_598",
     "merged_stop_ids": [
       "LPP:67d66d40-e8ba-4bc0-a9cf-814dce3ccbea",
       "LPP:889e3719-7d29-4888-b690-5a1531d2930e"
@@ -38848,7 +38819,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kajuhova_637",
+    "hub_id": "hub_kajuhova_636",
     "merged_stop_ids": [
       "LPP:88cdd36c-03d2-4374-a22f-110dd9f75ea0"
     ],
@@ -38876,7 +38847,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_viskopolje_533",
+    "hub_id": "hub_viskopolje_532",
     "merged_stop_ids": [
       "LPP:404f8444-540d-4d82-a355-30a6a8bec797",
       "LPP:896f7627-7c1c-4742-a40a-6aadb85fe206"
@@ -38906,7 +38877,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hlebs_638",
+    "hub_id": "hub_hlebs_637",
     "merged_stop_ids": [
       "LPP:8a182298-1db3-4251-9cdb-a86efe72b8a7",
       "LPP:d06c6c8a-c136-4b7a-9c13-b26ba0c04029"
@@ -38936,7 +38907,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zakrajskova_639",
+    "hub_id": "hub_zakrajskova_638",
     "merged_stop_ids": [
       "LPP:8a224b7d-24ae-4c7b-8318-f66ac8cc078b",
       "LPP:9b9d2948-7538-409c-9bfc-42c0b74c41a8"
@@ -38966,7 +38937,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spgameljne1_576",
+    "hub_id": "hub_spgameljne1_575",
     "merged_stop_ids": [
       "LPP:5881f75e-9383-49b0-811d-04c864ba1605",
       "LPP:8a5febd6-d44a-4c98-a221-46044548663d"
@@ -39008,7 +38979,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_poljanska_551",
+    "hub_id": "hub_poljanska_550",
     "merged_stop_ids": [
       "LPP:48e907fd-e868-47cd-8cac-74c7d4582944",
       "LPP:8c7fa045-888b-46d0-8189-6f82623bf481"
@@ -39038,7 +39009,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_primozevovinek_640",
+    "hub_id": "hub_primozevovinek_639",
     "merged_stop_ids": [
       "LPP:8d5e4aed-59fb-47c9-8559-5bf11b7ddca0",
       "LPP:da9650a3-6ec7-4cdb-95f2-a68851587dfc"
@@ -39068,7 +39039,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_drenikova_633",
+    "hub_id": "hub_drenikova_632",
     "merged_stop_ids": [
       "LPP:8561e9fb-03e0-46f1-802d-b376d26a8ea5",
       "LPP:8d775324-59ca-429e-ad7e-8d522c52dbdd"
@@ -39106,7 +39077,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mestnilog_487",
+    "hub_id": "hub_mestnilog_486",
     "merged_stop_ids": [
       "LPP:21a5f1e3-8ac0-4023-95ca-0a3ff54099aa",
       "LPP:8dde1a7b-e3ec-4675-8409-2a2c4ae696c7"
@@ -39136,7 +39107,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_capuder_641",
+    "hub_id": "hub_capuder_640",
     "merged_stop_ids": [
       "LPP:8e7a488b-cd48-4243-92b0-42792d0e3bc1",
       "LPP:f174a648-9e84-492d-9ccd-0756b49c773b"
@@ -39170,7 +39141,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zapuze_642",
+    "hub_id": "hub_zapuze_641",
     "merged_stop_ids": [
       "LPP:8eeea585-6168-45b8-a5d4-336e61826043",
       "LPP:95732ece-1658-4e11-9b5f-b6ae5552e638"
@@ -39265,7 +39236,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_samova_519",
+    "hub_id": "hub_samova_518",
     "merged_stop_ids": [
       "LPP:3866c761-7fa4-4a4a-b913-75569da498d9",
       "LPP:8f623f1d-48a7-46b5-9331-28a8dc980876"
@@ -39344,7 +39315,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_nsrudnik_621",
+    "hub_id": "hub_nsrudnik_620",
     "merged_stop_ids": [
       "LPP:7ad25867-5c97-4f9f-9b1b-4966436f7fbf",
       "LPP:8fc42c89-96e2-4c69-a2b4-44d505f27ce9",
@@ -39376,7 +39347,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mostovna_484",
+    "hub_id": "hub_mostovna_483",
     "merged_stop_ids": [
       "LPP:2073b288-02c2-4d7e-acf1-1a8d59fb2884",
       "LPP:91104c6d-6e35-40f2-a182-a082e5e83c10"
@@ -39406,7 +39377,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zidarjevec2_488",
+    "hub_id": "hub_zidarjevec2_487",
     "merged_stop_ids": [
       "LPP:21fba303-9465-42e6-8942-eaff85a2b40c",
       "LPP:91745353-dd19-49ee-beaf-332e546dcceb"
@@ -39477,7 +39448,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sostro_490",
+    "hub_id": "hub_sostro_489",
     "merged_stop_ids": [
       "LPP:2265e4de-a537-4f97-882b-c94c24aabfb0",
       "LPP:91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1",
@@ -39517,7 +39488,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gornjepoljane_424",
+    "hub_id": "hub_gornjepoljane_423",
     "merged_stop_ids": [
       "LPP:0614b134-0950-4f6b-bc8f-fb73a0881bc1",
       "LPP:923bd774-0651-4e0a-8624-3acfb7ecd5ff"
@@ -39592,7 +39563,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zelenigaj_569",
+    "hub_id": "hub_zelenigaj_568",
     "merged_stop_ids": [
       "LPP:538ab00b-ee39-44e8-b5a4-62c2c6215bf6",
       "LPP:92928953-a289-4a44-a653-b7b6b4f5e1c2"
@@ -39622,7 +39593,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rast_446",
+    "hub_id": "hub_rast_445",
     "merged_stop_ids": [
       "LPP:100da88e-4c5f-4188-bd11-d4f3fc80fb74",
       "LPP:930fed8f-1d4d-40c6-9a3b-53697263a0f2"
@@ -39652,7 +39623,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_najami_643",
+    "hub_id": "hub_najami_642",
     "merged_stop_ids": [
       "LPP:938c9405-72bb-4acd-bace-a75abcf2f9cb",
       "LPP:bd001f58-6e58-49e9-877f-1fa36964fbc2"
@@ -39682,7 +39653,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kalisnikovtrg_448",
+    "hub_id": "hub_kalisnikovtrg_447",
     "merged_stop_ids": [
       "LPP:1069d764-9345-425d-8c4d-12d6ffa1fde1",
       "LPP:93928408-7b36-41f9-9b62-fec53e14b4e2"
@@ -39716,7 +39687,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vodovodna_644",
+    "hub_id": "hub_vodovodna_643",
     "merged_stop_ids": [
       "LPP:94712446-2421-4304-b4f1-3b3f82998713",
       "LPP:f15ddf31-fc11-41ba-988d-376c83e38f58"
@@ -39754,7 +39725,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gerbiceva_645",
+    "hub_id": "hub_gerbiceva_644",
     "merged_stop_ids": [
       "LPP:94c6598b-7303-42e1-94d5-156d7a25f630",
       "LPP:d9a82add-03d0-47d8-9f35-117b7a5ded44"
@@ -39788,7 +39759,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zapuze_642",
+    "hub_id": "hub_zapuze_641",
     "merged_stop_ids": [
       "LPP:8eeea585-6168-45b8-a5d4-336e61826043",
       "LPP:95732ece-1658-4e11-9b5f-b6ae5552e638"
@@ -39826,7 +39797,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_starajezica_535",
+    "hub_id": "hub_starajezica_534",
     "merged_stop_ids": [
       "LPP:40fcc1b9-2c42-4db8-bd48-d431efc8a3fd",
       "LPP:9583dbdd-06fd-411e-88dd-af8f89e2caaa"
@@ -39884,7 +39855,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cukrarna_646",
+    "hub_id": "hub_cukrarna_645",
     "merged_stop_ids": [
       "LPP:95eee7e8-237d-4410-a9bf-00c6f88129c1",
       "LPP:9b0074d2-2c92-4c01-830b-00be8e05b412",
@@ -39965,7 +39936,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rakovnik_647",
+    "hub_id": "hub_rakovnik_646",
     "merged_stop_ids": [
       "LPP:9741988b-6723-480b-a419-8db7490d667a",
       "LPP:f2fc2702-e9da-4c36-b6fc-9f52199e4574"
@@ -39995,7 +39966,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potrdecegakriza_433",
+    "hub_id": "hub_potrdecegakriza_432",
     "merged_stop_ids": [
       "LPP:0a4b6359-22f0-4caa-b4a8-f4edb97a0825",
       "LPP:97627b9b-fa2e-461a-97ea-a15df7599598"
@@ -40070,7 +40041,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnicaambulanta_475",
+    "hub_id": "hub_besnicaambulanta_474",
     "merged_stop_ids": [
       "LPP:1b27d65a-1008-4bc9-928e-f6cb43b03804",
       "LPP:97d3e896-2af7-40f9-bfbf-59cf3fcbf93a"
@@ -40108,7 +40079,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_trata_648",
+    "hub_id": "hub_trata_647",
     "merged_stop_ids": [
       "LPP:9807573b-8821-40e4-b891-a5cea6e23b3d",
       "LPP:9f01f25f-9a5b-459a-96da-222ef81faf51"
@@ -40229,7 +40200,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dolnice_602",
+    "hub_id": "hub_dolnice_601",
     "merged_stop_ids": [
       "LPP:6a774daa-3547-4128-b304-aa2d17d4391a",
       "LPP:98b60d07-8054-441a-be44-be7aa24f4253"
@@ -40259,7 +40230,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lavrica_598",
+    "hub_id": "hub_lavrica_597",
     "merged_stop_ids": [
       "LPP:6739536d-b334-46c6-ae80-4890afac7985",
       "LPP:98f728a3-94a6-4911-98d7-64ab88097036"
@@ -40366,7 +40337,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kamnagorica_521",
+    "hub_id": "hub_kamnagorica_520",
     "merged_stop_ids": [
       "LPP:391bf42a-68a3-400a-baea-0c708f327325",
       "LPP:524d67dd-fbb0-4f6a-9199-f095123044ab",
@@ -40447,7 +40418,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavzavoglje_649",
+    "hub_id": "hub_cestavzavoglje_648",
     "merged_stop_ids": [
       "LPP:9a14b0ec-f13a-46f0-8c4f-07d8b99241e2",
       "LPP:bb995fbb-29c8-4035-9503-ae33320833a8"
@@ -40626,7 +40597,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sostro2_561",
+    "hub_id": "hub_sostro2_560",
     "merged_stop_ids": [
       "LPP:4e8ccfa1-b58c-4ee1-ad82-2e8a645071f3",
       "LPP:9ab2717b-1396-4885-bb5b-9857d7195d0d"
@@ -40688,7 +40659,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kinosiska_650",
+    "hub_id": "hub_kinosiska_649",
     "merged_stop_ids": [
       "LPP:9afb36ea-c2ae-4bbb-9644-3a6c65bb1c7d",
       "LPP:9cfac7e2-9653-4e52-a6d3-27756d27f817"
@@ -40746,7 +40717,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cukrarna_646",
+    "hub_id": "hub_cukrarna_645",
     "merged_stop_ids": [
       "LPP:95eee7e8-237d-4410-a9bf-00c6f88129c1",
       "LPP:9b0074d2-2c92-4c01-830b-00be8e05b412",
@@ -40778,7 +40749,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_pridogonivar_573",
+    "hub_id": "hub_pridogonivar_572",
     "merged_stop_ids": [
       "LPP:55e3f615-be6c-43f4-9858-e199862771a4",
       "LPP:9b4a7d21-709f-4462-b602-c77d975df9e7"
@@ -40824,7 +40795,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tavcarjeva_651",
+    "hub_id": "hub_tavcarjeva_650",
     "merged_stop_ids": [
       "LPP:9b85d4b0-c594-4e0e-9ce2-d0986256c270"
     ],
@@ -40852,7 +40823,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zakrajskova_639",
+    "hub_id": "hub_zakrajskova_638",
     "merged_stop_ids": [
       "LPP:8a224b7d-24ae-4c7b-8318-f66ac8cc078b",
       "LPP:9b9d2948-7538-409c-9bfc-42c0b74c41a8"
@@ -40931,7 +40902,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podmornica_500",
+    "hub_id": "hub_podmornica_499",
     "merged_stop_ids": [
       "LPP:28248670-5e08-4de2-8eab-e63933c0d61d",
       "LPP:9c17244c-0812-404b-b929-5cdc0591e421"
@@ -41010,7 +40981,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kroznapot_652",
+    "hub_id": "hub_kroznapot_651",
     "merged_stop_ids": [
       "LPP:9c57d59a-53f8-4a16-b279-2ab1745ea230",
       "LPP:a6b87518-2a7f-4505-898f-245ebe23c909"
@@ -41048,7 +41019,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rasica_653",
+    "hub_id": "hub_rasica_652",
     "merged_stop_ids": [
       "LPP:9cb18d2e-9bf3-436a-ab3a-7c52c5de1300",
       "LPP:a3aeed02-8e36-4cb0-bb08-25cc4afda164"
@@ -41155,7 +41126,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kinosiska_650",
+    "hub_id": "hub_kinosiska_649",
     "merged_stop_ids": [
       "LPP:9afb36ea-c2ae-4bbb-9644-3a6c65bb1c7d",
       "LPP:9cfac7e2-9653-4e52-a6d3-27756d27f817"
@@ -41197,7 +41168,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_smelt_543",
+    "hub_id": "hub_smelt_542",
     "merged_stop_ids": [
       "LPP:459f82d2-cbe4-414b-b66b-0b794ea958ed",
       "LPP:9dfc0a62-bf4d-4670-83d0-4e26a6e56b32"
@@ -41231,7 +41202,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_blazevo_654",
+    "hub_id": "hub_blazevo_653",
     "merged_stop_ids": [
       "LPP:9e0942f3-2c18-4891-9b51-9d95cc43af7a",
       "LPP:e0f10330-ad34-453d-baf4-d6c601cb6cf8"
@@ -41269,7 +41240,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vevce_655",
+    "hub_id": "hub_vevce_654",
     "merged_stop_ids": [
       "LPP:9e109242-5aad-4fb7-b0c8-576eef8aa4e0",
       "LPP:a4545f57-dab0-4ca0-9da3-5bc96d80f104"
@@ -41307,7 +41278,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_trata_648",
+    "hub_id": "hub_trata_647",
     "merged_stop_ids": [
       "LPP:9807573b-8821-40e4-b891-a5cea6e23b3d",
       "LPP:9f01f25f-9a5b-459a-96da-222ef81faf51"
@@ -41337,7 +41308,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_polanskova_508",
+    "hub_id": "hub_polanskova_507",
     "merged_stop_ids": [
       "LPP:311a0b74-0787-484b-b414-8adf1cd4cf58",
       "LPP:9fa0b90f-dba1-4eca-8802-589425d3e8fd"
@@ -41466,7 +41437,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_toplarna_523",
+    "hub_id": "hub_toplarna_522",
     "merged_stop_ids": [
       "LPP:39da4d26-2c37-40d9-ad9b-e8ccc0882d38",
       "LPP:a106730b-3562-40a7-874f-8334a6c4efb6"
@@ -41508,7 +41479,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tbilisijska_503",
+    "hub_id": "hub_tbilisijska_502",
     "merged_stop_ids": [
       "LPP:2d42d8e2-26a8-4a74-809c-f436d05c8a54",
       "LPP:35dbaf26-2fa4-45c4-87fc-81d1ff13b005",
@@ -41554,7 +41525,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_agrokombinatska_459",
+    "hub_id": "hub_agrokombinatska_458",
     "merged_stop_ids": [
       "LPP:156a6f62-9a67-4cf0-ad56-85a343c77cd2",
       "LPP:24ab9d18-4fb9-4e7e-b48c-d5cdc9cd1305",
@@ -41588,7 +41559,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bolnicapdrzaja_583",
+    "hub_id": "hub_bolnicapdrzaja_582",
     "merged_stop_ids": [
       "LPP:5b184752-5bd2-43e3-9243-dfc8969d9065",
       "LPP:a1406782-3114-407c-8e35-35bcf5a1234b"
@@ -41618,7 +41589,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jurecic_540",
+    "hub_id": "hub_jurecic_539",
     "merged_stop_ids": [
       "LPP:447a37f6-2be6-45a3-8ae0-6982aa53cafb",
       "LPP:a26d9a94-effb-45ab-a27f-74076e9e5bdd"
@@ -41648,7 +41619,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tinck_656",
+    "hub_id": "hub_tinck_655",
     "merged_stop_ids": [
       "LPP:a2947722-2e6f-48dd-9c31-ff36356676fa",
       "LPP:bfcba499-ce46-41b0-8268-966d74eccb20"
@@ -41682,7 +41653,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_volavlje_608",
+    "hub_id": "hub_volavlje_607",
     "merged_stop_ids": [
       "LPP:70bba1e8-3ea8-46fe-ace3-f75b04e37605",
       "LPP:a2b5023d-5ce8-420f-ad2a-b61c7a1902a8"
@@ -41769,7 +41740,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zgbesnica_657",
+    "hub_id": "hub_zgbesnica_656",
     "merged_stop_ids": [
       "LPP:a33e6b1f-de56-43aa-9a52-f7064636ab79",
       "LPP:cecad767-51e5-4683-bf56-e6e342f8d1e0"
@@ -41880,7 +41851,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rasica_653",
+    "hub_id": "hub_rasica_652",
     "merged_stop_ids": [
       "LPP:9cb18d2e-9bf3-436a-ab3a-7c52c5de1300",
       "LPP:a3aeed02-8e36-4cb0-bb08-25cc4afda164"
@@ -41914,7 +41885,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_smrekarjevo_658",
+    "hub_id": "hub_smrekarjevo_657",
     "merged_stop_ids": [
       "LPP:a41f5786-6b70-4224-bcde-e6fbaac4c21b",
       "LPP:d4d4230a-5247-4071-baa4-463321d9d934"
@@ -41952,7 +41923,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vevce_655",
+    "hub_id": "hub_vevce_654",
     "merged_stop_ids": [
       "LPP:9e109242-5aad-4fb7-b0c8-576eef8aa4e0",
       "LPP:a4545f57-dab0-4ca0-9da3-5bc96d80f104"
@@ -41982,7 +41953,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jurckova_659",
+    "hub_id": "hub_jurckova_658",
     "merged_stop_ids": [
       "LPP:a52cd7ac-c11e-4c8b-94a5-1a12b32595da",
       "LPP:e333d90d-3eef-4d82-9e00-ebe693e2f389"
@@ -42012,7 +41983,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sadinjavas_499",
+    "hub_id": "hub_sadinjavas_498",
     "merged_stop_ids": [
       "LPP:278a9d60-64c7-4bfa-aad0-24068aa760af",
       "LPP:a5eb15d2-f0cb-46a6-b888-6a9aad6bc5b6"
@@ -42042,7 +42013,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kroznapot_652",
+    "hub_id": "hub_kroznapot_651",
     "merged_stop_ids": [
       "LPP:9c57d59a-53f8-4a16-b279-2ab1745ea230",
       "LPP:a6b87518-2a7f-4505-898f-245ebe23c909"
@@ -42221,7 +42192,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cerinova_414",
+    "hub_id": "hub_cerinova_413",
     "merged_stop_ids": [
       "LPP:010c271e-49ca-45a5-91ac-8ba8d41ee7f3",
       "LPP:a769d1e9-8727-4190-b56c-5cdd8a49333d"
@@ -42255,7 +42226,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rogovilc_579",
+    "hub_id": "hub_rogovilc_578",
     "merged_stop_ids": [
       "LPP:592b37eb-8255-4758-ae8a-7cef98521013",
       "LPP:a7af0c5d-2297-40e2-a6e0-506f6aadba0a"
@@ -42285,7 +42256,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cebelarska_548",
+    "hub_id": "hub_cebelarska_547",
     "merged_stop_ids": [
       "LPP:476b2caa-710a-47fe-9743-4d75d7ada5fb",
       "LPP:a9473958-e505-4c16-8498-486b06a47856"
@@ -42315,7 +42286,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lutkovnogl_660",
+    "hub_id": "hub_lutkovnogl_659",
     "merged_stop_ids": [
       "LPP:a9796806-8cd3-4b76-bf8c-4340aec35c9e",
       "LPP:b829062a-2644-4350-b998-74522d9e85d8"
@@ -42345,7 +42316,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podurhom_661",
+    "hub_id": "hub_podurhom_660",
     "merged_stop_ids": [
       "LPP:aa113271-655f-423f-ad7e-4cfaba2eb739",
       "LPP:cc9cbd94-6da7-41ff-a728-cfd4b47dfcc0"
@@ -42375,7 +42346,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podmilscakova_662",
+    "hub_id": "hub_podmilscakova_661",
     "merged_stop_ids": [
       "LPP:aa31554f-8623-42db-aedd-ad9a8f562e4c",
       "LPP:cdbafa76-fd1b-45e0-bbd6-d6c1c6a141f9"
@@ -42405,7 +42376,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dobrunje2_463",
+    "hub_id": "hub_dobrunje2_462",
     "merged_stop_ids": [
       "LPP:15eaf9b9-db6d-4586-9ad2-5bfa99719bfd",
       "LPP:aa3ce006-1975-496a-abc6-a98ec5e87652"
@@ -42455,7 +42426,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ambrozevtrg_417",
+    "hub_id": "hub_ambrozevtrg_416",
     "merged_stop_ids": [
       "LPP:023d7b7a-b411-4e61-8746-b07f9e5c8f90",
       "LPP:aa42017d-812a-4175-bc9b-0fec03b18931"
@@ -42485,7 +42456,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_slovenijales_590",
+    "hub_id": "hub_slovenijales_589",
     "merged_stop_ids": [
       "LPP:61485a1f-73a8-4dac-bcc7-6e4e53eb4b0f",
       "LPP:aaedd82f-0c53-425d-92cf-96e50bd20518"
@@ -42515,7 +42486,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bratislavska_522",
+    "hub_id": "hub_bratislavska_521",
     "merged_stop_ids": [
       "LPP:392949a1-1ada-4196-9073-6f392638ca49",
       "LPP:ab4e1412-1ac4-4864-8833-c1ddf48bec20"
@@ -42549,7 +42520,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_btcemporium_587",
+    "hub_id": "hub_btcemporium_586",
     "merged_stop_ids": [
       "LPP:5cc8a08d-c0af-491f-9a9c-b8b4f5f23bc0",
       "LPP:abc9fd26-5442-468b-93b6-4d5eb76d0f1f"
@@ -42583,7 +42554,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_viadukt_610",
+    "hub_id": "hub_viadukt_609",
     "merged_stop_ids": [
       "LPP:712ee105-4fab-498a-af5c-496ca9830f5f",
       "LPP:abca05d4-c8f8-4627-9c08-ce8392c4dd72",
@@ -42672,7 +42643,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_poddebnimvrhom_595",
+    "hub_id": "hub_poddebnimvrhom_594",
     "merged_stop_ids": [
       "LPP:66012072-6b6b-4775-8001-0887d18e09a3",
       "LPP:ad8a76cf-4386-44b3-9156-490c502e4bc4"
@@ -42702,7 +42673,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podroznikom_528",
+    "hub_id": "hub_podroznikom_527",
     "merged_stop_ids": [
       "LPP:3d8122ff-0840-4811-a5ad-c4702fc70269",
       "LPP:ad966374-a37d-443a-9a3e-ec85ca28231f"
@@ -42732,7 +42703,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spgameljne3_663",
+    "hub_id": "hub_spgameljne3_662",
     "merged_stop_ids": [
       "LPP:ae3f312a-4242-4a42-8df2-5990505a7747",
       "LPP:d9224caa-d582-4152-88e0-be720677fe16"
@@ -42762,7 +42733,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_opekarska_664",
+    "hub_id": "hub_opekarska_663",
     "merged_stop_ids": [
       "LPP:aee8e842-6083-48a7-b14f-cc3d112537bb",
       "LPP:b0b32562-f5dc-4183-abba-5729adf98088"
@@ -42837,7 +42808,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_opekarska_664",
+    "hub_id": "hub_opekarska_663",
     "merged_stop_ids": [
       "LPP:aee8e842-6083-48a7-b14f-cc3d112537bb",
       "LPP:b0b32562-f5dc-4183-abba-5729adf98088"
@@ -42867,7 +42838,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lipe_665",
+    "hub_id": "hub_lipe_664",
     "merged_stop_ids": [
       "LPP:b0d473cd-f35e-4a30-8d0d-70f16b92e8e8",
       "LPP:e9035f9a-28be-450a-a30c-7178134ff26b"
@@ -42897,7 +42868,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_skofljicazaga_592",
+    "hub_id": "hub_skofljicazaga_591",
     "merged_stop_ids": [
       "LPP:62d0c5a7-1692-43ef-b6e2-31f514362629",
       "LPP:b2cf1f2c-3c77-4a23-891f-3cdbcda92f19"
@@ -42927,7 +42898,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podpec1_509",
+    "hub_id": "hub_podpec1_508",
     "merged_stop_ids": [
       "LPP:32abc648-685c-47b0-bbc4-203371ec2699",
       "LPP:b4634750-8d91-4625-b40d-1da9665e70f6"
@@ -42957,7 +42928,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_trbeze_510",
+    "hub_id": "hub_trbeze_509",
     "merged_stop_ids": [
       "LPP:32ff2d5b-61ae-415b-941b-aeb1be1b5052",
       "LPP:b4766c35-4ab9-4af3-aa76-1b1f40735685"
@@ -43056,7 +43027,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_glince_666",
+    "hub_id": "hub_glince_665",
     "merged_stop_ids": [
       "LPP:b4ffcb65-e60f-478d-806b-e7ae83f1a39d"
     ],
@@ -43084,7 +43055,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ikobilca_667",
+    "hub_id": "hub_ikobilca_666",
     "merged_stop_ids": [
       "LPP:b5273abc-dfeb-49a2-9607-249bf6415e4b",
       "LPP:edc8bf1d-d4f1-4c5b-8112-e4fa71a02bae"
@@ -43114,7 +43085,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potvsmrecje_668",
+    "hub_id": "hub_potvsmrecje_667",
     "merged_stop_ids": [
       "LPP:b5400e28-b0c3-4a02-9da2-084c465bd1d3",
       "LPP:c5527a65-5265-43de-b703-7c7d494d190c"
@@ -43144,7 +43115,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_galjevica_669",
+    "hub_id": "hub_galjevica_668",
     "merged_stop_ids": [
       "LPP:b56664c0-1dc1-42c5-b10b-52c3fb0dd042",
       "LPP:db046e79-c658-433c-8812-157fd965a9f6"
@@ -43182,7 +43153,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bratovucakar_563",
+    "hub_id": "hub_bratovucakar_562",
     "merged_stop_ids": [
       "LPP:4f21a18a-3cb0-4c6c-bb92-e7c8945fac1c",
       "LPP:b589ddd3-5a31-4fe1-915f-44347b4c0a1a"
@@ -43260,7 +43231,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bratovbabnik_457",
+    "hub_id": "hub_bratovbabnik_456",
     "merged_stop_ids": [
       "LPP:1536cb2e-acd3-49cb-8f06-bb8cd40c0c02",
       "LPP:b5e26d7f-8a91-4360-9811-2e8e05d27382"
@@ -43290,7 +43261,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ziherlova_601",
+    "hub_id": "hub_ziherlova_600",
     "merged_stop_ids": [
       "LPP:6a0b25cc-428e-47b5-831a-e89facfa7f26",
       "LPP:b60d686c-3b89-447c-93f6-2837d9af3d02"
@@ -43320,7 +43291,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_osmaksapecarja_596",
+    "hub_id": "hub_osmaksapecarja_595",
     "merged_stop_ids": [
       "LPP:666bd186-7a9a-4e20-a466-e7b1918dda9b",
       "LPP:b6816891-4b0d-4bda-8e12-176194efaefe"
@@ -43358,7 +43329,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_koprska_670",
+    "hub_id": "hub_koprska_669",
     "merged_stop_ids": [
       "LPP:b7834e14-7e86-4df5-83ce-006c93c31c00",
       "LPP:e3b51371-e289-45ef-83ca-1f4ffff25162"
@@ -43388,7 +43359,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_crnilog_671",
+    "hub_id": "hub_crnilog_670",
     "merged_stop_ids": [
       "LPP:b7b7ac00-59bb-41eb-833d-ad309d24e68a"
     ],
@@ -43416,7 +43387,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lutkovnogl_660",
+    "hub_id": "hub_lutkovnogl_659",
     "merged_stop_ids": [
       "LPP:a9796806-8cd3-4b76-bf8c-4340aec35c9e",
       "LPP:b829062a-2644-4350-b998-74522d9e85d8"
@@ -43552,7 +43523,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zivalskivrtzoo_672",
+    "hub_id": "hub_zivalskivrtzoo_671",
     "merged_stop_ids": [
       "LPP:b91edda3-a147-4599-bebf-85e145de085b",
       "LPP:bc19ad1c-00fc-47f1-926e-ddeb12f686ba"
@@ -43582,7 +43553,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dornig_618",
+    "hub_id": "hub_dornig_617",
     "merged_stop_ids": [
       "LPP:784bebe9-c0c7-46eb-943d-0b1808ffd5ac",
       "LPP:ba2b16a8-1273-45d2-8758-47b9694df9a6"
@@ -43612,7 +43583,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_golouhova_465",
+    "hub_id": "hub_golouhova_464",
     "merged_stop_ids": [
       "LPP:163da3ae-0ab9-480e-b72d-16357e0a9061",
       "LPP:ba59baf4-dd00-40a5-80e7-3eee6b9d8b09"
@@ -43642,7 +43613,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_plesiceva_673",
+    "hub_id": "hub_plesiceva_672",
     "merged_stop_ids": [
       "LPP:ba681dbc-ea72-4685-ad98-c5ed496510e6",
       "LPP:d5735919-60bb-4720-a695-9f5155a4f109"
@@ -43680,7 +43651,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kriziscesostro_474",
+    "hub_id": "hub_kriziscesostro_473",
     "merged_stop_ids": [
       "LPP:1b0f629f-acdb-4e94-8c54-018f4334ebf7",
       "LPP:24df120e-0d0c-4353-8dda-c7ef0dc3dd5c",
@@ -43788,7 +43759,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestanavrhovce_674",
+    "hub_id": "hub_cestanavrhovce_673",
     "merged_stop_ids": [
       "LPP:bb1ac8b9-5cb2-49f2-8d5c-d7fe4afdd5dd",
       "LPP:d9df365b-7e54-4d22-b2e9-3b548d48ad59"
@@ -43822,7 +43793,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_pohorskegabataljona_631",
+    "hub_id": "hub_pohorskegabataljona_630",
     "merged_stop_ids": [
       "LPP:824255dc-9be8-4f7b-9b69-2bd4e5a3fc27",
       "LPP:bb606ad8-8a10-4034-9862-60cc177d2455"
@@ -43860,7 +43831,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavzavoglje_649",
+    "hub_id": "hub_cestavzavoglje_648",
     "merged_stop_ids": [
       "LPP:9a14b0ec-f13a-46f0-8c4f-07d8b99241e2",
       "LPP:bb995fbb-29c8-4035-9503-ae33320833a8"
@@ -43890,7 +43861,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_btctrznica_675",
+    "hub_id": "hub_btctrznica_674",
     "merged_stop_ids": [
       "LPP:bbe542ee-a3f6-43cf-b23a-077c28b7d19a",
       "LPP:d50b2bdb-481b-4e58-ada6-47a028fc6382"
@@ -43924,7 +43895,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_maroltova_676",
+    "hub_id": "hub_maroltova_675",
     "merged_stop_ids": [
       "LPP:bbfc6d44-94da-4cfd-b22a-368a2b11ce20",
       "LPP:e78f256e-7218-4263-87b9-255bd90c9f49"
@@ -43958,7 +43929,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zivalskivrtzoo_672",
+    "hub_id": "hub_zivalskivrtzoo_671",
     "merged_stop_ids": [
       "LPP:b91edda3-a147-4599-bebf-85e145de085b",
       "LPP:bc19ad1c-00fc-47f1-926e-ddeb12f686ba"
@@ -43988,7 +43959,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sneberje_677",
+    "hub_id": "hub_sneberje_676",
     "merged_stop_ids": [
       "LPP:bc66f88b-1412-44cb-b921-030d27335261",
       "LPP:f4c5028b-48a4-4d0e-a91c-81a858923ddd"
@@ -44018,7 +43989,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_najami_643",
+    "hub_id": "hub_najami_642",
     "merged_stop_ids": [
       "LPP:938c9405-72bb-4acd-bace-a75abcf2f9cb",
       "LPP:bd001f58-6e58-49e9-877f-1fa36964fbc2"
@@ -44093,7 +44064,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_savskonaselje_678",
+    "hub_id": "hub_savskonaselje_677",
     "merged_stop_ids": [
       "LPP:bd1a0fbd-1593-4552-a76f-681c59333d6b",
       "LPP:cbf8e64b-fd0d-48ec-8fb1-03b298cc13b3"
@@ -44123,7 +44094,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ljubljanskebrigade_679",
+    "hub_id": "hub_ljubljanskebrigade_678",
     "merged_stop_ids": [
       "LPP:bd6d732b-65aa-4b59-be82-6ce1301e70d5",
       "LPP:d83ec579-9ab5-4e30-bedd-86613c234abd"
@@ -44153,7 +44124,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kozler_529",
+    "hub_id": "hub_kozler_528",
     "merged_stop_ids": [
       "LPP:3f01eb40-651e-4fad-aff9-2ee27f259f64",
       "LPP:bdd68b01-e9a1-4270-be50-8b5c7bd39a1c"
@@ -44299,7 +44270,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_brinje_680",
+    "hub_id": "hub_brinje_679",
     "merged_stop_ids": [
       "LPP:befe0e87-b5fe-41ff-9a77-f65461eff28d",
       "LPP:d7384760-d854-492d-87af-f342cab37fc1"
@@ -44337,7 +44308,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stepanjskonas_565",
+    "hub_id": "hub_stepanjskonas_564",
     "merged_stop_ids": [
       "LPP:505865ea-cdea-4042-bdb2-b2f4f03889cb",
       "LPP:bf64b499-211b-4da8-ace2-f12a17608ae3"
@@ -44367,7 +44338,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tinck_656",
+    "hub_id": "hub_tinck_655",
     "merged_stop_ids": [
       "LPP:a2947722-2e6f-48dd-9c31-ff36356676fa",
       "LPP:bfcba499-ce46-41b0-8268-966d74eccb20"
@@ -44446,7 +44417,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_amzs_681",
+    "hub_id": "hub_amzs_680",
     "merged_stop_ids": [
       "LPP:c0e6a237-3879-4336-88b6-5af51408cc7e",
       "LPP:cee2862b-9b70-4880-8fa3-16c6d2efae1b"
@@ -44564,7 +44535,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_nusdorferjeva_467",
+    "hub_id": "hub_nusdorferjeva_466",
     "merged_stop_ids": [
       "LPP:17f7d178-41b3-41f9-a545-cbfc22a0a5f1",
       "LPP:c124f317-217b-4b89-9597-393843de4f81"
@@ -44594,7 +44565,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tovarnalek_439",
+    "hub_id": "hub_tovarnalek_438",
     "merged_stop_ids": [
       "LPP:0c5f69a6-97c7-4053-bc0b-3f09dbf72f46",
       "LPP:c15a2be8-fc53-427d-9cc6-a50bb305f68d"
@@ -44632,7 +44603,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rudnik_468",
+    "hub_id": "hub_rudnik_467",
     "merged_stop_ids": [
       "LPP:1907a46a-4559-43ec-8363-03fe35d30725",
       "LPP:5764ff17-c787-4918-b7bd-a2ed9c6d7dd1",
@@ -44712,7 +44683,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zelenajama_682",
+    "hub_id": "hub_zelenajama_681",
     "merged_stop_ids": [
       "LPP:c2827897-b9fe-4bfc-b4ed-880f11a2359e"
     ],
@@ -44781,7 +44752,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zatravniki_683",
+    "hub_id": "hub_zatravniki_682",
     "merged_stop_ids": [
       "LPP:c3188d8e-c2d3-40e5-acc2-14bef70a5ff4",
       "LPP:eee355cc-98a1-4f25-8bf9-0100856eda6e"
@@ -44811,7 +44782,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_selo_684",
+    "hub_id": "hub_selo_683",
     "merged_stop_ids": [
       "LPP:c31b32c6-1ec2-48e9-9929-356fd0253540",
       "LPP:fd0e405e-d5e5-45fc-8911-e48a178ad4a9"
@@ -44895,7 +44866,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_nstozicepr_685",
+    "hub_id": "hub_nstozicepr_684",
     "merged_stop_ids": [
       "LPP:c32ef99a-6752-47fe-94eb-a5134c7110af"
     ],
@@ -44923,7 +44894,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_parkvarnemobilnosti_686",
+    "hub_id": "hub_parkvarnemobilnosti_685",
     "merged_stop_ids": [
       "LPP:c3534bc6-7bfd-43be-b46a-2b0fced57ab8",
       "LPP:ea80411c-360d-4a33-861c-6533a1d67eef"
@@ -44953,7 +44924,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potvsmrecje_668",
+    "hub_id": "hub_potvsmrecje_667",
     "merged_stop_ids": [
       "LPP:b5400e28-b0c3-4a02-9da2-084c465bd1d3",
       "LPP:c5527a65-5265-43de-b703-7c7d494d190c"
@@ -44983,7 +44954,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jamnikarjeva_538",
+    "hub_id": "hub_jamnikarjeva_537",
     "merged_stop_ids": [
       "LPP:43e01b7e-be2c-4282-be1b-9f628ca67327",
       "LPP:c568fe2e-477f-4af2-ad68-cb8111f361d0"
@@ -45074,7 +45045,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gameljne_687",
+    "hub_id": "hub_gameljne_686",
     "merged_stop_ids": [
       "LPP:c627c9f2-af02-4d83-969a-566719bb09e3"
     ],
@@ -45102,7 +45073,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_slandrova_630",
+    "hub_id": "hub_slandrova_629",
     "merged_stop_ids": [
       "LPP:81b6f6ad-6dd6-4e3f-a0bd-754a65a3e57b",
       "LPP:c6c83930-96af-4cbe-93bf-072a618502a4"
@@ -45132,7 +45103,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_parmova_449",
+    "hub_id": "hub_parmova_448",
     "merged_stop_ids": [
       "LPP:106bdc28-f0fe-4f13-b4ad-6c6a630550b5",
       "LPP:c6eab761-36e0-4bf8-88ed-48e594ed375b"
@@ -45162,7 +45133,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_przanec_688",
+    "hub_id": "hub_przanec_687",
     "merged_stop_ids": [
       "LPP:c70ad4c4-6c37-4f31-83aa-921dc8bc15a4",
       "LPP:d4c25d68-c340-431b-a646-7680fe0cefee"
@@ -45192,7 +45163,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mihovstradon_553",
+    "hub_id": "hub_mihovstradon_552",
     "merged_stop_ids": [
       "LPP:4a95f1f8-a457-4dcf-bd1f-6307d4300ea0",
       "LPP:c86d5f37-52ee-4e3a-99b5-b9554118c4d5"
@@ -45375,7 +45346,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_strelisce_689",
+    "hub_id": "hub_strelisce_688",
     "merged_stop_ids": [
       "LPP:c8e0086c-0cef-4375-a471-72f3ae1e34fc",
       "LPP:e7789f42-0ad7-44d1-974b-42a3f4957291"
@@ -45405,7 +45376,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_nsrudnik_621",
+    "hub_id": "hub_nsrudnik_620",
     "merged_stop_ids": [
       "LPP:7ad25867-5c97-4f9f-9b1b-4966436f7fbf",
       "LPP:8fc42c89-96e2-4c69-a2b4-44d505f27ce9",
@@ -45482,7 +45453,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_krziceva_690",
+    "hub_id": "hub_krziceva_689",
     "merged_stop_ids": [
       "LPP:c9b2488c-cca9-4b84-83cb-638ef545c851"
     ],
@@ -45510,7 +45481,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_skofljicaobrac_691",
+    "hub_id": "hub_skofljicaobrac_690",
     "merged_stop_ids": [
       "LPP:ca8cbe57-95dc-4326-9c06-b60a87b981b1"
     ],
@@ -45538,7 +45509,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podhribom_552",
+    "hub_id": "hub_podhribom_551",
     "merged_stop_ids": [
       "LPP:4a90e424-11ab-43a8-b7e9-1c4f42fe2b7c",
       "LPP:caac4c1a-13e4-4afa-b467-65d90a8fbd44"
@@ -45572,7 +45543,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hrvatskitrg_572",
+    "hub_id": "hub_hrvatskitrg_571",
     "merged_stop_ids": [
       "LPP:557f714a-6f4a-4c98-8c5a-d74fa34b2adb",
       "LPP:cab36767-e95a-4f60-978e-92490f2517b2"
@@ -45639,7 +45610,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spar_591",
+    "hub_id": "hub_spar_590",
     "merged_stop_ids": [
       "LPP:61f19c68-2d5e-4d76-bdd4-28709a347b5b",
       "LPP:cb05ea76-5fc1-4162-b432-a914b63604d0"
@@ -45669,7 +45640,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_savskonaselje_678",
+    "hub_id": "hub_savskonaselje_677",
     "merged_stop_ids": [
       "LPP:bd1a0fbd-1593-4552-a76f-681c59333d6b",
       "LPP:cbf8e64b-fd0d-48ec-8fb1-03b298cc13b3"
@@ -45699,7 +45670,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podurhom_661",
+    "hub_id": "hub_podurhom_660",
     "merged_stop_ids": [
       "LPP:aa113271-655f-423f-ad7e-4cfaba2eb739",
       "LPP:cc9cbd94-6da7-41ff-a728-cfd4b47dfcc0"
@@ -45737,7 +45708,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zggameljne_627",
+    "hub_id": "hub_zggameljne_626",
     "merged_stop_ids": [
       "LPP:7f510cd8-4742-4dcf-95c0-16cde39c2e26",
       "LPP:ccd8a655-468b-4728-a26d-7981bbdd7dec"
@@ -45804,7 +45775,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bobrova_589",
+    "hub_id": "hub_bobrova_588",
     "merged_stop_ids": [
       "LPP:60d91c8b-d5a9-4ef4-927c-e241bc31f81a",
       "LPP:cd5497dc-20a4-40b3-9adf-b380de5d9f16"
@@ -45911,7 +45882,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podmilscakova_662",
+    "hub_id": "hub_podmilscakova_661",
     "merged_stop_ids": [
       "LPP:aa31554f-8623-42db-aedd-ad9a8f562e4c",
       "LPP:cdbafa76-fd1b-45e0-bbd6-d6c1c6a141f9"
@@ -45945,7 +45916,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_yulon_558",
+    "hub_id": "hub_yulon_557",
     "merged_stop_ids": [
       "LPP:4ca7ae7e-380b-45e3-81de-00ffab5bb531",
       "LPP:cddb3822-7daf-4cae-9cc3-6b191e81326b"
@@ -45975,7 +45946,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kavciceva_629",
+    "hub_id": "hub_kavciceva_628",
     "merged_stop_ids": [
       "LPP:813b7c8c-5236-405a-bb0d-092a5d93c2a6",
       "LPP:cdee8be6-e02c-4fb5-9752-be1bac08d90d"
@@ -46009,7 +45980,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zgbesnica_657",
+    "hub_id": "hub_zgbesnica_656",
     "merged_stop_ids": [
       "LPP:a33e6b1f-de56-43aa-9a52-f7064636ab79",
       "LPP:cecad767-51e5-4683-bf56-e6e342f8d1e0"
@@ -46051,7 +46022,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_amzs_681",
+    "hub_id": "hub_amzs_680",
     "merged_stop_ids": [
       "LPP:c0e6a237-3879-4336-88b6-5af51408cc7e",
       "LPP:cee2862b-9b70-4880-8fa3-16c6d2efae1b"
@@ -46089,7 +46060,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zito_581",
+    "hub_id": "hub_zito_580",
     "merged_stop_ids": [
       "LPP:59faa0f0-34b1-47cd-ba3a-3b6f0d684c00",
       "LPP:cf6f67f5-f7df-4462-828b-481134217fad"
@@ -46123,7 +46094,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lanisce_420",
+    "hub_id": "hub_lanisce_419",
     "merged_stop_ids": [
       "LPP:0334e79e-7a89-44e9-a463-5af813e64a40",
       "LPP:cf94d70f-d211-4625-9037-014514562aa9"
@@ -46157,7 +46128,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_viadukt_610",
+    "hub_id": "hub_viadukt_609",
     "merged_stop_ids": [
       "LPP:712ee105-4fab-498a-af5c-496ca9830f5f",
       "LPP:abca05d4-c8f8-4627-9c08-ce8392c4dd72",
@@ -46191,7 +46162,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hlebs_638",
+    "hub_id": "hub_hlebs_637",
     "merged_stop_ids": [
       "LPP:8a182298-1db3-4251-9cdb-a86efe72b8a7",
       "LPP:d06c6c8a-c136-4b7a-9c13-b26ba0c04029"
@@ -46221,7 +46192,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestanabrod_530",
+    "hub_id": "hub_cestanabrod_529",
     "merged_stop_ids": [
       "LPP:3f37b298-896a-40be-b2f5-6fe8154756c4",
       "LPP:d0790612-d161-4be4-953d-a7a0c33acf1e"
@@ -46251,7 +46222,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ledenadvoranazalog_542",
+    "hub_id": "hub_ledenadvoranazalog_541",
     "merged_stop_ids": [
       "LPP:45754ca7-bffd-4bcf-96df-952e59574dde",
       "LPP:d08c4884-9764-447f-9b79-0ef7a645222f"
@@ -46285,7 +46256,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_archinetova_472",
+    "hub_id": "hub_archinetova_471",
     "merged_stop_ids": [
       "LPP:1a3351a1-563e-4174-b402-54bc0e2f5191",
       "LPP:d119c3e9-7f2c-4d40-97a4-ccc6b4bb2951"
@@ -46368,7 +46339,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tacen_554",
+    "hub_id": "hub_tacen_553",
     "merged_stop_ids": [
       "LPP:4ac86a6a-874d-41a7-92a5-64ed733b7734",
       "LPP:d27a7320-71d6-48bc-a4f5-0f3e239575b8"
@@ -46402,7 +46373,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potherojatrtnika_498",
+    "hub_id": "hub_potherojatrtnika_497",
     "merged_stop_ids": [
       "LPP:27788b38-4743-4e04-9b9c-94faeeeb2d34",
       "LPP:d2f9bbec-4b03-49a8-af83-afe65fe07a0e"
@@ -46432,7 +46403,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_izanska_588",
+    "hub_id": "hub_izanska_587",
     "merged_stop_ids": [
       "LPP:5f2b93f1-7933-45ed-915c-4488ab8d81b7",
       "LPP:d2ff7ae5-59fc-4894-aa50-a7f16b5e3534"
@@ -46536,7 +46507,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hrusica_445",
+    "hub_id": "hub_hrusica_444",
     "merged_stop_ids": [
       "LPP:0ff94f7b-275b-4cc4-bb27-e00842f5ad87",
       "LPP:d3a6cbf3-65f0-4db8-9a10-1460763eac8e"
@@ -46566,7 +46537,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_przanec_688",
+    "hub_id": "hub_przanec_687",
     "merged_stop_ids": [
       "LPP:c70ad4c4-6c37-4f31-83aa-921dc8bc15a4",
       "LPP:d4c25d68-c340-431b-a646-7680fe0cefee"
@@ -46604,7 +46575,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zadvor_607",
+    "hub_id": "hub_zadvor_606",
     "merged_stop_ids": [
       "LPP:6edebb46-d04f-45c4-99a4-100f7f0b2660",
       "LPP:d4c51b31-46fd-4da8-ba15-8068e666d483"
@@ -46638,7 +46609,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_smrekarjevo_658",
+    "hub_id": "hub_smrekarjevo_657",
     "merged_stop_ids": [
       "LPP:a41f5786-6b70-4224-bcde-e6fbaac4c21b",
       "LPP:d4d4230a-5247-4071-baa4-463321d9d934"
@@ -46668,7 +46639,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_btctrznica_675",
+    "hub_id": "hub_btctrznica_674",
     "merged_stop_ids": [
       "LPP:bbe542ee-a3f6-43cf-b23a-077c28b7d19a",
       "LPP:d50b2bdb-481b-4e58-ada6-47a028fc6382"
@@ -46726,7 +46697,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cukrarna_646",
+    "hub_id": "hub_cukrarna_645",
     "merged_stop_ids": [
       "LPP:95eee7e8-237d-4410-a9bf-00c6f88129c1",
       "LPP:9b0074d2-2c92-4c01-830b-00be8e05b412",
@@ -46758,7 +46729,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_plesiceva_673",
+    "hub_id": "hub_plesiceva_672",
     "merged_stop_ids": [
       "LPP:ba681dbc-ea72-4685-ad98-c5ed496510e6",
       "LPP:d5735919-60bb-4720-a695-9f5155a4f109"
@@ -46796,7 +46767,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_obdaljnovodu_440",
+    "hub_id": "hub_obdaljnovodu_439",
     "merged_stop_ids": [
       "LPP:0d50a4a8-a88d-4468-b562-73e51937e1c5",
       "LPP:d5961b09-f5e8-4a0b-9bbb-2515ff0a8376"
@@ -46886,7 +46857,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gasilskabrigada_567",
+    "hub_id": "hub_gasilskabrigada_566",
     "merged_stop_ids": [
       "LPP:521edd75-c364-480a-af9e-a1c9815b6dd7",
       "LPP:d72d58c2-b9a9-4dd5-b741-17e986d925c8"
@@ -46920,7 +46891,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_brinje_680",
+    "hub_id": "hub_brinje_679",
     "merged_stop_ids": [
       "LPP:befe0e87-b5fe-41ff-9a77-f65461eff28d",
       "LPP:d7384760-d854-492d-87af-f342cab37fc1"
@@ -46954,7 +46925,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_prekmurska_429",
+    "hub_id": "hub_prekmurska_428",
     "merged_stop_ids": [
       "LPP:07bad99d-070a-42f7-8766-d11d42152623",
       "LPP:d7748049-2f69-4c77-a19b-96774a521ac1"
@@ -46988,7 +46959,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vevcepapirnica_692",
+    "hub_id": "hub_vevcepapirnica_691",
     "merged_stop_ids": [
       "LPP:d7a59d1b-dfe1-4fbb-96fc-14443b077516",
       "LPP:ee7e3c65-72e8-465e-a9a3-a9370ec1f314"
@@ -47022,7 +46993,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_semnikar_544",
+    "hub_id": "hub_semnikar_543",
     "merged_stop_ids": [
       "LPP:45e88013-1a7e-44a0-ab1f-bc0db6c6746f",
       "LPP:d7d43617-ef41-4f9e-bbad-670d515d926a"
@@ -47060,7 +47031,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zelezna1_693",
+    "hub_id": "hub_zelezna1_692",
     "merged_stop_ids": [
       "LPP:d8289ab1-f65d-4b3d-8b4b-55ada004f023"
     ],
@@ -47088,7 +47059,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ljubljanskebrigade_679",
+    "hub_id": "hub_ljubljanskebrigade_678",
     "merged_stop_ids": [
       "LPP:bd6d732b-65aa-4b59-be82-6ce1301e70d5",
       "LPP:d83ec579-9ab5-4e30-bedd-86613c234abd"
@@ -47155,7 +47126,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_podgolovcem_546",
+    "hub_id": "hub_podgolovcem_545",
     "merged_stop_ids": [
       "LPP:47252dc3-dbd8-43df-898b-0a3fb27ffc93",
       "LPP:d867fec1-5147-43db-b004-08d2797f50e3"
@@ -47185,7 +47156,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spgameljne3_663",
+    "hub_id": "hub_spgameljne3_662",
     "merged_stop_ids": [
       "LPP:ae3f312a-4242-4a42-8df2-5990505a7747",
       "LPP:d9224caa-d582-4152-88e0-be720677fe16"
@@ -47219,7 +47190,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_boziceva_617",
+    "hub_id": "hub_boziceva_616",
     "merged_stop_ids": [
       "LPP:783196f2-97cd-4265-bb9a-b13aa8bb6a0b",
       "LPP:d98335a0-1291-4d4c-be62-16b11c356575"
@@ -47302,7 +47273,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gerbiceva_645",
+    "hub_id": "hub_gerbiceva_644",
     "merged_stop_ids": [
       "LPP:94c6598b-7303-42e1-94d5-156d7a25f630",
       "LPP:d9a82add-03d0-47d8-9f35-117b7a5ded44"
@@ -47332,7 +47303,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestanakope_604",
+    "hub_id": "hub_cestanakope_603",
     "merged_stop_ids": [
       "LPP:6d2a7c2e-5938-433e-a691-b9bc28767675",
       "LPP:d9df1ba3-6820-4fcb-b561-9cb7a60dd463"
@@ -47362,7 +47333,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestanavrhovce_674",
+    "hub_id": "hub_cestanavrhovce_673",
     "merged_stop_ids": [
       "LPP:bb1ac8b9-5cb2-49f2-8d5c-d7fe4afdd5dd",
       "LPP:d9df365b-7e54-4d22-b2e9-3b548d48ad59"
@@ -47396,7 +47367,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sostro_490",
+    "hub_id": "hub_sostro_489",
     "merged_stop_ids": [
       "LPP:2265e4de-a537-4f97-882b-c94c24aabfb0",
       "LPP:91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1",
@@ -47428,7 +47399,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cdvehcesarjev_694",
+    "hub_id": "hub_cdvehcesarjev_693",
     "merged_stop_ids": [
       "LPP:da623aed-094d-4c3c-9766-9f0aba0f40f6",
       "LPP:f11e48f8-4133-4c36-a36f-73b4f33d9592"
@@ -47527,7 +47498,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_javor_419",
+    "hub_id": "hub_javor_418",
     "merged_stop_ids": [
       "LPP:030363e5-99a3-401f-96db-a16a340ace21",
       "LPP:da834a23-5697-49bb-b3a1-7f277c8206bc"
@@ -47557,7 +47528,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_primozevovinek_640",
+    "hub_id": "hub_primozevovinek_639",
     "merged_stop_ids": [
       "LPP:8d5e4aed-59fb-47c9-8559-5bf11b7ddca0",
       "LPP:da9650a3-6ec7-4cdb-95f2-a68851587dfc"
@@ -47587,7 +47558,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vrhovci_635",
+    "hub_id": "hub_vrhovci_634",
     "merged_stop_ids": [
       "LPP:8677848c-55dd-4af4-b275-3074a3ff4846",
       "LPP:dac8d2a7-89e4-4aec-948d-00db4833ce7c"
@@ -47617,7 +47588,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_postadobrunje_623",
+    "hub_id": "hub_postadobrunje_622",
     "merged_stop_ids": [
       "LPP:7b41ca8e-2e41-4572-aa5c-1d80375e8835",
       "LPP:dadea785-0c6b-4054-9882-37227de3df4b"
@@ -47655,7 +47626,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_stadion_458",
+    "hub_id": "hub_stadion_457",
     "merged_stop_ids": [
       "LPP:154f3596-bbbb-4038-9ad7-c4b8b5288a02",
       "LPP:daf172e0-4dd9-4d5b-8287-67ad2034bced"
@@ -47685,7 +47656,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_galjevica_669",
+    "hub_id": "hub_galjevica_668",
     "merged_stop_ids": [
       "LPP:b56664c0-1dc1-42c5-b10b-52c3fb0dd042",
       "LPP:db046e79-c658-433c-8812-157fd965a9f6"
@@ -47765,7 +47736,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kolodvor_695",
+    "hub_id": "hub_kolodvor_694",
     "merged_stop_ids": [
       "LPP:db9f7130-0bc2-4f3e-b8cd-07cfe96b1f8f"
     ],
@@ -47842,7 +47813,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_letaliskapr_696",
+    "hub_id": "hub_letaliskapr_695",
     "merged_stop_ids": [
       "LPP:dc7b6fb3-15db-4c7e-9fa1-424943178ce6"
     ],
@@ -48060,7 +48031,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_fuzinepr_697",
+    "hub_id": "hub_fuzinepr_696",
     "merged_stop_ids": [
       "LPP:e0bcd677-6012-4c90-a884-44dffafdffec"
     ],
@@ -48088,7 +48059,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_dobrunje_524",
+    "hub_id": "hub_dobrunje_523",
     "merged_stop_ids": [
       "LPP:3a50f545-2fe2-45a0-8ed6-01635603efed",
       "LPP:e0c253d0-1de7-4add-ac75-8b16151fa462"
@@ -48122,7 +48093,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_blazevo_654",
+    "hub_id": "hub_blazevo_653",
     "merged_stop_ids": [
       "LPP:9e0942f3-2c18-4891-9b51-9d95cc43af7a",
       "LPP:e0f10330-ad34-453d-baf4-d6c601cb6cf8"
@@ -48152,7 +48123,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_spgameljne2_514",
+    "hub_id": "hub_spgameljne2_513",
     "merged_stop_ids": [
       "LPP:34f3ddda-e732-4b53-bfb2-8773b5cd6eac",
       "LPP:e2499103-6634-4d8e-87a8-68dc5ef6340c"
@@ -48182,7 +48153,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_gdgameljne_531",
+    "hub_id": "hub_gdgameljne_530",
     "merged_stop_ids": [
       "LPP:3febe187-31d6-4229-be07-78ff782ca972",
       "LPP:e26da28a-b9c3-41b8-b57f-87b289b38e08"
@@ -48212,7 +48183,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_brdo_698",
+    "hub_id": "hub_brdo_697",
     "merged_stop_ids": [
       "LPP:e2d3c37e-a7df-458e-9e5a-ea33ccf4c11b",
       "LPP:f088dbda-3ab0-43c5-bcdf-c727725c05be"
@@ -48246,7 +48217,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_draga_432",
+    "hub_id": "hub_draga_431",
     "merged_stop_ids": [
       "LPP:099976aa-17cc-45d3-add4-267985ab1533",
       "LPP:e3321752-4498-4da3-801c-d54920b22eba"
@@ -48276,7 +48247,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jurckova_659",
+    "hub_id": "hub_jurckova_658",
     "merged_stop_ids": [
       "LPP:a52cd7ac-c11e-4c8b-94a5-1a12b32595da",
       "LPP:e333d90d-3eef-4d82-9e00-ebe693e2f389"
@@ -48314,7 +48285,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_koprska_670",
+    "hub_id": "hub_koprska_669",
     "merged_stop_ids": [
       "LPP:b7834e14-7e86-4df5-83ce-006c93c31c00",
       "LPP:e3b51371-e289-45ef-83ca-1f4ffff25162"
@@ -48344,7 +48315,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_btcatlantis_699",
+    "hub_id": "hub_btcatlantis_698",
     "merged_stop_ids": [
       "LPP:e4635b94-348c-4c69-be85-1160488e5e43"
     ],
@@ -48372,7 +48343,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_besnicaobrac_700",
+    "hub_id": "hub_besnicaobrac_699",
     "merged_stop_ids": [
       "LPP:e468b92f-fa4a-4819-bb11-37761deaf4ca"
     ],
@@ -48408,7 +48379,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kaseljska_577",
+    "hub_id": "hub_kaseljska_576",
     "merged_stop_ids": [
       "LPP:58cd6196-8ac4-4803-be8b-1c0d2fb52528",
       "LPP:e57aad1d-457e-401f-b26d-306b4fd836eb"
@@ -48438,7 +48409,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_szkolodvor_701",
+    "hub_id": "hub_szkolodvor_700",
     "merged_stop_ids": [
       "LPP:e65047c0-c01e-4727-b466-78e107c81ee4"
     ],
@@ -48607,7 +48578,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_strelisce_689",
+    "hub_id": "hub_strelisce_688",
     "merged_stop_ids": [
       "LPP:c8e0086c-0cef-4375-a471-72f3ae1e34fc",
       "LPP:e7789f42-0ad7-44d1-974b-42a3f4957291"
@@ -48681,7 +48652,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_maroltova_676",
+    "hub_id": "hub_maroltova_675",
     "merged_stop_ids": [
       "LPP:bbfc6d44-94da-4cfd-b22a-368a2b11ce20",
       "LPP:e78f256e-7218-4263-87b9-255bd90c9f49"
@@ -48719,7 +48690,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_silos_566",
+    "hub_id": "hub_silos_565",
     "merged_stop_ids": [
       "LPP:51dbf10f-cf3b-4575-a8cc-d1080c1f9dde",
       "LPP:e82569a6-73f3-4002-b7b5-0f83ee167535"
@@ -48749,7 +48720,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cestavkresnice_516",
+    "hub_id": "hub_cestavkresnice_515",
     "merged_stop_ids": [
       "LPP:36c7bbd0-50d7-4b5d-b9b3-9dadd37ac50b",
       "LPP:e8b0d4a2-f65e-4aed-97b8-77ab0d07955a"
@@ -48779,7 +48750,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_lipe_665",
+    "hub_id": "hub_lipe_664",
     "merged_stop_ids": [
       "LPP:b0d473cd-f35e-4a30-8d0d-70f16b92e8e8",
       "LPP:e9035f9a-28be-450a-a30c-7178134ff26b"
@@ -48809,7 +48780,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_osjezero_702",
+    "hub_id": "hub_osjezero_701",
     "merged_stop_ids": [
       "LPP:e9089f7d-853e-4375-8ecb-0db96fcc60e6"
     ],
@@ -48845,7 +48816,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_omersova_619",
+    "hub_id": "hub_omersova_618",
     "merged_stop_ids": [
       "LPP:786a15d4-dd6b-42bb-a5c9-6ce994b5be9e",
       "LPP:e9382efd-d64d-46b0-9a7d-a4e6a0188725"
@@ -48875,7 +48846,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_roziceva_626",
+    "hub_id": "hub_roziceva_625",
     "merged_stop_ids": [
       "LPP:7ea32e84-b8d9-498b-9f03-5a66990012b9",
       "LPP:e97befb6-5dc6-4603-ad5e-3aa96b4b2221"
@@ -48960,7 +48931,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_parkvarnemobilnosti_686",
+    "hub_id": "hub_parkvarnemobilnosti_685",
     "merged_stop_ids": [
       "LPP:c3534bc6-7bfd-43be-b46a-2b0fced57ab8",
       "LPP:ea80411c-360d-4a33-861c-6533a1d67eef"
@@ -48998,7 +48969,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_smartno_632",
+    "hub_id": "hub_smartno_631",
     "merged_stop_ids": [
       "LPP:84578591-7543-4105-8465-9df30256360d",
       "LPP:ea91e672-f4a8-40cb-af62-214726551a93"
@@ -49063,7 +49034,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_roznadolina_703",
+    "hub_id": "hub_roznadolina_702",
     "merged_stop_ids": [
       "LPP:eaad1ba5-14a4-494f-80ae-65294c29a962",
       "LPP:f1b7471e-db71-49da-846d-1232cb3e8f8f"
@@ -49093,7 +49064,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_tiki_574",
+    "hub_id": "hub_tiki_573",
     "merged_stop_ids": [
       "LPP:5606dcbf-b08f-47cf-8147-203cc7f303de",
       "LPP:eae5b514-2e51-4247-a427-e220249f3ccf"
@@ -49135,7 +49106,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kodeljevo_541",
+    "hub_id": "hub_kodeljevo_540",
     "merged_stop_ids": [
       "LPP:452bfd80-e8bd-470b-bc4a-981e1b37ffd7",
       "LPP:55f1ae46-11e5-4270-991f-f09dae6c58bf",
@@ -49167,7 +49138,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_brnciceva_704",
+    "hub_id": "hub_brnciceva_703",
     "merged_stop_ids": [
       "LPP:eb43a68a-54a5-4a37-b090-1329e2b4d830"
     ],
@@ -49195,7 +49166,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bilecanska_609",
+    "hub_id": "hub_bilecanska_608",
     "merged_stop_ids": [
       "LPP:70c51140-f3ee-4c89-a6e2-ed74dab89148",
       "LPP:eb669f04-cfb6-4ea4-90c9-26eb551ecb45"
@@ -49225,7 +49196,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_potvmejah_582",
+    "hub_id": "hub_potvmejah_581",
     "merged_stop_ids": [
       "LPP:5a89967e-5654-49f6-84ca-59f7f9035444",
       "LPP:eb8e8d9a-a3d5-4ec1-9356-26e0e41912d1"
@@ -49255,7 +49226,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_savlje_705",
+    "hub_id": "hub_savlje_704",
     "merged_stop_ids": [
       "LPP:ec88f05d-3035-4f09-8560-72571bc0b125"
     ],
@@ -49348,7 +49319,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_icsiska_423",
+    "hub_id": "hub_icsiska_422",
     "merged_stop_ids": [
       "LPP:05fd1f81-fe2a-419a-8a26-12c13ccd0c34",
       "LPP:ed4e2e40-0e35-418f-bb5d-102f1275e31f"
@@ -49378,7 +49349,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vnajnarje_492",
+    "hub_id": "hub_vnajnarje_491",
     "merged_stop_ids": [
       "LPP:235d7e56-4520-4691-b7d9-7588f7306e1d",
       "LPP:ed50f692-09f9-409e-b7d6-05ff7711de6b"
@@ -49408,7 +49379,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ikobilca_667",
+    "hub_id": "hub_ikobilca_666",
     "merged_stop_ids": [
       "LPP:b5273abc-dfeb-49a2-9607-249bf6415e4b",
       "LPP:edc8bf1d-d4f1-4c5b-8112-e4fa71a02bae"
@@ -49450,7 +49421,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sentvid_550",
+    "hub_id": "hub_sentvid_549",
     "merged_stop_ids": [
       "LPP:48b163cd-b819-4849-aee1-8b1da77657ab",
       "LPP:edf94a12-03e9-4225-b6cc-aca0edf588a7"
@@ -49480,7 +49451,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_przan_706",
+    "hub_id": "hub_przan_705",
     "merged_stop_ids": [
       "LPP:ee03ecf6-db6d-4ecc-90cd-5b3afc8afb91"
     ],
@@ -49508,7 +49479,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_velikilipoglav_507",
+    "hub_id": "hub_velikilipoglav_506",
     "merged_stop_ids": [
       "LPP:2fafda56-e44d-4e08-8503-90e6bf75e19d",
       "LPP:ee095f27-439e-42e7-9e5c-e77b0903c31f"
@@ -49542,7 +49513,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_svetceva_493",
+    "hub_id": "hub_svetceva_492",
     "merged_stop_ids": [
       "LPP:245bb1a4-ea6e-45b4-8331-b50983655326",
       "LPP:ee3713fe-016c-47eb-96d1-f760c9d19010"
@@ -49576,7 +49547,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vevcepapirnica_692",
+    "hub_id": "hub_vevcepapirnica_691",
     "merged_stop_ids": [
       "LPP:d7a59d1b-dfe1-4fbb-96fc-14443b077516",
       "LPP:ee7e3c65-72e8-465e-a9a3-a9370ec1f314"
@@ -49610,7 +49581,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_glonarjeva_634",
+    "hub_id": "hub_glonarjeva_633",
     "merged_stop_ids": [
       "LPP:86303165-4af4-4fcd-b0f9-43ed865454f4",
       "LPP:ee837fd9-7a5c-4f14-bbd7-a46f14eb07c5"
@@ -49644,7 +49615,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ilirska_491",
+    "hub_id": "hub_ilirska_490",
     "merged_stop_ids": [
       "LPP:22ef2062-46f0-4a46-8d9a-6ceb7b7f45bc",
       "LPP:eead721b-8996-4e73-a2f9-02dba20df4fa"
@@ -49674,7 +49645,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_baragova_545",
+    "hub_id": "hub_baragova_544",
     "merged_stop_ids": [
       "LPP:4682c5fd-08cb-4af1-a3e2-6f1ee880a52d",
       "LPP:eec159d0-4b1b-4706-9a5d-a00ddcbea9f5"
@@ -49704,7 +49675,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zatravniki_683",
+    "hub_id": "hub_zatravniki_682",
     "merged_stop_ids": [
       "LPP:c3188d8e-c2d3-40e5-acc2-14bef70a5ff4",
       "LPP:eee355cc-98a1-4f25-8bf9-0100856eda6e"
@@ -49742,7 +49713,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_ruskicar_537",
+    "hub_id": "hub_ruskicar_536",
     "merged_stop_ids": [
       "LPP:43df2657-d56f-4fc4-8c40-49180cbbe90c",
       "LPP:eee4abae-e720-4776-b6c7-0099d0119246"
@@ -49776,7 +49747,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_prezganje_605",
+    "hub_id": "hub_prezganje_604",
     "merged_stop_ids": [
       "LPP:6d344016-1b93-4ff7-80a8-8cde0b57bd1c",
       "LPP:eefb30b4-8049-4128-89f5-bb359b1c93b0"
@@ -49806,7 +49777,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_log_597",
+    "hub_id": "hub_log_596",
     "merged_stop_ids": [
       "LPP:66eec6a2-dfde-4d98-b690-e47f200367fd",
       "LPP:ef005e77-f3b8-4171-b681-1294d0e4732b"
@@ -49848,7 +49819,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_emona_517",
+    "hub_id": "hub_emona_516",
     "merged_stop_ids": [
       "LPP:36d25599-0bed-48a0-bcb4-134be8a959fe",
       "LPP:ef31a8be-b01d-44cd-95cf-3db8e918af26"
@@ -49926,7 +49897,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_bizovik_625",
+    "hub_id": "hub_bizovik_624",
     "merged_stop_ids": [
       "LPP:7c37b809-4d6d-497c-a53d-38663e91c088",
       "LPP:f0661242-947b-4937-a9ce-d2a135cd62a7"
@@ -49964,7 +49935,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zmajskimost_593",
+    "hub_id": "hub_zmajskimost_592",
     "merged_stop_ids": [
       "LPP:639551cf-fe23-4363-8ccd-655bc5d4119e",
       "LPP:f073b9d9-a3e3-4d04-a209-0db55377b79e"
@@ -50031,7 +50002,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_brdo_698",
+    "hub_id": "hub_brdo_697",
     "merged_stop_ids": [
       "LPP:e2d3c37e-a7df-458e-9e5a-ea33ccf4c11b",
       "LPP:f088dbda-3ab0-43c5-bcdf-c727725c05be"
@@ -50061,7 +50032,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cdvehcesarjev_694",
+    "hub_id": "hub_cdvehcesarjev_693",
     "merged_stop_ids": [
       "LPP:da623aed-094d-4c3c-9766-9f0aba0f40f6",
       "LPP:f11e48f8-4133-4c36-a36f-73b4f33d9592"
@@ -50095,7 +50066,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_viadukt_610",
+    "hub_id": "hub_viadukt_609",
     "merged_stop_ids": [
       "LPP:712ee105-4fab-498a-af5c-496ca9830f5f",
       "LPP:abca05d4-c8f8-4627-9c08-ce8392c4dd72",
@@ -50133,7 +50104,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_vodovodna_644",
+    "hub_id": "hub_vodovodna_643",
     "merged_stop_ids": [
       "LPP:94712446-2421-4304-b4f1-3b3f82998713",
       "LPP:f15ddf31-fc11-41ba-988d-376c83e38f58"
@@ -50163,7 +50134,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_capuder_641",
+    "hub_id": "hub_capuder_640",
     "merged_stop_ids": [
       "LPP:8e7a488b-cd48-4243-92b0-42792d0e3bc1",
       "LPP:f174a648-9e84-492d-9ccd-0756b49c773b"
@@ -50193,7 +50164,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_roznadolina_703",
+    "hub_id": "hub_roznadolina_702",
     "merged_stop_ids": [
       "LPP:eaad1ba5-14a4-494f-80ae-65294c29a962",
       "LPP:f1b7471e-db71-49da-846d-1232cb3e8f8f"
@@ -50312,7 +50283,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mirje_452",
+    "hub_id": "hub_mirje_451",
     "merged_stop_ids": [
       "LPP:12618339-2c2d-49ec-b0e0-2517c11991f8",
       "LPP:f2920a77-6c6c-494d-96b7-2a8caf8f374f"
@@ -50354,7 +50325,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kodrova_483",
+    "hub_id": "hub_kodrova_482",
     "merged_stop_ids": [
       "LPP:1f9fad8e-d59c-494c-bdd1-1983afacb755",
       "LPP:f2b27cbd-5207-4281-8f67-6369d0c50a9b"
@@ -50400,7 +50371,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_knezakoclja_532",
+    "hub_id": "hub_knezakoclja_531",
     "merged_stop_ids": [
       "LPP:4038e02e-f22f-4af0-ba4f-7aab855b53af",
       "LPP:f2bac6f5-5bbc-4f15-acdd-014d86770ce9"
@@ -50438,7 +50409,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_rakovnik_647",
+    "hub_id": "hub_rakovnik_646",
     "merged_stop_ids": [
       "LPP:9741988b-6723-480b-a419-8db7490d667a",
       "LPP:f2fc2702-e9da-4c36-b6fc-9f52199e4574"
@@ -50565,7 +50536,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_sneberje_677",
+    "hub_id": "hub_sneberje_676",
     "merged_stop_ids": [
       "LPP:bc66f88b-1412-44cb-b921-030d27335261",
       "LPP:f4c5028b-48a4-4d0e-a91c-81a858923ddd"
@@ -50656,7 +50627,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_janahusa_603",
+    "hub_id": "hub_janahusa_602",
     "merged_stop_ids": [
       "LPP:6bc92f4c-414c-456b-9150-d58a7689d26e",
       "LPP:f4e99ece-e89e-4322-80c6-5a91df65f64e"
@@ -50731,7 +50702,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_letaliska_469",
+    "hub_id": "hub_letaliska_468",
     "merged_stop_ids": [
       "LPP:192b7b6a-b138-4569-a4f3-86bef6b20810",
       "LPP:f5d8583f-6e9d-4996-b803-74bf3cd0b602"
@@ -50806,7 +50777,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_hrusevska_606",
+    "hub_id": "hub_hrusevska_605",
     "merged_stop_ids": [
       "LPP:6e7cab20-d7e3-474f-9a5e-f1e0ca6fae53",
       "LPP:f66a1f18-4c18-4317-b929-fb616cc7cebc"
@@ -50890,7 +50861,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kamnogoriska_707",
+    "hub_id": "hub_kamnogoriska_706",
     "merged_stop_ids": [
       "LPP:f784b27a-1509-4eec-bd52-6beee2b9530b",
       "LPP:fcfe6ac9-74b3-4c13-96b7-6041f1454813"
@@ -50928,7 +50899,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_mercator_427",
+    "hub_id": "hub_mercator_426",
     "merged_stop_ids": [
       "LPP:0760a037-cd94-4936-89b6-45ce9bd19917",
       "LPP:f8da5156-e545-47ed-a811-2242f41f5593"
@@ -50958,7 +50929,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_murgle_620",
+    "hub_id": "hub_murgle_619",
     "merged_stop_ids": [
       "LPP:7962e05c-ad8c-43e4-9db4-4b90f0c94596",
       "LPP:f958cead-e4c3-4743-834d-46de4a06a8c9"
@@ -50988,7 +50959,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_jezicapr_708",
+    "hub_id": "hub_jezicapr_707",
     "merged_stop_ids": [
       "LPP:f9d70942-e517-4560-8655-99481edd2b95"
     ],
@@ -51020,7 +50991,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_streliska_526",
+    "hub_id": "hub_streliska_525",
     "merged_stop_ids": [
       "LPP:3cb0ccbb-9b91-4d71-bd27-2acef732be4c",
       "LPP:fa96d420-d1af-4ad0-bf6a-4544deb1c5eb"
@@ -51111,7 +51082,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_leskoskova_418",
+    "hub_id": "hub_leskoskova_417",
     "merged_stop_ids": [
       "LPP:02c61e3f-2d2e-4b42-b695-bbd3cc672f6b",
       "LPP:fb0042f8-d9e2-4916-b60a-38a026acf0c9"
@@ -51186,7 +51157,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_pridolencu_496",
+    "hub_id": "hub_pridolencu_495",
     "merged_stop_ids": [
       "LPP:26ec9924-5586-4fd5-8b20-63f2d0a38d44",
       "LPP:fbd1dfb0-4a6f-4160-ad52-5ccb69530195"
@@ -51224,7 +51195,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_cankarjevdom_438",
+    "hub_id": "hub_cankarjevdom_437",
     "merged_stop_ids": [
       "LPP:0be237aa-4b91-4d2b-ac23-0cebac975a0d",
       "LPP:fc3967fb-5520-4fff-a819-f625242182e5"
@@ -51262,7 +51233,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_petrol_624",
+    "hub_id": "hub_petrol_623",
     "merged_stop_ids": [
       "LPP:7c166e7c-6fe0-44bd-b124-0013473f227a",
       "LPP:fcc58ff5-bf0b-44ce-b12b-75ecc493f24d"
@@ -51300,7 +51271,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zdpolje_594",
+    "hub_id": "hub_zdpolje_593",
     "merged_stop_ids": [
       "LPP:6559d555-672b-4633-8a81-0ae68fb963eb",
       "LPP:fcccf4af-4f16-4edc-ba5a-585c434593fe"
@@ -51330,7 +51301,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_zgornjasiska_518",
+    "hub_id": "hub_zgornjasiska_517",
     "merged_stop_ids": [
       "LPP:37fc313d-1f45-49c9-9059-4f96f44a6682",
       "LPP:fcec9e7a-1c9e-4214-96dd-d071550349e6"
@@ -51364,7 +51335,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_kamnogoriska_707",
+    "hub_id": "hub_kamnogoriska_706",
     "merged_stop_ids": [
       "LPP:f784b27a-1509-4eec-bd52-6beee2b9530b",
       "LPP:fcfe6ac9-74b3-4c13-96b7-6041f1454813"
@@ -51394,7 +51365,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_selo_684",
+    "hub_id": "hub_selo_683",
     "merged_stop_ids": [
       "LPP:c31b32c6-1ec2-48e9-9929-356fd0253540",
       "LPP:fd0e405e-d5e5-45fc-8911-e48a178ad4a9"
@@ -51432,7 +51403,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_murkova_453",
+    "hub_id": "hub_murkova_452",
     "merged_stop_ids": [
       "LPP:13ceaf6c-9650-45c3-b449-64a0e5094d18",
       "LPP:fdff5f9c-6c02-4fc1-a004-7032b17fa37a"
@@ -51604,7 +51575,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_studentskonaselje_564",
+    "hub_id": "hub_studentskonaselje_563",
     "merged_stop_ids": [
       "LPP:4f681273-89fe-44f9-aaec-76950722cc52",
       "LPP:ff1f708c-989e-4cc5-8e75-02717b5f9744"
@@ -51634,7 +51605,7 @@
     "agencies": [
       "LPP:lpp"
     ],
-    "hub_id": "hub_solajarse_709",
+    "hub_id": "hub_solajarse_708",
     "merged_stop_ids": [
       "LPP:ff8f71b7-06fe-47fe-8238-9af5ee1b1dfd"
     ],

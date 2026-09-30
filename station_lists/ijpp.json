@@ -4201,6 +4201,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjI3NTI",
+    "gtfs_id": "IJPP:1122752",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Velenje trž. krožišče",
+    "lat": 46.3654297,
+    "lon": 15.1068144,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjI3NTQ",
     "gtfs_id": "IJPP:1122754",
     "code": null,
@@ -142330,21 +142345,6 @@
     "name": "Ljubljana Železna",
     "lat": 46.061156,
     "lon": 14.513139,
-    "opposite": null,
-    "agencies": [
-      "1118"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjg3MDc",
-    "gtfs_id": "IJPP:1168707",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljana Dolgi most P+R",
-    "lat": 46.0368948,
-    "lon": 14.4635501,
     "opposite": null,
     "agencies": [
       "1118"

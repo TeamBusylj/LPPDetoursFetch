@@ -14758,28 +14758,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExNjg3MDc",
-    "gtfs_id": "IJPP:1168707",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljana Dolgi most P+R",
-    "lat": 46.0368948,
-    "lon": 14.4635501,
-    "opposite": "IJPP:1168707",
-    "routes": [
-      {
-        "name": "51",
-        "color": "#5D77A9"
-      },
-      {
-        "name": "56",
-        "color": "#6F280D"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExNjg3OTk",
     "gtfs_id": "IJPP:1168799",
     "code": null,
