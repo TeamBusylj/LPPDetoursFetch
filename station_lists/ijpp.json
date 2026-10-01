@@ -15249,6 +15249,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjQwMTM",
+    "gtfs_id": "IJPP:1124013",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Češča vas",
+    "lat": 45.7976515,
+    "lon": 15.1255882,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjQwMTQ",
     "gtfs_id": "IJPP:1124014",
     "code": null,
@@ -135185,6 +135200,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjc2NDc",
+    "gtfs_id": "IJPP:1167647",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Novo mesto Podbreznik",
+    "lat": 45.806402,
+    "lon": 15.129763,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjc2NDg",
+    "gtfs_id": "IJPP:1167648",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Novo mesto Podbreznik",
+    "lat": 45.805972,
+    "lon": 15.128871,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjc2NTQ",
     "gtfs_id": "IJPP:1167654",
     "code": null,
@@ -135350,6 +135395,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjc2NzY",
+    "gtfs_id": "IJPP:1167676",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Loke (Straža)",
+    "lat": 45.7918694,
+    "lon": 15.1105973,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjc2Nzc",
     "gtfs_id": "IJPP:1167677",
     "code": null,
@@ -135365,6 +135425,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjc2Nzg",
+    "gtfs_id": "IJPP:1167678",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Straža Sela",
+    "lat": 45.7887819,
+    "lon": 15.0969403,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjc2Nzk",
     "gtfs_id": "IJPP:1167679",
     "code": null,
@@ -135374,6 +135449,21 @@
     "name": "Straža Sela",
     "lat": 45.7890602,
     "lon": 15.0974929,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjc2ODA",
+    "gtfs_id": "IJPP:1167680",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Straža Hruševec",
+    "lat": 45.788429,
+    "lon": 15.0896437,
     "opposite": null,
     "agencies": [
       "1119"
@@ -135479,6 +135569,21 @@
     "name": "Zalog (Straža)",
     "lat": 45.7942718,
     "lon": 15.1202125,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjc2OTA",
+    "gtfs_id": "IJPP:1167690",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Zalog (Straža)",
+    "lat": 45.79421,
+    "lon": 15.1201963,
     "opposite": null,
     "agencies": [
       "1119"
