@@ -260,10 +260,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -282,10 +278,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -412,10 +404,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -434,10 +422,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -588,10 +572,6 @@
         "color": "#ffcb04"
       },
       {
-        "name": "2B",
-        "color": "#ffd44f"
-      },
-      {
         "name": "3",
         "color": "#26aae1"
       },
@@ -616,10 +596,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -638,10 +614,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -660,10 +632,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -756,10 +724,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       },
       {
         "name": "3",
@@ -1176,24 +1140,6 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjI1OTQ",
-    "gtfs_id": "CELEBUS:1162594",
-    "code": "12319_49215",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Lokrovec Čerčnik",
-    "lat": 46.261045,
-    "lon": 15.254792,
-    "opposite": "12319_49215",
-    "routes": [
-      {
-        "name": "2B",
-        "color": "#ffd44f"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExNjI4ODg",
     "gtfs_id": "CELEBUS:1162888",
     "code": "16178_49978",
@@ -1230,42 +1176,6 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTA",
-    "gtfs_id": "CELEBUS:1166390",
-    "code": "13508_48869",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Ostrožno GD",
-    "lat": 46.2511876,
-    "lon": 15.2484307,
-    "opposite": "13508_48869",
-    "routes": [
-      {
-        "name": "2B",
-        "color": "#ffd44f"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjYzOTM",
-    "gtfs_id": "CELEBUS:1166393",
-    "code": "13510_48868",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Ostrožno Antloga",
-    "lat": 46.2519734,
-    "lon": 15.2520049,
-    "opposite": "13510_48868",
-    "routes": [
-      {
-        "name": "2B",
-        "color": "#ffd44f"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExNjYzOTQ",
     "gtfs_id": "CELEBUS:1166394",
     "code": "13506_48871",
@@ -1298,10 +1208,6 @@
       {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -1578,10 +1484,6 @@
         "color": "#ffcb04"
       },
       {
-        "name": "2B",
-        "color": "#ffd44f"
-      },
-      {
         "name": "3",
         "color": "#26aae1"
       },
@@ -1592,60 +1494,6 @@
       {
         "name": "10",
         "color": "#f15645"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjcwMzc",
-    "gtfs_id": "CELEBUS:1167037",
-    "code": "16174_50004",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Nova vas Lidl.",
-    "lat": 46.250506,
-    "lon": 15.260009,
-    "opposite": "16174_50004",
-    "routes": [
-      {
-        "name": "2B",
-        "color": "#ffd44f"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjcwMzg",
-    "gtfs_id": "CELEBUS:1167038",
-    "code": "20753_50007",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Dobrova pri Celju",
-    "lat": 46.2541969,
-    "lon": 15.2600066,
-    "opposite": "20753_50007",
-    "routes": [
-      {
-        "name": "2B",
-        "color": "#ffd44f"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjcwNDA",
-    "gtfs_id": "CELEBUS:1167040",
-    "code": "16176_50005",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Nova vas",
-    "lat": 46.2484316,
-    "lon": 15.2614494,
-    "opposite": "16176_50005",
-    "routes": [
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -1814,10 +1662,6 @@
         "color": "#ffcb04"
       },
       {
-        "name": "2B",
-        "color": "#ffd44f"
-      },
-      {
         "name": "3",
         "color": "#26aae1"
       },
@@ -1842,10 +1686,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -1864,28 +1704,6 @@
       {
         "name": "2A",
         "color": "#ffcb04"
-      },
-      {
-        "name": "2B",
-        "color": "#ffd44f"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjc",
-    "gtfs_id": "CELEBUS:1168367",
-    "code": "12318_26630",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Lokrovec K",
-    "lat": 46.2565196,
-    "lon": 15.2565348,
-    "opposite": "12318_26630",
-    "routes": [
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
@@ -1922,24 +1740,6 @@
       {
         "name": "10",
         "color": "#f15645"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjg0Njg",
-    "gtfs_id": "CELEBUS:1168468",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Dobrova K %28Celje%29",
-    "lat": 46.261233,
-    "lon": 15.259547,
-    "opposite": "CELEBUS:1168468",
-    "routes": [
-      {
-        "name": "2B",
-        "color": "#ffd44f"
       }
     ]
   },
