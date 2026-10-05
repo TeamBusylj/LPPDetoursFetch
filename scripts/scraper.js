@@ -100,7 +100,7 @@ async function parseDetours(html) {
       // Zajem prave vsebine obvoza
       let content = $detail('.editor-text').html();
       if (!content) {
-        content = $detail('.content-module__middle').html() \vert{}\vert{}$detail('main').html() || $detail('article').html() \vert{}\vert{}$detail('body').html();
+     content = $detail('.content-module__middle').html() || $detail('main').html() || $detail('article').html() || $detail('body').html();
       }
 
       if (content) {
