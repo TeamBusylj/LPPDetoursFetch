@@ -1449,8 +1449,8 @@
     "background_color": "#9AC42F",
     "icon_color": "#FFFFFF",
     "name": "Poganci",
-    "lat": 45.778301,
-    "lon": 15.179167,
+    "lat": 45.781404,
+    "lon": 15.176475,
     "opposite": "MONM:58",
     "routes": [
       {
