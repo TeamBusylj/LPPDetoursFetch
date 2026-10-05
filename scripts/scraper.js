@@ -1,10 +1,10 @@
-import fs from 'fs/promises';
-import { existsSync, mkdirSync } from 'fs'; // Za ustvarjanje mape
-import crypto from 'crypto'; // Za generiranje edinstvenih imen slik
+import fsPromises from 'fs/promises';
+import { existsSync, mkdirSync, writeFileSync } from 'fs';
+import crypto from 'crypto';
 import * as cheerio from 'cheerio';
 
 async function main() {
-  const DETOUR_URL = "https://www.lpp.si/javni-prevoz/obvozi"; // Brez CORS proxyja!
+  const DETOUR_URL = "https://www.lpp.si/javni-prevoz/obvozi";
 
   try {
     const response = await fetch(DETOUR_URL, {
@@ -13,8 +13,7 @@ async function main() {
     const html = await response.text();
     const data = await parseDetours(html);
 
-    // Shranimo v datoteko
-    await fs.writeFile("opozorila.json", JSON.stringify(data, null, 2), "utf-8");
+    await fsPromises.writeFile("opozorila.json", JSON.stringify(data, null, 2), "utf-8");
     console.log("Opozorila uspešno posodobljena in shranjena!");
   } catch (error) {
     console.error("Napaka pri scrapanju:", error);
@@ -25,87 +24,89 @@ async function main() {
 async function parseDetours(html) {
   const detoursList = [];
   const allLinesSet = new Set();
-  const detourPattern = /<div class="content__box--title"><a href="(.*)">(.*)<\/a><\/div>[\s\S]*?<div class="content__box--date">(.*)<\/div>/g;
+  const $ = cheerio.load(html);
+  const detourItems = [];
 
-  let match;
-  while ((match = detourPattern.exec(html)) !== null) {
-    const href = "https://www.lpp.si" + match[1].trim();
-    const title = match[2].trim();
-    const date = match[3].trim();
+  // Pridobivanje seznama obvozov iz novih kartic
+  $('article[data-component="mol-article-card"]').each((i, el) => {
+    let href = $(el).find('a.stretched-link').attr('href');
+    const title = $(el).find('.article-card__title').text().trim();
+    const date = $(el).find('.article-card__date').text().trim();
+
+    if (href && title) {
+      if (!href.startsWith('http')) {
+        href = href.startsWith('/') ? 'https://www.lpp.si' + href : 'https://www.lpp.si/' + href;
+      }
+      detourItems.push({ href, title, date });
+    }
+  });
+
+  for (const item of detourItems) {
+    const { href, title, date } = item;
+    
     const lines = extractLines(title);
     lines.forEach((line) => allLinesSet.add(line));
 
-    // Tukaj je GLAVNI TRIK: Takoj prenesemo še podstran obvoza!
     let detailHtml = "<p>Vsebine ni mogoče naložiti.</p>";
     try {
       const detailResponse = await fetch(href, { headers: { "User-Agent": "Mozilla/5.0" } });
       const rawDetailHtml = await detailResponse.text();
-      const $ = cheerio.load(rawDetailHtml);
+      const $detail = cheerio.load(rawDetailHtml);
 
-      // Odstranimo nepotrebne elemente (isto kot tvoj prejšnji jQuery/DOMParser)
-      $(".main--title").remove();
-      $(".content__share--wrapper").remove();
-
-      // Ustvarimo mapo "slike", če še ne obstaja
       if (!existsSync('slike')) {
         mkdirSync('slike');
       }
 
       // Odstranimo nepotrebne elemente
-      $('.main--title').remove();
-      $('.content__share--wrapper').remove();
-      $('script, style, iframe, form').remove();
+      $detail('script, style, iframe, form').remove();
       
-      // Pametna obdelava slik
-      $('img').each((i, el) => {
-        const src = $(el).attr('src');
+      // Obdelava slik
+      $detail('img').each((i, el) => {
+        const src = $detail(el).attr('src');
         
         if (src) {
           if (src.startsWith('data:image')) {
             try {
-              // 1. Izluščimo tip slike in same podatke
               const matches = src.match(/^data:([A-Za-z-+\/]+);base64,(.+)$/);
               if (matches && matches.length === 3) {
-                const mimeType = matches[1]; // npr. image/jpeg
+                const mimeType = matches[1];
                 const base64Data = matches[2];
-                // Določimo končnico (.jpg, .png...)
                 const extension = mimeType.split('/')[1] === 'jpeg' ? 'jpg' : mimeType.split('/')[1];
 
-                // 2. Ustvarimo unikatno ime datoteke glede na njeno vsebino
                 const hash = crypto.createHash('md5').update(base64Data).digest('hex');
                 const filename = `${hash}.${extension}`;
-
-                // 3. Shranimo sliko fizično v mapo "slike"
                 const buffer = Buffer.from(base64Data, 'base64');
-                // Uporabimo sinhrono pisanje (samo za to podrobnost), ker smo znotraj cheerio zanke
-                import('fs').then(fsSync => fsSync.writeFileSync(`slike/${filename}`, buffer));
-
-                // 4. ZAMENJAJ TUKAJ: Vstavi svoj pravi GitHub username in ime repozitorija!
-                const githubRawUrl = `https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/${filename}`;
                 
-                // 5. V HTML-ju zamenjamo Base64 pošast s tem lepim, kratkim GitHub URL-jem
-                $(el).attr('src', githubRawUrl);
+                writeFileSync(`slike/${filename}`, buffer);
+
+                // Zamenjaj z dejanskim GitHub URL-jem repozitorija
+                const githubRawUrl = `https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/${filename}`;
+                $detail(el).attr('src', githubRawUrl);
               } else {
-                $(el).remove(); // Če je format čuden, jo raje brišemo
+                $detail(el).remove();
               }
             } catch (e) {
               console.error("Napaka pri shranjevanju Base64 slike:", e);
-              $(el).remove();
+              $detail(el).remove();
             }
           } else if (src.startsWith('/')) {
-            // Normalne relativne slike
-            $(el).attr('src', 'https://www.lpp.si' + src);
+            $detail(el).attr('src', 'https://www.lpp.si' + src);
           }
           
-          $(el).removeAttr('style').removeAttr('class').removeAttr('width').removeAttr('height');
+          $detail(el).removeAttr('style').removeAttr('class').removeAttr('width').removeAttr('height').removeAttr('data-src');
         }
       });
 
-      // Vzamemo prečiščen HTML z novimi slikovnimi URL-ji
-      detailHtml = $('#content').html() || detailHtml;
+      // Zajem prave vsebine obvoza
+      let content = $detail('.editor-text').html();
+      if (!content) {
+        content = $detail('.content-module__middle').html() \vert{}\vert{}$detail('main').html() || $detail('article').html() \vert{}\vert{}$detail('body').html();
+      }
 
-      // Vzamemo samo vsebino in jo očistimo
-      detailHtml = $("#content").html() || detailHtml;
+      if (content) {
+         detailHtml = content.trim();
+      }
+
     } catch (e) {
       console.error(`Napaka pri podstrani ${href}:`, e);
     }
@@ -115,7 +116,7 @@ async function parseDetours(html) {
       date: date,
       url: href,
       lines: lines,
-      contentHtml: detailHtml, // To zdaj vsebuje celotno besedilo in obvestila!
+      contentHtml: detailHtml,
     });
   }
 
