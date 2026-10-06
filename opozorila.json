@@ -2,6 +2,15 @@
   "detours": [
     {
       "title": "Linija 60 ima obvoz",
+      "date": "06.10.2026",
+      "url": "https://www.lpp.si/obvoz/linija-60-ima-obvoz-3/",
+      "lines": [
+        "60"
+      ],
+      "contentHtml": "<p>Spoštovani potniki,</p>\n<p>obveščamo vas, da bo od 7. 10. 2026 do zaključka gradbenih del, zaradi popolne prometne zapore na delu lokalne ceste Repnje–Dobruša linija 60 vozila po spremenjeni trasi.</p>\n<ul>\n<li>Obvozna trasa:<br>\nLinija 60: Šentvid – Povodje – Vojsko – Polje obračališče – Skaručna – Repnje Benk – Repnje – Repnje kapelica – Zapoge obračališče – Vodice in enako v obratni smeri.</li>\n</ul>\n<p><strong>Postajališče Dobruša lipa bo v obeh smereh začasno ukinjeno.</strong> Nadomešča ga postajališče Zapoge obračališče.</p>\n<img src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/b4618177888393575b6081ac9bbba54a.gif\">"
+    },
+    {
+      "title": "Linija 60 ima obvoz",
       "date": "05.10.2026",
       "url": "https://www.lpp.si/obvoz/linija-60-ima-obvoz-2/",
       "lines": [
