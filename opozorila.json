@@ -1,6 +1,15 @@
 {
   "detours": [
     {
+      "title": "Linija 56 vozi skrajšano",
+      "date": "07.10.2026",
+      "url": "https://www.lpp.si/obvoz/linija-56-vozi-skrajsano/",
+      "lines": [
+        "56"
+      ],
+      "contentHtml": "<p>Spoštovani potniki,</p>\n<p>obveščamo vas, da bo od petka, 9. 10. 2026, od 7.00 do nedelje, 11. 10. 2026, do predvidoma 20.00 zaradi gradbenih del in popolne prometne zapore na delu ceste, linija 56 obratovala skrajšano, in sicer samo do postajališča Vrzdenec.</p>\n<p><strong>Nadomestni prevoz:</strong><br>\nMed postajališčem Horjul in končnim postajališčem Šentjošt bo po obvozni trasi vozilo nadomestno vozilo, in enako v obratni smeri.</p>\n<p>Prosimo vas za razumevanje.</p>\n<img src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/b4618177888393575b6081ac9bbba54a.gif\">"
+    },
+    {
       "title": "Linija 60 ima obvoz",
       "date": "06.10.2026",
       "url": "https://www.lpp.si/obvoz/linija-60-ima-obvoz-3/",
@@ -80,15 +89,6 @@
       "url": "https://www.lpp.si/obvoz/obvoz-zapora-postajalisca-japelj/",
       "lines": [],
       "contentHtml": "<p>Spoštovani potniki,</p>\n<p>postajališče Japelj v smeri proti Notranjim Goricam je zaradi gradbenih del začasno zaprto.&nbsp;<span style=\"font-size: 13.008px;\">V času zapore je v uporabi postajališče Japelj v smeri proti Ljubljani.</span></p>\n<p>Sprememba velja do zaključka gradbenih del.</p>\n<p>Hvala za razumevanje.</p>"
-    },
-    {
-      "title": "Linija 71 ima obvoz",
-      "date": "10.04.2026",
-      "url": "https://www.lpp.si/obvoz/obvoz-linija-71-ima-obvoz/",
-      "lines": [
-        "71"
-      ],
-      "contentHtml": "<p data-end=\"104\" data-start=\"81\">Spoštovani potniki,</p>\n<p data-end=\"327\" data-start=\"106\">obveščamo vas, da bo zaradi popolne prometne zapore na delu lokalne ceste od Velike Loke do Žalne od 13. 4. 2026 do zaključka gradbenih del, predvidoma do konca oktobra 2026, linija 71 vozila po spremenjeni trasi.</p>\n<p data-end=\"716\" data-start=\"329\">Spremenjena trasa linije 71:</p>\n<ul>\n<li data-end=\"716\" data-start=\"329\">A. P. Grosuplje – Pri KGZ – Veliko Mlačevo – Lobček/Zagradec – Plešivica – Plešivica/Kote – Smrečje – Luče na šoli – Luče – Luče na šoli – Velika Loka in nazaj:</li>\n<li data-end=\"716\" data-start=\"329\">Velika Loka – Luče na šoli – Smrečje – Plešivica/Kote – Plešivica – Lobček/Zagradec – Mlačevo ŽP – PŠ Žalna – Žalna – PŠ Žalna – Mlačevo ŽP – Veliko Mlačevo – Pri KGZ – A. P. Grosuplje.</li>\n</ul>\n<p data-end=\"769\" data-start=\"718\">V bližini Žalne je urejeno nadomestno postajališče.</p>\n<p data-end=\"769\" data-start=\"718\"><img decoding=\"async\" src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/b4618177888393575b6081ac9bbba54a.gif\" alt=\"\"></p>\n<p data-end=\"769\" data-start=\"718\">Hvala za razumevanje.</p>\n<img src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/b4618177888393575b6081ac9bbba54a.gif\">"
     }
   ],
   "allLines": [
@@ -98,7 +98,7 @@
     "18",
     "18L",
     "27",
-    "60",
-    "71"
+    "56",
+    "60"
   ]
 }
