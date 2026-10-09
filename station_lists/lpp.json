@@ -24779,8 +24779,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Zakrajškova",
-    "lat": 46.082161,
-    "lon": 14.443894,
+    "lat": 46.0821,
+    "lon": 14.443393,
     "opposite": "804502",
     "routes": [
       {
