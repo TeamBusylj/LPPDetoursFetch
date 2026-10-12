@@ -37671,21 +37671,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjU5NTU",
-    "gtfs_id": "IJPP:1125955",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Jeze",
-    "lat": 46.0513572,
-    "lon": 14.8454985,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjU5NTY",
     "gtfs_id": "IJPP:1125956",
     "code": null,
@@ -44966,21 +44951,6 @@
     "name": "Kržišče",
     "lat": 45.9067529,
     "lon": 15.3824547,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjY2MzE",
-    "gtfs_id": "IJPP:1126631",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Krznar",
-    "lat": 46.0344631,
-    "lon": 14.8430032,
     "opposite": null,
     "agencies": [
       "1119"
@@ -100422,21 +100392,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMzE0ODI",
-    "gtfs_id": "IJPP:1131482",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Velenje Novi jašek",
-    "lat": 46.3684962,
-    "lon": 15.0835571,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMzE0ODY",
     "gtfs_id": "IJPP:1131486",
     "code": null,
@@ -134143,36 +134098,6 @@
     "opposite": null,
     "agencies": [
       "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjc1NTA",
-    "gtfs_id": "IJPP:1167550",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Leše K (Prevalje)",
-    "lat": 46.5306819,
-    "lon": 14.9003458,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExNjc1NTE",
-    "gtfs_id": "IJPP:1167551",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Leše/Prevaljah",
-    "lat": 46.530593,
-    "lon": 14.897173,
-    "opposite": null,
-    "agencies": [
-      "1119"
     ]
   },
   {
