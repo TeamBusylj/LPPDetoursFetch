@@ -70048,36 +70048,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjg4NTA",
-    "gtfs_id": "IJPP:1128850",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Prelesje/Mokronogu",
-    "lat": 45.961168,
-    "lon": 15.1071211,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjg4NTE",
-    "gtfs_id": "IJPP:1128851",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Prelesje/Mokronogu",
-    "lat": 45.9611207,
-    "lon": 15.1070922,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjg4NTI",
     "gtfs_id": "IJPP:1128852",
     "code": null,
