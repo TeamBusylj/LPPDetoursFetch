@@ -1,6 +1,34 @@
 {
   "detours": [
     {
+      "title": "Linije 2, 3G, 6, 6B, 7, 8, 9, 11, 13, 14, 18, 18L, 19B, 19I, 20, 25, 27, 51, 56 in 60 imajo obvoz",
+      "date": "13.10.2026",
+      "url": "https://www.lpp.si/obvoz/linije-2-3g-6-6b-7-8-9-11-13-14-18-18l-19b-19i-20-25-27-51-56-in-60-imajo-obvoz/",
+      "lines": [
+        "2",
+        "3G",
+        "6",
+        "6B",
+        "7",
+        "8",
+        "9",
+        "11",
+        "13",
+        "14",
+        "18",
+        "18L",
+        "19B",
+        "19I",
+        "20",
+        "25",
+        "27",
+        "51",
+        "56",
+        "60"
+      ],
+      "contentHtml": "<p>Spoštovani potniki,</p>\n<p>obveščamo vas, da bodo zaradi popolne prometne zapore dela Slovenske ceste na območju Bavarskega dvora linije LPP vozile po spremenjenih trasah od četrtka, 15. 10. 2026, od 10.00 do predvidoma petka, 16. 10. 2026, do 10.00.</p>\n<h4><strong>Obvozne trase:</strong></h4>\n<ul>\n<li><strong>Liniji 2 in 9:</strong> Trg OF – Tivolska cesta (nadomestno postajališče) – Gosposvetska cesta – Slovenska cesta in enako v obratni smeri.</li>\n<li><strong>Linije 7, 8 in 60:</strong> Dunajska cesta – Tivolska cesta (nadomestno postajališče) – Celovška cesta in enako v obratni smeri.</li>\n<li><strong>Linije 3G, 6, 6B, 11, 14, 18, 18L, 19B, 19I in 27:</strong> Dunajska cesta – Tivolska cesta (nadomestno postajališče) – Gosposvetska cesta – Slovenska cesta in enako v obratni smeri.</li>\n<li><strong>Linija 25:</strong> Trg OF – Tivolska cesta (nadomestno postajališče) – Celovška cesta in enako v obratni smeri.</li>\n<li><strong>Liniji 13 in 20:</strong> Dunajska cesta – Tivolska cesta (nadomestno postajališče) – Gosposvetska cesta in enako v obratni smeri.</li>\n<li><strong>Liniji 51 in 56:</strong> Trg OF – Tivolska cesta (nadomestno postajališče) – Bleiweisova cesta in enako v obratni smeri.</li>\n</ul>\n<p><strong>Nadomestno postajališče</strong> bo urejeno na Tivolski cesti, v neposredni bližini bencinskega servisa Petrol.</p>"
+    },
+    {
       "title": "Liniji 68 in 72 imata obvoz",
       "date": "16.09.2026",
       "url": "https://www.lpp.si/obvoz/liniji-68-in-72-imata-obvoz/",
@@ -74,12 +102,27 @@
     }
   ],
   "allLines": [
+    "2",
+    "3G",
+    "6",
+    "6B",
+    "7",
+    "8",
+    "9",
+    "11",
     "12D",
+    "13",
     "14",
     "16",
     "18",
     "18L",
+    "19B",
+    "19I",
+    "20",
+    "25",
     "27",
+    "51",
+    "56",
     "60",
     "71"
   ]
