@@ -143447,5 +143447,23 @@
     "agencies": [
       "1119"
     ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MTM",
+    "gtfs_id": "IJPP:1168813",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Ljubljana AP",
+    "lat": 46.0579438,
+    "lon": 14.5146952,
+    "opposite": null,
+    "agencies": [
+      "1118",
+      "1119",
+      "1121",
+      "1123"
+    ]
   }
 ]
