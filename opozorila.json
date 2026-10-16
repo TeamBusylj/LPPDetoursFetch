@@ -1,13 +1,13 @@
 {
   "detours": [
     {
-      "title": "Linija 2 ima obvoz",
-      "date": "15.10.2026",
-      "url": "https://www.lpp.si/obvoz/linija-2-ima-obvoz/",
+      "title": "Linija 21D vozi skrajšano",
+      "date": "16.10.2026",
+      "url": "https://www.lpp.si/obvoz/linija-21d-vozi-skrajsano-2/",
       "lines": [
-        "2"
+        "21D"
       ],
-      "contentHtml": "<p>Spoštovani potniki,</p>\n<p>obveščamo vas, da bo v petek, 16. 10. 2026, od 00.05 do predvidoma 5.00 zaradi popolne prometne zapore predora pod Ljubljanskim gradom linija 2 vozila po spremenjeni trasi.</p>\n<ul>\n<li><strong>Obvozna trasa:</strong><br>\nZoisova cesta – Karlovška cesta – Roška cesta – Zaloška cesta in enako v obratni smeri.</li>\n</ul>\n<p>Prosimo vas za razumevanje.</p>"
+      "contentHtml": "<p>Spoštovani potniki,</p>\n<p>obveščamo vas, da bo zaradi popolne prometne zapore ceste Ihan–Prelog linija 21D vozila po skrajšani trasi do postajališča Ihan Emona.</p>\n<p>Spremenjen prometni režim bo veljal od sobote, 17. 10. 2026, od 14.00 do ponedeljka, 19. 10. 2026, do 4.00.</p>\n<ul>\n<li><strong>Začasno bodo ukinjena naslednja postajališča:</strong><br>\nPrelog, Prelog Mngan, Zaboršt, Stadion Domžale, SŠ Domžale, OŠ Domžale, Ljubljanska in Domžale kolodvor.</li>\n</ul>\n<p>Prosimo vas za razumevanje.</p>"
     },
     {
       "title": "30. LJUBLJANSKI MARATON – nedelja, 18. 10. 2026",
@@ -122,6 +122,7 @@
     "19B",
     "19I",
     "20",
+    "21D",
     "25",
     "27",
     "51",
