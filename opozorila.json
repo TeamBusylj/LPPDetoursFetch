@@ -30,24 +30,6 @@
       "contentHtml": "<p class=\"isSelectedEnd\">Spoštovani potniki,</p>\n<p class=\"isSelectedEnd\">obveščamo vas, da bodo od torka, 1. 9. 2026, do zaključka gradbenih del na območju Potniškega centra Ljubljana linije 12D, 18, 18L, 27 in 60 vozile po spremenjenih trasah.</p>\n<p class=\"isSelectedEnd\">V času gradbenih del bodo linije preusmerjene na naslednje obvozne trase:</p>\n<p class=\"isSelectedEnd\"><strong>Linija 12D:</strong><br>\n• <strong>smer Železna:</strong> Šmartinska cesta – Vilharjeva cesta – Dunajska cesta – Linhartova cesta – Železna cesta<br>\n• <strong>smer Domžale:</strong> Železna cesta – Vilharjeva cesta – Šmartinska cesta in naprej po redni trasi</p>\n<p class=\"isSelectedEnd\"><strong>Liniji 18 in 18L:</strong><br>\n• <strong>smer Kolodvor/Železna:</strong> Slovenska cesta – Vilharjeva cesta – Železna cesta<br>\n• <strong>smer C. Stožice/Litostrojska:</strong> Železna cesta – Linhartova cesta – Dunajska cesta in naprej po redni trasi</p>\n<p class=\"isSelectedEnd\"><strong>Linija 27:</strong><br>\n• Šmartinska cesta – Vilharjeva cesta – Slovenska cesta in enako v obratni smeri</p>\n<p class=\"isSelectedEnd\"><strong>Linija 60:</strong><br>\n• <strong>smer AP/Železna:</strong> Slovenska cesta – Vilharjeva cesta – Železna cesta<br>\n• <strong>smer Vodice:</strong> Železna cesta – Linhartova cesta – Dunajska cesta in naprej po redni trasi</p>\n<p>Prosimo vas za razumevanje.</p>"
     },
     {
-      "title": "Linija 14 ima obvoz",
-      "date": "14.08.2026",
-      "url": "https://www.lpp.si/obvoz/linija-14-ima-obvoz-2/",
-      "lines": [
-        "14"
-      ],
-      "contentHtml": "<p>Spoštovani potniki,</p>\n<p>zaradi popolne prometne zapore Čerinove ulice ima linija 14 od 15. 8. 2026 do zaključka gradbenih del obvoz. V času popolne prometne zapore Čerinove ulice bo linija 14 preusmerjena na obvozno traso in sicer:</p>\n<ul>\n<li>Ulica 7. septembra, Dunajska cesta, Ježica in enako v obratni smeri.</li>\n</ul>\n<p>&nbsp;</p>"
-    },
-    {
-      "title": "Linija 12D ima spremenjeno traso",
-      "date": "15.05.2026",
-      "url": "https://www.lpp.si/obvoz/obvoz-linija-12d-ima-spremenjeno-traso/",
-      "lines": [
-        "12D"
-      ],
-      "contentHtml": "<p data-end=\"133\" data-start=\"114\">Spoštovani potniki,</p>\n<p data-end=\"235\" data-start=\"135\">obveščamo vas, da bo od ponedeljka, 18. 5. 2026, linija 12D začasno obratovala po spremenjeni trasi.</p>\n<p data-end=\"288\" data-start=\"237\">V času spremembe bo linija preusmerjena, kot sledi:</p>\n<ul data-end=\"496\" data-start=\"290\">\n<li data-end=\"398\" data-start=\"290\"><strong data-end=\"309\" data-start=\"292\">Smer Železna:</strong> Šmartinska cesta – Vilharjeva cesta – Dunajska cesta – Linhartova cesta – Železna cesta.</li>\n<li data-end=\"496\" data-start=\"399\"><strong data-end=\"418\" data-start=\"401\">Smer Domžale:</strong> Železna cesta – Vilharjeva cesta – Šmartinska cesta in naprej po redni trasi.</li>\n</ul>\n<p>Hvala za razumevanje.</p>"
-    },
-    {
       "title": "Zapora postajališča Japelj",
       "date": "04.05.2026",
       "url": "https://www.lpp.si/obvoz/obvoz-zapora-postajalisca-japelj/",
@@ -66,7 +48,6 @@
   ],
   "allLines": [
     "12D",
-    "14",
     "18",
     "18L",
     "27",
