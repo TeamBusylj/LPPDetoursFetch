@@ -139360,6 +139360,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjgyNjk",
+    "gtfs_id": "IJPP:1168269",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Dobrava pri Kostanjevici",
+    "lat": 45.8534886,
+    "lon": 15.3880324,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjgyNzA",
+    "gtfs_id": "IJPP:1168270",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Dobrava pri Kostanjevici",
+    "lat": 45.8532388,
+    "lon": 15.3889662,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjgyNzE",
     "gtfs_id": "IJPP:1168271",
     "code": null,
