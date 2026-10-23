@@ -3312,7 +3312,6 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "IC",
       "LPV",
       "RG"
     ]
@@ -3330,7 +3329,6 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "IC",
       "LPV",
       "RG"
     ]
@@ -3348,7 +3346,6 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "IC",
       "LPV",
       "RG"
     ]
@@ -3439,7 +3436,6 @@
     "lon": 14.1856409,
     "opposite": null,
     "agencies": [
-      "IC",
       "LPV",
       "RG"
     ]
@@ -3457,7 +3453,6 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "IC",
       "LPV",
       "RG"
     ]
@@ -3493,8 +3488,8 @@
     "lon": 14.1058467,
     "opposite": null,
     "agencies": [
-      "IC",
-      "LPV"
+      "LPV",
+      "RG"
     ]
   },
   {
@@ -3509,8 +3504,8 @@
     "lon": 14.0721945,
     "opposite": null,
     "agencies": [
-      "IC",
-      "LPV"
+      "LPV",
+      "RG"
     ]
   },
   {
@@ -4298,7 +4293,6 @@
     "opposite": null,
     "agencies": [
       "BUS",
-      "IC",
       "LPV",
       "RG"
     ]
