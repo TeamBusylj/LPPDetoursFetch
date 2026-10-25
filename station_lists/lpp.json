@@ -16016,10 +16016,6 @@
     "opposite": "603152",
     "routes": [
       {
-        "name": "19B",
-        "color": "#d895a9"
-      },
-      {
         "name": "27",
         "color": "#589786"
       }
@@ -16736,10 +16732,6 @@
       {
         "name": "2",
         "color": "#7f7b3f"
-      },
-      {
-        "name": "24",
-        "color": "#d4267e"
       }
     ]
   },
@@ -19412,10 +19404,6 @@
     "opposite": "503052",
     "routes": [
       {
-        "name": "19B",
-        "color": "#d895a9"
-      },
-      {
         "name": "27",
         "color": "#589786"
       }
@@ -20582,24 +20570,6 @@
       {
         "name": "27",
         "color": "#589786"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6NWNlMDVhM2YtMmMwOC00YmFmLWFkZGEtNzc3ZmNjZTM1YWNm",
-    "gtfs_id": "LPP:5ce05a3f-2c08-4baf-adda-777fcce35acf",
-    "code": "504044",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Jurčkova",
-    "lat": 46.026035,
-    "lon": 14.527602,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "19B",
-        "color": "#d895a9"
       }
     ]
   },
@@ -25246,24 +25216,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6YTI0OWUwZmYtNjg3OS00Y2Y5LWE2MjctOGYwNjkyODk0Nzc0",
-    "gtfs_id": "LPP:a249e0ff-6879-4cf9-a627-8f0692894774",
-    "code": "504192",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Peruzzijeva-2",
-    "lat": 46.021229,
-    "lon": 14.522454,
-    "opposite": "504191",
-    "routes": [
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6YTI2ZDlhOTQtZWZmYi00NWFiLWEyN2YtNzQwNzZlOWU1YmRk",
     "gtfs_id": "LPP:a26d9a94-effb-45ab-a27f-74076e9e5bdd",
     "code": "614111",
@@ -25505,10 +25457,6 @@
     "lon": 14.527631,
     "opposite": "504042",
     "routes": [
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      },
       {
         "name": "27",
         "color": "#589786"
@@ -26198,10 +26146,6 @@
     "opposite": "603162",
     "routes": [
       {
-        "name": "19B",
-        "color": "#d895a9"
-      },
-      {
         "name": "27",
         "color": "#589786"
       }
@@ -26505,10 +26449,6 @@
     "lon": 14.516356,
     "opposite": "603151",
     "routes": [
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      },
       {
         "name": "27",
         "color": "#589786"
@@ -26854,10 +26794,6 @@
       {
         "name": "2",
         "color": "#7f7b3f"
-      },
-      {
-        "name": "24",
-        "color": "#d4267e"
       }
     ]
   },
@@ -26948,24 +26884,6 @@
       {
         "name": "18",
         "color": "#765033"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6YmY2NGI0OTktMjExYi00ZGE4LWFjZTItZjEyYTE3NjA4YWUz",
-    "gtfs_id": "LPP:bf64b499-211b-4da8-ace2-f12a17608ae3",
-    "code": "303043",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "ŠTEPANJSKO NAS.",
-    "lat": 46.053509,
-    "lon": 14.548228,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "9",
-        "color": "#829fc3"
       }
     ]
   },
@@ -27471,10 +27389,6 @@
     "lon": 14.522042,
     "opposite": "503051",
     "routes": [
-      {
-        "name": "19B",
-        "color": "#d895a9"
-      },
       {
         "name": "27",
         "color": "#589786"
@@ -28974,10 +28888,6 @@
     "opposite": "603161",
     "routes": [
       {
-        "name": "19B",
-        "color": "#d895a9"
-      },
-      {
         "name": "27",
         "color": "#589786"
       }
@@ -30088,24 +29998,6 @@
       {
         "name": "18L",
         "color": "#765033"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6ZWU0MzEyMjItOTRjZi00N2RiLTg4OTUtMzU4MDVkYjU1OGZh",
-    "gtfs_id": "LPP:ee431222-94cf-47db-8895-35805db558fa",
-    "code": "504191",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Peruzzijeva-2",
-    "lat": 46.021225,
-    "lon": 14.522709,
-    "opposite": "504192",
-    "routes": [
-      {
-        "name": "19B",
-        "color": "#d895a9"
       }
     ]
   },
