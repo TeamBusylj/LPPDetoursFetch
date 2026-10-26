@@ -1,13 +1,13 @@
 {
   "detours": [
     {
-      "title": "Linija 16",
+      "title": "Linija 16 ima obvoz",
       "date": "23.10.2026",
       "url": "https://www.lpp.si/obvoz/linija-16/",
       "lines": [
         "16"
       ],
-      "contentHtml": "<h1>Linija 16 ima obvoz</h1>\n<p>Zaradi popolne prometne zapore dela Ceste dveh cesarjev, bo imela linija 16 od sobote, 24.10. 2026, do predvidoma petka, 30.10. 2026, obvoz.</p>\n<p><strong><u>Obvozna trasa:</u></strong> Tbilisijska ulica – Gerbičeva ulica – Koprska ulica – Cesta v Mestni log, Barjanska cesta, Pot na Rakovo jelšo in nato po redni trasi ter enako v obratni smeri.</p>\n<p>&nbsp;</p>"
+      "contentHtml": "<p>Zaradi popolne prometne zapore dela Ceste dveh cesarjev, bo imela linija 16 od sobote, 24.10. 2026, do predvidoma petka, 30.10. 2026, obvoz.</p>\n<p><strong><u>Obvozna trasa:</u></strong> Tbilisijska ulica – Gerbičeva ulica – Koprska ulica – Cesta v Mestni log, Barjanska cesta, Pot na Rakovo jelšo in nato po redni trasi ter enako v obratni smeri.</p>"
     },
     {
       "title": "Liniji 68 in 72 imata obvoz",
