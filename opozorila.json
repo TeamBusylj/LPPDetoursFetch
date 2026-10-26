@@ -26,15 +26,6 @@
       "contentHtml": "<p class=\"isSelectedEnd\">Spoštovani potniki,</p>\n<p class=\"isSelectedEnd\">obveščamo vas, da <strong>od 31. 8. 2026 do zaključka gradbenih del,</strong> zaradi popolne prometne zapore na delu regionalne ceste linija 60 vozi po spremenjeni trasi.</p>\n<ul>\n<li class=\"isSelectedEnd\"><strong>Spremenjena trasa linije 60:</strong><br>\nŠentvid – Povodje – Vojsko – Polje – Skaručna – Vodice in enako v obratni smeri.</li>\n</ul>\n<p class=\"isSelectedEnd\">Zaradi nadaljevanja gradbenih del se <strong>ukinja nadomestno postajališče pri transformatorski postaji v Skaručni</strong>. Novo nadomestno postajališče bo urejeno približno <strong>500 metrov nižje v smeri Povodja</strong>.</p>\n<p>Prosimo vas za razumevanje.</p>\n<img src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/b4618177888393575b6081ac9bbba54a.gif\">"
     },
     {
-      "title": "Linija 16 ima obvoz",
-      "date": "28.08.2026",
-      "url": "https://www.lpp.si/obvoz/linija-16-ima-obvoz-2/",
-      "lines": [
-        "16"
-      ],
-      "contentHtml": "<p class=\"isSelectedEnd\">Spoštovani potniki,</p>\n<p class=\"isSelectedEnd\">obveščamo vas, da bo od ponedeljka, 31. 8. 2026, do zaključka gradbenih del zaradi popolne prometne zapore dela Tbilisijske ulice linija 16 vozila po spremenjeni trasi.</p>\n<p class=\"isSelectedEnd\"><strong>Obvozna trasa:</strong><br>\n• Tbilisijska ulica – Gerbičeva ulica – Koprska ulica – Cesta v Mestni log in nato po redni trasi ter enako v obratni smeri.</p>\n<p>Prosimo vas za razumevanje.</p>"
-    },
-    {
       "title": "Linije 12D, 18, 18L, 27 in 60 imajo obvoz",
       "date": "28.08.2026",
       "url": "https://www.lpp.si/obvoz/linije-12d-18-18l-27-in-60-imajo-obvoz/",
@@ -48,6 +39,15 @@
       "contentHtml": "<p class=\"isSelectedEnd\">Spoštovani potniki,</p>\n<p class=\"isSelectedEnd\">obveščamo vas, da bodo od torka, 1. 9. 2026, do zaključka gradbenih del na območju Potniškega centra Ljubljana linije 12D, 18, 18L, 27 in 60 vozile po spremenjenih trasah.</p>\n<p class=\"isSelectedEnd\">V času gradbenih del bodo linije preusmerjene na naslednje obvozne trase:</p>\n<p class=\"isSelectedEnd\"><strong>Linija 12D:</strong><br>\n• <strong>smer Železna:</strong> Šmartinska cesta – Vilharjeva cesta – Dunajska cesta – Linhartova cesta – Železna cesta<br>\n• <strong>smer Domžale:</strong> Železna cesta – Vilharjeva cesta – Šmartinska cesta in naprej po redni trasi</p>\n<p class=\"isSelectedEnd\"><strong>Liniji 18 in 18L:</strong><br>\n• <strong>smer Kolodvor/Železna:</strong> Slovenska cesta – Vilharjeva cesta – Železna cesta<br>\n• <strong>smer C. Stožice/Litostrojska:</strong> Železna cesta – Linhartova cesta – Dunajska cesta in naprej po redni trasi</p>\n<p class=\"isSelectedEnd\"><strong>Linija 27:</strong><br>\n• Šmartinska cesta – Vilharjeva cesta – Slovenska cesta in enako v obratni smeri</p>\n<p class=\"isSelectedEnd\"><strong>Linija 60:</strong><br>\n• <strong>smer AP/Železna:</strong> Slovenska cesta – Vilharjeva cesta – Železna cesta<br>\n• <strong>smer Vodice:</strong> Železna cesta – Linhartova cesta – Dunajska cesta in naprej po redni trasi</p>\n<p>Prosimo vas za razumevanje.</p>"
     },
     {
+      "title": "Linija 14 ima obvoz",
+      "date": "14.08.2026",
+      "url": "https://www.lpp.si/obvoz/linija-14-ima-obvoz-2/",
+      "lines": [
+        "14"
+      ],
+      "contentHtml": "<p>Spoštovani potniki,</p>\n<p>zaradi popolne prometne zapore Čerinove ulice ima linija 14 od 15. 8. 2026 do zaključka gradbenih del obvoz. V času popolne prometne zapore Čerinove ulice bo linija 14 preusmerjena na obvozno traso in sicer:</p>\n<ul>\n<li>Ulica 7. septembra, Dunajska cesta, Ježica in enako v obratni smeri.</li>\n</ul>\n<p>&nbsp;</p>"
+    },
+    {
       "title": "Zapora postajališča Japelj",
       "date": "04.05.2026",
       "url": "https://www.lpp.si/obvoz/obvoz-zapora-postajalisca-japelj/",
@@ -57,6 +57,7 @@
   ],
   "allLines": [
     "12D",
+    "14",
     "16",
     "18",
     "18L",
