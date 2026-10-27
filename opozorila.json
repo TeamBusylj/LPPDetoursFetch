@@ -1,6 +1,15 @@
 {
   "detours": [
     {
+      "title": "Linija 9 vozi skrajšano",
+      "date": "27.10.2026",
+      "url": "https://www.lpp.si/obvoz/linija-9-vozi-skrajsano/",
+      "lines": [
+        "9"
+      ],
+      "contentHtml": "<p data-pm-slice=\"1 1 []\">Spoštovani potniki,</p>\n<p>obveščamo vas, da bo zaradi asfaltiranja uvoza in izvoza na P+R Barje linija 9 od srede, 28. 10. 2026, od 8.30 do predvidoma četrtka, 29. 10. 2026, do 24.00 vozila skrajšano do novega krožišča.</p>\n<p>Začasno postajališče bo urejeno na Barjanski cesti, približno 100 metrov od krožišča v smeri proti centru.</p>\n<p>Prosimo vas za razumevanje.</p>"
+    },
+    {
       "title": "Linija 16 ima obvoz",
       "date": "23.10.2026",
       "url": "https://www.lpp.si/obvoz/linija-16/",
@@ -56,6 +65,7 @@
     }
   ],
   "allLines": [
+    "9",
     "12D",
     "14",
     "16",
