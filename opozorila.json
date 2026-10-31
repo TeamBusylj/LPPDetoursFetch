@@ -1,15 +1,6 @@
 {
   "detours": [
     {
-      "title": "Linija 9 ima obvoz",
-      "date": "30.10.2026",
-      "url": "https://www.lpp.si/obvoz/linija-9-ima-obvoz/",
-      "lines": [
-        "9"
-      ],
-      "contentHtml": "<p data-pm-slice=\"1 1 []\">Spoštovani potniki,</p>\n<p>obveščamo vas, da bo zaradi popolne zapore dela Kopačeve ceste linija 9 od petka, 30. 10. 2026, od 17.00 do predvidoma sobote, 31. 10. 2026, do 17.00 vozila po spremenjeni trasi.</p>\n<p>Obvozna trasa:</p>\n<ul>\n<li>Vozi po Barjanski cesti in izpusti postajališča: Pot na Rakovo jelšo, Opekarska in Murgle.</li>\n</ul>\n<p>Prosimo vas za razumevanje.</p>"
-    },
-    {
       "title": "Liniji 68 in 72 imata obvoz",
       "date": "16.09.2026",
       "url": "https://www.lpp.si/obvoz/liniji-68-in-72-imata-obvoz/",
@@ -65,7 +56,6 @@
     }
   ],
   "allLines": [
-    "9",
     "12D",
     "14",
     "16",
