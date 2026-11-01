@@ -16718,24 +16718,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6MWZlODJhMDUtNWY2YS00MDc2LTllMTktMjNkNjFiODM1NTcy",
-    "gtfs_id": "LPP:1fe82a05-5f6a-4076-9e19-23d61b835572",
-    "code": "203011",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Pokopališka",
-    "lat": 46.065479,
-    "lon": 14.529408,
-    "opposite": "203012",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#7f7b3f"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6MjA3M2IyODgtMDJjMi00ZDdlLWFjZjEtMWE4ZDU5ZmIyODg0",
     "gtfs_id": "LPP:2073b288-02c2-4d7e-acf1-1a8d59fb2884",
     "code": "102062",
@@ -17810,10 +17792,6 @@
       {
         "name": "9",
         "color": "#829fc3"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
       }
     ]
   },
@@ -21936,10 +21914,6 @@
       {
         "name": "2",
         "color": "#7f7b3f"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
       }
     ]
   },
@@ -22934,10 +22908,6 @@
         "color": "#829fc3"
       },
       {
-        "name": "27",
-        "color": "#589786"
-      },
-      {
         "name": "SŽ",
         "color": "#666666"
       }
@@ -23206,10 +23176,6 @@
       {
         "name": "14",
         "color": "#da5894"
-      },
-      {
-        "name": "18",
-        "color": "#765033"
       }
     ]
   },
@@ -26568,10 +26534,6 @@
       {
         "name": "14",
         "color": "#da5894"
-      },
-      {
-        "name": "18",
-        "color": "#765033"
       }
     ]
   },
@@ -26780,24 +26742,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6YmUxODgxYzktZDc5Zi00NTNlLWEyZWUtMjYwYThiZjNmZTEz",
-    "gtfs_id": "LPP:be1881c9-d79f-453e-a2ee-260a8bf3fe13",
-    "code": "203012",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Pokopališka",
-    "lat": 46.065437,
-    "lon": 14.52916,
-    "opposite": "203011",
-    "routes": [
-      {
-        "name": "2",
-        "color": "#7f7b3f"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6YmU1ZmI3MTktZWRhMi00ODMxLTkwYzYtMjQ5MjQ4ZWEyMmRk",
     "gtfs_id": "LPP:be5fb719-eda2-4831-90c6-249248ea22dd",
     "code": "104161",
@@ -26880,10 +26824,6 @@
       {
         "name": "14",
         "color": "#da5894"
-      },
-      {
-        "name": "18",
-        "color": "#765033"
       }
     ]
   },
@@ -26917,14 +26857,6 @@
     "lon": 14.525992,
     "opposite": "202091",
     "routes": [
-      {
-        "name": "7",
-        "color": "#47acd1"
-      },
-      {
-        "name": "22",
-        "color": "#e6a042"
-      },
       {
         "name": "27",
         "color": "#589786"
@@ -27086,10 +27018,6 @@
       {
         "name": "9",
         "color": "#829fc3"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
       }
     ]
   },
@@ -27414,10 +27342,6 @@
       {
         "name": "2",
         "color": "#7f7b3f"
-      },
-      {
-        "name": "3",
-        "color": "#7fec30"
       },
       {
         "name": "N3",
@@ -28442,10 +28366,6 @@
       {
         "name": "14",
         "color": "#da5894"
-      },
-      {
-        "name": "18",
-        "color": "#765033"
       }
     ]
   },
@@ -28916,28 +28836,6 @@
       {
         "name": "11",
         "color": "#e2bb46"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpMUFA6ZGI5ZjcxMzAtMGJjMi00ZjNlLWI4Y2QtMDdjZmU5NmIxZjhm",
-    "gtfs_id": "LPP:db9f7130-0bc2-4f3e-b8cd-07cfe96b1f8f",
-    "code": "300015",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "KOLODVOR",
-    "lat": 46.057991,
-    "lon": 14.514928,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "18",
-        "color": "#765033"
-      },
-      {
-        "name": "18L",
-        "color": "#765033"
       }
     ]
   },
@@ -30282,14 +30180,6 @@
     "opposite": "202092",
     "routes": [
       {
-        "name": "7",
-        "color": "#47acd1"
-      },
-      {
-        "name": "22",
-        "color": "#e6a042"
-      },
-      {
         "name": "27",
         "color": "#589786"
       }
@@ -30346,10 +30236,6 @@
       {
         "name": "2",
         "color": "#7f7b3f"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
       }
     ]
   },
@@ -30368,10 +30254,6 @@
       {
         "name": "14",
         "color": "#da5894"
-      },
-      {
-        "name": "18",
-        "color": "#765033"
       }
     ]
   },
@@ -30430,10 +30312,6 @@
       {
         "name": "9",
         "color": "#829fc3"
-      },
-      {
-        "name": "27",
-        "color": "#589786"
       }
     ]
   },
