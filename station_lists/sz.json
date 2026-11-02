@@ -41,10 +41,12 @@
     "lon": 15.6548638,
     "opposite": null,
     "agencies": [
+      "D",
       "EC",
       "EN",
       "LPV",
       "MV",
+      "R",
       "RG"
     ]
   },
@@ -916,6 +918,7 @@
     "opposite": null,
     "agencies": [
       "BUS",
+      "D",
       "EC",
       "EN",
       "LP",
@@ -2152,11 +2155,14 @@
       "EN",
       "IC",
       "ICS",
+      "IR",
       "LP",
       "LPV",
       "MO",
       "MV",
-      "RG"
+      "R",
+      "RG",
+      "S"
     ]
   },
   {
@@ -2458,7 +2464,9 @@
     "agencies": [
       "LP",
       "LPV",
-      "MO"
+      "MO",
+      "R",
+      "S"
     ]
   },
   {
@@ -2489,10 +2497,14 @@
     "lon": 15.6580539,
     "opposite": null,
     "agencies": [
+      "IR",
       "LP",
       "LPV",
       "MO",
-      "RG"
+      "MV",
+      "R",
+      "RG",
+      "S"
     ]
   },
   {
@@ -2552,7 +2564,8 @@
     "lon": 14.8413556,
     "opposite": null,
     "agencies": [
-      "LP"
+      "LP",
+      "R"
     ]
   },
   {
@@ -2717,7 +2730,8 @@
     "opposite": null,
     "agencies": [
       "LP",
-      "MO"
+      "MO",
+      "R"
     ]
   },
   {
@@ -2832,6 +2846,7 @@
     "opposite": null,
     "agencies": [
       "LPV",
+      "MV",
       "RG"
     ]
   },
@@ -2881,7 +2896,9 @@
     "agencies": [
       "IC",
       "LPV",
+      "MO",
       "MV",
+      "R",
       "RG"
     ]
   },
@@ -2991,7 +3008,8 @@
     "opposite": null,
     "agencies": [
       "LP",
-      "MO"
+      "MO",
+      "R"
     ]
   },
   {
@@ -3683,7 +3701,8 @@
     "opposite": null,
     "agencies": [
       "LP",
-      "LPV"
+      "LPV",
+      "R"
     ]
   },
   {
@@ -3910,6 +3929,7 @@
     "agencies": [
       "AVT",
       "LP",
+      "R",
       "RG"
     ]
   },
@@ -4359,6 +4379,2696 @@
     "agencies": [
       "LP",
       "MO"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAwNw",
+    "gtfs_id": "IJPP:INTL-5500007",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Budapest-Déli",
+    "lat": 47.499477,
+    "lon": 19.024876,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAwOA",
+    "gtfs_id": "IJPP:INTL-5500008",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Budapest-Kelenföld",
+    "lat": 47.464298,
+    "lon": 19.020615,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAwOQ",
+    "gtfs_id": "IJPP:INTL-5500009",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Tatabánya",
+    "lat": 47.585442,
+    "lon": 18.392895,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAxMA",
+    "gtfs_id": "IJPP:INTL-5500010",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Tata",
+    "lat": 47.663952,
+    "lon": 18.327875,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAxMg",
+    "gtfs_id": "IJPP:INTL-5500012",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Komárom",
+    "lat": 47.749584,
+    "lon": 18.11389,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAyOA",
+    "gtfs_id": "IJPP:INTL-5500028",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Szombathely",
+    "lat": 47.23735,
+    "lon": 16.632761,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAyOQ",
+    "gtfs_id": "IJPP:INTL-5500029",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Szentgotthárd",
+    "lat": 46.957466,
+    "lon": 16.26338,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAzMA",
+    "gtfs_id": "IJPP:INTL-5500030",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Csorna",
+    "lat": 47.601959,
+    "lon": 17.248911,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAzNQ",
+    "gtfs_id": "IJPP:INTL-5500035",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Székesfehérvár",
+    "lat": 47.183018,
+    "lon": 18.424995,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDA1Ng",
+    "gtfs_id": "IJPP:INTL-5500056",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Várpalota",
+    "lat": 47.194576,
+    "lon": 18.148897,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDA1OQ",
+    "gtfs_id": "IJPP:INTL-5500059",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Veszprém",
+    "lat": 47.118965,
+    "lon": 17.911404,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDA2MA",
+    "gtfs_id": "IJPP:INTL-5500060",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Ajka",
+    "lat": 47.105942,
+    "lon": 17.572863,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDA3Nw",
+    "gtfs_id": "IJPP:INTL-5500077",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Ukk",
+    "lat": 47.04076,
+    "lon": 17.196486,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDA3OQ",
+    "gtfs_id": "IJPP:INTL-5500079",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zalabér-Batyk",
+    "lat": 46.98312,
+    "lon": 17.040792,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDA4MA",
+    "gtfs_id": "IJPP:INTL-5500080",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Győr",
+    "lat": 47.682083,
+    "lon": 17.634827,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDA4MQ",
+    "gtfs_id": "IJPP:INTL-5500081",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zalaszentiván",
+    "lat": 46.88747,
+    "lon": 16.911102,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDA4Nw",
+    "gtfs_id": "IJPP:INTL-5500087",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zalaegerszeg",
+    "lat": 46.833546,
+    "lon": 16.848337,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MO",
+      "MV",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDEyNw",
+    "gtfs_id": "IJPP:INTL-5500127",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Körmend",
+    "lat": 47.016098,
+    "lon": 16.5973,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDE4Nw",
+    "gtfs_id": "IJPP:INTL-5500187",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Alsórönök",
+    "lat": 46.964241,
+    "lon": 16.378111,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDE5Mg",
+    "gtfs_id": "IJPP:INTL-5500192",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Andráshida",
+    "lat": 46.863049,
+    "lon": 16.779367,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDIyMQ",
+    "gtfs_id": "IJPP:INTL-5500221",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Bagod",
+    "lat": 46.874928,
+    "lon": 16.746092,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDM0MA",
+    "gtfs_id": "IJPP:INTL-5500340",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Budafa",
+    "lat": 46.851482,
+    "lon": 16.624783,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDM2OA",
+    "gtfs_id": "IJPP:INTL-5500368",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Csákánydoroszló",
+    "lat": 46.978352,
+    "lon": 16.499722,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDQ3MQ",
+    "gtfs_id": "IJPP:INTL-5500471",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Egyházasrádóc",
+    "lat": 47.090843,
+    "lon": 16.619736,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMDYxMw",
+    "gtfs_id": "IJPP:INTL-5500613",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Haris",
+    "lat": 46.964653,
+    "lon": 16.282642,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTA1Ng",
+    "gtfs_id": "IJPP:INTL-5501056",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Pétfürdő",
+    "lat": 47.167301,
+    "lon": 18.122242,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTEyNQ",
+    "gtfs_id": "IJPP:INTL-5501125",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Rátót",
+    "lat": 46.967602,
+    "lon": 16.432989,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTEzMg",
+    "gtfs_id": "IJPP:INTL-5501132",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Répcelak",
+    "lat": 47.419022,
+    "lon": 17.00906,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTI4MA",
+    "gtfs_id": "IJPP:INTL-5501280",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Szombathely-Szőlős",
+    "lat": 47.206409,
+    "lon": 16.64172,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTQ3NA",
+    "gtfs_id": "IJPP:INTL-5501474",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zalacséb-Salomvár",
+    "lat": 46.857834,
+    "lon": 16.661276,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTQ3NQ",
+    "gtfs_id": "IJPP:INTL-5501475",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zalaegerszeg-Ola",
+    "lat": 46.851593,
+    "lon": 16.835588,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTQ3OA",
+    "gtfs_id": "IJPP:INTL-5501478",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zalalövő",
+    "lat": 46.845444,
+    "lon": 16.57645,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MO",
+      "MV",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTQ3OQ",
+    "gtfs_id": "IJPP:INTL-5501479",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zalapatakalja",
+    "lat": 46.845497,
+    "lon": 16.604008,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTQ4MQ",
+    "gtfs_id": "IJPP:INTL-5501481",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zalaszentgyörgy",
+    "lat": 46.872211,
+    "lon": 16.71237,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTUxMQ",
+    "gtfs_id": "IJPP:INTL-5501511",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Jánosháza",
+    "lat": 47.115459,
+    "lon": 17.171642,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MV"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTYwOQ",
+    "gtfs_id": "IJPP:INTL-5501609",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Ják-Balogunyom",
+    "lat": 47.161304,
+    "lon": 16.63026,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTYyMQ",
+    "gtfs_id": "IJPP:INTL-5501621",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Horvátnádalja",
+    "lat": 47.005669,
+    "lon": 16.545769,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTY4NA",
+    "gtfs_id": "IJPP:INTL-5501684",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Pankasz",
+    "lat": 46.835964,
+    "lon": 16.496906,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTY4NQ",
+    "gtfs_id": "IJPP:INTL-5501685",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Nagyrákos",
+    "lat": 46.82719,
+    "lon": 16.455753,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTY4Ng",
+    "gtfs_id": "IJPP:INTL-5501686",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Őriszentpéter",
+    "lat": 46.829117,
+    "lon": 16.41613,
+    "opposite": null,
+    "agencies": [
+      "IC",
+      "MO",
+      "MV",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTY4Nw",
+    "gtfs_id": "IJPP:INTL-5501687",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Bajánsenye",
+    "lat": 46.818104,
+    "lon": 16.358059,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNTUwMTY4OQ",
+    "gtfs_id": "IJPP:INTL-5501689",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Felsőjánosfa",
+    "lat": 46.841396,
+    "lon": 16.543493,
+    "opposite": null,
+    "agencies": [
+      "MO",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAwMg",
+    "gtfs_id": "IJPP:INTL-7800002",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Opatija-Matulji",
+    "lat": 45.364616,
+    "lon": 14.320992,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAwMw",
+    "gtfs_id": "IJPP:INTL-7800003",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Pula",
+    "lat": 44.879787,
+    "lon": 13.847144,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAwOA",
+    "gtfs_id": "IJPP:INTL-7800008",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Nova Gradiška",
+    "lat": 45.253342,
+    "lon": 17.379288,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAwOQ",
+    "gtfs_id": "IJPP:INTL-7800009",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Novska",
+    "lat": 45.326778,
+    "lon": 16.977091,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAxMA",
+    "gtfs_id": "IJPP:INTL-7800010",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Banova Jaruga",
+    "lat": 45.445641,
+    "lon": 16.876307,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAxMw",
+    "gtfs_id": "IJPP:INTL-7800013",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Rijeka",
+    "lat": 45.330002,
+    "lon": 14.430289,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAxNQ",
+    "gtfs_id": "IJPP:INTL-7800015",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Slavonski Brod",
+    "lat": 45.163544,
+    "lon": 18.011185,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAxOA",
+    "gtfs_id": "IJPP:INTL-7800018",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Vinkovci",
+    "lat": 45.300354,
+    "lon": 18.802626,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAyMA",
+    "gtfs_id": "IJPP:INTL-7800020",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zagreb Glavni kolodvor",
+    "lat": 45.804447,
+    "lon": 15.978833,
+    "opposite": null,
+    "agencies": [
+      "D",
+      "EC",
+      "EN",
+      "R",
+      "RG"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAyMQ",
+    "gtfs_id": "IJPP:INTL-7800021",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Buzet",
+    "lat": 45.426254,
+    "lon": 13.985194,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAyMg",
+    "gtfs_id": "IJPP:INTL-7800022",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Cerovlje",
+    "lat": 45.276611,
+    "lon": 14.013771,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAyNA",
+    "gtfs_id": "IJPP:INTL-7800024",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Dugo Selo",
+    "lat": 45.801373,
+    "lon": 16.234756,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAyNw",
+    "gtfs_id": "IJPP:INTL-7800027",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Kanfanar",
+    "lat": 45.117149,
+    "lon": 13.836706,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAyOQ",
+    "gtfs_id": "IJPP:INTL-7800029",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Sveti Petar u Šumi",
+    "lat": 45.18504,
+    "lon": 13.867281,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAzMg",
+    "gtfs_id": "IJPP:INTL-7800032",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Ivanić Grad",
+    "lat": 45.70731,
+    "lon": 16.397974,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAzNA",
+    "gtfs_id": "IJPP:INTL-7800034",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Kutina",
+    "lat": 45.475273,
+    "lon": 16.773726,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDAzOA",
+    "gtfs_id": "IJPP:INTL-7800038",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Lupoglav",
+    "lat": 45.355522,
+    "lon": 14.105488,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA0NA",
+    "gtfs_id": "IJPP:INTL-7800044",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Pazin",
+    "lat": 45.239712,
+    "lon": 13.946066,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA0Ng",
+    "gtfs_id": "IJPP:INTL-7800046",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Nova Kapela-Batrina",
+    "lat": 45.189819,
+    "lon": 17.650295,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA0Nw",
+    "gtfs_id": "IJPP:INTL-7800047",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Strizivojna-Vrpolje",
+    "lat": 45.227173,
+    "lon": 18.413549,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA1Mg",
+    "gtfs_id": "IJPP:INTL-7800052",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zabok",
+    "lat": 46.02393,
+    "lon": 15.902127,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA1NA",
+    "gtfs_id": "IJPP:INTL-7800054",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Čakovec",
+    "lat": 46.384365,
+    "lon": 16.420519,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA2MQ",
+    "gtfs_id": "IJPP:INTL-7800061",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zaprešić",
+    "lat": 45.844402,
+    "lon": 15.813168,
+    "opposite": null,
+    "agencies": [
+      "D",
+      "EC",
+      "EN",
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA2NQ",
+    "gtfs_id": "IJPP:INTL-7800065",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zagreb Zapadni kolodvor",
+    "lat": 45.809113,
+    "lon": 15.954226,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA2Nw",
+    "gtfs_id": "IJPP:INTL-7800067",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Šapjane",
+    "lat": 45.476639,
+    "lon": 14.244383,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA4NA",
+    "gtfs_id": "IJPP:INTL-7800084",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Savski Marof",
+    "lat": 45.872055,
+    "lon": 15.7401,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDA4NQ",
+    "gtfs_id": "IJPP:INTL-7800085",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Vodnjan",
+    "lat": 44.966724,
+    "lon": 13.856052,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDEwNQ",
+    "gtfs_id": "IJPP:INTL-7800105",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Đurmanec",
+    "lat": 46.193703,
+    "lon": 15.843239,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDEwNg",
+    "gtfs_id": "IJPP:INTL-7800106",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Mursko Središće",
+    "lat": 46.508308,
+    "lon": 16.446415,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDEwOA",
+    "gtfs_id": "IJPP:INTL-7800108",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Čakovec-Buzovec",
+    "lat": 46.383789,
+    "lon": 16.445662,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDEwOQ",
+    "gtfs_id": "IJPP:INTL-7800109",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Hromec",
+    "lat": 46.206631,
+    "lon": 15.80853,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDExMQ",
+    "gtfs_id": "IJPP:INTL-7800111",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Vratišinec",
+    "lat": 46.473011,
+    "lon": 16.453638,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDExNQ",
+    "gtfs_id": "IJPP:INTL-7800115",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Novo Selo Rok",
+    "lat": 46.429729,
+    "lon": 16.456491,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDIxNg",
+    "gtfs_id": "IJPP:INTL-7800216",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Borut",
+    "lat": 45.304405,
+    "lon": 14.052366,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDIyMQ",
+    "gtfs_id": "IJPP:INTL-7800221",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Brdovec",
+    "lat": 45.86359,
+    "lon": 15.767122,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDI0Mw",
+    "gtfs_id": "IJPP:INTL-7800243",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Čabrunići",
+    "lat": 45.041542,
+    "lon": 13.865993,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDI0NA",
+    "gtfs_id": "IJPP:INTL-7800244",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Čabrunići Selo",
+    "lat": 45.030773,
+    "lon": 13.864869,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDI4MA",
+    "gtfs_id": "IJPP:INTL-7800280",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Dukovec",
+    "lat": 46.095993,
+    "lon": 15.896016,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDI4Mw",
+    "gtfs_id": "IJPP:INTL-7800283",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Gajnice",
+    "lat": 45.813564,
+    "lon": 15.87291,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDI4NA",
+    "gtfs_id": "IJPP:INTL-7800284",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Galižana",
+    "lat": 44.933804,
+    "lon": 13.871366,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDMwMQ",
+    "gtfs_id": "IJPP:INTL-7800301",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Heki Stajalište",
+    "lat": 45.215477,
+    "lon": 13.887164,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDMwMg",
+    "gtfs_id": "IJPP:INTL-7800302",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Heki",
+    "lat": 45.225151,
+    "lon": 13.894341,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDMwOA",
+    "gtfs_id": "IJPP:INTL-7800308",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Hum u Istri",
+    "lat": 45.343964,
+    "lon": 14.073106,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDMyMA",
+    "gtfs_id": "IJPP:INTL-7800320",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Juršići",
+    "lat": 45.024738,
+    "lon": 13.865183,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDMzNw",
+    "gtfs_id": "IJPP:INTL-7800337",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Krajcar Brijeg",
+    "lat": 45.160019,
+    "lon": 13.862525,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDMzOA",
+    "gtfs_id": "IJPP:INTL-7800338",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Krapina",
+    "lat": 46.159512,
+    "lon": 15.872086,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDM0Nw",
+    "gtfs_id": "IJPP:INTL-7800347",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Kustošija",
+    "lat": 45.810604,
+    "lon": 15.927252,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDQwMA",
+    "gtfs_id": "IJPP:INTL-7800400",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Novaki",
+    "lat": 45.258915,
+    "lon": 13.989384,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDQwNw",
+    "gtfs_id": "IJPP:INTL-7800407",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Novoselec",
+    "lat": 45.649223,
+    "lon": 16.529961,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDQwOA",
+    "gtfs_id": "IJPP:INTL-7800408",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Nugla",
+    "lat": 45.412296,
+    "lon": 14.024351,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDQ0Mg",
+    "gtfs_id": "IJPP:INTL-7800442",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Podsused Stajalište",
+    "lat": 45.815552,
+    "lon": 15.836395,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDQ2OA",
+    "gtfs_id": "IJPP:INTL-7800468",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Roč",
+    "lat": 45.400345,
+    "lon": 14.038946,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDQ2OQ",
+    "gtfs_id": "IJPP:INTL-7800469",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Ročko Polje",
+    "lat": 45.373856,
+    "lon": 14.079901,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDQ3OQ",
+    "gtfs_id": "IJPP:INTL-7800479",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Savičenta",
+    "lat": 45.065876,
+    "lon": 13.858712,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDQ5MQ",
+    "gtfs_id": "IJPP:INTL-7800491",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Smoljanci",
+    "lat": 45.091869,
+    "lon": 13.844447,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDUxMw",
+    "gtfs_id": "IJPP:INTL-7800513",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Šijana",
+    "lat": 44.888489,
+    "lon": 13.866059,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDUyMQ",
+    "gtfs_id": "IJPP:INTL-7800521",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Štrucljevo",
+    "lat": 46.056896,
+    "lon": 15.91189,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDUzMQ",
+    "gtfs_id": "IJPP:INTL-7800531",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Velika Ves",
+    "lat": 46.115318,
+    "lon": 15.887533,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDU0OQ",
+    "gtfs_id": "IJPP:INTL-7800549",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Vrapče",
+    "lat": 45.812275,
+    "lon": 15.896774,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDU2NA",
+    "gtfs_id": "IJPP:INTL-7800564",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zaprešić-Savska",
+    "lat": 45.854942,
+    "lon": 15.794892,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDU4MA",
+    "gtfs_id": "IJPP:INTL-7800580",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Žminj",
+    "lat": 45.146282,
+    "lon": 13.855584,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDU4Mg",
+    "gtfs_id": "IJPP:INTL-7800582",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Žutnica",
+    "lat": 46.18211,
+    "lon": 15.853661,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDU4NA",
+    "gtfs_id": "IJPP:INTL-7800584",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Sveti Križ Začretje",
+    "lat": 46.076866,
+    "lon": 15.903237,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzgwMDU5MQ",
+    "gtfs_id": "IJPP:INTL-7800591",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Doliće",
+    "lat": 46.171814,
+    "lon": 15.863297,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzg1MTMzNQ",
+    "gtfs_id": "IJPP:INTL-7851335",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Vodnjan stajalište",
+    "lat": 44.960758,
+    "lon": 13.855782,
+    "opposite": null,
+    "agencies": []
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzg3NDYxMQ",
+    "gtfs_id": "IJPP:INTL-7874611",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Pristava Krapinska",
+    "lat": 46.137192,
+    "lon": 15.877588,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzkwMDA3MA",
+    "gtfs_id": "IJPP:INTL-7900070",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Lendava / Lendva",
+    "lat": 46.556614,
+    "lon": 16.446184,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtNzk0Mzc3OA",
+    "gtfs_id": "IJPP:INTL-7943778",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Hodos Drzavna meja",
+    "lat": 46.819454,
+    "lon": 16.340609,
+    "opposite": null,
+    "agencies": [
+      "MO"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDAxMw",
+    "gtfs_id": "IJPP:INTL-8000013",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Augsburg Hauptbahnhof",
+    "lat": 48.36549,
+    "lon": 10.885692,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDA5Ng",
+    "gtfs_id": "IJPP:INTL-8000096",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Stuttgart Hauptbahnhof",
+    "lat": 48.78561,
+    "lon": 9.183396,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDEwOA",
+    "gtfs_id": "IJPP:INTL-8000108",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Freilassing",
+    "lat": 47.836891,
+    "lon": 12.976717,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDExNg",
+    "gtfs_id": "IJPP:INTL-8000116",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Traunstein",
+    "lat": 47.869743,
+    "lon": 12.638815,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDEyNw",
+    "gtfs_id": "IJPP:INTL-8000127",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Göppingen",
+    "lat": 48.700348,
+    "lon": 9.652262,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDE3MA",
+    "gtfs_id": "IJPP:INTL-8000170",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Ulm Hauptbahnhof",
+    "lat": 48.399414,
+    "lon": 9.982602,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDI2MQ",
+    "gtfs_id": "IJPP:INTL-8000261",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "München Hauptbahnhof",
+    "lat": 48.140724,
+    "lon": 11.556943,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDI2Mg",
+    "gtfs_id": "IJPP:INTL-8000262",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "München Ost",
+    "lat": 48.12772,
+    "lon": 11.605518,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwMDMyMA",
+    "gtfs_id": "IJPP:INTL-8000320",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Rosenheim",
+    "lat": 47.850349,
+    "lon": 12.119504,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODAwNDE1OA",
+    "gtfs_id": "IJPP:INTL-8004158",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "München-Pasing",
+    "lat": 48.149956,
+    "lon": 11.461766,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDAwMg",
+    "gtfs_id": "IJPP:INTL-8100002",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Salzburg Hauptbahnhof",
+    "lat": 47.813061,
+    "lon": 13.045853,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDAyOQ",
+    "gtfs_id": "IJPP:INTL-8100029",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Mürzzuschlag",
+    "lat": 47.607914,
+    "lon": 15.677248,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDAzMQ",
+    "gtfs_id": "IJPP:INTL-8100031",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Kapfenberg",
+    "lat": 47.445229,
+    "lon": 15.292353,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDAzMg",
+    "gtfs_id": "IJPP:INTL-8100032",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Bruck an der Mur",
+    "lat": 47.413883,
+    "lon": 15.279498,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDAzNQ",
+    "gtfs_id": "IJPP:INTL-8100035",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Leibnitz",
+    "lat": 46.779919,
+    "lon": 15.547346,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "IC",
+      "IR",
+      "MV",
+      "R",
+      "RG",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA0MQ",
+    "gtfs_id": "IJPP:INTL-8100041",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Golling-Abtenau",
+    "lat": 47.600822,
+    "lon": 13.164057,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA0Mg",
+    "gtfs_id": "IJPP:INTL-8100042",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Bischofshofen",
+    "lat": 47.417904,
+    "lon": 13.219954,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA0Mw",
+    "gtfs_id": "IJPP:INTL-8100043",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "St. Johann im Pongau",
+    "lat": 47.348415,
+    "lon": 13.194888,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA0NA",
+    "gtfs_id": "IJPP:INTL-8100044",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Schwarzach-St. Veit",
+    "lat": 47.318565,
+    "lon": 13.154594,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA2Mw",
+    "gtfs_id": "IJPP:INTL-8100063",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Landeck-Zams",
+    "lat": 47.14817,
+    "lon": 10.57837,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA2NA",
+    "gtfs_id": "IJPP:INTL-8100064",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "St. Anton am Arlberg",
+    "lat": 47.127384,
+    "lon": 10.267319,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA2NQ",
+    "gtfs_id": "IJPP:INTL-8100065",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Langen am Arlberg",
+    "lat": 47.131615,
+    "lon": 10.121246,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA2Nw",
+    "gtfs_id": "IJPP:INTL-8100067",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Bludenz",
+    "lat": 47.154724,
+    "lon": 9.814895,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA4Mg",
+    "gtfs_id": "IJPP:INTL-8100082",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Spielfeld-Straß",
+    "lat": 46.709518,
+    "lon": 15.629116,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN",
+      "IC",
+      "IR",
+      "MO",
+      "MV",
+      "R",
+      "RG",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA4Mw",
+    "gtfs_id": "IJPP:INTL-8100083",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Rosenbach",
+    "lat": 46.530537,
+    "lon": 14.035091,
+    "opposite": null,
+    "agencies": [
+      "RG"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA5MA",
+    "gtfs_id": "IJPP:INTL-8100090",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Bregenz",
+    "lat": 47.503021,
+    "lon": 9.739763,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA5Mg",
+    "gtfs_id": "IJPP:INTL-8100092",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Spittal-Millstättersee",
+    "lat": 46.795734,
+    "lon": 13.487545,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA5Mw",
+    "gtfs_id": "IJPP:INTL-8100093",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Mallnitz-Obervellach",
+    "lat": 46.981907,
+    "lon": 13.176067,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA5NQ",
+    "gtfs_id": "IJPP:INTL-8100095",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Bad Gastein",
+    "lat": 47.111771,
+    "lon": 13.131923,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDA5OQ",
+    "gtfs_id": "IJPP:INTL-8100099",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Wörgl Hauptbahnhof",
+    "lat": 47.491512,
+    "lon": 12.060621,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDEwOA",
+    "gtfs_id": "IJPP:INTL-8100108",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Innsbruck Hauptbahnhof",
+    "lat": 47.263298,
+    "lon": 11.401021,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDE0Nw",
+    "gtfs_id": "IJPP:INTL-8100147",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Villach Hauptbahnhof",
+    "lat": 46.618618,
+    "lon": 13.848445,
+    "opposite": null,
+    "agencies": [
+      "D",
+      "EC",
+      "EN",
+      "RG"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDE3Mw",
+    "gtfs_id": "IJPP:INTL-8100173",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Graz Hauptbahnhof",
+    "lat": 47.072399,
+    "lon": 15.416516,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "EN",
+      "IC",
+      "IR",
+      "MV",
+      "R",
+      "RG",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDE3NQ",
+    "gtfs_id": "IJPP:INTL-8100175",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Feldbach",
+    "lat": 46.958374,
+    "lon": 15.888572,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDE3Ng",
+    "gtfs_id": "IJPP:INTL-8100176",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Fehring",
+    "lat": 46.949509,
+    "lon": 16.013126,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDE5NQ",
+    "gtfs_id": "IJPP:INTL-8100195",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Gleisdorf",
+    "lat": 47.099369,
+    "lon": 15.70887,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDE5Nw",
+    "gtfs_id": "IJPP:INTL-8100197",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Feldkirch",
+    "lat": 47.240925,
+    "lon": 9.604312,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDM3MQ",
+    "gtfs_id": "IJPP:INTL-8100371",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Graz Ostbahnhof",
+    "lat": 47.053421,
+    "lon": 15.448257,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDM5Mw",
+    "gtfs_id": "IJPP:INTL-8100393",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Bleiburg/Pliberk",
+    "lat": 46.574154,
+    "lon": 14.786594,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDUxNA",
+    "gtfs_id": "IJPP:INTL-8100514",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Wien Meidling",
+    "lat": 48.17453,
+    "lon": 16.333965,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDUxNg",
+    "gtfs_id": "IJPP:INTL-8100516",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Wiener Neustadt Hauptbahnhof",
+    "lat": 47.811069,
+    "lon": 16.233654,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDU5Mw",
+    "gtfs_id": "IJPP:INTL-8100593",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Werndorf",
+    "lat": 46.916309,
+    "lon": 15.476966,
+    "opposite": null,
+    "agencies": [
+      "R",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDYwMQ",
+    "gtfs_id": "IJPP:INTL-8100601",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Flughafen Graz-Feldkirchen",
+    "lat": 46.998001,
+    "lon": 15.449436,
+    "opposite": null,
+    "agencies": [
+      "IR",
+      "MV",
+      "R",
+      "RG",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMDc2Mw",
+    "gtfs_id": "IJPP:INTL-8100763",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Ehrenhausen",
+    "lat": 46.727676,
+    "lon": 15.58552,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "IC",
+      "IR",
+      "MV",
+      "R",
+      "RG",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMTAxMA",
+    "gtfs_id": "IJPP:INTL-8101010",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Jennersdorf",
+    "lat": 46.935051,
+    "lon": 16.139912,
+    "opposite": null,
+    "agencies": [
+      "IC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMTAxOQ",
+    "gtfs_id": "IJPP:INTL-8101019",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Kalsdorf",
+    "lat": 46.964233,
+    "lon": 15.470114,
+    "opposite": null,
+    "agencies": [
+      "R",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMTEzNw",
+    "gtfs_id": "IJPP:INTL-8101137",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Lebring",
+    "lat": 46.855751,
+    "lon": 15.532116,
+    "opposite": null,
+    "agencies": [
+      "R",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMTM5OA",
+    "gtfs_id": "IJPP:INTL-8101398",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Graz Puntigam",
+    "lat": 47.030872,
+    "lon": 15.429314,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "IC",
+      "IR",
+      "MV",
+      "R",
+      "RG",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMTc3NA",
+    "gtfs_id": "IJPP:INTL-8101774",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Wildon",
+    "lat": 46.883621,
+    "lon": 15.521629,
+    "opposite": null,
+    "agencies": [
+      "IR",
+      "R",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMTkxOA",
+    "gtfs_id": "IJPP:INTL-8101918",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Kaindorf an der Sulm",
+    "lat": 46.802372,
+    "lon": 15.542414,
+    "opposite": null,
+    "agencies": [
+      "IR",
+      "MV",
+      "R",
+      "RG",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMzAwMA",
+    "gtfs_id": "IJPP:INTL-8103000",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Wien Hauptbahnhof",
+    "lat": 48.18499,
+    "lon": 16.377939,
+    "opposite": null,
+    "agencies": [
+      "EC"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMzE3NA",
+    "gtfs_id": "IJPP:INTL-8103174",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Feldkirchen-Seiersberg",
+    "lat": 47.012436,
+    "lon": 15.440583,
+    "opposite": null,
+    "agencies": [
+      "R",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODEwMzQ5MA",
+    "gtfs_id": "IJPP:INTL-8103490",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Graz Don Bosco",
+    "lat": 47.058212,
+    "lon": 15.419232,
+    "opposite": null,
+    "agencies": [
+      "EC",
+      "IR",
+      "MV",
+      "R",
+      "RG",
+      "S"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDA4Ng",
+    "gtfs_id": "IJPP:INTL-8300086",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Conegliano",
+    "lat": 45.884697,
+    "lon": 12.298996,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDA5Mw",
+    "gtfs_id": "IJPP:INTL-8300093",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Venezia Mestre",
+    "lat": 45.482464,
+    "lon": 12.231702,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDA5NQ",
+    "gtfs_id": "IJPP:INTL-8300095",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Cervignano - Aquileia - Grado",
+    "lat": 45.823711,
+    "lon": 13.342819,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDA5Ng",
+    "gtfs_id": "IJPP:INTL-8300096",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Gorizia Centrale",
+    "lat": 45.933037,
+    "lon": 13.606853,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDEwMA",
+    "gtfs_id": "IJPP:INTL-8300100",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Latisana - Lignano - Bibione",
+    "lat": 45.777771,
+    "lon": 13.000885,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDExMA",
+    "gtfs_id": "IJPP:INTL-8300110",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Pordenone",
+    "lat": 45.95649,
+    "lon": 12.654222,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDExMQ",
+    "gtfs_id": "IJPP:INTL-8300111",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Portogruaro - Caorle",
+    "lat": 45.781216,
+    "lon": 12.832221,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDExNQ",
+    "gtfs_id": "IJPP:INTL-8300115",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Udine",
+    "lat": 46.055927,
+    "lon": 13.241926,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDExNg",
+    "gtfs_id": "IJPP:INTL-8300116",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "San Donà di Piave - Jesolo",
+    "lat": 45.639748,
+    "lon": 12.559981,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDEzMA",
+    "gtfs_id": "IJPP:INTL-8300130",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Treviso Centrale",
+    "lat": 45.660057,
+    "lon": 12.245219,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMDM5Mg",
+    "gtfs_id": "IJPP:INTL-8300392",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Villa Opicina / Opčine",
+    "lat": 45.694443,
+    "lon": 13.791198,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODMwMzIxMw",
+    "gtfs_id": "IJPP:INTL-8303213",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Trieste Airport",
+    "lat": 45.817429,
+    "lon": 13.485537,
+    "opposite": null,
+    "agencies": [
+      "R"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODUwMzAwMA",
+    "gtfs_id": "IJPP:INTL-8503000",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Zürich Hauptbahnhof",
+    "lat": 47.378101,
+    "lon": 8.539364,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODUwOTQwNA",
+    "gtfs_id": "IJPP:INTL-8509404",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Buchs SG",
+    "lat": 47.168713,
+    "lon": 9.478765,
+    "opposite": null,
+    "agencies": [
+      "EN"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtODUwOTQxMQ",
+    "gtfs_id": "IJPP:INTL-8509411",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Sargans",
+    "lat": 47.045387,
+    "lon": 9.445369,
+    "opposite": null,
+    "agencies": [
+      "EN"
     ]
   }
 ]

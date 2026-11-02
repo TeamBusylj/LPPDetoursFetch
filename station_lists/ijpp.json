@@ -38573,36 +38573,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjYwNDM",
-    "gtfs_id": "IJPP:1126043",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Kal/Ambrusu",
-    "lat": 45.832649,
-    "lon": 14.8094007,
-    "opposite": null,
-    "agencies": [
-      "1118"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjYwNDQ",
-    "gtfs_id": "IJPP:1126044",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Kal/Ambrusu",
-    "lat": 45.8326468,
-    "lon": 14.8099611,
-    "opposite": null,
-    "agencies": [
-      "1118"
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjYwNDU",
     "gtfs_id": "IJPP:1126045",
     "code": null,
@@ -42552,36 +42522,6 @@
     "name": "Kostanjevica na Krasu",
     "lat": 45.8440123,
     "lon": 13.6418716,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjY0MDU",
-    "gtfs_id": "IJPP:1126405",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Kostanjevica na Krki",
-    "lat": 45.8438253,
-    "lon": 15.421591,
-    "opposite": null,
-    "agencies": [
-      "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjY0MDY",
-    "gtfs_id": "IJPP:1126406",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Kostanjevica na Krki",
-    "lat": 45.8437918,
-    "lon": 15.4209461,
     "opposite": null,
     "agencies": [
       "1119"
@@ -48665,24 +48605,6 @@
     "opposite": null,
     "agencies": [
       "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjY5NTQ",
-    "gtfs_id": "IJPP:1126954",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Ljubljana AP",
-    "lat": 46.0579438,
-    "lon": 14.5146952,
-    "opposite": null,
-    "agencies": [
-      "1118",
-      "1119",
-      "1121",
-      "1123"
     ]
   },
   {
@@ -70999,36 +70921,6 @@
     "opposite": null,
     "agencies": [
       "1119"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjg5MjY",
-    "gtfs_id": "IJPP:1128926",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Pri Amru",
-    "lat": 46.277533,
-    "lon": 14.7525634,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjg5Mjc",
-    "gtfs_id": "IJPP:1128927",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Pri Amru",
-    "lat": 46.2774168,
-    "lon": 14.7530414,
-    "opposite": null,
-    "agencies": [
-      "1123"
     ]
   },
   {
@@ -110487,36 +110379,6 @@
     "name": "Žice Perko",
     "lat": 46.621129,
     "lon": 15.8327819,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMzIzODc",
-    "gtfs_id": "IJPP:1132387",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Žiče/Radomljah",
-    "lat": 46.1806477,
-    "lon": 14.6490518,
-    "opposite": null,
-    "agencies": [
-      "1123"
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMzIzODg",
-    "gtfs_id": "IJPP:1132388",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Žiče/Radomljah",
-    "lat": 46.1806359,
-    "lon": 14.6491222,
     "opposite": null,
     "agencies": [
       "1123"

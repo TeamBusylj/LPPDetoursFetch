@@ -3288,42 +3288,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOjExMjYwNDM",
-    "gtfs_id": "IJPP:1126043",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Kal/Ambrusu",
-    "lat": 45.832649,
-    "lon": 14.8094007,
-    "opposite": "IJPP:1126043",
-    "routes": [
-      {
-        "name": "76",
-        "color": "#207C4C"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOjExMjYwNDQ",
-    "gtfs_id": "IJPP:1126044",
-    "code": null,
-    "type": "BUS",
-    "background_color": "#004E96",
-    "icon_color": "#FFFFFF",
-    "name": "Kal/Ambrusu",
-    "lat": 45.8326468,
-    "lon": 14.8099611,
-    "opposite": null,
-    "routes": [
-      {
-        "name": "76",
-        "color": "#207C4C"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpJSlBQOjExMjYwODg",
     "gtfs_id": "IJPP:1126088",
     "code": null,
