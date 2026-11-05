@@ -63329,6 +63329,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjgyNzY",
+    "gtfs_id": "IJPP:1128276",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Placerovci",
+    "lat": 46.4014019,
+    "lon": 16.0265278,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjgyNzc",
+    "gtfs_id": "IJPP:1128277",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Placerovci",
+    "lat": 46.4014049,
+    "lon": 16.0264471,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjgyNzg",
     "gtfs_id": "IJPP:1128278",
     "code": null,
