@@ -14843,8 +14843,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Leskoškova",
-    "lat": 46.061951,
-    "lon": 14.55844,
+    "lat": 46.061897,
+    "lon": 14.558659,
     "opposite": "204011",
     "routes": [
       {
@@ -15257,8 +15257,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Tivoli",
-    "lat": 46.060333,
-    "lon": 14.497625,
+    "lat": 46.060249,
+    "lon": 14.497711,
     "opposite": "801011",
     "routes": [
       {
@@ -15444,7 +15444,7 @@
     "icon_color": "#FFFFFF",
     "name": "Spodnji Rudnik",
     "lat": 46.022934,
-    "lon": 14.540344,
+    "lon": 14.540343,
     "opposite": "504021",
     "routes": [
       {
@@ -15841,7 +15841,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Stadion",
-    "lat": 46.069427,
+    "lat": 46.069431,
     "lon": 14.510455,
     "opposite": "102041",
     "routes": [
@@ -15957,7 +15957,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Tržnica Koseze",
-    "lat": 46.074005,
+    "lat": 46.074009,
     "lon": 14.475859,
     "opposite": "803102",
     "routes": [
@@ -16156,7 +16156,7 @@
     "icon_color": "#FFFFFF",
     "name": "Rudnik",
     "lat": 46.018452,
-    "lon": 14.543306,
+    "lon": 14.543305,
     "opposite": null,
     "routes": [
       {
@@ -16458,7 +16458,7 @@
     "icon_color": "#FFFFFF",
     "name": "Iški most",
     "lat": 46.019913,
-    "lon": 14.510347,
+    "lon": 14.510346,
     "opposite": "604011",
     "routes": [
       {
@@ -16738,7 +16738,7 @@
     "icon_color": "#FFFFFF",
     "name": "Ježica",
     "lat": 46.09745,
-    "lon": 14.516942,
+    "lon": 14.516941,
     "opposite": "104032",
     "routes": [
       {
@@ -17479,7 +17479,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Pod Kamno Gorico",
-    "lat": 46.074257,
+    "lat": 46.074261,
     "lon": 14.455667,
     "opposite": null,
     "routes": [
@@ -17727,8 +17727,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "LITOSTROJSKA",
-    "lat": 46.077721,
-    "lon": 14.488358,
+    "lat": 46.077751,
+    "lon": 14.488313,
     "opposite": null,
     "routes": [
       {
@@ -18127,8 +18127,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Pot na Fužine",
-    "lat": 46.05624,
-    "lon": 14.549652,
+    "lat": 46.056244,
+    "lon": 14.549651,
     "opposite": "303052",
     "routes": [
       {
@@ -18391,7 +18391,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Streliška",
-    "lat": 46.044979,
+    "lat": 46.044983,
     "lon": 14.518373,
     "opposite": "502031",
     "routes": [
@@ -19200,10 +19200,6 @@
         "color": "#7fec30"
       },
       {
-        "name": "N3",
-        "color": "#eb6147"
-      },
-      {
         "name": "5",
         "color": "#8b4d8f"
       },
@@ -19403,8 +19399,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Lavrica pri Malči",
-    "lat": 46.001583,
-    "lon": 14.554269,
+    "lat": 46.001587,
+    "lon": 14.554267,
     "opposite": "504081",
     "routes": [
       {
@@ -19531,7 +19527,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Sava",
-    "lat": 46.100777,
+    "lat": 46.10078,
     "lon": 14.52176,
     "opposite": "104051",
     "routes": [
@@ -19593,8 +19589,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Sostro - 2",
-    "lat": 46.0331,
-    "lon": 14.604354,
+    "lat": 46.033134,
+    "lon": 14.604505,
     "opposite": "404202",
     "routes": [
       {
@@ -19637,8 +19633,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Livada",
-    "lat": 46.034203,
-    "lon": 14.511116,
+    "lat": 46.034206,
+    "lon": 14.511115,
     "opposite": "603092",
     "routes": [
       {
@@ -19842,10 +19838,6 @@
       {
         "name": "3",
         "color": "#7fec30"
-      },
-      {
-        "name": "N3",
-        "color": "#eb6147"
       },
       {
         "name": "18",
@@ -20125,8 +20117,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Aleja",
-    "lat": 46.077312,
-    "lon": 14.4824,
+    "lat": 46.077309,
+    "lon": 14.482366,
     "opposite": "803021",
     "routes": [
       {
@@ -20235,8 +20227,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Rogovilc",
-    "lat": 46.102283,
-    "lon": 14.529674,
+    "lat": 46.102264,
+    "lon": 14.529646,
     "opposite": "104112",
     "routes": [
       {
@@ -20935,7 +20927,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Gornji trg",
-    "lat": 46.045937,
+    "lat": 46.045921,
     "lon": 14.506128,
     "opposite": "602102",
     "routes": [
@@ -21423,8 +21415,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Ilovica",
-    "lat": 46.027355,
-    "lon": 14.511669,
+    "lat": 46.028229,
+    "lon": 14.511866,
     "opposite": "603102",
     "routes": [
       {
@@ -22071,8 +22063,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Polje",
-    "lat": 46.054028,
-    "lon": 14.582697,
+    "lat": 46.054031,
+    "lon": 14.582696,
     "opposite": "304072",
     "routes": [
       {
@@ -22120,10 +22112,6 @@
       {
         "name": "3",
         "color": "#7fec30"
-      },
-      {
-        "name": "N3",
-        "color": "#eb6147"
       },
       {
         "name": "5",
@@ -22365,8 +22353,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Barje",
-    "lat": 46.015114,
-    "lon": 14.511875,
+    "lat": 46.015564,
+    "lon": 14.511672,
     "opposite": null,
     "routes": [
       {
@@ -22693,7 +22681,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Zaloška",
-    "lat": 46.055855,
+    "lat": 46.055859,
     "lon": 14.54243,
     "opposite": null,
     "routes": [
@@ -22754,7 +22742,7 @@
     "icon_color": "#FFFFFF",
     "name": "Petrol",
     "lat": 46.056824,
-    "lon": 14.601487,
+    "lon": 14.601486,
     "opposite": "304112",
     "routes": [
       {
@@ -22911,8 +22899,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Zaloška",
-    "lat": 46.056095,
-    "lon": 14.539826,
+    "lat": 46.056076,
+    "lon": 14.539838,
     "opposite": "303022",
     "routes": [
       {
@@ -23067,8 +23055,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Kavčičeva",
-    "lat": 46.064014,
-    "lon": 14.536492,
+    "lat": 46.064018,
+    "lon": 14.536491,
     "opposite": "203051",
     "routes": [
       {
@@ -24360,10 +24348,6 @@
         "color": "#7fec30"
       },
       {
-        "name": "N3",
-        "color": "#eb6147"
-      },
-      {
         "name": "5",
         "color": "#8b4d8f"
       },
@@ -24407,8 +24391,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Podpeč",
-    "lat": 45.974007,
-    "lon": 14.42049,
+    "lat": 45.972992,
+    "lon": 14.421772,
     "opposite": "745051",
     "routes": [
       {
@@ -24562,10 +24546,6 @@
       {
         "name": "3",
         "color": "#7fec30"
-      },
-      {
-        "name": "N3",
-        "color": "#eb6147"
       },
       {
         "name": "5",
@@ -24807,8 +24787,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Akademija",
-    "lat": 46.032436,
-    "lon": 14.528572,
+    "lat": 46.03244,
+    "lon": 14.528571,
     "opposite": "503031",
     "routes": [
       {
@@ -24833,8 +24813,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Kino Šiška",
-    "lat": 46.06921,
-    "lon": 14.490312,
+    "lat": 46.069225,
+    "lon": 14.490256,
     "opposite": "802021",
     "routes": [
       {
@@ -24879,7 +24859,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Smelt",
-    "lat": 46.081985,
+    "lat": 46.081989,
     "lon": 14.513309,
     "opposite": "103071",
     "routes": [
@@ -24983,7 +24963,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Polanškova",
-    "lat": 46.106361,
+    "lat": 46.106365,
     "lon": 14.525635,
     "opposite": "104121",
     "routes": [
@@ -25782,10 +25762,6 @@
         "color": "#7fec30"
       },
       {
-        "name": "N3",
-        "color": "#eb6147"
-      },
-      {
         "name": "8",
         "color": "#255d9f"
       },
@@ -25904,9 +25880,9 @@
     "type": "BUS",
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
-    "name": "OPEKARSKA",
+    "name": "Opekarska",
     "lat": 46.037148,
-    "lon": 14.503912,
+    "lon": 14.503911,
     "opposite": "603171",
     "routes": [
       {
@@ -25977,8 +25953,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Trbeže",
-    "lat": 46.078091,
-    "lon": 14.574941,
+    "lat": 46.07766,
+    "lon": 14.575244,
     "opposite": "204252",
     "routes": [
       {
@@ -26437,8 +26413,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Nove Žale",
-    "lat": 46.074524,
-    "lon": 14.532018,
+    "lat": 46.074528,
+    "lon": 14.532017,
     "opposite": "203071",
     "routes": [
       {
@@ -26799,8 +26775,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Tinčk",
-    "lat": 46.038132,
-    "lon": 14.648054,
+    "lat": 46.037758,
+    "lon": 14.648547,
     "opposite": "405101",
     "routes": [
       {
@@ -27128,7 +27104,7 @@
     "icon_color": "#FFFFFF",
     "name": "Pot v Smrečje",
     "lat": 46.10928,
-    "lon": 14.528426,
+    "lon": 14.528425,
     "opposite": "104131",
     "routes": [
       {
@@ -27437,8 +27413,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Lahova pot",
-    "lat": 46.024426,
-    "lon": 14.511222,
+    "lat": 46.024551,
+    "lon": 14.511258,
     "opposite": "603112",
     "routes": [
       {
@@ -27737,8 +27713,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Yulon",
-    "lat": 46.062004,
-    "lon": 14.552727,
+    "lat": 46.062485,
+    "lon": 14.549802,
     "opposite": "203192",
     "routes": [
       {
@@ -27796,7 +27772,7 @@
     "icon_color": "#FFFFFF",
     "name": "AMZS",
     "lat": 46.077362,
-    "lon": 14.51225,
+    "lon": 14.512249,
     "opposite": "103031",
     "routes": [
       {
@@ -27946,7 +27922,7 @@
     "icon_color": "#FFFFFF",
     "name": "Archinetova",
     "lat": 46.056263,
-    "lon": 14.555283,
+    "lon": 14.555282,
     "opposite": "303062",
     "routes": [
       {
@@ -28041,8 +28017,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Ižanska",
-    "lat": 46.036018,
-    "lon": 14.513099,
+    "lat": 46.036022,
+    "lon": 14.513098,
     "opposite": "603122",
     "routes": [
       {
@@ -29451,8 +29427,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Rožičeva",
-    "lat": 46.063465,
-    "lon": 14.531915,
+    "lat": 46.063492,
+    "lon": 14.53198,
     "opposite": "203022",
     "routes": [
       {
@@ -29585,8 +29561,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Kodeljevo",
-    "lat": 46.051487,
-    "lon": 14.539051,
+    "lat": 46.051472,
+    "lon": 14.539075,
     "opposite": "403021",
     "routes": [
       {
@@ -29687,7 +29663,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Privoz",
-    "lat": 46.044083,
+    "lat": 46.044086,
     "lon": 14.511282,
     "opposite": "602112",
     "routes": [
@@ -30306,7 +30282,7 @@
     "icon_color": "#FFFFFF",
     "name": "Mirje",
     "lat": 46.044579,
-    "lon": 14.500682,
+    "lon": 14.500681,
     "opposite": "602072",
     "routes": [
       {
@@ -30597,8 +30573,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Na klancu",
-    "lat": 46.103741,
-    "lon": 14.462691,
+    "lat": 46.103806,
+    "lon": 14.462718,
     "opposite": "804091",
     "routes": [
       {
@@ -30641,17 +30617,13 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "LITOSTROJ",
-    "lat": 46.082615,
-    "lon": 14.497325,
+    "lat": 46.082569,
+    "lon": 14.497337,
     "opposite": "103202",
     "routes": [
       {
         "name": "3",
         "color": "#7fec30"
-      },
-      {
-        "name": "N3",
-        "color": "#eb6147"
       },
       {
         "name": "18L",
@@ -30689,7 +30661,7 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Mercator",
-    "lat": 46.074173,
+    "lat": 46.074177,
     "lon": 14.511216,
     "opposite": "102082",
     "routes": [
@@ -30733,8 +30705,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "JEŽICA P+R",
-    "lat": 46.098248,
-    "lon": 14.514144,
+    "lat": 46.098228,
+    "lon": 14.514031,
     "opposite": null,
     "routes": [
       {
@@ -30811,8 +30783,8 @@
     "background_color": "#016A42",
     "icon_color": "#FFFFFF",
     "name": "Leskoškova",
-    "lat": 46.06208,
-    "lon": 14.558679,
+    "lat": 46.062122,
+    "lon": 14.556759,
     "opposite": "204012",
     "routes": [
       {
