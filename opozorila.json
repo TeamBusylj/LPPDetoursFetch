@@ -1,15 +1,6 @@
 {
   "detours": [
     {
-      "title": "Linija 6B ima obvoz",
-      "date": "06.11.2026",
-      "url": "https://www.lpp.si/obvoz/linija-6b-ima-obvoz/",
-      "lines": [
-        "6B"
-      ],
-      "contentHtml": "<p data-pm-slice=\"1 1 []\">Spoštovani potniki,</p>\n<p>obveščamo vas, da bo zaradi popolne prometne zapore Podpeške ceste v nedeljo, 8. 11. 2026, od 7.00 do predvidoma 19.00, linija 6B vozila po spremenjeni trasi.</p>\n<p>Obvozna trasa:</p>\n<ul>\n<li>Brezovica – Dragomer – Vnanje Gorice</li>\n</ul>\n<p>V času obvoza bodo avtobusi ustavljali na vseh postajališčih redne trase.</p>\n<img src=\"https://raw.githubusercontent.com/TeamBusylj/LPPDetoursFetch/main/slike/b4618177888393575b6081ac9bbba54a.gif\">"
-    },
-    {
       "title": "Liniji 68 in 72 imata obvoz",
       "date": "16.09.2026",
       "url": "https://www.lpp.si/obvoz/liniji-68-in-72-imata-obvoz/",
@@ -65,7 +56,6 @@
     }
   ],
   "allLines": [
-    "6B",
     "12D",
     "14",
     "16",
