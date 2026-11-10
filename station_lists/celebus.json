@@ -246,42 +246,6 @@
     ]
   },
   {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTM",
-    "gtfs_id": "CELEBUS:1123893",
-    "code": "16189_23578",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Kersnikova bol.",
-    "lat": 46.234331,
-    "lon": 15.2632543,
-    "opposite": "16189_23578",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM4OTQ",
-    "gtfs_id": "CELEBUS:1123894",
-    "code": "16189_23579",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Kersnikova bol.",
-    "lat": 46.2349372,
-    "lon": 15.2635238,
-    "opposite": "16189_23579",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpDRUxFQlVTOjExMjM4OTU",
     "gtfs_id": "CELEBUS:1123895",
     "code": null,
@@ -386,42 +350,6 @@
       {
         "name": "10",
         "color": "#f15645"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDE",
-    "gtfs_id": "CELEBUS:1123901",
-    "code": "16185_23586",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Kladivar",
-    "lat": 46.2400089,
-    "lon": 15.2640597,
-    "opposite": "16185_23586",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM5MDI",
-    "gtfs_id": "CELEBUS:1123902",
-    "code": "16185_23587",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Kladivar",
-    "lat": 46.2379318,
-    "lon": 15.2639539,
-    "opposite": "16185_23587",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
       }
     ]
   },
@@ -568,70 +496,12 @@
         "color": "#559384"
       },
       {
-        "name": "2A",
-        "color": "#ffcb04"
-      },
-      {
         "name": "3",
         "color": "#26aae1"
       },
       {
         "name": "7",
         "color": "#a97c50"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM5MTU",
-    "gtfs_id": "CELEBUS:1123915",
-    "code": "16176_23600",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Nova vas",
-    "lat": 46.2483107,
-    "lon": 15.2617422,
-    "opposite": "16176_23600",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM5MTY",
-    "gtfs_id": "CELEBUS:1123916",
-    "code": "16175_23601",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Nova vas K",
-    "lat": 46.2413418,
-    "lon": 15.2644445,
-    "opposite": "16175_23601",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExMjM5MTc",
-    "gtfs_id": "CELEBUS:1123917",
-    "code": "16175_23602",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Nova vas K",
-    "lat": 46.2429048,
-    "lon": 15.2636079,
-    "opposite": "16175_23602",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
       }
     ]
   },
@@ -684,10 +554,6 @@
     "opposite": "16166_23611",
     "routes": [
       {
-        "name": "2A",
-        "color": "#ffcb04"
-      },
-      {
         "name": "3",
         "color": "#26aae1"
       },
@@ -720,10 +586,6 @@
       {
         "name": "1B",
         "color": "#559384"
-      },
-      {
-        "name": "2A",
-        "color": "#ffcb04"
       },
       {
         "name": "3",
@@ -1480,10 +1342,6 @@
         "color": "#559384"
       },
       {
-        "name": "2A",
-        "color": "#ffcb04"
-      },
-      {
         "name": "3",
         "color": "#26aae1"
       },
@@ -1658,52 +1516,12 @@
         "color": "#559384"
       },
       {
-        "name": "2A",
-        "color": "#ffcb04"
-      },
-      {
         "name": "3",
         "color": "#26aae1"
       },
       {
         "name": "7",
         "color": "#a97c50"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjQ",
-    "gtfs_id": "CELEBUS:1168364",
-    "code": "16173_51152",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Nova vas trgovina",
-    "lat": 46.2458613,
-    "lon": 15.2622966,
-    "opposite": "16173_51152",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
-      }
-    ]
-  },
-  {
-    "id": "U3RvcDpDRUxFQlVTOjExNjgzNjU",
-    "gtfs_id": "CELEBUS:1168365",
-    "code": "16173_51153",
-    "type": "BUS",
-    "background_color": "#FFD700",
-    "icon_color": "#000000",
-    "name": "Celje Nova vas trgovina",
-    "lat": 46.2456882,
-    "lon": 15.2625797,
-    "opposite": "16173_51153",
-    "routes": [
-      {
-        "name": "2A",
-        "color": "#ffcb04"
       }
     ]
   },
