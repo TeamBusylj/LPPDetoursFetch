@@ -14870,8 +14870,8 @@
     "opposite": "405011",
     "routes": [
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -14892,8 +14892,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -15514,8 +15514,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -15700,8 +15700,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -16058,8 +16058,8 @@
     "opposite": "404172",
     "routes": [
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -16284,24 +16284,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6MWIwZjYyOWYtYWNkYi00ZTk0LThjNTQtMDE4ZjQzMzRlYmY3",
-    "gtfs_id": "LPP:1b0f629f-acdb-4e94-8c54-018f4334ebf7",
-    "code": "404084",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Križišče Sostro",
-    "lat": 46.037487,
-    "lon": 14.608483,
-    "opposite": "404083",
-    "routes": [
-      {
-        "name": "26",
-        "color": "#1f1d1d"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6MWIyN2Q2NWEtMTAwOC00YmM5LTkyOGUtZjZjYjQzYjAzODA0",
     "gtfs_id": "LPP:1b27d65a-1008-4bc9-928e-f6cb43b03804",
     "code": "405052",
@@ -16318,8 +16300,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -16976,16 +16958,16 @@
     "opposite": "404081",
     "routes": [
       {
+        "name": "10S",
+        "color": "#000000"
+      },
+      {
         "name": "13",
         "color": "#c9cc54"
       },
       {
         "name": "24",
         "color": "#d4267e"
-      },
-      {
-        "name": "26",
-        "color": "#1f1d1d"
       }
     ]
   },
@@ -17132,8 +17114,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -17194,8 +17176,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -17528,8 +17510,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -17670,8 +17652,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -18224,24 +18206,6 @@
     ]
   },
   {
-    "id": "U3RvcDpMUFA6MzkwZDE2NmMtYjJmZS00ODZjLWJiYTUtMzhjZDFmZjY0ZjQ4",
-    "gtfs_id": "LPP:390d166c-b2fe-486c-bba5-38cd1ff64f48",
-    "code": "404083",
-    "type": "BUS",
-    "background_color": "#016A42",
-    "icon_color": "#FFFFFF",
-    "name": "Križišče Sostro",
-    "lat": 46.037548,
-    "lon": 14.60845,
-    "opposite": "404084",
-    "routes": [
-      {
-        "name": "26",
-        "color": "#1f1d1d"
-      }
-    ]
-  },
-  {
     "id": "U3RvcDpMUFA6MzkxYmY0MmEtNjhhMy00MDBhLWJhZWEtMGM3MDhmMzI3MzI1",
     "gtfs_id": "LPP:391bf42a-68a3-400a-baea-0c708f327325",
     "code": "803183",
@@ -18512,8 +18476,8 @@
     "opposite": "404171",
     "routes": [
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -19010,8 +18974,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -19576,8 +19540,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -19594,16 +19558,16 @@
     "opposite": "404202",
     "routes": [
       {
+        "name": "10S",
+        "color": "#000000"
+      },
+      {
         "name": "13",
         "color": "#c9cc54"
       },
       {
         "name": "24",
         "color": "#d4267e"
-      },
-      {
-        "name": "26",
-        "color": "#1f1d1d"
       }
     ]
   },
@@ -19756,8 +19720,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -21172,8 +21136,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -21670,8 +21634,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -21832,8 +21796,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -21988,8 +21952,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -22166,8 +22130,8 @@
     "opposite": null,
     "routes": [
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -22406,8 +22370,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -23037,6 +23001,10 @@
     "lon": 14.599229,
     "opposite": "404162",
     "routes": [
+      {
+        "name": "10S",
+        "color": "#000000"
+      },
       {
         "name": "24",
         "color": "#d4267e"
@@ -24212,8 +24180,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -24420,10 +24388,6 @@
       {
         "name": "24",
         "color": "#d4267e"
-      },
-      {
-        "name": "26",
-        "color": "#1f1d1d"
       }
     ]
   },
@@ -24513,6 +24477,10 @@
     "lon": 14.603621,
     "opposite": "404201",
     "routes": [
+      {
+        "name": "10S",
+        "color": "#000000"
+      },
       {
         "name": "24",
         "color": "#d4267e"
@@ -24898,8 +24866,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -25178,8 +25146,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -25234,8 +25202,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -25328,8 +25296,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -26392,16 +26360,16 @@
     "opposite": "404082",
     "routes": [
       {
+        "name": "10S",
+        "color": "#000000"
+      },
+      {
         "name": "13",
         "color": "#c9cc54"
       },
       {
         "name": "24",
         "color": "#d4267e"
-      },
-      {
-        "name": "26",
-        "color": "#1f1d1d"
       }
     ]
   },
@@ -26496,10 +26464,6 @@
       {
         "name": "24",
         "color": "#d4267e"
-      },
-      {
-        "name": "26",
-        "color": "#1f1d1d"
       }
     ]
   },
@@ -27758,8 +27722,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -27836,8 +27800,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -28142,8 +28106,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -28370,8 +28334,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -28650,8 +28614,8 @@
     "opposite": "405012",
     "routes": [
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -28982,8 +28946,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },
@@ -29984,8 +29948,8 @@
         "color": "#d11116"
       },
       {
-        "name": "26",
-        "color": "#1f1d1d"
+        "name": "10S",
+        "color": "#000000"
       }
     ]
   },

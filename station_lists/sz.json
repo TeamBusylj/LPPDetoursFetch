@@ -6107,6 +6107,7 @@
     "lon": 11.605518,
     "opposite": null,
     "agencies": [
+      "EC",
       "EN"
     ]
   },
@@ -6137,9 +6138,7 @@
     "lat": 48.149956,
     "lon": 11.461766,
     "opposite": null,
-    "agencies": [
-      "EN"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODEwMDAwMg",
@@ -6168,9 +6167,7 @@
     "lat": 47.607914,
     "lon": 15.677248,
     "opposite": null,
-    "agencies": [
-      "EC"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODEwMDAzMQ",
@@ -6183,9 +6180,7 @@
     "lat": 47.445229,
     "lon": 15.292353,
     "opposite": null,
-    "agencies": [
-      "EC"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODEwMDAzMg",
@@ -6631,9 +6626,7 @@
     "lat": 47.811069,
     "lon": 16.233654,
     "opposite": null,
-    "agencies": [
-      "EC"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODEwMDU5Mw",
@@ -6887,9 +6880,7 @@
     "lat": 45.823711,
     "lon": 13.342819,
     "opposite": null,
-    "agencies": [
-      "R"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODMwMDA5Ng",
@@ -6917,9 +6908,7 @@
     "lat": 45.777771,
     "lon": 13.000885,
     "opposite": null,
-    "agencies": [
-      "R"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODMwMDExMA",
@@ -6947,9 +6936,7 @@
     "lat": 45.781216,
     "lon": 12.832221,
     "opposite": null,
-    "agencies": [
-      "R"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODMwMDExNQ",
@@ -6977,9 +6964,7 @@
     "lat": 45.639748,
     "lon": 12.559981,
     "opposite": null,
-    "agencies": [
-      "R"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODMwMDEzMA",
@@ -7022,9 +7007,7 @@
     "lat": 45.817429,
     "lon": 13.485537,
     "opposite": null,
-    "agencies": [
-      "R"
-    ]
+    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODUwMzAwMA",
