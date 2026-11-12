@@ -143387,5 +143387,35 @@
       "1121",
       "1123"
     ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtQlVTLTI5MjAyMg",
+    "gtfs_id": "IJPP:INTL-BUS-292022",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Villach Hauptbahnhof",
+    "lat": 46.618618,
+    "lon": 13.848445,
+    "opposite": null,
+    "agencies": [
+      "INTL-POSTBUS"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOklOVEwtQlVTLTc5ODEwMDE",
+    "gtfs_id": "IJPP:INTL-BUS-7981001",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Jesenice",
+    "lat": 46.436184,
+    "lon": 14.054822,
+    "opposite": null,
+    "agencies": [
+      "INTL-POSTBUS"
+    ]
   }
 ]

@@ -6128,17 +6128,19 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOklOVEwtODAwNDE1OA",
-    "gtfs_id": "IJPP:INTL-8004158",
+    "id": "U3RvcDpJSlBQOklOVEwtODAwNDg4NQ",
+    "gtfs_id": "IJPP:INTL-8004885",
     "code": null,
     "type": "RAIL",
     "background_color": "#00A8EB",
     "icon_color": "#FFFFFF",
-    "name": "München-Pasing",
-    "lat": 48.149956,
-    "lon": 11.461766,
+    "name": "Prien am Chiemsee",
+    "lat": 47.855011,
+    "lon": 12.346969,
     "opposite": null,
-    "agencies": []
+    "agencies": [
+      "EC"
+    ]
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODEwMDAwMg",
@@ -6155,32 +6157,6 @@
       "EC",
       "EN"
     ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOklOVEwtODEwMDAyOQ",
-    "gtfs_id": "IJPP:INTL-8100029",
-    "code": null,
-    "type": "RAIL",
-    "background_color": "#00A8EB",
-    "icon_color": "#FFFFFF",
-    "name": "Mürzzuschlag",
-    "lat": 47.607914,
-    "lon": 15.677248,
-    "opposite": null,
-    "agencies": []
-  },
-  {
-    "id": "U3RvcDpJSlBQOklOVEwtODEwMDAzMQ",
-    "gtfs_id": "IJPP:INTL-8100031",
-    "code": null,
-    "type": "RAIL",
-    "background_color": "#00A8EB",
-    "icon_color": "#FFFFFF",
-    "name": "Kapfenberg",
-    "lat": 47.445229,
-    "lon": 15.292353,
-    "opposite": null,
-    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODEwMDAzMg",
@@ -6616,19 +6592,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOklOVEwtODEwMDUxNg",
-    "gtfs_id": "IJPP:INTL-8100516",
-    "code": null,
-    "type": "RAIL",
-    "background_color": "#00A8EB",
-    "icon_color": "#FFFFFF",
-    "name": "Wiener Neustadt Hauptbahnhof",
-    "lat": 47.811069,
-    "lon": 16.233654,
-    "opposite": null,
-    "agencies": []
-  },
-  {
     "id": "U3RvcDpJSlBQOklOVEwtODEwMDU5Mw",
     "gtfs_id": "IJPP:INTL-8100593",
     "code": null,
@@ -6870,19 +6833,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOklOVEwtODMwMDA5NQ",
-    "gtfs_id": "IJPP:INTL-8300095",
-    "code": null,
-    "type": "RAIL",
-    "background_color": "#00A8EB",
-    "icon_color": "#FFFFFF",
-    "name": "Cervignano - Aquileia - Grado",
-    "lat": 45.823711,
-    "lon": 13.342819,
-    "opposite": null,
-    "agencies": []
-  },
-  {
     "id": "U3RvcDpJSlBQOklOVEwtODMwMDA5Ng",
     "gtfs_id": "IJPP:INTL-8300096",
     "code": null,
@@ -6896,19 +6846,6 @@
     "agencies": [
       "R"
     ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOklOVEwtODMwMDEwMA",
-    "gtfs_id": "IJPP:INTL-8300100",
-    "code": null,
-    "type": "RAIL",
-    "background_color": "#00A8EB",
-    "icon_color": "#FFFFFF",
-    "name": "Latisana - Lignano - Bibione",
-    "lat": 45.777771,
-    "lon": 13.000885,
-    "opposite": null,
-    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODMwMDExMA",
@@ -6926,19 +6863,6 @@
     ]
   },
   {
-    "id": "U3RvcDpJSlBQOklOVEwtODMwMDExMQ",
-    "gtfs_id": "IJPP:INTL-8300111",
-    "code": null,
-    "type": "RAIL",
-    "background_color": "#00A8EB",
-    "icon_color": "#FFFFFF",
-    "name": "Portogruaro - Caorle",
-    "lat": 45.781216,
-    "lon": 12.832221,
-    "opposite": null,
-    "agencies": []
-  },
-  {
     "id": "U3RvcDpJSlBQOklOVEwtODMwMDExNQ",
     "gtfs_id": "IJPP:INTL-8300115",
     "code": null,
@@ -6952,19 +6876,6 @@
     "agencies": [
       "R"
     ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOklOVEwtODMwMDExNg",
-    "gtfs_id": "IJPP:INTL-8300116",
-    "code": null,
-    "type": "RAIL",
-    "background_color": "#00A8EB",
-    "icon_color": "#FFFFFF",
-    "name": "San Donà di Piave - Jesolo",
-    "lat": 45.639748,
-    "lon": 12.559981,
-    "opposite": null,
-    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODMwMDEzMA",
@@ -6995,19 +6906,6 @@
     "agencies": [
       "R"
     ]
-  },
-  {
-    "id": "U3RvcDpJSlBQOklOVEwtODMwMzIxMw",
-    "gtfs_id": "IJPP:INTL-8303213",
-    "code": null,
-    "type": "RAIL",
-    "background_color": "#00A8EB",
-    "icon_color": "#FFFFFF",
-    "name": "Trieste Airport",
-    "lat": 45.817429,
-    "lon": 13.485537,
-    "opposite": null,
-    "agencies": []
   },
   {
     "id": "U3RvcDpJSlBQOklOVEwtODUwMzAwMA",
