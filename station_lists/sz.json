@@ -4375,6 +4375,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjkwNjk",
+    "gtfs_id": "IJPP:1169069",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Šmartno ob Paki",
+    "lat": 46.330278,
+    "lon": 15.034472,
+    "opposite": null,
+    "agencies": [
+      "LP"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjkwNzE",
+    "gtfs_id": "IJPP:1169071",
+    "code": null,
+    "type": "RAIL",
+    "background_color": "#00A8EB",
+    "icon_color": "#FFFFFF",
+    "name": "Trbonje",
+    "lat": 46.605328,
+    "lon": 15.110512,
+    "opposite": null,
+    "agencies": [
+      "LP"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOklOVEwtNTUwMDAwNw",
     "gtfs_id": "IJPP:INTL-5500007",
     "code": null,

@@ -6458,10 +6458,6 @@
       {
         "name": "48",
         "color": "#207C4C"
-      },
-      {
-        "name": "54",
-        "color": "#207C4C"
       }
     ]
   },
@@ -6487,10 +6483,6 @@
       },
       {
         "name": "48",
-        "color": "#207C4C"
-      },
-      {
-        "name": "54",
         "color": "#207C4C"
       }
     ]
@@ -14736,6 +14728,68 @@
       {
         "name": "3G",
         "color": "#5BAF20"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MzQ",
+    "gtfs_id": "IJPP:1168834",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Grosuplje Perovo",
+    "lat": 45.974432,
+    "lon": 14.65721,
+    "opposite": null,
+    "routes": [
+      {
+        "name": "68",
+        "color": "#207C4C"
+      },
+      {
+        "name": "72",
+        "color": "#41917F"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4MzU",
+    "gtfs_id": "IJPP:1168835",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Grosuplje Perovo",
+    "lat": 45.974352,
+    "lon": 14.657189,
+    "opposite": "IJPP:1168835",
+    "routes": [
+      {
+        "name": "68",
+        "color": "#207C4C"
+      },
+      {
+        "name": "72",
+        "color": "#41917F"
+      }
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjkwMTE",
+    "gtfs_id": "IJPP:1169011",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Brezovica pri Ljubljani",
+    "lat": 46.0239643,
+    "lon": 14.4128051,
+    "opposite": "IJPP:1169011",
+    "routes": [
+      {
+        "name": "45",
+        "color": "#207C4C"
       }
     ]
   },
