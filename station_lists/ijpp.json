@@ -144852,6 +144852,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjkwNjU",
+    "gtfs_id": "IJPP:1169065",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Arja vas mlekarna",
+    "lat": 46.260996,
+    "lon": 15.19132,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjkwNjY",
+    "gtfs_id": "IJPP:1169066",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Arja vas mlekarna",
+    "lat": 46.260162,
+    "lon": 15.191663,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjkwNjc",
     "gtfs_id": "IJPP:1169067",
     "code": null,
