@@ -101785,6 +101785,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMzE2MTc",
+    "gtfs_id": "IJPP:1131617",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Vitanje",
+    "lat": 46.3827692,
+    "lon": 15.29618,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMzE2MjU",
     "gtfs_id": "IJPP:1131625",
     "code": null,
@@ -122393,6 +122408,36 @@
     "name": "Vitanje Š",
     "lat": 46.3836354,
     "lon": 15.2973912,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjU0MzA",
+    "gtfs_id": "IJPP:1165430",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Vitanje Grajski trg",
+    "lat": 46.3807906,
+    "lon": 15.2944051,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjU0MzE",
+    "gtfs_id": "IJPP:1165431",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Vitanje Grajski trg",
+    "lat": 46.3807317,
+    "lon": 15.2943744,
     "opposite": null,
     "agencies": [
       "1119"
@@ -144167,6 +144212,21 @@
     "name": "Križe (Brežice) Spodnje Šapole",
     "lat": 46.0019112,
     "lon": 15.5566325,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg5OTY",
+    "gtfs_id": "IJPP:1168996",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Selce (Pivka) vas",
+    "lat": 45.70414,
+    "lon": 14.19064,
     "opposite": null,
     "agencies": [
       "1119"
