@@ -144218,6 +144218,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjg5NzQ",
+    "gtfs_id": "IJPP:1168974",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Senčak pri Juršincih HŠ 13a",
+    "lat": 46.5089936,
+    "lon": 16.0100718,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjg5OTY",
     "gtfs_id": "IJPP:1168996",
     "code": null,
