@@ -144053,6 +144053,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjg4NzM",
+    "gtfs_id": "IJPP:1168873",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Vodice K",
+    "lat": 46.1856402,
+    "lon": 14.4902436,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg4NzQ",
+    "gtfs_id": "IJPP:1168874",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Vodice K",
+    "lat": 46.1858493,
+    "lon": 14.490055,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjg5MzI",
     "gtfs_id": "IJPP:1168932",
     "code": null,
@@ -144218,6 +144248,21 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjg5Njk",
+    "gtfs_id": "IJPP:1168969",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Rakičan P+R",
+    "lat": 46.651747,
+    "lon": 16.188933,
+    "opposite": null,
+    "agencies": [
+      "1121"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjg5NzQ",
     "gtfs_id": "IJPP:1168974",
     "code": null,
@@ -144230,6 +144275,36 @@
     "opposite": null,
     "agencies": [
       "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg5ODU",
+    "gtfs_id": "IJPP:1168985",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Črenšovci OŠ",
+    "lat": 46.569072,
+    "lon": 16.296347,
+    "opposite": null,
+    "agencies": [
+      "1121"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg5ODY",
+    "gtfs_id": "IJPP:1168986",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Črenšovci OŠ",
+    "lat": 46.569142,
+    "lon": 16.296566,
+    "opposite": null,
+    "agencies": [
+      "1121"
     ]
   },
   {
@@ -144379,6 +144454,7 @@
     "lon": 16.149516,
     "opposite": null,
     "agencies": [
+      "1121",
       "1123"
     ]
   },
