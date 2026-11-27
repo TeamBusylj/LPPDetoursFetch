@@ -1,6 +1,15 @@
 {
   "detours": [
     {
+      "title": "Linija 21D ima obvoz",
+      "date": "27.11.2026",
+      "url": "https://www.lpp.si/obvoz/linija-21d-ima-obvoz-3/",
+      "lines": [
+        "21D"
+      ],
+      "contentHtml": "<p data-pm-slice=\"1 1 []\">Spoštovani potniki,</p>\n<p>obveščamo vas, da bo zaradi popolne prometne zapore na delu ceste Šentjakob–Ribče od petka, 27. 11. 2026, od 18.00 do predvidoma ponedeljka, 30. 11. 2026, do 5.00 oziroma do zaključka gradbenih del, linija 21D vozila po spremenjeni trasi.</p>\n<p><strong>Obvozna trasa:</strong></p>\n<ul>\n<li>Beričevo – Videm in naprej po redni trasi.</li>\n</ul>"
+    },
+    {
       "title": "Linija 60 ima obvoz",
       "date": "27.11.2026",
       "url": "https://www.lpp.si/obvoz/linija-60-ima-obvoz-4/",
@@ -79,6 +88,7 @@
     "16",
     "18",
     "18L",
+    "21D",
     "27",
     "60"
   ]
