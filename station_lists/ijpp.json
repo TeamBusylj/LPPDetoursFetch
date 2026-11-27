@@ -58221,6 +58221,66 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExMjc4MDE",
+    "gtfs_id": "IJPP:1127801",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Nedelica Ginjoc",
+    "lat": 46.6163728,
+    "lon": 16.3575379,
+    "opposite": null,
+    "agencies": [
+      "1121"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjc4MDI",
+    "gtfs_id": "IJPP:1127802",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Nedelica Ginjoc",
+    "lat": 46.6164844,
+    "lon": 16.3556589,
+    "opposite": null,
+    "agencies": [
+      "1121"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjc4MDM",
+    "gtfs_id": "IJPP:1127803",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Nedelica pokop.",
+    "lat": 46.6160553,
+    "lon": 16.3293178,
+    "opposite": null,
+    "agencies": [
+      "1121"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjc4MDQ",
+    "gtfs_id": "IJPP:1127804",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Nedelica pokop.",
+    "lat": 46.6160324,
+    "lon": 16.3275943,
+    "opposite": null,
+    "agencies": [
+      "1121"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExMjc4MDY",
     "gtfs_id": "IJPP:1127806",
     "code": null,
@@ -73925,6 +73985,21 @@
     "name": "Raka",
     "lat": 45.9284516,
     "lon": 15.3820222,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExMjkxNzc",
+    "gtfs_id": "IJPP:1129177",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Raka",
+    "lat": 45.9291578,
+    "lon": 15.3810601,
     "opposite": null,
     "agencies": [
       "1119"
@@ -144263,6 +144338,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjg5NzA",
+    "gtfs_id": "IJPP:1168970",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Hrastovlje K",
+    "lat": 45.5186941,
+    "lon": 13.8958234,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg5NzE",
+    "gtfs_id": "IJPP:1168971",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Hrastovlje K",
+    "lat": 45.5191476,
+    "lon": 13.8957893,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjg5NzQ",
     "gtfs_id": "IJPP:1168974",
     "code": null,
@@ -144308,6 +144413,36 @@
     ]
   },
   {
+    "id": "U3RvcDpJSlBQOjExNjg5OTA",
+    "gtfs_id": "IJPP:1168990",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Luže",
+    "lat": 46.268121,
+    "lon": 14.429514,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg5OTE",
+    "gtfs_id": "IJPP:1168991",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Luže",
+    "lat": 46.268077,
+    "lon": 14.429571,
+    "opposite": null,
+    "agencies": [
+      "1123"
+    ]
+  },
+  {
     "id": "U3RvcDpJSlBQOjExNjg5OTY",
     "gtfs_id": "IJPP:1168996",
     "code": null,
@@ -144317,6 +144452,81 @@
     "name": "Selce (Pivka) vas",
     "lat": 45.70414,
     "lon": 14.19064,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg5OTc",
+    "gtfs_id": "IJPP:1168997",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Tenetiše (Litija) HŠ 26",
+    "lat": 46.055145,
+    "lon": 14.858767,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg5OTg",
+    "gtfs_id": "IJPP:1168998",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Tenetiše (Litija) HŠ 26",
+    "lat": 46.054981,
+    "lon": 14.858982,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjg5OTk",
+    "gtfs_id": "IJPP:1168999",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Jesenovo Grobin",
+    "lat": 46.166627,
+    "lon": 14.970102,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjkwMDA",
+    "gtfs_id": "IJPP:1169000",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Trbovlje Bevško spodaj",
+    "lat": 46.136952,
+    "lon": 15.030611,
+    "opposite": null,
+    "agencies": [
+      "1119"
+    ]
+  },
+  {
+    "id": "U3RvcDpJSlBQOjExNjkwMDE",
+    "gtfs_id": "IJPP:1169001",
+    "code": null,
+    "type": "BUS",
+    "background_color": "#004E96",
+    "icon_color": "#FFFFFF",
+    "name": "Trbovlje Bevško spodaj",
+    "lat": 46.13666,
+    "lon": 15.030965,
     "opposite": null,
     "agencies": [
       "1119"
